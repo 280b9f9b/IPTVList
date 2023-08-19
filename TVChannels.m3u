@@ -16,9 +16,19 @@ https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/playlist.m
 #EXTINF:-1 group-title="Sports" tvg-id="AbuDhabiSports2.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu%20Dhabi%20Sports%202.jpg" ,Abu Dhabi Sports 2
 https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/playlist.m3u
 #EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Quran%20Kareem.jpg" ,Quran Kareem
-https://admdn7ta.cdn.mgmlcdn.com/quranrdo/quranrdo.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="Radio" audio-track="https://admdn7ta.cdn.mgmlcdn.com/emrdo/emrdo.stream_aac/playlist.m3u" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Emarat FM.jpg" ,Emarat FM
+https://admdn7ta.cdn.mgmlcdn.com/quranrdo/quranrdo.stream_aac/playlist.m3u
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Emarat FM.jpg" ,Emarat FM
 https://admdn7ta.cdn.mgmlcdn.com/emrdo/emrdo.stream_aac/playlist.m3u
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi FM.jpg" ,Abu Dhabi FM
+https://admdn7ta.cdn.mgmlcdn.com/adfmrdo/adfmrdo.stream_aac/playlist.m3u
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Star FM.jpg" ,Star FM
+https://admdn7ta.cdn.mgmlcdn.com/starrdo/starrdo.stream_aac/playlist.m3u
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi Classic FM.jpg" ,Abu Dhabi Classic FM
+https://admdn7ta.cdn.mgmlcdn.com/clasrdo/clasrdo.stream_aac/playlist.m3u
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KADAK FM.jpg" ,KADAK FM
+https://admdn7ta.cdn.mgmlcdn.com/mirchirdo/mirchirdo.stream_aac/playlist.m3u
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio 1.jpg" ,Radio 1
+https://admdn7ta.cdn.mgmlcdn.com/rdo1/rdo1.stream_aac/playlist.m3u
 #EXTINF:-1 group-title="General" tvg-id="DubaiTV.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai%20TV.jpg" ,Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-id="SamaDubai.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sama.jpg" ,Sama
@@ -41,3 +51,7 @@ https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playli
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religion" tvg-id="NoorDubai.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Noor%20Dubai%20TV.jpg" ,Noor Dubai TV
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Noor Dubai.jpg" ,Noor Dubai
+http://dmithrvll.cdn.mangomolo.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Radio.jpg" ,Dubai Radio
+https://dmithrvll.cdn.mangomolo.com/dubairdo/dubairdo_aac/chunklist.m3u8
