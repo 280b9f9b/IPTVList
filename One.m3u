@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="General" tvg-id="AbuDhabiAloula.ae" tvg-logo="https://github.com/280b9f9b/IPTVList/blob/b8beba13d05a833f1da849fbcffb56cf33685585/One/Abu%20Dhabi.jpg" ,Abu Dhabi
+#EXTINF:-1 group-title="General" tvg-id="AbuDhabiAloula.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Abu%20Dhabi.jpg" ,Abu Dhabi
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-id="AbuDhabiEmirates.ae" tvg-logo="https://i.imgur.com/OT6DW3E.png" ,Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
