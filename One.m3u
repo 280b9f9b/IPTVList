@@ -1,39 +1,39 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="General" tvg-id="AbuDhabiAloula.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Abu%20Dhabi.jpg" ,Abu Dhabi
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-id="AbuDhabiEmirates.ae" tvg-logo="https://i.imgur.com/OT6DW3E.png" ,Emirates
+#EXTINF:-1 group-title="General" tvg-id="AbuDhabiEmirates.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Emirates.jpg" ,Emirates
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/SvjU4h6.png" ,Sky News Arabia
+#EXTINF:-1 group-title="News" tvg-id="SkyNewsArabia.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Sky%20News%20Arabia.jpg" ,Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" ,NG Abu Dhabi
+#EXTINF:-1 group-title="Documentary" tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/NG%20Abu%20Dhabi.jpg" ,NG Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" ,Majid TV
+#EXTINF:-1 group-title="Kids" tvg-id="Majid.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Majid%20TV.jpg" ,Majid TV
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="Yas.ae" ,Yas
+#EXTINF:-1 group-title="Sports" tvg-id="Yas.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Yas.jpg" ,Yas
 https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/playlist.m3u
-#EXTINF:-1 group-title="Sports" tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" ,Abu Dhabi Sports 1
+#EXTINF:-1 group-title="Sports" tvg-id="AbuDhabiSports1.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Abu%20Dhabi%20Sports%201.jpg" ,Abu Dhabi Sports 1
 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/playlist.m3u
-#EXTINF:-1 group-title="Sports" tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" ,Abu Dhabi Sports 2
+#EXTINF:-1 group-title="Sports" tvg-id="AbuDhabiSports2.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Abu%20Dhabi%20Sports%202.jpg" ,Abu Dhabi Sports 2
 https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/playlist.m3u
-#EXTINF:-1 group-title="General" tvg-id="DubaiTV.ae" tvg-logo="https://i.imgur.com/wZMkKF7.png" ,Dubai TV
+#EXTINF:-1 group-title="General" tvg-id="DubaiTV.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Dubai%20TV.jpg" ,Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-id="SamaDubai.ae" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" ,Sama
+#EXTINF:-1 group-title="General" tvg-id="SamaDubai.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Sama.jpg" ,Sama
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Classic" tvg-id="DubaiZaman.ae" tvg-logo="https://i.imgur.com/5Q5qMzP.png" ,Dubai Zamaan
+#EXTINF:-1 group-title="Classic" tvg-id="DubaiZaman.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Dubai%20Zamaan.jpg" ,Dubai Zamaan
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" ,Dubai Sports 1
+#EXTINF:-1 group-title="Sports" tvg-id="DubaiSports1.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Dubai%20Sports%201.jpg" ,Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u
-#EXTINF:-1 group-title="Sports" tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" ,Dubai Sports 2
+#EXTINF:-1 group-title="Sports" tvg-id="DubaiSports2.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Dubai%20Sports%202.jpg" ,Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u
-#EXTINF:-1 group-title="Sports" tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" ,Dubai Sports 3
+#EXTINF:-1 group-title="Sports" tvg-id="DubaiSports3.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Dubai%20Sports%203.jpg" ,Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/playlist.m3u
-#EXTINF:-1 group-title="Sports" tvg-id="DubaiRacing.ae" tvg-logo="https://i.imgur.com/BpcV8jS.png" ,Dubai Racing 1
+#EXTINF:-1 group-title="Sports" tvg-id="DubaiRacing.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Dubai%20Racing%201.jpg" ,Dubai Racing 1
 https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png" ,Dubai Racing 2
+#EXTINF:-1 group-title="Sports" tvg-id="DubaiRacing2.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Dubai%20Racing%202.jpg" ,Dubai Racing 2
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/Vg4fxmc.png" ,Dubai Racing 3
+#EXTINF:-1 group-title="Sports" tvg-id="DubaiRacing3.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Dubai%20Racing%203.jpg" ,Dubai Racing 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/Dj16oKL.png" ,OneTV
+#EXTINF:-1 group-title="General" tvg-id="DubaiOne.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/OneTV.jpg" ,OneTV
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Religion" tvg-id="NoorDubai.ae" tvg-logo="https://i.imgur.com/DLe7ZuM.png" ,Noor Dubai
+#EXTINF:-1 group-title="Religion" tvg-id="NoorDubai.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/b8beba13d05a833f1da849fbcffb56cf33685585/One/Noor%20Dubai%20TV.jpg" ,Noor Dubai
 http://dmithrvll.cdn.mangomolo.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
