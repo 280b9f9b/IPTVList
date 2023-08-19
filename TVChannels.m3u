@@ -1,9 +1,14 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi.jpg" ,Abu Dhabi https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="Emirates.jpg" ,Emirates https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="Sky News Arabia.jpg" ,Sky News Arabia https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="NG Abu Dhabi.jpg" ,NG Abu Dhabi https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="Majid TV.jpg" ,Majid TV https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi.jpg" ,Abu Dhabi 
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="Emirates.jpg" ,Emirates 
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="Sky News Arabia.jpg" ,Sky News Arabia 
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="NG Abu Dhabi.jpg" ,NG Abu Dhabi 
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="Majid TV.jpg" ,Majid TV 
+https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="Yas.jpg" ,Yas https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/playlist.m3u
 #EXTINF:-1 group-title="Sports" tvg-logo="Abu Dhabi Sports 1.jpg" ,Abu Dhabi Sports 1 https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/playlist.m3u
 #EXTINF:-1 group-title="Sports" tvg-logo="Abu Dhabi Sports 2.jpg" ,Abu Dhabi Sports 2 https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/playlist.m3u
