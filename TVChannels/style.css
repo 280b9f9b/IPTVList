@@ -1,0 +1,72 @@
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: rgb(35, 35, 35);
+  }
+  
+  h1 {
+	margin: 20px;
+	text-align: center;
+   color: white;
+   font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+   font-size: 12px;
+   width: 100px;
+
+  }
+  
+  p1 {
+	margin: 20px;
+	text-align: center;
+   color: white;
+   font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+   font-size: 12px;
+   width: 100px;
+
+  }
+
+  #channel-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: stretch;
+  }
+  
+  .channel-card {
+	display: inline-block;
+   padding: 8px;
+   vertical-align: top;
+   position: relative;
+  }
+  
+  .channel-card img {
+	width: 100px;
+   height: 100px;
+   border-radius: 5% !important;
+  }
+  
+  .channel-card a {
+	flex-grow: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+  }
+  
+  .channel-card h2 {
+	text-align: center;
+   color: white;
+   font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+   font-size: 12px;
+   width: 100px;
+  }
+  
+  .channel-card p {
+	text-align: center;
+   color: white;
+   font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+   font-size: 12px;
+   width: 100px;
+  }
+  
