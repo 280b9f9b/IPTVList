@@ -2,6 +2,8 @@
 
 [IPTVList](https://280b9f9b.github.io/IPTVList/)
 
+[IPTVorg](https://280b9f9b.github.io/IPTVList/indexorg.html)
+
 [Arabic](https://280b9f9b.github.io/IPTVList/List/Arabic.html)
 
 [Arab world](https://280b9f9b.github.io/IPTVList/List/Arab%20world.html)
@@ -11,7 +13,7 @@
 [United Kingdom](https://280b9f9b.github.io/IPTVList/List/United%20Kingdom.html)
 
 
-[IPTVorg](https://280b9f9b.github.io/IPTVList/indexorg.html)
+
 
 
 https://2cm.es/swr8
