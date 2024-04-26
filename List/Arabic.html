@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <!-- Meta Tags -->
+      <meta charset="UTF-8">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+      <link rel="apple-touch-icon" href="img/TVChannels.png">
+      <!-- Stylesheets -->
+      <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet">
+      <!-- Polyfills and Libraries -->
+      <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+      <script src="https://code.jquery.com/jquery-3.7.1.min.js" crossorigin="anonymous"></script> <!-- Custom Styles -->
+      <style>
+         * {
+         margin: 0;
+         padding: 0;
+         box-sizing: border-box;
+         }
+         body {
+         font-family: Arial, sans-serif;
+         background-color: #1c1c1c;
+         color: #fff;
+         }
+         header {
+         position: fixed;
+         top: 0;
+         left: 0;
+         width: 100%;
+         background-color: #333;
+         color: #fff;
+         padding: 10px;
+         z-index: 1000;
+         }
+         header h1 {
+         font-size: 18px;
+         margin: 0;
+         }
+         #channel-container {
+         display: inline-block;
+         vertical-align: top;
+         position: relative;
+         margin-top: 100px;
+         }
+         #container {
+         display: flex;
+         flex-wrap: wrap;
+         justify-content: center;
+         list-style: none;
+         }
+         .channel-card {
+         padding: 8px;
+         vertical-align: top;
+         }
+         .channel-card img {
+         width: 100px;
+         height: 100px;
+         border-radius: 5%;
+         }
+         .channel-card h2 {
+         text-align: center;
+         color: white;
+         font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
+         font-size: 12px;
+         width: 100px;
+         }
+         .channel-card p {
+         text-align: center;
+         color: lightgrey;
+         font-size: 10px;
+         }
+         #filter-dropdown {
+         position: fixed;
+         top: 50px;
+         right: 20px;
+         z-index: 1000;
+         }
+         #core-controls,
+         #controls {
+         display: flex;
+         align-items: center;
+         margin-top: 10px;
+         }
+         #core-controls label,
+         #controls label {
+         margin-right: 10px;
+         }
+         #core-controls select,
+         #controls input[type="text"],
+         #controls select {
+         padding: 5px;
+         font-size: 12px;
+         border-radius: 5px;
+         border: none;
+         background-color: #2c2c2c;
+         color: #fff;
+         width: 200px;
+         height: 20px;
+         }
+      </style>
+   </head>
+   <body>
+      <!-- Header -->
+      <header>
+         <h1>TV Channels...</h1>
+         <div id="controls">
+            <select id="group-title-filter">
+               <option value="">All</option>
+            </select>
+            &nbsp;&nbsp;
+            <input type="text" id="search-input" placeholder="Enter a keyword">
+         </div>
+      </header>
+      <!-- The element where the channel list -->
+      <div id="channel-container">
+         <ul id="container"></ul>
+      </div>
+      <!-- Scripts -->
+      <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+      <script>
+         let channels = []; // Initialize channels array
+         
+         // Fetch channel list via AJAX request
+         $.ajax({
+             type: "GET",
+             url: 'https://iptv-org.github.io/iptv/languages/ara.m3u',
+             success: function (message, text, response) {
+                 let str = message;
+                 let array = str.split("\n");
+                 channels = [];
+         
+                 // Parse channel list
+                 array.forEach(function (line) {
+                     if (line.startsWith("#EXTINF:")) {
+                         let tvgLogo = line.match(/tvg-logo="([^"]+)"/);
+                         let groupTitle = line.match(/group-title="([^"]+)"/);
+                         if (tvgLogo && tvgLogo.length > 1) {
+                             let channel = {
+                                 name: line.split(",")[1], // Using Name instead of name
+                                 groupTitle: groupTitle ? groupTitle[1] : "", // Extract group-title if available
+                                 url: "",
+                                 image: tvgLogo[1] // Use the tvg-logo attribute directly as the image URL
+                             };
+                             channels.push(channel);
+                         }
+                     } else if (line.startsWith("http")) {
+                         channels[channels.length - 1].url = line;
+                     }
+                 });
+         
+                 // Render channels initially
+                 renderChannels(channels);
+                 
+                 // Populate filter dropdown with unique group titles
+                 const uniqueGroupTitles = [...new Set(channels.map(channel => channel.groupTitle))];
+                 const dropdown = $("#group-title-filter");
+                 uniqueGroupTitles.forEach(title => {
+                     dropdown.append(`<option value="${title}">${title}</option>`);
+                 });
+             },
+             error: function (xhr, status, error) {
+                 console.error("Error fetching channel list:", error);
+             }
+         });
+         
+         // Function to filter channels based on search input and group title
+         function filterChannels(searchText, groupTitle) {
+             const filteredChannels = channels.filter(channel => {
+                 const nameMatch = channel.name.toLowerCase().includes(searchText.toLowerCase());
+                 const groupTitleMatch = groupTitle === "" || channel.groupTitle.toLowerCase() === groupTitle.toLowerCase();
+                 return nameMatch && groupTitleMatch;
+             });
+             renderChannels(filteredChannels);
+         }
+         
+         // Event listener for search input
+         $(document).ready(function () {
+             $("#search-input").on('input', function () {
+                 const searchText = $(this).val();
+                 const groupTitle = $("#group-title-filter").val();
+                 filterChannels(searchText, groupTitle);
+             });
+             
+             // Event listener for filter dropdown change
+             $("#group-title-filter").on('change', function () {
+                 const groupTitle = $(this).val();
+                 const searchText = $("#search-input").val();
+                 filterChannels(searchText, groupTitle);
+             });
+         });
+         
+         // Function to render channels
+         function renderChannels(channels) {
+             // Clear previous channels
+             $("#container").empty();
+         
+             // Append channels to the container
+             channels.forEach(function (channel) {
+                 let card = $("<div class='channel-card'><a href='" + channel.url + "'><img src='" + channel.image + "'></a><h2>" + channel.name + "</h2><p>" + channel.groupTitle + "</p></div>");
+         
+                 // Check if the m3u link is dead
+                 fetch(channel.url)
+                     .then(response => {
+                         if (!response.ok) {
+                             card.find("img").css("opacity", "0.1");
+                             card.find("h2").css("color", "red");
+                         }
+                     })
+                     .catch(error => console.error("Error checking m3u link:", error));
+         
+                 $("#container").append("<li data-url='" + channel.url + "'></li>").find("li").last().append(card);
+             });
+         }
+      </script>
+   </body>
+</html>
