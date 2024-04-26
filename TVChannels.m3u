@@ -26,7 +26,7 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Wousta TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Wousta TV.jpg" group-title="General",Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Dafrah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dafrah TV.jpg" group-title="General",Al Dafrah TV
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist_b4628000.m3u8?p=79&s=1683219150&e=1683219270&h=e6584f2083ff2e51339b08334785681a
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/ABR1080v1/streams/0d7285a5-5bd0-19f1-e736-d8e5018a3a28_1080p2500kbps.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Hayat TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Hayat TV.jpg" group-title="General",Al Hayat TV
 https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hawas TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Hawas TV.jpg" group-title="General",Hawas TV
