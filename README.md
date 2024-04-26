@@ -4,6 +4,8 @@
 
 [Arabic](https://280b9f9b.github.io/IPTVList/List/Arabic.html)
 
+[Arab world](https://280b9f9b.github.io/IPTVList/List/Arab%20world.html)
+
 [IPTVorg](https://280b9f9b.github.io/IPTVList/indexorg.html)
 
 
