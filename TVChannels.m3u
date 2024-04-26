@@ -14,7 +14,7 @@ https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Nawaem" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Nawaem.jpg" group-title="General",Weyyak Nawaem
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ajman TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ajman TV.jpg" group-title="General",Ajman TV
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/8eb0e912b49142d7a01d779c9374aba9/chunklist_b4192000.m3u8?p=79&s=1682004140&e=1682004260&h=93adc778bd44824fe4ceaf421030524b
+https://cdn.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baynounah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Baynounah TV.jpg" group-title="General",Baynounah TV
 https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah TV.jpg" group-title="General",Sharjah TV
