@@ -376,6 +376,23 @@
 			        });
 			    }
 			
+				$(document).ready(function () {
+			 // Other code...
+			
+			 // Event listener for clicking on a channel
+			 $("#container").on('click', 'li', function () {
+			     // Get the name of the channel from the clicked <li> element
+			     var channelName = $(this).find('h2').text();
+			
+			     // Update the title of the webpage to the name of the channel
+			     document.title = channelName;
+			
+			     // Other code...
+			 });
+			
+			 // Other code...
+			});
+			
 			    // Function to filter channels based on search input and group title
 			    function filterChannels(searchText, groupTitle) {
 			        const filteredChannels = channels.filter(channel => {
