@@ -21,3 +21,7 @@
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
+   
+   ```sh
+   npm install
+   ```
