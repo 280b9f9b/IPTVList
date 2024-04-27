@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://280b9f9b.github.io/IPTVList/">
-    <img src="https://htmlcolorcodes.com/assets/images/colors/black-color-solid-background-1920x1080.png" alt="Logo" width="80" height="80">
+    <img src="https://280b9f9b.github.io/IPTV/Resource/main.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">IPTVList</h3>
