@@ -381,7 +381,5 @@ https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Watan TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Watan TV.jpg" group-title="EG",Watan TV
 https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nogoum FM TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Nogoum%20FM%20TV.jpg" group-title="EG",Watan TV
-https://nogoumtv.nrpstream.com/hls/stream.m3u8
 
 
