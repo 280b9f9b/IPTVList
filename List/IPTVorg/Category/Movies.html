@@ -1,0 +1,26 @@
+<!DOCTYPE html><html lang="en">
+<head><meta charset="utf-8"><meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="apple-touch-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk2uEab4binHB37cMrmn6Q_mS5F3r2T22tfYqNJa0A3EMbd8EZ4J0EhSI8QQhSCcYFelE&usqp=CAU">
+<title>ae</title><link rel="stylesheet" href="app.css">
+</head><body class="IPTVBody">
+<div id="app"></div>
+<script>
+//Load JSON Files (JavaScript)
+fetch('page.json')
+.then(function (response) {return response.json();})
+.then(function (data) {appendData(data);})
+.catch(function (err) {console.log('error: ' + err);});
+
+//Display JSON Data
+function IPTVTemplate(iptv) {return `
+<div class="IPTVBox"><a href="${iptv.datach[0]}"><img class="IPTVCover" src="${iptv.datach[2]}"></a>
+<h2 class="IPTVText">${iptv.datach[1]}</h2></div>`;}
+
+//Display JSON Data
+function appendData(data) {
+var mainContainer = document.getElementById("app").innerHTML = `
+<h1 class="IPTVHeader">IPTV Page (${data.length})</h1>
+${data.map(IPTVTemplate).join("")}
+<p class="IPTVFooter">These ${data.length} Pages were added recently. Check back soon for updates.</p>`;}
+</script></body></html>
