@@ -10,21 +10,10 @@
 
 [IPTVList](https://280b9f9b.github.io/IPTVList/)
    ```
-   npm install
+   https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels.m3u
    ```
 
 <!-- GETTING STARTED -->
 ## IPTVorg [IPTVorg](https://github.com/iptv-org/iptv)
 
 [Main playlist](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Main%20playlist.html) &nbsp;&nbsp; [Grouped by category](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Grouped%20by%20category.html) &nbsp;&nbsp; [Grouped by language](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Grouped%20by%20language.html) &nbsp;&nbsp; [Grouped by country](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Grouped%20by%20country.html) &nbsp;&nbsp; [Grouped by region](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Grouped%20by%20region.html)
-
-
-
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-   
-   ```sh
-   npm install
-   ```
