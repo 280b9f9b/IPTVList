@@ -2,19 +2,24 @@
 
 [IPTVList](https://280b9f9b.github.io/IPTVList/)
 
-[IPTVorg](https://280b9f9b.github.io/IPTVList/indexorg.html)
-
-[oooo](https://280b9f9b.github.io/IPTVList/List/Nilesat.html)
 
 
-[oooo](https://280b9f9b.github.io/IPTVList/List/France.html)
 
 
-[oooo](https://280b9f9b.github.io/IPTVList/List/Arab%20world.html)
+[Main playlist](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Main%20playlist.html)
 
-[oooo](https://280b9f9b.github.io/IPTVList/List/United%20States.html)
+[Grouped by category](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Grouped%20by%20category.html)
 
-[oooo](https://280b9f9b.github.io/IPTVList/List/United%20Kingdom.html)
+[Grouped by language](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Grouped%20by%20language.html)
+
+[Grouped by country](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Grouped%20by%20country.html)
+
+[Grouped by region](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Grouped%20by%20region.html)
+
+
+
+
+
 
 
 
