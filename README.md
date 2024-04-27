@@ -20,4 +20,4 @@
 
 <!-- GETTING STARTED -->
 ## Grouped by Category
-[Music](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Category/Music.html) &nbsp;&nbsp; [Movies](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Category/Movies.html) &nbsp;&nbsp; [Series](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Category/Series.html) &nbsp;&nbsp; [News](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Category/News.html)
+[Music](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Category/Music.html) &nbsp;&nbsp; [Movies](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Category/Movies.html) &nbsp;&nbsp; [Series](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Category/Series.html) &nbsp;&nbsp; [News](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Category/News.html) &nbsp;&nbsp; [Sports](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Category/Sports.html)
