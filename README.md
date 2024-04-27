@@ -20,4 +20,4 @@
 
 <!-- GETTING STARTED -->
 ## Grouped by Category
-[Music](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Category/Music.html)
+[Music](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Category/Music.html) &nbsp;&nbsp; [Movies](https://280b9f9b.github.io/IPTVList/List/IPTVorg/Category/Movies.html)
