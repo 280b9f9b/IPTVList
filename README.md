@@ -17,4 +17,7 @@
 
 
 
-* [![Next][Next.js]][Next-url]
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
