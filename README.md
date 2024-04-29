@@ -10,7 +10,7 @@
 
 [IPTVList](https://280b9f9b.github.io/IPTVList/)
 
-[Radio](https://280b9f9b.github.io/Radio/)
+[Radio](https://280b9f9b.github.io/IpTVList/Radio/)
    ```
    https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels.m3u
    ```
