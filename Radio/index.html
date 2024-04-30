@@ -275,15 +275,20 @@
 			// Function to filter channels based on search keyword
 			function filterChannels(keyword) {
 			 const allContainers = document.querySelectorAll('.channel-container');
+			 let visibleCount = 0; // Initialize a variable to count visible channels
 			 allContainers.forEach(container => {
 			     const titleElement = container.querySelector('h2');
 			     const titleText = titleElement.textContent.toLowerCase();
 			     if (titleText.includes(keyword.toLowerCase())) {
 			         container.style.display = 'block'; // Show the channel if it matches the keyword
+			         visibleCount++; // Increment the visible channel count
 			     } else {
 			         container.style.display = 'none'; // Hide the channel if it doesn't match the keyword
 			     }
 			 });
+			
+			 // Update total channels count with the visible count
+			 document.getElementById('total-channels').textContent = `${visibleCount}`;
 			}
 			
 			// Call the function to fetch data when the page loads
