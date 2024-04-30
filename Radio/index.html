@@ -64,9 +64,10 @@
 			.channel-card h2 {
 			text-align: center;
 			color: white;
-			font-family: ui-			monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
+			font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
 			font-size: 12px;
 			width: 100px;
+			text-decoration: none; /* Add this line to remove underline */
 			}
 			.channel-card p {
 			text-align: center;
@@ -157,130 +158,132 @@
 		<script>
 			// Function to fetch data from the URL and populate the list
 			async function fetchData() {
-			const response = await fetch('https://raw.githubusercontent.com/junguler/listen_to_raddio.net/main/things/arabic.html');
-			const text = await response.text();
-			
-			// Extract titles and links from the text
-			const regex = /{metaData:{title:"(.*?)".*?url:"(.*?)"/g;
-			let match;
-			const radioList = document.getElementById('radioList');
-			const flexContainer = document.createElement('div');
-			flexContainer.classList.add('flex-container');
-			flexContainer.style.display = 'flex'; // Set display to flex
-			flexContainer.style.flexDirection = 'row'; // Set flex direction to row
-			flexContainer.style.flexWrap = 'wrap'; // Set flex wrap to wrap
-			flexContainer.style.justifyContent = 'center'; // Center the content horizontally
-			flexContainer.style.padding = '5px'; // Add padding around the flex container
-			const channels = []; // Array to store channels
-			while ((match = regex.exec(text)) !== null) {
-			const title = match[1];
-			const link = match[2];
-			channels.push({ title, link }); // Push channel to channels array
-			
-			// Create container for each channel
-			const channelContainer = document.createElement('div');
-			channelContainer.classList.add('channel-container');
-			channelContainer.style.display = 'flex'; // Set display to flex
-			channelContainer.style.flexDirection = 'column'; // Set flex direction to column
-			channelContainer.style.margin = '10px'; // Add margin between channels
-			
-			// Create image element
-			const imageElement = document.createElement('img');
-			imageElement.src = `covers/${title}.jpg`; // Assuming all images are in JPEG format
-			imageElement.onerror = function() {
-			    this.src = 'https://raw.githubusercontent.com/280b9f9b/IPTVList/main/Radio/Radio.JPG';
-			};
-			imageElement.alt = title; // Set alt attribute for accessibility
-			imageElement.classList.add('channel-image'); // Add a class for styling
-			// Apply inline styles to image element
-			imageElement.style.width = '100px';
-			imageElement.style.height = '100px';
-			imageElement.style.borderRadius = '5%';
-			imageElement.style.backgroundColor = '#dadbdd';
-			
-			channelContainer.appendChild(imageElement);
-			
-			// Create title element
-			const titleElement = document.createElement('h2');
-			titleElement.textContent = title;
-			// Apply inline styles to title element
-			titleElement.style.textAlign = 'center';
-			titleElement.style.color = 'white';
-			titleElement.style.fontFamily = 'ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace';
-			titleElement.style.fontSize = '12px';
-			titleElement.style.width = '100px';
-			
-			channelContainer.appendChild(titleElement);
-			
-			// Create link element
-			const linkElement = document.createElement('a');
-			linkElement.href = link;
-			linkElement.appendChild(channelContainer);
-			
-			// Add click event listener to play the radio when clicked
-			linkElement.addEventListener('click', function(event) {
-			    event.preventDefault(); // Prevent default action of anchor tag
-			    playRadio(link, title); // Play the radio when clicked
-			    // Bold the clicked title
-			    const allTitles = document.querySelectorAll('.channel-container h2');
-			    allTitles.forEach(title => {
-			        title.style.fontWeight = 'normal'; // Reset all titles to normal
-			    });
-			    titleElement.style.fontWeight = 'bold'; // Bold the clicked title
-			    // Remove red border from previously selected image
-			    const allImages = document.querySelectorAll('.channel-image');
-			    allImages.forEach(image => {
-			        image.style.border = 'none'; // Reset all borders to none
-			    });
-			    // Add red border to the clicked image
-			    imageElement.style.border = '2px solid red';
-			});
-			
-			flexContainer.appendChild(linkElement);
-			}
-			
-			// Append the flex container to the radio list
-			radioList.appendChild(flexContainer);
-			
-			// Update total channels count
-			updateTotalChannelsCount(channels);
+			 const response = await fetch('https://raw.githubusercontent.com/junguler/listen_to_raddio.net/main/things/arabic.html');
+			 const text = await response.text();
+			 
+			 // Extract titles and links from the text
+			 const regex = /{metaData:{title:"(.*?)".*?url:"(.*?)"/g;
+			 let match;
+			 const radioList = document.getElementById('radioList');
+			 const flexContainer = document.createElement('div');
+			 flexContainer.classList.add('flex-container');
+			 flexContainer.style.display = 'flex'; // Set display to flex
+			 flexContainer.style.flexDirection = 'row'; // Set flex direction to row
+			 flexContainer.style.flexWrap = 'wrap'; // Set flex wrap to wrap
+			 flexContainer.style.justifyContent = 'center'; // Center the content horizontally
+			 flexContainer.style.padding = '5px'; // Add padding around the flex container
+			 const channels = []; // Array to store channels
+			 while ((match = regex.exec(text)) !== null) {
+			     const title = match[1];
+			     const link = match[2];
+			     channels.push({ title, link }); // Push channel to channels array
+			     
+			     // Create container for each channel
+			     const channelContainer = document.createElement('div');
+			     channelContainer.classList.add('channel-container');
+			     channelContainer.style.display = 'flex'; // Set display to flex
+			     channelContainer.style.flexDirection = 'column'; // Set flex direction to column
+			     channelContainer.style.margin = '10px'; // Add margin between channels
+			     
+			     // Create link element
+			     const linkElement = document.createElement('a');
+			     linkElement.href = link;
+			     linkElement.style.textDecoration = 'none'; // Remove underline
+			     
+			     // Create image element
+			     const imageElement = document.createElement('img');
+			     imageElement.src = `covers/${title}.jpg`; // Assuming all images are in JPEG format
+			     imageElement.onerror = function() {
+			         this.src = 'https://raw.githubusercontent.com/280b9f9b/IPTVList/main/Radio/Radio.JPG';
+			     };
+			     imageElement.alt = title; // Set alt attribute for accessibility
+			     imageElement.classList.add('channel-image'); // Add a class for styling
+			     // Apply inline styles to image element
+			     imageElement.style.width = '100px';
+			     imageElement.style.height = '100px';
+			     imageElement.style.borderRadius = '5%';
+			     imageElement.style.backgroundColor = '#dadbdd';
+			     
+			     // Add click event listener to the image to play the radio when clicked
+			     imageElement.addEventListener('click', function(event) {
+			         event.preventDefault(); // Prevent default action of anchor tag
+			         playRadio(link, title); // Play the radio when clicked
+			         // Bold the clicked title
+			         const allTitles = document.querySelectorAll('.channel-container h2');
+			         allTitles.forEach(title => {
+			             title.style.fontWeight = 'normal'; // Reset all titles to normal
+			         });
+			         titleElement.style.fontWeight = 'bold'; // Bold the clicked title
+			         // Remove red border from previously selected image
+			         const allImages = document.querySelectorAll('.channel-image');
+			         allImages.forEach(image => {
+			             image.style.border = 'none'; // Reset all borders to none
+			         });
+			         // Add red border to the clicked image
+			         imageElement.style.border = '2px solid red';
+			     });
+			     
+			     linkElement.appendChild(imageElement);
+			     channelContainer.appendChild(linkElement);
+			     
+			     // Create title element
+			     const titleElement = document.createElement('h2');
+			     titleElement.textContent = title;
+			     // Apply inline styles to title element
+			     titleElement.style.textAlign = 'center';
+			     titleElement.style.color = 'white';
+			     titleElement.style.fontFamily = 'ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace';
+			     titleElement.style.fontSize = '12px';
+			     titleElement.style.width = '100px';
+			     titleElement.style.textDecoration = 'none'; // Remove underline
+			     titleElement.style.userSelect = 'text'; // Allow title to be selected and copied
+			     channelContainer.appendChild(titleElement);
+			     
+			     flexContainer.appendChild(channelContainer);
+			 }
+			 
+			 // Append the flex container to the radio list
+			 radioList.appendChild(flexContainer);
+			 
+			 // Update total channels count
+			 updateTotalChannelsCount(channels);
 			}
 			
 			// Function to update total channels count
 			function updateTotalChannelsCount(channels) {
-			document.getElementById('total-channels').textContent = `${channels.length}`;
+			 document.getElementById('total-channels').textContent = `${channels.length}`;
 			}
 			
 			// Function to play the radio
 			function playRadio(channelUrl, channelTitle) {
-			// Update document title to the channel title
-			document.title = channelTitle;
-			
-			// Create a video player instance
-			var player = videojs(document.querySelector('#my-video'));
-			
-			// Set the video source and type
-			player.src({
-			src: channelUrl,
-			type: 'application/x-mpegURL'
-			});
-			
-			// Start playing the video
-			player.play();
+			 // Update document title to the channel title
+			 document.title = channelTitle;
+			 
+			 // Create a video player instance
+			 var player = videojs(document.querySelector('#my-video'));
+			 
+			 // Set the video source and type
+			 player.src({
+			     src: channelUrl,
+			     type: 'application/x-mpegURL'
+			 });
+			 
+			 // Start playing the video
+			 player.play();
 			}
 			
 			// Function to filter channels based on search keyword
 			function filterChannels(keyword) {
-			const allTitles = document.querySelectorAll('.channel-container h2');
-			allTitles.forEach(title => {
-			const channelContainer = title.parentElement;
-			const titleText = title.textContent.toLowerCase();
-			if (titleText.includes(keyword.toLowerCase())) {
-			    channelContainer.style.display = 'block'; // Show the channel if it matches the keyword
-			} else {
-			    channelContainer.style.display = 'none'; // Hide the channel if it doesn't match the keyword
-			}
-			});
+			 const allContainers = document.querySelectorAll('.channel-container');
+			 allContainers.forEach(container => {
+			     const titleElement = container.querySelector('h2');
+			     const titleText = titleElement.textContent.toLowerCase();
+			     if (titleText.includes(keyword.toLowerCase())) {
+			         container.style.display = 'block'; // Show the channel if it matches the keyword
+			     } else {
+			         container.style.display = 'none'; // Hide the channel if it doesn't match the keyword
+			     }
+			 });
 			}
 			
 			// Call the function to fetch data when the page loads
@@ -289,7 +292,7 @@
 			// Add event listener to search input field
 			const searchInput = document.getElementById('search-input');
 			searchInput.addEventListener('input', function() {
-			filterChannels(searchInput.value);
+			 filterChannels(searchInput.value);
 			});
 		</script>
 	</body>
