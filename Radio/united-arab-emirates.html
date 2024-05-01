@@ -202,7 +202,7 @@ async function fetchData() {
         imageElement.style.backgroundColor = '#dadbdd';
 
         // Load image with different formats
-        const supportedFormats = ['jpg', 'jpeg', 'png', 'webp'];
+        const supportedFormats = ['jpg', 'jpeg', 'png', 'webp', 'JPG', 'JPEG', 'PNG', 'WEBP'];
         let foundImage = false;
         for (const format of supportedFormats) {
             const imageUrl = `covers/${title}.${format}`;
@@ -327,6 +327,7 @@ const searchInput = document.getElementById('search-input');
 searchInput.addEventListener('input', function() {
     filterChannels(searchInput.value);
 });
+
 		</script>
 	</body>
 </html>
