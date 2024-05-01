@@ -173,6 +173,7 @@ async function fetchData() {
     flexContainer.style.justifyContent = 'center'; // Center the content horizontally
     flexContainer.style.padding = '5px'; // Add padding around the flex container
     const channels = []; // Array to store channels
+    const imageLoadPromises = []; // Array to store image loading promises
     while ((match = regex.exec(text)) !== null) {
         const title = match[1];
         const link = match[2];
@@ -201,15 +202,18 @@ async function fetchData() {
         imageElement.style.backgroundColor = '#dadbdd';
 
         // Load image with different formats
-        const supportedFormats = ['jpg', 'jpeg', 'png', 'webp', 'JPG', 'JPEG', 'PNG', 'WEBP'];
+        const supportedFormats = ['jpg', 'jpeg', 'png', 'webp'];
         let foundImage = false;
         for (const format of supportedFormats) {
             const imageUrl = `covers/${title}.${format}`;
-            if (await imageExists(imageUrl)) {
-                imageElement.src = imageUrl;
-                foundImage = true;
-                break;
-            }
+            const imagePromise = imageExists(imageUrl);
+            imageLoadPromises.push(imagePromise);
+            imagePromise.then(imageExists => {
+                if (imageExists && !foundImage) {
+                    imageElement.src = imageUrl;
+                    foundImage = true;
+                }
+            });
         }
         if (!foundImage) {
             imageElement.src = 'https://raw.githubusercontent.com/280b9f9b/IPTVList/main/Radio/Radio.JPG';
@@ -255,6 +259,9 @@ async function fetchData() {
 
     // Append the flex container to the radio list
     radioList.appendChild(flexContainer);
+
+    // Wait for all images to load before resolving
+    await Promise.all(imageLoadPromises);
 
     // Update total channels count
     updateTotalChannelsCount(channels);
