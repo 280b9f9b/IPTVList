@@ -10,7 +10,7 @@
 
 [IPTVList](https://280b9f9b.github.io/IPTVList/)
 
-## Radio [IPTVorg](https://github.com/iptv-org/iptv)
+## Radio [listen_to_raddio.net](https://github.com/junguler/listen_to_raddio.net/tree/main?tab=readme-ov-file))
 
 [UAE](https://280b9f9b.github.io/IPTVList/Radio/united-arab-emirates.html) &nbsp;&nbsp; [00s-music](https://280b9f9b.github.io/IPTVList/Radio/00s-music.html)
 
