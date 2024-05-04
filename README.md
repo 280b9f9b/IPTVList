@@ -17,7 +17,7 @@
 ## Radio 
 ###### [listen_to_raddio.net](https://github.com/junguler/listen_to_raddio.net/tree/main?tab=readme-ov-file)
 
-[UAE](https://280b9f9b.github.io/IPTVList/Radio/united-arab-emirates.html) &nbsp;&nbsp; [00s-music](https://280b9f9b.github.io/IPTVList/Radio/00s-music.html) &nbsp;&nbsp; [90s](https://280b9f9b.github.io/IPTVList/Radio/90s.html) &nbsp;&nbsp; [80s](https://280b9f9b.github.io/IPTVList/Radio/80s.html) &nbsp;&nbsp; [70s](https://280b9f9b.github.io/IPTVList/Radio/70s.html) &nbsp;&nbsp; [60s-music](https://280b9f9b.github.io/IPTVList/Radio/60s-music.html) &nbsp;&nbsp; [50s-music](https://280b9f9b.github.io/IPTVList/Radio/50s-music.html)
+[UAE](https://280b9f9b.github.io/IPTVList/Radio/united-arab-emirates.html) &nbsp;&nbsp; [arabic-music](https://280b9f9b.github.io/IPTVList/Radio/arabic-music.html) &nbsp;&nbsp; [00s-music](https://280b9f9b.github.io/IPTVList/Radio/00s-music.html) &nbsp;&nbsp; [90s](https://280b9f9b.github.io/IPTVList/Radio/90s.html) &nbsp;&nbsp; [80s](https://280b9f9b.github.io/IPTVList/Radio/80s.html) &nbsp;&nbsp; [70s](https://280b9f9b.github.io/IPTVList/Radio/70s.html) &nbsp;&nbsp; [60s-music](https://280b9f9b.github.io/IPTVList/Radio/60s-music.html) &nbsp;&nbsp; [50s-music](https://280b9f9b.github.io/IPTVList/Radio/50s-music.html)
 
 
 
