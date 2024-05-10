@@ -223,7 +223,7 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 https://ythls.onrender.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC.png" group-title="shahid",MBC
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Drama.jpg" group-title="shahid",MBC Drama
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Drama.png" group-title="shahid",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Masr" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Masr.jpg" group-title="shahid",MBC Masr
 https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
