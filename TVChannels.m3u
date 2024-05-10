@@ -277,7 +277,7 @@ https://cdxaws-ak.akamaized.net/v1/channel/Masrah_Masr/index_hls.m3u8
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Masrah/index_hls.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tareekhi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Tareekhi.jpg" group-title="shahid",Tareekhi
 https://cdxaws-ak.akamaized.net/v1/channel/Tareekhi_/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Arabiya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Arabiya.jpg" group-title="shahid",Al Arabiya
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Arabiya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Arabiya.png" group-title="shahid",Al Arabiya
 https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Hadath" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Hadath.jpg" group-title="shahid",Al Hadath
 https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
