@@ -259,7 +259,7 @@ https://cdxaws-ak.akamaized.net/v1/channel/Al_Hayba/index_hls.m3u8
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Asouf/index_hls.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bab Al Hara" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bab Al Hara.jpg" group-title="shahid",Bab Al Hara
 https://cdxaws-ak.akamaized.net/v1/channel/Bab_Al_Hara/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Bollywood" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Bollywood.jpg" group-title="shahid",MBC Bollywood
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Bollywood" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Bollywood.png" group-title="shahid",MBC Bollywood
 https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Persia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Persia.jpg" group-title="shahid",MBC Persia
 https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
