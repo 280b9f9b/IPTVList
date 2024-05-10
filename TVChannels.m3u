@@ -221,7 +221,7 @@ http://82.212.74.2:8000/live/hls/7311.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZAD TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/ZAD TV.jpg" group-title="Religion",ZAD TV
 https://ythls.onrender.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC.jpg" group-title="shahid",MBC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC.png" group-title="shahid",MBC
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Drama.jpg" group-title="shahid",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
