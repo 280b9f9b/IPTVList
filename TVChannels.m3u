@@ -229,16 +229,23 @@ https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/i
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Iraq" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Iraq.png" group-title="shahid",MBC Iraq
 https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Bollywood" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Bollywood.png" group-title="shahid",MBC Bollywood
+https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Persia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Persia.png" group-title="shahid",MBC Persia
+https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramadan Maana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramadan Maana.jpg" group-title="shahid",Ramadan Maana
 https://cdxaws-ak.akamaized.net/v1/channel/Ramadan_Maana/index_hls.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramez.jpg" group-title="shahid",Ramez
+https://cdxaws-ak.akamaized.net/v1/channel/Ramez/index_hls/4.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tash" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Tash.jpg" group-title="shahid",Tash
 https://cdxaws-ak.akamaized.net/v1/channel/Tash_Matash_/index_hls.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Roya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Roya.jpg" group-title="shahid",Roya
 https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kabeer Awi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Kabeer Awi.jpg" group-title="shahid",Al Kabeer Awi
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Kabeer_Awi/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramez.jpg" group-title="shahid",Ramez
-https://cdxaws-ak.akamaized.net/v1/channel/Ramez/index_hls/4.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just For Laughs" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Just For Laughs.jpg" group-title="shahid",Just For Laughs
 https://shls-live-ak.akamaized.net/out/v1/789c88ad335e4547ad14a84c19a5ba31/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Sadma" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Sadma.jpg" group-title="shahid",Al Sadma
@@ -251,10 +258,8 @@ https://cdxaws-ak.akamaized.net/v1/channel/Al_Hayba/index_hls.m3u8
 https://cdxaws-ak.akamaized.net/v1/channel/Al_Asouf/index_hls.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bab Al Hara" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bab Al Hara.jpg" group-title="shahid",Bab Al Hara
 https://cdxaws-ak.akamaized.net/v1/channel/Bab_Al_Hara/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Bollywood" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Bollywood.png" group-title="shahid",MBC Bollywood
-https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Persia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Persia.png" group-title="shahid",MBC Persia
-https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Khalijia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Khalijia.jpg" group-title="shahid",Rotana Khalijia
 https://rotanakhalijia-prod-dub-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana+" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana+.jpg" group-title="shahid",Rotana+
