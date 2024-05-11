@@ -111,8 +111,7 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews french" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews french.png" group-title="News",euronews french
 https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="eXtra News" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/eXtra News.jpg" group-title="News",eXtra News
-https://ythls.onrender.com/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Hayat TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Hayat TV.png" group-title="General",Al Hayat TV
