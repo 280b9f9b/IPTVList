@@ -166,8 +166,7 @@ https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76ae
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TIJI in French" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TIJI in French.jpg" group-title="Kids",TIJI in French
-https://tiji-tv-prod-dub-ak.akamaized.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Istiqama TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Istiqama TV.jpg" group-title="Kids",Al Istiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
