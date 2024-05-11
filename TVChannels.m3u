@@ -263,9 +263,10 @@ https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index
 https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index_5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maraya-Channel" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Maraya-Channel.jpg" group-title="shahid",Maraya-Channel
 https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El-Le'ba-Channel" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/El-Le'ba-Channel.jpg" group-title="shahid",El-Le'ba-Channel
+https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramez.jpg" group-title="shahid",Ramez
 https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
-
 
 
 
