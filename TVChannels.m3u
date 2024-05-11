@@ -173,8 +173,7 @@ https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/WWE.jpg" group-title="Sports",WWE
-https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls.m3u8
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KSA Sports 1" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KSA Sports 1.jpg" group-title="Sports",KSA Sports 1
