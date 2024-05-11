@@ -140,8 +140,7 @@ https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/SBC.jpg" group-title="General",SBC
-https://edge.taghtia.com/sa/1.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thikrayat TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Thikrayat TV.jpg" group-title="General",Thikrayat TV
 https://edge.taghtia.com/sa/3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman.jpg" group-title="General",Oman
