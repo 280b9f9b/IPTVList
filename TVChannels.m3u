@@ -87,7 +87,34 @@ https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera Mubasher" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Mubasher.png" group-title="News",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Yaum TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Yaum TV.jpg" group-title="News",Al Yaum TV
+https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/BBC Arabic.jpg" group-title="News",BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CGTN Arabic.png" group-title="News",CGTN Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/DW Arabic.jpg" group-title="News",DW Arabic
+https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="France 24 Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/France 24 Arabic.jpg" group-title="News",France 24 Arabic
+https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/RT Arabic.jpg" group-title="News",RT Arabic
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Arabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TRT Arabi.jpg" group-title="News",TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg TV EMEA Live Event" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bloomberg TV EMEA Live Event.jpg" group-title="News",Bloomberg TV EMEA Live Event
+https://list.iptvcat.com/my_list/s/1687c954d729389239ac961ed5f3a315.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC Arabia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CNBC Arabia.jpg" group-title="News",CNBC Arabia
+https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alaraby TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby TV.png" group-title="News",Alaraby TV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Ekhbariya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Ekhbariya.jpg" group-title="News",Al Ekhbariya
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews english" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews english.jpg" group-title="shahid",euronews english
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews french" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews french.jpg" group-title="shahid",euronews french
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="eXtra News" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/eXtra News.jpg" group-title="EG",eXtra News
+https://ythls.onrender.com/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Hayat TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Hayat TV.png" group-title="General",Al Hayat TV
@@ -124,28 +151,7 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Yaum TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Yaum TV.jpg" group-title="News",Al Yaum TV
-https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/BBC Arabic.jpg" group-title="News",BBC Arabic
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CGTN Arabic.png" group-title="News",CGTN Arabic
-https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/DW Arabic.jpg" group-title="News",DW Arabic
-https://ythls.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="France 24 Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/France 24 Arabic.jpg" group-title="News",France 24 Arabic
-https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/RT Arabic.jpg" group-title="News",RT Arabic
-https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Arabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TRT Arabi.jpg" group-title="News",TRT Arabi
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg TV EMEA Live Event" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bloomberg TV EMEA Live Event.jpg" group-title="News",Bloomberg TV EMEA Live Event
-https://list.iptvcat.com/my_list/s/1687c954d729389239ac961ed5f3a315.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC Arabia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CNBC Arabia.jpg" group-title="News",CNBC Arabia
-https://ythls.onrender.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alaraby TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby TV.png" group-title="News",Alaraby TV
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Ekhbariya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Ekhbariya.jpg" group-title="News",Al Ekhbariya
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Calture" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Calture.jpg" group-title="Documentary",Oman Calture
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
@@ -294,10 +300,7 @@ https://cdxaws-ak.akamaized.net/v1/channel/Tareekhi_/index_hls.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asharq" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Asharq.jpg" group-title="shahid",Asharq
 https://asharq-prod-dub-ak.akamaized.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews english" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews english.jpg" group-title="shahid",euronews english
-https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews french" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews french.jpg" group-title="shahid",euronews french
-https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Pit" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The Pit.jpg" group-title="shahid",The Pit
 https://cdxaws-ak.akamaized.net/v1/channel/The_Pit/index_hls.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Anisa Farah" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Anisa Farah.jpg" group-title="shahid",Al Anisa Farah
@@ -390,8 +393,7 @@ http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="eXtra Live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/eXtra Live.jpg" group-title="EG",eXtra Live
 https://ythls.onrender.com/channel/UCXw5vClfMWccw-OocfhQHiA.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="eXtra News" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/eXtra News.jpg" group-title="EG",eXtra News
-https://ythls.onrender.com/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Huda TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Huda TV.jpg" group-title="EG",Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Koogi TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Koogi TV.jpg" group-title="EG",Koogi TV
