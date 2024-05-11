@@ -101,8 +101,8 @@ https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Arabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TRT Arabi.png" group-title="News",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg TV EMEA Live Event" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bloomberg TV EMEA Live Event.png" group-title="News",Bloomberg TV EMEA Live Event
-https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg Quicktake" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bloomberg Quicktake.png" group-title="News",Bloomberg Quicktake
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC Arabia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CNBC Arabia.png" group-title="News",CNBC Arabia
 https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alaraby TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby TV.png" group-title="News",Alaraby TV
