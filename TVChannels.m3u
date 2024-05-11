@@ -285,6 +285,8 @@ https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f
 https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Ekhbariya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Ekhbariya.png" group-title="News",Al Ekhbariya
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asharq" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Asharq.jpg" group-title="shahid",Asharq
+https://asharq-prod-dub-ak.akamaized.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramez.jpg" group-title="shahid",Ramez
 https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
 
@@ -323,8 +325,7 @@ https://cdxaws-ak.akamaized.net/v1/channel/Al_Masrah/index_hls.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tareekhi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Tareekhi.jpg" group-title="shahid",Tareekhi
 https://cdxaws-ak.akamaized.net/v1/channel/Tareekhi_/index_hls.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asharq" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Asharq.jpg" group-title="shahid",Asharq
-https://asharq-prod-dub-ak.akamaized.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Pit" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The Pit.jpg" group-title="shahid",The Pit
 https://cdxaws-ak.akamaized.net/v1/channel/The_Pit/index_hls.m3u8
