@@ -147,11 +147,11 @@ https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman.png" group-title="General",Oman
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Mubasher" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Mubasher.jpg" group-title="General",Oman Mubasher
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Mubasher" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Mubasher.png" group-title="General",Oman Mubasher
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Calture" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Calture.jpg" group-title="Documentary",Oman Calture
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Calture" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Calture.png" group-title="Documentary",Oman Calture
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Sport" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Sport.jpg" group-title="Sports",Oman Sport
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Sport" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Sport.png" group-title="Sports",Oman Sport
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qatar TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV.png" group-title="General",Qatar TV
