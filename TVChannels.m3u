@@ -61,7 +61,7 @@ https://ythls.onrender.com/channel/UCn8lMRYDANs_1yAL3iuw7_g.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ajman TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ajman TV.jpg" group-title="General",Ajman TV
 https://cdn.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Dafrah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dafrah TV.jpg" group-title="General",Al Dafrah TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Dafrah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dafrah TV.png" group-title="General",Al Dafrah TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist_b2028000.m3u8
 
 
