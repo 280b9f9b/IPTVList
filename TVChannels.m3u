@@ -312,7 +312,7 @@ https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Cinema KSA" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Cinema KSA.jpg" group-title="shahid",Rotana Cinema KSA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Cinema KSA" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Cinema KSA.png" group-title="shahid",Rotana Cinema KSA
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 
 
@@ -320,9 +320,9 @@ https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/60
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PMC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC.jpg" group-title="Music",PMC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PMC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC.png" group-title="Music",PMC
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PMC Royale" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC Royale.jpg" group-title="Music",PMC Royale
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PMC Royale" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC Royale.png" group-title="Music",PMC Royale
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aghapy TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Aghapy TV.jpg" group-title="EG",Aghapy TV
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
