@@ -102,7 +102,7 @@ https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Arabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TRT Arabi.png" group-title="News",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg TV EMEA Live Event" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bloomberg TV EMEA Live Event.jpg" group-title="News",Bloomberg TV EMEA Live Event
-https://list.iptvcat.com/my_list/s/1687c954d729389239ac961ed5f3a315.m3u8
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC Arabia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CNBC Arabia.png" group-title="News",CNBC Arabia
 https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alaraby TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby TV.png" group-title="News",Alaraby TV
