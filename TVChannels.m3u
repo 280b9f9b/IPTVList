@@ -163,8 +163,7 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spacetoon" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Spacetoon.jpg" group-title="Kids",Spacetoon
 https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cartoon Network.jpg" group-title="Kids",Cartoon Network
-https://cartoon-network-prod-dub-ak.akamaized.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Kids" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Kids.jpg" group-title="Kids",Rotana Kids
 https://rotanakids-prod-dub-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GULLI BIL ARABI" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/GULLI BIL ARABI.jpg" group-title="Kids",GULLI BIL ARABI
