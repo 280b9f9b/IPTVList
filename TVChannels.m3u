@@ -271,9 +271,10 @@ https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index
 https://shls-live-ak.akamaized.net/out/v1/8328464750f04ec6bb512585e6941631/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tash" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Tash.jpg" group-title="shahid",Tash
 https://shls-live-ak.akamaized.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index_3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wifi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wifi.jpg" group-title="shahid",Wifi
+https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramez.jpg" group-title="shahid",Ramez
 https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
-
 
 
 
