@@ -243,13 +243,13 @@ https://shls-live-ak.akamaized.net/out/v1/05f3eb584b674d8099779eabb6521b58/index
 https://mbc1-enc.edgenextcdn.net/out/v1/61474465407042c896d3d27685175891/index_3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC’S-Top-Gear" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/BBC’S-Top-Gear.png" group-title="shahid",BBC’S-Top-Gear
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naser Al Qassaby" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Naser Al Qassaby.jpg" group-title="shahid",Naser Al Qassaby
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naser Al Qassaby" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Naser Al Qassaby.png" group-title="shahid",Naser Al Qassaby
 https://shls-live-ak.akamaized.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index_6.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies.jpg" group-title="shahid",Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies.png" group-title="shahid",Movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_4.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies-Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies-Action.jpg" group-title="shahid",Movies-Action
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies-Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies-Action.png" group-title="shahid",Movies-Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies-Thriller" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies-Thriller.jpg" group-title="shahid",Movies-Thriller
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies-Thriller" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies-Thriller.png" group-title="shahid",Movies-Thriller
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aflam" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Aflam.jpg" group-title="shahid",Aflam
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
