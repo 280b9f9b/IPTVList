@@ -265,6 +265,8 @@ https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index
 https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El-Le'ba-Channel" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/El-Le'ba-Channel.jpg" group-title="shahid",El-Le'ba-Channel
 https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kabeer Awi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Kabeer Awi.jpg" group-title="shahid",Al Kabeer Awi
+https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramez.jpg" group-title="shahid",Ramez
 https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
 
@@ -277,8 +279,7 @@ https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index
 https://cdxaws-ak.akamaized.net/v1/channel/Tash_Matash_/index_hls.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Roya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Roya.jpg" group-title="shahid",Roya
 https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kabeer Awi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Kabeer Awi.jpg" group-title="shahid",Al Kabeer Awi
-https://cdxaws-ak.akamaized.net/v1/channel/Al_Kabeer_Awi/index_hls.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just For Laughs" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Just For Laughs.jpg" group-title="shahid",Just For Laughs
 https://shls-live-ak.akamaized.net/out/v1/789c88ad335e4547ad14a84c19a5ba31/index_2.m3u8
