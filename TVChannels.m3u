@@ -324,32 +324,23 @@ https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/60
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PMC Royale" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC Royale.png" group-title="Music",PMC Royale
 https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aghapy TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Aghapy TV.jpg" group-title="EG",Aghapy TV
-https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Ghad" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Ghad.jpg" group-title="EG",Al Ghad
-https://ythls.armelin.one/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kahera Wal Nas" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Kahera Wal Nas.jpg" group-title="EG",Al Kahera Wal Nas
-https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alfath Sonnah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alfath Sonnah TV.jpg" group-title="EG",Alfath Sonnah TV
-https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alfath TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alfath TV.jpg" group-title="EG",Alfath TV
-https://alfat7-q.com:5443/LiveApp/streams/515112551489055772942045.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATVSat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/ATVSat.jpg" group-title="EG",ATVSat
-https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coptic TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Coptic TV.jpg" group-title="EG",Coptic TV
-https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elbeshara GTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Elbeshara GTV.jpg" group-title="EG",Elbeshara GTV
-http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elsharq TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Elsharq TV.jpg" group-title="EG",Elsharq TV
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="eXtra Live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/eXtra Live.jpg" group-title="EG",eXtra Live
-https://ythls.armelin.one/channel/UCXw5vClfMWccw-OocfhQHiA.m3u8
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Huda TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Huda TV.jpg" group-title="EG",Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Koogi TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Koogi TV.jpg" group-title="EG",Koogi TV
-https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mekameleen TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Mekameleen TV.jpg" group-title="EG",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
@@ -363,7 +354,6 @@ https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/m
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeN TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TeN TV.jpg" group-title="EG",TeN TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Watan TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Watan TV.jpg" group-title="EG",Watan TV
-https://n101.stream.tactivemedia.com/watantv/live/playlist.m3u8
+
 
 
