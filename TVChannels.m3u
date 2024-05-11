@@ -88,7 +88,7 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera Mubasher" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Mubasher.png" group-title="News",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Yaum TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Yaum TV.png" group-title="News",Al Yaum TV
-https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8
+https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/BBC Arabic.jpg" group-title="News",BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CGTN Arabic.png" group-title="News",CGTN Arabic
