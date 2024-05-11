@@ -176,14 +176,7 @@ https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KSA Sports 1" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KSA Sports 1.jpg" group-title="Sports",KSA Sports 1
-https://edge.taghtia.com/sa/9.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KSA Sports 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KSA Sports 2.jpg" group-title="Sports",KSA Sports 2
-https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KSA Sports 3" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KSA Sports 3.jpg" group-title="Sports",KSA Sports 3
-https://edge.taghtia.com/sa/16.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KSA Sports 4" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KSA Sports 4.jpg" group-title="Sports",KSA Sports 4
-https://edge.taghtia.com/sa/17.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SSC Action Waleed" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/SSC Action Waleed.jpg" group-title="Sports",SSC Action Waleed
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Sport" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Sport.jpg" group-title="Sports",Oman Sport
