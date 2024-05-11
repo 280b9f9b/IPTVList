@@ -134,8 +134,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Saudiya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Saudiya.png" group-title="General",Al Saudiya
 https://edge.taghtia.com/sa/2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Angel TV Arabia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Angel TV Arabia.jpg" group-title="General",Angel TV Arabia
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atfal & Mawaheb TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Atfal & Mawaheb TV.jpg" group-title="General",Atfal & Mawaheb TV
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LBC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/LBC.jpg" group-title="General",LBC
