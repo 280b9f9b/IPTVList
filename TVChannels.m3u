@@ -243,7 +243,8 @@ https://shls-live-ak.akamaized.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index
 https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index_9.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi-play" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Desi-play.jpg" group-title="shahid",Desi-play
 https://shls-live-ak.akamaized.net/out/v1/05f3eb584b674d8099779eabb6521b58/index_2.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fashion-TV.jpg" group-title="shahid",Fashion-TV
+https://mbc1-enc.edgenextcdn.net/out/v1/61474465407042c896d3d27685175891/index_3.m3u8
 
 
 
