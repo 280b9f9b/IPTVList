@@ -183,20 +183,7 @@ https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quran Kareem" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Quran Kareem.jpg" group-title="Radio",Quran Kareem
-https://admdn7ta.cdn.mgmlcdn.com/quranrdo/quranrdo.stream_aac/playlist.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Emarat FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Emarat FM.jpg" group-title="Radio",Emarat FM
-https://admdn7ta.cdn.mgmlcdn.com/emrdo/emrdo.stream_aac/playlist.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi FM.jpg" group-title="Radio",Abu Dhabi FM
-https://admdn7ta.cdn.mgmlcdn.com/adfmrdo/adfmrdo.stream_aac/playlist.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Star FM.jpg" group-title="Radio",Star FM
-https://admdn7ta.cdn.mgmlcdn.com/starrdo/starrdo.stream_aac/playlist.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Classic FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi Classic FM.jpg" group-title="Radio",Abu Dhabi Classic FM
-https://admdn7ta.cdn.mgmlcdn.com/clasrdo/clasrdo.stream_aac/playlist.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KADAK FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KADAK FM.jpg" group-title="Radio",KADAK FM
-https://admdn7ta.cdn.mgmlcdn.com/mirchirdo/mirchirdo.stream_aac/playlist.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio 1" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio 1.jpg" group-title="Radio",Radio 1
-https://admdn7ta.cdn.mgmlcdn.com/rdo1/rdo1.stream_aac/playlist.m3u
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC FM.jpg" group-title="Radio",MBC FM
