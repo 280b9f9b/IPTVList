@@ -125,6 +125,11 @@ https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain TV.png" group-title="General",Bahrain TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain Sports 1" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Sports 1.png" group-title="Sports",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain Sports 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Sports 2.png" group-title="Sports",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Khalij" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Khalij.png" group-title="General",Al Khalij
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Saudiya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Saudiya.png" group-title="General",Al Saudiya
@@ -179,10 +184,7 @@ https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/WWE.jpg" group-title="Sports",WWE
 https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain Sports 1" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Sports 1.jpg" group-title="Sports",Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain Sports 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Sports 2.jpg" group-title="Sports",Bahrain Sports 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KSA Sports 1" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KSA Sports 1.jpg" group-title="Sports",KSA Sports 1
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KSA Sports 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KSA Sports 2.jpg" group-title="Sports",KSA Sports 2
