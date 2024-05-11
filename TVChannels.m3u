@@ -237,6 +237,12 @@ https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396
 https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramez.jpg" group-title="shahid",Ramez
 https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Top Chef Channel" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Top Chef Channel.jpg" group-title="shahid",Top Chef Channel
+https://shls-live-ak.akamaized.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index_2.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tash" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Tash.jpg" group-title="shahid",Tash
