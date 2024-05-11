@@ -127,7 +127,7 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Khalij" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Khalij.png" group-title="General",Al Khalij
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Saudiya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Saudiya.jpg" group-title="General",Al Saudiya
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Saudiya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Saudiya.png" group-title="General",Al Saudiya
 https://edge.taghtia.com/sa/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Angel TV Arabia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Angel TV Arabia.jpg" group-title="General",Angel TV Arabia
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8
