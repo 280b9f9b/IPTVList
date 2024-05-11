@@ -143,7 +143,7 @@ https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman.jpg" group-title="General",Oman
-https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Mubasher" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Mubasher.jpg" group-title="General",Oman Mubasher
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qatar TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV.png" group-title="General",Qatar TV
