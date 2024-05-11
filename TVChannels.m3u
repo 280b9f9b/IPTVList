@@ -291,11 +291,19 @@ https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08
 https://shls-live-ak.akamaized.net/out/v1/cf05f1dbbeae4878bbc4a5919cef3391/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC FM.jpg" group-title="Radio",MBC FM
 https://mbcfm-riyadh-prod-dub-ak.akamaized.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Panorama FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Panorama FM.jpg" group-title="Radio",Panorama FM
 https://panoramafm-prod-dub-ak.akamaized.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wanasa" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wanasa.jpg" group-title="Music",Wanasa
+https://wanasah-prod-dub-ak.akamaized.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abdul-Majeed-Abdullah" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abdul-Majeed-Abdullah.jpg" group-title="shahid",Abdul-Majeed-Abdullah
+https://abdulmajeed-abdullah-ak.akamaized.net/out/v1/b5759c5db43d4d10b382a4bc2b337ab5/index_21.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rashed-Al-Majed" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rashed-Al-Majed.jpg" group-title="shahid",Rashed-Al-Majed
+https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index_27.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muhammad-Abdo" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Muhammad-Abdo.jpg" group-title="shahid",Muhammad-Abdo
+https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index_27.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramez.jpg" group-title="shahid",Ramez
 https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
+
 
 
 
@@ -390,8 +398,7 @@ https://cdxaws-ak.akamaized.net/v1/channel/Ma_Lam_Tara/index_hls.m3u8
 https://cdxaws-ak.akamaized.net/v1/channel/Style_/index_hls.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fannan Al Arab" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fannan Al Arab.jpg" group-title="Music",Fannan Al Arab
 https://dnjbbiru27tci.cloudfront.net/v1/channel/Fannan-Al-Arab/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wanasa" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wanasa.jpg" group-title="Music",Wanasa
-https://wanasah-prod-dub-ak.akamaized.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PMC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC.jpg" group-title="Music",PMC
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PMC Royale" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC Royale.jpg" group-title="Music",PMC Royale
