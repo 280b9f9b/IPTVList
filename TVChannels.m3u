@@ -37,9 +37,9 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Noor Dubai TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Noor Dubai TV.png" group-title="Religion",Noor Dubai TV
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Radio.jpg" group-title="Radio",Dubai Radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Radio.png" group-title="Radio",Dubai Radio
 https://dmithrvll.cdn.mangomolo.com/dubairdo/dubairdo_aac/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Noor Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Noor Dubai.jpg" group-title="Radio",Noor Dubai
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Noor Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Noor Dubai.png" group-title="Radio",Noor Dubai
 http://dmithrvll.cdn.mangomolo.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
 
 
