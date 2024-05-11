@@ -269,6 +269,8 @@ https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index
 https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ragel-We-Set-Settat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ragel-We-Set-Settat.jpg" group-title="shahid",Ragel-We-Set-Settat
 https://shls-live-ak.akamaized.net/out/v1/8328464750f04ec6bb512585e6941631/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tash" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Tash.jpg" group-title="shahid",Tash
+https://shls-live-ak.akamaized.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index_3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramez.jpg" group-title="shahid",Ramez
 https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
 
@@ -276,8 +278,7 @@ https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tash" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Tash.jpg" group-title="shahid",Tash
-https://cdxaws-ak.akamaized.net/v1/channel/Tash_Matash_/index_hls.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Roya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Roya.jpg" group-title="shahid",Roya
 https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8
 
