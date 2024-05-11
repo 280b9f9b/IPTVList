@@ -310,117 +310,28 @@ https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index
 
 
 
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Roya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Roya.jpg" group-title="shahid",Roya
-https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just For Laughs" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Just For Laughs.jpg" group-title="shahid",Just For Laughs
-https://shls-live-ak.akamaized.net/out/v1/789c88ad335e4547ad14a84c19a5ba31/index_2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Sadma" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Sadma.jpg" group-title="shahid",Al Sadma
-https://cdxaws-ak.akamaized.net/v1/channel/Al_Sadma/index_hls/10.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Hayba" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Hayba.jpg" group-title="shahid",Al Hayba
-https://cdxaws-ak.akamaized.net/v1/channel/Al_Hayba/index_hls.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Khalijia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Khalijia.jpg" group-title="shahid",Rotana Khalijia
-https://rotanakhalijia-prod-dub-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana+" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana+.jpg" group-title="shahid",Rotana+
-https://rotanaplus-prod-dub-ak.akamaized.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Drama.jpg" group-title="shahid",Rotana Drama
-https://rotanadrama-prod-dub-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Comedy.jpg" group-title="shahid",Comedy
-https://cdxaws-ak.akamaized.net/v1/channel/Comedy---/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Masrah" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Masrah.jpg" group-title="shahid",Al Masrah
-https://cdxaws-ak.akamaized.net/v1/channel/Al_Masrah/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tareekhi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Tareekhi.jpg" group-title="shahid",Tareekhi
-https://cdxaws-ak.akamaized.net/v1/channel/Tareekhi_/index_hls.m3u8
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Pit" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The Pit.jpg" group-title="shahid",The Pit
-https://cdxaws-ak.akamaized.net/v1/channel/The_Pit/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Anisa Farah" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Anisa Farah.jpg" group-title="shahid",Al Anisa Farah
-https://cdxaws-ak.akamaized.net/v1/channel/Arous_Beirut_/index_hls.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aflam Comedy" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Aflam Comedy.jpg" group-title="shahid",Aflam Comedy
-https://cdxaws-ak.akamaized.net/v1/channel/Aflam_Comedy/index_hls.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Cinema KSA" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Cinema KSA.jpg" group-title="shahid",Rotana Cinema KSA
-https://rotanacinema-ksa-prod-dub-ak.akamaized.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Cinema EGY" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Cinema EGY.jpg" group-title="shahid",Rotana Cinema EGY
-https://rotanacinema-egy-prod-dub-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Classic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Classic.jpg" group-title="shahid",Rotana Classic
-https://rotanaclassic-prod-dub-ak.akamaized.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hassino" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Hassino.jpg" group-title="shahid",Hassino
-https://cdxaws-ak.akamaized.net/v1/channel/Hassino_/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nadine Njeim" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Nadine Njeim.jpg" group-title="shahid",Nadine Njeim
-https://cdxaws-ak.akamaized.net/v1/channel/Nadine_Njeim_/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Ostoura" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Ostoura.jpg" group-title="shahid",Al Ostoura
-https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Zaeem" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Zaeem.jpg" group-title="shahid",Al Zaeem
-https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khaleeji" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Khaleeji.jpg" group-title="shahid",Khaleeji
-https://cdxaws-ak.akamaized.net/v1/channel/Khaleeji_/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masr" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Masr.jpg" group-title="shahid",Masr
-https://cdxaws-ak.akamaized.net/v1/channel/Masr-/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Levant" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Levant.jpg" group-title="shahid",Levant
-https://cdxaws-ak.akamaized.net/v1/channel/Levant_/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Turki" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Turki.jpg" group-title="shahid",Turki
-https://cdxaws-ak.akamaized.net/v1/channel/Turki_/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bollywood.jpg" group-title="shahid",Bollywood
-https://cdxaws-ak.akamaized.net/v1/channel/Bollywood_/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Korean" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Korean.jpg" group-title="shahid",Korean
-https://cdxaws-ak.akamaized.net/v1/channel/Korean-/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nessma" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Nessma.jpg" group-title="shahid",Nessma
-https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Samira TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Samira TV.jpg" group-title="shahid",Samira TV
-https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Helwa" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Helwa.jpg" group-title="shahid",Helwa
-https://shls-live-ak.akamaized.net/out/v1/81153498b61444bfaef4ff09b55e55aa/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M6 INTERNATIONAL" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/M6 INTERNATIONAL.jpg" group-title="shahid",M6 INTERNATIONAL
-https://m6-int-prod-dub-ak.akamaized.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Dhaif" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dhaif.jpg" group-title="shahid",Al Dhaif
-https://cdxaws-ak.akamaized.net/v1/channel/Talk_Shows/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Chef" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The Chef.jpg" group-title="shahid",The Chef
-https://cdxaws-ak.akamaized.net/v1/channel/Top-Chef/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mawaheb" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Mawaheb.jpg" group-title="shahid",Mawaheb
-https://cdxaws-ak.akamaized.net/v1/channel/Mawaheb-/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maqaleb" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Maqaleb.jpg" group-title="shahid",Maqaleb
-https://cdxaws-ak.akamaized.net/v1/channel/Maqaleb--/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Safer manna" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Safer manna.jpg" group-title="shahid",Safer manna
-https://cdxaws-ak.akamaized.net/v1/channel/Safer_manna/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ma Lam Tara" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ma Lam Tara.jpg" group-title="shahid",Ma Lam Tara
-https://cdxaws-ak.akamaized.net/v1/channel/Ma_Lam_Tara/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Style" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Style.jpg" group-title="shahid",Style
-https://cdxaws-ak.akamaized.net/v1/channel/Style_/index_hls.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fannan Al Arab" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fannan Al Arab.jpg" group-title="Music",Fannan Al Arab
-https://dnjbbiru27tci.cloudfront.net/v1/channel/Fannan-Al-Arab/index.m3u8
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PMC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC.jpg" group-title="Music",PMC
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PMC Royale" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC Royale.jpg" group-title="Music",PMC Royale
-http://51.210.199.29/hls/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Music" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Music.jpg" group-title="Music",Rotana Music
-https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Citruss TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Citruss TV.jpg" group-title="Shop",Citruss TV
-https://d7km4gkevcbok.cloudfront.net/live/watch_720p30.m3u8
+https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aghapy TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Aghapy TV.jpg" group-title="EG",Aghapy TV
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Ghad" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Ghad.jpg" group-title="EG",Al Ghad
-https://ythls.onrender.com/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
+https://ythls.armelin.one/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kahera Wal Nas" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Kahera Wal Nas.jpg" group-title="EG",Al Kahera Wal Nas
-https://ythls.onrender.com/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
+https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alfath Sonnah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alfath Sonnah TV.jpg" group-title="EG",Alfath Sonnah TV
-https://alfat7-q.com:5443/LiveApp/streams/713332814575062108399616.m3u8
+https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alfath TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alfath TV.jpg" group-title="EG",Alfath TV
-https://alfat7-q.com:5443/LiveApp/streams/117655467302550619118331.m3u8
+https://alfat7-q.com:5443/LiveApp/streams/515112551489055772942045.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATVSat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/ATVSat.jpg" group-title="EG",ATVSat
 https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Coptic TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Coptic TV.jpg" group-title="EG",Coptic TV
@@ -430,25 +341,27 @@ http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elsharq TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Elsharq TV.jpg" group-title="EG",Elsharq TV
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="eXtra Live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/eXtra Live.jpg" group-title="EG",eXtra Live
-https://ythls.onrender.com/channel/UCXw5vClfMWccw-OocfhQHiA.m3u8
+https://ythls.armelin.one/channel/UCXw5vClfMWccw-OocfhQHiA.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Huda TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Huda TV.jpg" group-title="EG",Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Koogi TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Koogi TV.jpg" group-title="EG",Koogi TV
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mekameleen TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Mekameleen TV.jpg" group-title="EG",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NogoumFMTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/NogoumFMTV.jpg" group-title="EG",NogoumFMTV
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NogoumFMTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/NogoumFMTV.jpg" group-title="Radio",NogoumFMTV
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Omg Channel" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Omg Channel.jpg" group-title="EG",Omg Channel
-http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REFLET-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/REFLET-TV.jpg" group-title="EG",REFLET-TV
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeN TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TeN TV.jpg" group-title="EG",TeN TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Kingdom Sat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The Kingdom Sat.jpg" group-title="EG",The Kingdom Sat
-https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Watan TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Watan TV.jpg" group-title="EG",Watan TV
-https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
+https://n101.stream.tactivemedia.com/watantv/live/playlist.m3u8
 
 
