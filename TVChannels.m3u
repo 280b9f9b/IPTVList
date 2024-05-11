@@ -354,7 +354,7 @@ https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mekameleen TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Mekameleen TV.jpg" group-title="EG",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NogoumFMTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/NogoumFMTV.jpg" group-title="Radio",NogoumFMTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NogoumFMTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/NogoumFMTV.jpg" group-title="Music",NogoumFMTV
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
 
 
