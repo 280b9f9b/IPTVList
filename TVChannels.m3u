@@ -331,27 +331,27 @@ https://rohls.pmc.live/hls/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elsharq TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Elsharq TV.jpg" group-title="EG",Elsharq TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elsharq TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Elsharq TV.png" group-title="EG",Elsharq TV
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Huda TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Huda TV.jpg" group-title="EG",Huda TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Huda TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Huda TV.png" group-title="EG",Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mekameleen TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Mekameleen TV.jpg" group-title="EG",Mekameleen TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mekameleen TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Mekameleen TV.png" group-title="EG",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NogoumFMTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/NogoumFMTV.jpg" group-title="Music",NogoumFMTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NogoumFMTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/NogoumFMTV.png" group-title="Music",NogoumFMTV
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REFLET-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/REFLET-TV.jpg" group-title="EG",REFLET-TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REFLET-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/REFLET-TV.png" group-title="EG",REFLET-TV
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeN TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TeN TV.jpg" group-title="EG",TeN TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeN TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TeN TV.png" group-title="EG",TeN TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 
 
