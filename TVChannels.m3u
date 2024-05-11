@@ -109,9 +109,9 @@ https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Ekhbariya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Ekhbariya.png" group-title="News",Al Ekhbariya
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews english" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews english.jpg" group-title="shahid",euronews english
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews english" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews english.png" group-title="shahid",euronews english
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews french" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews french.jpg" group-title="shahid",euronews french
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews french" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews french.png" group-title="shahid",euronews french
 https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="eXtra News" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/eXtra News.jpg" group-title="EG",eXtra News
 https://ythls.onrender.com/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
