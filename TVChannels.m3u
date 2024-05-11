@@ -245,8 +245,10 @@ https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index
 https://shls-live-ak.akamaized.net/out/v1/05f3eb584b674d8099779eabb6521b58/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fashion-TV.jpg" group-title="shahid",Fashion-TV
 https://mbc1-enc.edgenextcdn.net/out/v1/61474465407042c896d3d27685175891/index_3.m3u8
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC’S-Top-Gear" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/BBC’S-Top-Gear.jpg" group-title="shahid",BBC’S-Top-Gear
+https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramez.jpg" group-title="shahid",Ramez
+https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
 
 
 
