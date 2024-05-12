@@ -123,9 +123,9 @@ https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/i
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Iraq" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Iraq.png" group-title="shahid",MBC Iraq
 https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Bollywood" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Bollywood.png" group-title="shahid",MBC Bollywood
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Bollywood" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Bollywood.png" group-title="Movies",MBC Bollywood
 https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Persia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Persia.png" group-title="shahid",MBC Persia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Persia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Persia.png" group-title="Movies",MBC Persia
 https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramadan Maana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramadan Maana.png" group-title="shahid",Ramadan Maana
 https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
@@ -143,13 +143,13 @@ https://mbc1-enc.edgenextcdn.net/out/v1/61474465407042c896d3d27685175891/index_3
 https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naser Al Qassaby" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Naser Al Qassaby.png" group-title="shahid",Naser Al Qassaby
 https://shls-live-ak.akamaized.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index_6.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies.png" group-title="shahid",Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies.png" group-title="Movies",Movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_4.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies-Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies-Action.png" group-title="shahid",Movies-Action
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies-Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies-Action.png" group-title="Movies",Movies-Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies-Thriller" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies-Thriller.png" group-title="shahid",Movies-Thriller
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies-Thriller" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies-Thriller.png" group-title="Movies",Movies-Thriller
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_5.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aflam" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Aflam.png" group-title="shahid",Aflam
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aflam" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Aflam.png" group-title="Movies",Aflam
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masrah Masr" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Masrah Masr.png" group-title="shahid",Masrah Masr
 https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index_2.m3u8
