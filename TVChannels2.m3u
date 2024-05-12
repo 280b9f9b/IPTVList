@@ -285,8 +285,8 @@ https://daiconnect.com/live/hls/rotana/music/.m3u8
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="ToyorAlJannah.jo" tvg-logo="https://i.imgur.com/5j8z6cc.png" ,Toyor Al-Jannah (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/nLtiXNf.png" ,Wanasah (1080p)
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+// #EXTINF:-1 group-title="Music" tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/nLtiXNf.png" ,Wanasah (1080p)
+// https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="4Music.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png" ,4Music (480p) [Geo-blocked]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
 #EXTINF:-1 group-title="Music" tvg-id="30AMusic.us" tvg-logo="https://i.imgur.com/gNWg9tl.png" ,30A Music Channel
