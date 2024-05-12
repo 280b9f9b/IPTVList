@@ -280,15 +280,15 @@ http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="ToyorAlJannah.jo" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Toyor Al-Jannah.png" ,Toyor Al-Jannah
 https://ythls.armelin.one/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-id="4Music.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png" ,4Music (480p) [Geo-blocked]
+#EXTINF:-1 group-title="Music" tvg-id="4Music.uk" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/4Music.png" ,4Music
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
-#EXTINF:-1 group-title="Music" tvg-id="30AMusic.us" tvg-logo="https://i.imgur.com/gNWg9tl.png" ,30A Music Channel
+#EXTINF:-1 group-title="Music" tvg-id="30AMusic.us" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/30A Music.png" ,30A Music
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="981PearlFM.sx" tvg-logo="https://i.imgur.com/GY750xh.jpg" ,98.1 Pearl FM (720p)
+#EXTINF:-1 group-title="Music" tvg-id="981PearlFM.sx" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/98.1 Pearl FM.png" ,98.1 Pearl FM
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://i.imgur.com/232ndRK.png" ,Afrobeats (1080p)
+#EXTINF:-1 group-title="Music" tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Afrobeats.png" ,Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="AfrobeatsTV.za" tvg-logo="https://i.imgur.com/u0d5j0C.png" ,Afrobeats TV (1080p)
+#EXTINF:-1 group-title="Music" tvg-id="AfrobeatsTV.za" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Afrobeats TV.png" ,Afrobeats TV
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="Afrobit.cm" tvg-logo="https://i.imgur.com/M0m4Rra.png" ,Afrobit (480p) [Not 24/7]
 http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8
