@@ -66,16 +66,6 @@ https://cdn.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Dafrah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dafrah TV.png" group-title="General",Al Dafrah TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist_b2028000.m3u8
 
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Mix" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Mix.png" group-title="General",Weyyak Mix
-https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Nawaem" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Nawaem.png" group-title="General",Weyyak Nawaem
-https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Action.png" group-title="Movies",Weyyak Action
-https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" group-title="Movies",Weyyak Drama
-https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
-
 //News
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News Arabia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sky News Arabia.png" group-title="News",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
@@ -115,100 +105,6 @@ https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index
 https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I24 News Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/I24 News Arabic.png" group-title="News",I24 News Arabic
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Hayat TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Hayat TV.png" group-title="General",Al Hayat TV
-https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b1128000.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alaraby 2 TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby 2 TV.png" group-title="General",Alaraby 2 TV
-https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain TV.png" group-title="General",Bahrain TV
-https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain Sports 1" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Sports 1.png" group-title="Sports",Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain Sports 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Sports 2.png" group-title="Sports",Bahrain Sports 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain Quran" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Quran.png" group-title="Religion",Bahrain Quran
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Khalij" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Khalij.png" group-title="General",Al Khalij
-https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atfal & Mawaheb TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Atfal & Mawaheb TV.png" group-title="General",Atfal & Mawaheb TV
-https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman.png" group-title="General",Oman
-https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Mubasher" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Mubasher.png" group-title="General",Oman Mubasher
-https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Calture" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Calture.png" group-title="Documentary",Oman Calture
-https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Sport" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Sport.png" group-title="Sports",Oman Sport
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qatar TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV.png" group-title="General",Qatar TV
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qatar TV 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV 2.png" group-title="General",Qatar TV 2
-https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clarity 4K" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Clarity 4K.png" group-title="Documentary",Clarity 4K
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Istiqama TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Istiqama TV.png" group-title="Kids",Al Istiqama TV
-https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iqraa" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Iqraa.png" group-title="Religion",Iqraa
-https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kaif TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kaif TV.png" group-title="Religion",Kaif TV
-http://82.212.74.2:8000/live/hls/7311.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Makkah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" group-title="Religion",Makkah TV
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-
-
-
-
-
 
 //shahid MBC
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC.png" group-title="shahid",MBC
@@ -309,6 +205,110 @@ https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AlThaqafeya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AlThaqafeya.png" group-title="shahid",AlThaqafeya
 https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_8.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Mix" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Mix.png" group-title="General",Weyyak Mix
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Nawaem" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Nawaem.png" group-title="General",Weyyak Nawaem
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Action.png" group-title="Movies",Weyyak Action
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" group-title="Movies",Weyyak Drama
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Hayat TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Hayat TV.png" group-title="General",Al Hayat TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b1128000.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alaraby 2 TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby 2 TV.png" group-title="General",Alaraby 2 TV
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain TV.png" group-title="General",Bahrain TV
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain Sports 1" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Sports 1.png" group-title="Sports",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain Sports 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Sports 2.png" group-title="Sports",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain Quran" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Quran.png" group-title="Religion",Bahrain Quran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Khalij" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Khalij.png" group-title="General",Al Khalij
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atfal & Mawaheb TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Atfal & Mawaheb TV.png" group-title="General",Atfal & Mawaheb TV
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman.png" group-title="General",Oman
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Mubasher" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Mubasher.png" group-title="General",Oman Mubasher
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Calture" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Calture.png" group-title="Documentary",Oman Calture
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Sport" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Sport.png" group-title="Sports",Oman Sport
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qatar TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV.png" group-title="General",Qatar TV
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qatar TV 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV 2.png" group-title="General",Qatar TV 2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clarity 4K" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Clarity 4K.png" group-title="Documentary",Clarity 4K
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Istiqama TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Istiqama TV.png" group-title="Kids",Al Istiqama TV
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iqraa" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Iqraa.png" group-title="Religion",Iqraa
+https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kaif TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kaif TV.png" group-title="Religion",Kaif TV
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Makkah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" group-title="Religion",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+
+
+
+
+
+
 
 
 
