@@ -529,25 +529,25 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 // new
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",AXN 4K
 http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7686
-#EXTINF:-1 ,BOOMERANG UHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",BOOMERANG UHD
 http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7701
-#EXTINF:-1,CARTOON NETWORK 4K
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",CARTOON NETWORK 4K
 http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7699
-#EXTINF:-1,TVCINE HOLLYWOOD HD LEG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",TVCINE HOLLYWOOD HD LEG
 http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7707
-#EXTINF:-1,TVCINE MUNDO HD LEG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",TVCINE MUNDO HD LEG
 http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7717
-#EXTINF:-1,CINEMAX 4K
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",CINEMAX 4K
 http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7688
-#EXTINF:-1,TELECINE ACTION 4K
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",TELECINE ACTION 4K
 http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7687
-#EXTINF:-1,TVCINE ACTION HD LEG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",TVCINE ACTION HD LEG
 http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7716
-#EXTINF:-1,TVCINE EDITION HD LEG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",TVCINE EDITION HD LEG
 http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7714
-#EXTINF:-1,TVCINE EMOTON HD LEG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",TVCINE EMOTON HD LEG
 http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7715
-#EXTINF:-1,TVCINE TOP HD LEG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",TVCINE TOP HD LEG
 http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7713
 #EXTINF:-1,Cavaleiros do Zodiaco 3 24/7
 http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/18409
