@@ -287,7 +287,15 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",Rambo: Programado Para Matar (1982)
 http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36037.mp4
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",Rambo: Até o Fim (2019)
+http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/1410.mkv
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",Rambo II - A Missão (1985)
+http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36038.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",Rambo III (1988)
+http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36039.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="new",Rambo IV (2008)
+http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36040.mp4
 
 
 
