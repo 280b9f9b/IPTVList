@@ -265,10 +265,10 @@
 		<!-- Header -->
 		<header>
 			<div id="player-wrapper" >
-<video id="my-video" class="video-js" controls preload="auto" poster="https://htmlcolorcodes.com/assets/images/colors/black-color-solid-background-1920x1080.png" controls>
-<source src="http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7699" type="application/x-mpegURL" autoplay/>
-</video>
-</div>
+				<video id="my-video" class="video-js" controls preload="auto" poster="https://htmlcolorcodes.com/assets/images/colors/black-color-solid-background-1920x1080.png" controls>
+					<source src="http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7699" type="application/x-mpegURL" autoplay/>
+				</video>
+			</div>
 			<div id="controls">
 				<h3 id="total-channels">...</h3>
 				&nbsp;
@@ -356,75 +356,55 @@
 			        // Get the URL of the channel from the clicked <li> element
 			        var channelUrl = $(this).data('url');
 			
-			        // Create a video player instance
-			        var player = videojs(document.querySelector('#my-video'));
+			        // Set the video source
+			        $("#my-video source").attr("src", channelUrl);
 			
-			        // Set the video source and type
-			        player.src({
-			            src: channelUrl,
-			            type: 'application/x-mpegURL'
-			        });
+			        // Load the new source
+			        $("#my-video")[0].load();
 			
-			        // Start playing the video
-			        player.play();
+			        // Play the video
+			        $("#my-video")[0].play();
 			    });
 			
-			// Event listener for search input
-			$("#search-input").on('input', function () {
-			const searchText = $(this).val();
-			const groupTitle = $("#group-title-filter").val();
-			filterChannels(searchText, groupTitle);
-			});
+			    // Event listener for search input
+			    $("#search-input").on('input', function () {
+			        const searchText = $(this).val();
+			        const groupTitle = $("#group-title-filter").val();
+			        filterChannels(searchText, groupTitle);
+			    });
 			
-			// Event listener for filter dropdown change
-			$("#group-title-filter").on('change', function () {
-			const groupTitle = $(this).val();
-			const searchText = $("#search-input").val();
-			filterChannels(searchText, groupTitle);
-			});
+			    // Event listener for filter dropdown change
+			    $("#group-title-filter").on('change', function () {
+			        const groupTitle = $(this).val();
+			        const searchText = $("#search-input").val();
+			        filterChannels(searchText, groupTitle);
+			    });
 			
-			// Function to populate filter dropdown with unique group titles
-			function populateFilterDropdown(channels) {
-			const uniqueGroupTitles = [...new Set(channels.map(channel => channel.groupTitle))];
-			const dropdown = $("#group-title-filter");
-			uniqueGroupTitles.forEach(title => {
-			   dropdown.append(`<option value="${title}">${title}</option>`);
-			});
-			}
+			    // Function to populate filter dropdown with unique group titles
+			    function populateFilterDropdown(channels) {
+			        const uniqueGroupTitles = [...new Set(channels.map(channel => channel.groupTitle))];
+			        const dropdown = $("#group-title-filter");
+			        uniqueGroupTitles.forEach(title => {
+			            dropdown.append(`<option value="${title}">${title}</option>`);
+			        });
+			    }
 			
-			$(document).ready(function () {
-			// Other code...
+			    // Function to filter channels based on search input and group title
+			    function filterChannels(searchText, groupTitle) {
+			        const filteredChannels = channels.filter(channel => {
+			            const nameMatch = channel.name.toLowerCase().includes(searchText.toLowerCase());
+			            const groupTitleMatch = groupTitle === "" || channel.groupTitle.toLowerCase() === groupTitle.toLowerCase();
+			            return nameMatch && groupTitleMatch;
+			        });
+			        renderChannels(filteredChannels);
+			        // Update total channels count
+			        updateTotalChannelsCount(filteredChannels);
+			    }
 			
-			// Event listener for clicking on a channel
-			$("#container").on('click', 'li', function () {
-			// Get the name of the channel from the clicked <li> element
-			var channelName = $(this).find('h2').text();
-			
-			// Update the title of the webpage to the name of the channel
-			document.title = channelName;
-			
-			// Other code...
-			});
-			
-			// Other code...
-			});
-			
-			// Function to filter channels based on search input and group title
-			function filterChannels(searchText, groupTitle) {
-			const filteredChannels = channels.filter(channel => {
-			   const nameMatch = channel.name.toLowerCase().includes(searchText.toLowerCase());
-			   const groupTitleMatch = groupTitle === "" || channel.groupTitle.toLowerCase() === groupTitle.toLowerCase();
-			   return nameMatch && groupTitleMatch;
-			});
-			renderChannels(filteredChannels);
-			// Update total channels count
-			updateTotalChannelsCount(filteredChannels);
-			}
-			
-			// Function to update total channels count
-			function updateTotalChannelsCount(channels) {
-			document.getElementById('total-channels').textContent = `${channels.length}`;
-			}
+			    // Function to update total channels count
+			    function updateTotalChannelsCount(channels) {
+			        document.getElementById('total-channels').textContent = `${channels.length}`;
+			    }
 			});
 		</script>
 	</body>
