@@ -4,10 +4,11 @@
 		<!-- Meta Tags -->
 		<meta charset="UTF-8">
 		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="theme-color" content="#1c1c1c"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<link rel="apple-touch-icon" href="https://i.pinimg.com/originals/aa/c4/e5/aac4e5baec8d10225dd20882df5edb9d.png">
 		<!-- Stylesheets -->
-		<link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet">
+		<link href="https://vjs.zencdn.net/8.14.0/video-js.css" rel="stylesheet">
 		<!-- Polyfills and Libraries -->
 		<script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
 		<script src="https://code.jquery.com/jquery-3.7.1.min.js" crossorigin="anonymous"></script>
@@ -166,7 +167,7 @@
 			margin: auto;
 			width: 100%;
 			padding: 10px;
-			margin-top: 150px;
+			margin-top: 190px;
 			}
 			#container {
 			margin-top: 10px;
@@ -245,7 +246,7 @@
 			display: block;
 			margin: 0 auto;
 			width: 100%;
-			height: 100px; /* Added 'px' unit */
+			height: 150px; /* Added 'px' unit */
 			}
 			.video-js .vjs-big-play-button {
 			top: 50%;
@@ -264,9 +265,14 @@
 	<body>
 		<!-- Header -->
 		<header>
-			<div id="player-wrapper" >
-				<video id="my-video" class="video-js" controls preload="auto" poster="https://htmlcolorcodes.com/assets/images/colors/black-color-solid-background-1920x1080.png" controls>
-					<source src="http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7699" type="application/x-mpegURL" autoplay/>
+			<div id="player-wrapper">
+				<video id="my-video" class="video-js" controls preload="auto" poster="" data-setup="{}">
+					<source src="https://stream.skynewsarabia.com/hls/sna.m3u8" type="application/x-mpegURL">
+					<p class="vjs-no-js">
+						To view this video please enable JavaScript, and consider upgrading to a
+						web browser that
+						<a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+					</p>
 				</video>
 			</div>
 			<div id="controls">
@@ -284,7 +290,7 @@
 			<ul id="container"></ul>
 		</div>
 		<!-- Scripts -->
-		<script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+		<script src="https://vjs.zencdn.net/8.14.0/video.min.js"></script>
 		<script>
 			$(document).ready(function () {
 			    let channels = []; // Initialize channels array
@@ -292,7 +298,7 @@
 			    // Fetch channel list via AJAX request
 			    $.ajax({
 			        type: "GET",
-			        url: 'https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels2.m3u',
+			        url: 'https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels.m3u',
 			        success: function (message, text, response) {
 			            let str = message;
 			            let array = str.split("\n");
@@ -356,55 +362,75 @@
 			        // Get the URL of the channel from the clicked <li> element
 			        var channelUrl = $(this).data('url');
 			
-			        // Set the video source
-			        $("#my-video source").attr("src", channelUrl);
+			        // Create a video player instance
+			        var player = videojs(document.querySelector('#my-video'));
 			
-			        // Load the new source
-			        $("#my-video")[0].load();
-			
-			        // Play the video
-			        $("#my-video")[0].play();
-			    });
-			
-			    // Event listener for search input
-			    $("#search-input").on('input', function () {
-			        const searchText = $(this).val();
-			        const groupTitle = $("#group-title-filter").val();
-			        filterChannels(searchText, groupTitle);
-			    });
-			
-			    // Event listener for filter dropdown change
-			    $("#group-title-filter").on('change', function () {
-			        const groupTitle = $(this).val();
-			        const searchText = $("#search-input").val();
-			        filterChannels(searchText, groupTitle);
-			    });
-			
-			    // Function to populate filter dropdown with unique group titles
-			    function populateFilterDropdown(channels) {
-			        const uniqueGroupTitles = [...new Set(channels.map(channel => channel.groupTitle))];
-			        const dropdown = $("#group-title-filter");
-			        uniqueGroupTitles.forEach(title => {
-			            dropdown.append(`<option value="${title}">${title}</option>`);
+			        // Set the video source and type
+			        player.src({
+			            src: channelUrl,
+			            type: 'application/x-mpegURL'
 			        });
-			    }
 			
-			    // Function to filter channels based on search input and group title
-			    function filterChannels(searchText, groupTitle) {
-			        const filteredChannels = channels.filter(channel => {
-			            const nameMatch = channel.name.toLowerCase().includes(searchText.toLowerCase());
-			            const groupTitleMatch = groupTitle === "" || channel.groupTitle.toLowerCase() === groupTitle.toLowerCase();
-			            return nameMatch && groupTitleMatch;
-			        });
-			        renderChannels(filteredChannels);
-			        // Update total channels count
-			        updateTotalChannelsCount(filteredChannels);
-			    }
+			        // Start playing the video
+			        player.play();
+			    });
 			
-			    // Function to update total channels count
-			    function updateTotalChannelsCount(channels) {
-			        document.getElementById('total-channels').textContent = `${channels.length}`;
-			    }
+			// Event listener for search input
+			$("#search-input").on('input', function () {
+			const searchText = $(this).val();
+			const groupTitle = $("#group-title-filter").val();
+			filterChannels(searchText, groupTitle);
+			});
+			
+			// Event listener for filter dropdown change
+			$("#group-title-filter").on('change', function () {
+			const groupTitle = $(this).val();
+			const searchText = $("#search-input").val();
+			filterChannels(searchText, groupTitle);
+			});
+			
+			// Function to populate filter dropdown with unique group titles
+			function populateFilterDropdown(channels) {
+			const uniqueGroupTitles = [...new Set(channels.map(channel => channel.groupTitle))];
+			const dropdown = $("#group-title-filter");
+			uniqueGroupTitles.forEach(title => {
+			   dropdown.append(`<option value="${title}">${title}</option>`);
+			});
+			}
+			
+			$(document).ready(function () {
+			// Other code...
+			
+			// Event listener for clicking on a channel
+			$("#container").on('click', 'li', function () {
+			// Get the name of the channel from the clicked <li> element
+			var channelName = $(this).find('h2').text();
+			
+			// Update the title of the webpage to the name of the channel
+			document.title = channelName;
+			
+			// Other code...
+			});
+			
+			// Other code...
+			});
+			
+			// Function to filter channels based on search input and group title
+			function filterChannels(searchText, groupTitle) {
+			const filteredChannels = channels.filter(channel => {
+			   const nameMatch = channel.name.toLowerCase().includes(searchText.toLowerCase());
+			   const groupTitleMatch = groupTitle === "" || channel.groupTitle.toLowerCase() === groupTitle.toLowerCase();
+			   return nameMatch && groupTitleMatch;
+			});
+			renderChannels(filteredChannels);
+			// Update total channels count
+			updateTotalChannelsCount(filteredChannels);
+			}
+			
+			// Function to update total channels count
+			function updateTotalChannelsCount(channels) {
+			document.getElementById('total-channels').textContent = `${channels.length}`;
+			}
 			});
 		</script>
 	</body>
