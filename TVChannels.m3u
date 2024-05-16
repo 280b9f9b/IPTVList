@@ -284,7 +284,7 @@ http://82.212.74.2:8000/live/hls/7311.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Makkah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" group-title="Religion",Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/zkRQyfq4uun0G6SUwvpQ8QkV2zt.jpg" group-title="new",Rambo (1982)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/4aMs1TaLpf4c5aooj52BCt9Ap0.jpg" group-title="new",Rambo (1982)
 http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36037.mp4
 
 
