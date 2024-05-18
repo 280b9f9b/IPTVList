@@ -45,6 +45,19 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.
 https://dmithrvll.cdn.mangomolo.com/dubairdo/dubairdo_aac/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Noor Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Noor Dubai.png" group-title="Religion",Noor Dubai
 http://dmithrvll.cdn.mangomolo.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
+//Dubai Radio.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Khaleejiya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Khaleejiya.png" group-title="Music",Al Khaleejiya
+https://stream.radiojar.com/5wpf9e4erxquv
+
+
+
+
+
+
+
+
+
+
 
 //Sharjah.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah TV.png" group-title="General",Sharjah TV
