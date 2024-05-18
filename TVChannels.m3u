@@ -326,7 +326,8 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 https://stream.radiojar.com/gmwyu8xdrxquv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1062 BIG FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/1062 BIG FM.png" group-title="Music",1062 BIG FM
 https://funasia.streamguys1.com/live4
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suno1024" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Suno1024.png" group-title="Music",Suno1024
+https://eu8.fastcast4u.com/proxy/clyedupq?mp=/1
 
 
 
