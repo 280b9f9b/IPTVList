@@ -235,6 +235,9 @@ https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AlThaqafeya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AlThaqafeya.png" group-title="shahid",AlThaqafeya
 https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_8.m3u8
+//MBC shahid Radio.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alarabiya FM.png" group-title="News",Alarabiya FM
+https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 
 //Arab Gulf states.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman.png" group-title="General",Oman
