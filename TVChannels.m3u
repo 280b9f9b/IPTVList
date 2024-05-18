@@ -287,17 +287,17 @@ https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NogoumFMTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/NogoumFMTV.png" group-title="Music",NogoumFMTV
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
 //Music Radio.
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Positively 60's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Positively 60's.png" group-title="Music",Positively 60's
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Positively 60's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Positively 60s.png" group-title="Music",Positively 60's
 https://streaming.positivity.radio/pr/posi60s/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Positively 70's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Positively 70's.png" group-title="Music",Positively 70's
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Positively 70's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Positively 70s.png" group-title="Music",Positively 70's
 https://streaming.positivity.radio/pr/posi70s/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Positively 80's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Positively 80's.png" group-title="Music",Positively 80's
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Positively 80's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Positively 80s.png" group-title="Music",Positively 80's
 https://streaming.positivity.radio/pr/posi80s/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Positively 90's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Positively 90's.png" group-title="Music",Positively 90's
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Positively 90's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Positively 90s.png" group-title="Music",Positively 90's
 https://streaming.positivity.radio/pr/posi90s/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Positively 00's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Positively 00's.png" group-title="Music",Positively 00's
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Positively 00's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Positively 00s.png" group-title="Music",Positively 00's
 https://streaming.positivity.radio/pr/posi00s/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Positively 10's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Positively 10's.png" group-title="Music",Positively 10's
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Positively 10's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Positively 10s.png" group-title="Music",Positively 10's
 https://streaming.positivity.radio/pr/posi10s/icecast.audio
 
 
