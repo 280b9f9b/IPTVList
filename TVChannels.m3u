@@ -330,13 +330,17 @@ https://funasia.streamguys1.com/live4
 https://eu8.fastcast4u.com/proxy/clyedupq?mp=/1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hit 96.7" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Hit 96.7.png" group-title="Music",Hit 96.7
 https://stream.radiojar.com/3yygc0pwuueuv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gold FM"" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Gold FM".png" group-title="Music",Gold FM"
+https://stream.radio.co/s00240810b/listen
+
+
+
+
 
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/4aMs1TaLpf4c5aooj52BCt9Ap0.jpg" group-title="new",Rambo (1982)
 http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36037.mp4
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/pzPdwOitmTleVE3YPMfIQgLh84p.jpg" group-title="new",Rambo II (1985)
 http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36038.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/pTVm2HrqV5kOt8tG4ZURNuhrmAq.jpg" group-title="new",Rambo III (1988)
