@@ -196,10 +196,16 @@ header h1 {
         margin: auto;
         width: 100%;
         padding: 10px;
-        margin-top: 235px;
+        margin-top: 250px;
+    }
+    #channel-containerp {
+        margin: auto;
+        width: 100%;
+        padding: 10px;
+        margin-top: 10px;
     }
 
-    #container {
+    #container1, #container2 {
         margin-top: 10px;
         display: flex;
         flex-wrap: wrap;
@@ -285,6 +291,15 @@ header h1 {
         text-align: center;
     }
 
+    h4 {
+        padding: 0;
+        margin: 0;
+        font-size: 16px;
+        color: #fff;
+        width: auto;
+        text-align: center;
+    }
+
     #player-wrapper {
         margin-top: 10px;
     }
@@ -347,9 +362,18 @@ header h1 {
         </div>
     </header>
     <!-- The element where the channel list -->
-    <div id="channel-container">
-        <ul id="container"></ul>
+
+
+    <div id="channel-container"><h4>Abu Dhabi</h4>
+        <ul id="container1"></ul>
     </div>
+
+
+<div id="channel-containerp">
+<h4>Dubai</h4>
+        <ul id="container2"></ul>
+    </div>
+
     <!-- Scripts -->
     <script src="https://vjs.zencdn.net/8.14.0/video.min.js"></script>
     <script>
@@ -360,7 +384,7 @@ header h1 {
     $.ajax({
 
         type: "GET",
-        url: 'https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels.m3u',
+        url: 'abudhabi.m3u',
         success: function(message, text, response) {
                 let str = message;
                 let array = str.split("\n");
@@ -406,20 +430,20 @@ header h1 {
     // Function to render channels
     function renderChannels(channels) {
         // Clear previous channels
-        $("#container").empty();
+        $("#container1").empty();
 
         // Append channels to the container
         channels.forEach(function(channel) {
             let card = $("<div class='channel-card'><img src='" + channel.image + "'><h2>" + channel.name + "</h2><p>" + channel.groupTitle + "</p></div>");
 
-            $("#container").append("<li data-url='" + channel.url + "'></li>").find("li").last().append(card);
+            $("#container1").append("<li data-url='" + channel.url + "'></li>").find("li").last().append(card);
         });
     }
 
     // Event listener for clicking on a channel
-    $("#container").on('click', 'li', function() {
+    $("#container1").on('click', 'li', function() {
         // Remove the class from previously selected channel image
-        $('#container li img.selected').removeClass('selected');
+        $('#container1 li img.selected').removeClass('selected');
         // Add the class to the clicked channel image
         $(this).find('img').addClass('selected');
 
@@ -468,7 +492,155 @@ header h1 {
         // Other code...
 
         // Event listener for clicking on a channel
-        $("#container").on('click', 'li', function() {
+        $("#container1").on('click', 'li', function() {
+            // Get the name of the channel from the clicked <li> element
+            var channelName = $(this).find('h2').text();
+
+            // Update the title of the webpage to the name of the channel
+            document.title = channelName;
+
+            // Other code...
+        });
+
+        // Other code...
+    });
+
+    // Function to filter channels based on search input and group title
+    function filterChannels(searchText, groupTitle) {
+        const filteredChannels = channels.filter(channel => {
+            const nameMatch = channel.name.toLowerCase().includes(searchText.toLowerCase());
+            const groupTitleMatch = groupTitle === "" || channel.groupTitle.toLowerCase() === groupTitle.toLowerCase();
+            return nameMatch && groupTitleMatch;
+        });
+        renderChannels(filteredChannels);
+        // Update total channels count
+        updateTotalChannelsCount(filteredChannels);
+    }
+
+    // Function to update total channels count
+    function updateTotalChannelsCount(channels) {
+        document.getElementById('total-channels').textContent = `${channels.length}`;
+    }
+});
+    </script>
+
+<script>
+	    $(document).ready(function() {
+    let channels = []; // Initialize channels array
+
+    // Fetch channel list via AJAX request
+    $.ajax({
+
+        type: "GET",
+        url: 'dubai.m3u',
+        success: function(message, text, response) {
+                let str = message;
+                let array = str.split("\n");
+                channels = [];
+
+                // Parse channel list
+                array.forEach(function(line) {
+                    if (line.startsWith("#EXTINF:")) {
+                        let tvgLogo = line.match(/tvg-logo="([^"]+)"/);
+                        let groupTitle = line.match(/group-title="([^"]+)"/);
+                        if (tvgLogo && tvgLogo.length > 1) {
+                            let channel = {
+                                name: line.split(",")[1],
+                                groupTitle: groupTitle ? groupTitle[1] : "",
+                                url: "",
+                                image: tvgLogo[1]
+                            }
+
+                            ;
+                            channels.push(channel);
+                        }
+                    } else if (line.startsWith("http")) {
+                        channels[channels.length - 1].url = line;
+                    }
+                });
+
+                // Render channels initially
+                renderChannels(channels);
+
+                // Populate filter dropdown with unique group titles
+                populateFilterDropdown(channels);
+
+                // Update total channels count
+                updateTotalChannelsCount(channels);
+            }
+
+            ,
+        error: function(xhr, status, error) {
+            console.error("Error fetching channel list:", error);
+        }
+    });
+
+    // Function to render channels
+    function renderChannels(channels) {
+        // Clear previous channels
+        $("#container2").empty();
+
+        // Append channels to the container
+        channels.forEach(function(channel) {
+            let card = $("<div class='channel-card'><img src='" + channel.image + "'><h2>" + channel.name + "</h2><p>" + channel.groupTitle + "</p></div>");
+
+            $("#container2").append("<li data-url='" + channel.url + "'></li>").find("li").last().append(card);
+        });
+    }
+
+    // Event listener for clicking on a channel
+    $("#container2").on('click', 'li', function() {
+        // Remove the class from previously selected channel image
+        $('#container2 li img.selected').removeClass('selected');
+        // Add the class to the clicked channel image
+        $(this).find('img').addClass('selected');
+
+
+        // Get the URL of the channel from the clicked <li> element
+        var channelUrl = $(this).data('url');
+
+        // Create a video player instance
+        var player = videojs(document.querySelector('#my-video'));
+
+        // Set the video source and type
+        player.src({
+            src: channelUrl,
+            type: 'application/x-mpegURL'
+        });
+
+        // Start playing the video
+        player.play();
+    });
+
+    // Event listener for search input
+    $("#search-input").on('input', function() {
+        const searchText = $(this).val();
+        const groupTitle = $("#group-title-filter").val();
+        filterChannels(searchText, groupTitle);
+    });
+
+    // Event listener for filter dropdown change
+    $("#group-title-filter").on('change', function() {
+        const groupTitle = $(this).val();
+        const searchText = $("#search-input").val();
+        filterChannels(searchText, groupTitle);
+    });
+
+    // Function to populate filter dropdown with unique group titles
+    function populateFilterDropdown(channels) {
+        const uniqueGroupTitles = [...new Set(channels.map(channel => channel.groupTitle))];
+        const dropdown = $("#group-title-filter");
+
+        uniqueGroupTitles.forEach(title => {
+            dropdown.append(`<option value="${title}" >${title}</option>`);
+        });
+    }
+
+    $(document).ready(function() {
+        // Other code...
+
+        // Event listener for clicking on a channel
+        $("#container2").on('click', 'li', function() {
             // Get the name of the channel from the clicked <li> element
             var channelName = $(this).find('h2').text();
 
