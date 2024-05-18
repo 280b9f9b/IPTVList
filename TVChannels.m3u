@@ -17,6 +17,10 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/in
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yas" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Yas.png" group-title="Sports",Yas
 https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
+//Abu Dhabi Radio.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News Arabia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sky News Arabia.png" group-title="News",Sky News Arabia
+https://radio.skynewsarabia.com/stream/radio/skynewsarabia
+
 
 //Dubai.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai TV.png" group-title="General",Dubai TV
@@ -52,7 +56,7 @@ https://stream.radiojar.com/5wpf9e4erxquv
 https://stream.radiojar.com/nhq0vcqwuueuv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Arabiya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Arabiya.png" group-title="Music",Al Arabiya
 https://stream.radiojar.com/s1mygd1frxquv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai 92" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai 92.png" group-title="Dubai 92
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai 92" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai 92.png" group-title="Music",Dubai 92
 https://stream.radiojar.com/6ty5rrkerxquv
 
 
