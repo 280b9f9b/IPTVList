@@ -27,12 +27,15 @@ header h1 {
     text-align: center;
 }
 h4 {
-    padding: 0;
+    padding: 5;
     margin: 0;
     font-size: 16px;
     color: #fff;
     width: auto;
     text-align: center;
+    background-color: red;
+    width: 100%;
+    
 }
 #channel-container {
     margin: auto;
