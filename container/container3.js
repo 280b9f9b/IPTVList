@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    fetchAndRenderChannels('shahid.m3u', '#container3');
+    fetchAndRenderChannels('https://iptv-org.github.io/iptv/categories/lifestyle.m3u', '#container3');
 });
 
 function fetchAndRenderChannels(url, containerId) {
