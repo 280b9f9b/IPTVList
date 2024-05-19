@@ -46,7 +46,7 @@ h4 {
     padding: 10px;
     
 }
-#container1, #container2 {
+#container1, #container2, #container3 {
     margin-top: 10px;
     display: flex;
     flex-wrap: wrap;
@@ -198,7 +198,7 @@ h4 {
         margin-top: 1px;
     }
 
-    #container1, #container2 {
+    #container1, #container2, #container3 {
         margin-top: 10px;
         display: flex;
         flex-wrap: wrap;
