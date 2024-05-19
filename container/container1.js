@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    fetchAndRenderChannels('abudhabi.m3u', '#container1');
+    fetchAndRenderChannels('https://iptv-org.github.io/iptv/countries/ae.m3u.m3u', '#container1');
 });
 
 function fetchAndRenderChannels(url, containerId) {
