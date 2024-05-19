@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    fetchAndRenderChannels('shahid.m3u', '#container2');
+    fetchAndRenderChannels('shahid.m3u', '#container3');
 });
 
 function fetchAndRenderChannels(url, containerId) {
