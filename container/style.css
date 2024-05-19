@@ -60,11 +60,13 @@ h4 {
 .channel-card {
     padding: 8px;
     vertical-align: top;
+    width: 100px;
+    height: 100px;
 }
 
 .channel-card img {
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     border-radius: 5%;
     background-color: #28292c;
 }
