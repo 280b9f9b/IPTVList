@@ -52,5 +52,7 @@ http://uk6.internet-radio.com:8103/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Exclusively ABBA" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Exclusively ABBA.png" group-title="Music",Exclusively ABBA
 http://streaming.exclusive.radio/er/abba/icecast.audio
 
-
+#EXTINF:-1 tvg-id="5TV.am" tvg-logo="https://i.imgur.com/jOGZZDo.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",5 ԹԻՎԻ (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7688
 
