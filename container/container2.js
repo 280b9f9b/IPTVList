@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    fetchAndRenderChannels('dubai.m3u', '#container2');
+    fetchAndRenderChannels('https://iptv-org.github.io/iptv/languages/ara.m3u', '#container2');
 });
 
 function fetchAndRenderChannels(url, containerId) {
