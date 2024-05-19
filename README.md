@@ -14,6 +14,7 @@
    https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels.m3u
    ```
 [IPTVList 2](https://280b9f9b.github.io/IPTVList/index2.html)
+[IPTVList 3](https://280b9f9b.github.io/IPTVList/container/index.html)
 
 ## Radio 
 ###### [listen_to_raddio.net](https://github.com/junguler/listen_to_raddio.net/tree/main?tab=readme-ov-file)
