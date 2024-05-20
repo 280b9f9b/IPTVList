@@ -2,10 +2,10 @@
 
 
 //Abu Dhabi.
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi.png" group-title="General",Abu Dhabi
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Emirates" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Emirates.png" group-title="General",Emirates
-https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC 2.png" group-title="General",MBC 2
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/2082
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC ACTION" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC ACTION.png" group-title="General",MBC ACTION
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/2079
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Baynounah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Baynounah TV.png" group-title="General",Baynounah TV
 https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/playlist.m3u8
 
