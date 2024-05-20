@@ -1,7 +1,7 @@
 #EXTM3U url-tvg=""
 
 
-//Abu Dhabi.
+//MBC.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC 2.png" group-title="General",MBC 2
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/2082
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC ACTION" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC ACTION.png" group-title="General",MBC ACTION
