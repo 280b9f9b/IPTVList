@@ -1,48 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="General",CINEMAX 4K
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Movies",CINEMAX 4K
 http://178.162.193.239:2052/cprimemain-Zck5Tgz8ON/YEmvLQiahj/7688
 
 
 
 
-#EXTINF:-1 group-title="Arab Netflix",ARNF001:Netflix Animation
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF001:Netflix Animation
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60464
-#EXTINF:-1 group-title="Arab Netflix",ARNF002:Netflix Arabic 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF002:Netflix Arabic 1
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60409
-#EXTINF:-1 group-title="Arab Netflix",ARNF003:Netflix Arabic 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF003:Netflix Arabic 2
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60475
-#EXTINF:-1 group-title="Arab Netflix",ARNF004:Netflix Arabic 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF004:Netflix Arabic 3
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60407
-#EXTINF:-1 group-title="Arab Netflix",ARNF005:Netflix Arabic Classic
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF005:Netflix Arabic Classic
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60408
-#EXTINF:-1 group-title="Arab Netflix",ARNF006:Netflix Action 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF006:Netflix Action 1
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60476
-#EXTINF:-1 group-title="Arab Netflix",ARNF007:Netflix Action 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF007:Netflix Action 2
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60477
-#EXTINF:-1 group-title="Arab Netflix",ARNF008:Netflix Action War
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF008:Netflix Action War
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60411
-#EXTINF:-1 group-title="Arab Netflix",ARNF009:Netflix Drama 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF009:Netflix Drama 1
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60410
-#EXTINF:-1 group-title="Arab Netflix",ARNF010:Netflix Drama 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF010:Netflix Drama 2
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60285
-#EXTINF:-1 group-title="Arab Netflix",ARNF011:Netflix Comedy 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF011:Netflix Comedy 1
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60286
-#EXTINF:-1 group-title="Arab Netflix",ARNF015:Netflix Horror 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF015:Netflix Horror 1
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60357
-#EXTINF:-1 group-title="Arab Netflix",ARNF016:Netflix Horror 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF016:Netflix Horror 2
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60374
-#EXTINF:-1 group-title="Arab Netflix",ARNF017:Netflix Family 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF017:Netflix Family 1
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60375
-#EXTINF:-1 group-title="Arab Netflix",ARNF018:Netflix Family 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF018:Netflix Family 2
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60376
-#EXTINF:-1 group-title="Arab Netflix",ARNF014:Netflix Crime 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF014:Netflix Crime 2
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60459
-#EXTINF:-1 group-title="Arab Netflix",ARNF012:Netflix Comedy 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF012:Netflix Comedy 2
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60479
-#EXTINF:-1 group-title="Arab Netflix",ARNF013:Netflix Crime 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF013:Netflix Crime 1
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60480
-#EXTINF:-1 group-title="Arab Netflix",ARNF019:Netflix Masrahiyat 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF019:Netflix Masrahiyat 1
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60481
-#EXTINF:-1 group-title="Arab Netflix",ARNF020:Netflix Masrahiyat 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/cover.png" group-title="Arab Netflix",ARNF020:Netflix Masrahiyat 2
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/60482
+
+
+
+
+
+
+
+
+
 
