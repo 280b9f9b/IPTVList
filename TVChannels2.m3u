@@ -2,10 +2,10 @@
 
 
 //MBC.
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC 2.png" group-title="General",MBC 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC 2.png" group-title="Movies",MBC 2
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/2082
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC ACTION" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC ACTION.png" group-title="General",MBC ACTION
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC ACTION" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC ACTION.png" group-title="Movies",MBC ACTION
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/27763
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC MAX" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC MAX.png" group-title="General",MBC MAX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC MAX" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC MAX.png" group-title="Movies",MBC MAX
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/27752
 
