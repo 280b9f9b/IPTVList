@@ -19,6 +19,20 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/in
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yas" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Yas.png" group-title="Sports",Yas
 https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 //Abu Dhabi Radio.
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quraan Kareem FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Quraan Kareem FM.png" group-title="News",Quraan Kareem FM
+//https://radio.skynewsarabia.com/stream/radio/skynewsarabia
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi FM.png" group-title="News",Abu Dhabi FM
+//https://radio.skynewsarabia.com/stream/radio/skynewsarabia
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Star FM.png" group-title="News",Star FM
+//https://radio.skynewsarabia.com/stream/radio/skynewsarabia
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Emarat FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Emarat FM.png" group-title="News",Emarat FM
+//https://radio.skynewsarabia.com/stream/radio/skynewsarabia
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio 1" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio 1.png" group-title="News",Radio 1
+//https://radio.skynewsarabia.com/stream/radio/skynewsarabia
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kadak FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kadak FM.png" group-title="News",Kadak FM
+//https://radio.skynewsarabia.com/stream/radio/skynewsarabia
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News Arabia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sky News Arabia.png" group-title="News",Sky News Arabia
 https://radio.skynewsarabia.com/stream/radio/skynewsarabia
 
