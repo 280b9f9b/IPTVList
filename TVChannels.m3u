@@ -33,7 +33,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/Radio1/HLS/index.m3u8
 https://vo-live.cdb.cdn.orange.com/Content/Channel/radio_2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kadak FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kadak FM.png" group-title="Radio",Kadak
 https://vo-live.cdb.cdn.orange.com/Content/Channel/kadak_fm/HLS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Classic FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi Classic FM.png" group-title="Radio",AD Classic FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi Classic FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi Classic FM.png" group-title="Radio",AD Classic
 https://vo-live.cdb.cdn.orange.com/Content/Channel/classic_fm/HLS/index.m3u8
 
 
