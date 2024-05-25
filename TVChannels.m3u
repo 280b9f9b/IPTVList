@@ -465,7 +465,8 @@ https://26383.live.streamtheworld.com/SAM04AAC281_SC?dist=onlineradiobox
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just Jazz - Al Jarreau" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Just Jazz - Al Jarreau.png" group-title="Music",Just Jazz - Al Jarreau
 https://drive.uber.radio/uber/jjraljarreau/icecast.audio
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Country Music Radio - Alabama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Country Music Radio - Alabama.png" group-title="Music",Country Music Radio - Alabama
+https://drive.uber.radio/uber/cmralabama/icecast.audio
 
 
 
