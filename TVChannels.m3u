@@ -410,8 +410,8 @@ https://de1.streamingpulse.com/ssl/radiovolna/
 https://drive.uber.radio/uber/aidonald/icecast.audio
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dilse 90.8 FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dilse 90.8 FM.png" group-title="Music",Dilse 90.8 FM
 https://a7.asurahosting.com:7440/radio.mp3
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kudos Radio - Tucker Carlson" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kudos Radio - Tucker Carlson.png" group-title="Music",Kudos Radio - Tucker Carlson
+https://drive.uber.radio/uber/kudostuckercarlson/icecast.audio
 
 
 
