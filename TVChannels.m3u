@@ -404,6 +404,9 @@ https://funasia.streamguys1.com/live3
 https://drive.uber.radio/uber/rtwalt/icecast.audio
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Obeng Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Obeng Radio.png" group-title="Music",Obeng Radio
 https://stream-151.zeno.fm/2u8azbeaschvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIydThhemJlYXNjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImtVdEppZmg0U182OGVGTXloajBOZ2ciLCJpYXQiOjE3MTY2MjIxMTQsImV4cCI6MTcxNjYyMjE3NH0.zSzKhTUxK4tk6w0tUdNhLwWszs172kYDXDqqivEqORw
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Volna UAE" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Volna UAE.png" group-title="Music",Volna UAE
+https://de1.streamingpulse.com/ssl/radiovolna/
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/4aMs1TaLpf4c5aooj52BCt9Ap0.jpg" group-title="new",Rambo (1982)
 http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36037.mp4
