@@ -450,7 +450,8 @@ https://c20.radioboss.fm/stream/543
 https://s5.radio.co/s7b588bca9/low
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TikTok Trending" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Trending.png" group-title="Music",TikTok Trending
 https://streaming.exclusive.radio/er/tiktoktrending/icecast.audio
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Music Radio - Afrobeats" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/World Music Radio - Afrobeats.png" group-title="Music",World Music Radio - Afrobeats
+https://streaming.exclusive.radio/er/afrobeats/icecast.audio
 
 
 
