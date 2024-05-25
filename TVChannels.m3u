@@ -398,7 +398,8 @@ http://streaming.exclusive.radio/er/abba/icecast.audio
 https://fujairah.fm/stream.php
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Latina Bandida!" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Latina Bandida!.png" group-title="Music",Latina Bandida!
 https://latina.streeemer.com/listen/latina/radio.aac
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Beat 97.8" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Beat 97.8.png" group-title="Music",Beat 97.8
+https://funasia.streamguys1.com/live3
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/4aMs1TaLpf4c5aooj52BCt9Ap0.jpg" group-title="new",Rambo (1982)
 http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36037.mp4
