@@ -486,7 +486,8 @@ https://streaming.positivity.radio/pr/posimeditation/icecast.audio
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Club FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Club FM.png" group-title="Music",Club FM
 https://eu10.fastcast4u.com/clubfmuae
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio 4 FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio 4 FM.png" group-title="Music",Radio 4 FM
+https://stream.radio.co/s6004eac2f/listen
 
 
 
