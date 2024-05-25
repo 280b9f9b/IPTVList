@@ -463,7 +463,8 @@ http://ccfz.dyndns.org:4427/zfm
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Nursery" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio Nursery.png" group-title="Music",Radio Nursery
 https://26383.live.streamtheworld.com/SAM04AAC281_SC?dist=onlineradiobox
 
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just Jazz - Al Jarreau" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Just Jazz - Al Jarreau.png" group-title="Music",Just Jazz - Al Jarreau
+https://drive.uber.radio/uber/jjraljarreau/icecast.audio
 
 
 
