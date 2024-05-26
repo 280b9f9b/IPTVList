@@ -131,6 +131,21 @@ https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah FM.png" group-title="Music",Sharjah FM
 https://l3.itworkscdn.net/smcradiolive/smcradiolive/icecast.audio
 
+//Fujairah.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fujairah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah TV.png" group-title="General",Fujairah TV
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fujairah FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah FM.png" group-title="General",Fujairah FM
+https://live.kwikmotion.com/fujairahradiolive/fujairahradio/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vibe FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Vibe FM.png" group-title="General",Vibe FM
+https://live.kwikmotion.com/fujairahviberadiolive/fujairahviberadio/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zayed Radio For Qura'an" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zayed Radio For Qura'an.png" group-title="General",Zayed Radio For Qura'an
+https://live.kwikmotion.com/fujairahquranradiolive/fujairahquranradio/chunks.m3u8
+
+
+
+
+
+
 //Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah and Fujairah.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ajman TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ajman TV.png" group-title="General",Ajman TV
 https://cdn.logichost.in/ajmantv/live/playlist.m3u8
