@@ -304,6 +304,17 @@ https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 https://weyyak-live.akamaized.net/wedo_big_stories/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duck-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Duck-TV.png" group-title="General",Duck-TV
 https://weyyak-live.akamaized.net/weyyak_ducktv/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jodha-Akbar" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Jodha-Akbar.png" group-title="General",Jodha-Akbar
+https://weyyak-live.akamaized.net/jodha_akbar/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hayat-Qalbi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Hayat-Qalbi.png" group-title="General",Hayat-Qalbi
+https://weyyak-live.akamaized.net/hayat_qalbi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The-Smurfs" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The-Smurfs.png" group-title="General",The-Smurfs
+https://weyyak-live.akamaized.net/weyyak_smurf_tv/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toon-Goggles-WW" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Toon-Goggles-WW.png" group-title="General",Toon-Goggles-WW
+https://weyyak-live.akamaized.net/weyyak_toon_goggles_ww/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="just.classical" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/just.classical.png" group-title="General",just.classical
+https://weyyak-live.akamaized.net/weyyak_just_classical/tracks-v6a1/mono.m3u8
+
 
 //#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Action.png" group-title="Movies",Weyyak Action
 //https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
