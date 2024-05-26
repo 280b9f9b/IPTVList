@@ -300,6 +300,11 @@ https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 
 
 //weyyak.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wedo-Big-Stories" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wedo-Big-Stories.png" group-title="General",Wedo-Big-Stories
+https://weyyak-live.akamaized.net/wedo_big_stories/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duck-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Duck-TV.png" group-title="General",Duck-TV
+https://weyyak-live.akamaized.net/weyyak_ducktv/tracks-v5a1/mono.m3u8
+
 //#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Action.png" group-title="Movies",Weyyak Action
 //https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 //#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" group-title="Movies",Weyyak Drama
