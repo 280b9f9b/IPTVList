@@ -165,8 +165,8 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Yaum TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Yaum TV.png" group-title="News",Al Yaum TV
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/BBC Arabic.png" group-title="News",BBC Arabic
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/BBC Arabic.png" group-title="News",BBC Arabic
+//https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CGTN Arabic.png" group-title="News",CGTN Arabic
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/DW Arabic.png" group-title="News",DW Arabic
@@ -183,10 +183,10 @@ https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
 https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alaraby TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby TV.png" group-title="News",Alaraby TV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews english" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews english.png" group-title="News",euronews english
-https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews french" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews french.png" group-title="News",euronews french
-https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews english" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews english.png" group-title="News",euronews english
+//https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews french" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews french.png" group-title="News",euronews french
+//https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I24 News Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/I24 News Arabic.png" group-title="News",I24 News Arabic
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 
@@ -324,10 +324,10 @@ https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
 //Movies.
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Action.png" group-title="Movies",Weyyak Action
-https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" group-title="Movies",Weyyak Drama
-https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Action.png" group-title="Movies",Weyyak Action
+//https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" group-title="Movies",Weyyak Drama
+//https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Cinema KSA" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Cinema KSA.png" group-title="Movies",Rotana Cinema KSA
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 
@@ -358,10 +358,10 @@ https://streaming.positivity.radio/pr/posi10s/icecast.audio
 
 
 //General.
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Mix" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Mix.png" group-title="General",Weyyak Mix
-https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Nawaem" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Nawaem.png" group-title="General",Weyyak Nawaem
-https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Mix" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Mix.png" group-title="General",Weyyak Mix
+//https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Nawaem" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Nawaem.png" group-title="General",Weyyak Nawaem
+//https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Hayat TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Hayat TV.png" group-title="General",Al Hayat TV
 https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alaraby 2 TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby 2 TV.png" group-title="General",Alaraby 2 TV
@@ -409,8 +409,7 @@ https://stream.radio.co/s00240810b/listen
 http://streaming.exclusive.radio/er/abba/icecast.audio
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fujairah FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah FM.png" group-title="Music",Fujairah FM
-https://fujairah.fm/stream.php
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Latina Bandida!" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Latina Bandida!.png" group-title="Music",Latina Bandida!
 https://latina.streeemer.com/listen/latina/radio.aac
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Beat 97.8" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Beat 97.8.png" group-title="Music",Beat 97.8
@@ -473,8 +472,6 @@ https://stream-154.zeno.fm/gganb49auwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://stream-163.zeno.fm/t5gkwva794zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0NWdrd3ZhNzk0enV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlkwX212UGxGU3VpOVF0dDZna19xVkEiLCJpYXQiOjE3MTY2MzQ0OTMsImV4cCI6MTcxNjYzNDU1M30.iN1v2-iRN0iXVOi-mpaR06sn3xkLW30YRMdPIQNuwHc
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vogue Play UAE" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Vogue Play UAE.png" group-title="Music",Vogue Play UAE
 https://stream-152.zeno.fm/t5n4u4fb508uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0NW40dTRmYjUwOHV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IktSZlNzaHBXUk1XTERVTC0tWjVCQ0EiLCJpYXQiOjE3MTY2MzQ2MTcsImV4cCI6MTcxNjYzNDY3N30.EjgnsGcw8wEwP7UoGf_shnhjkUDlQENk8wtLDllbo-o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zayed Radio For Qura'an" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zayed Radio For Quraan.png" group-title="Music",Zayed Radio For Qura'an
-http://ccfz.dyndns.org:4427/zfm
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Nursery" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio Nursery.png" group-title="Music",Radio Nursery
 https://26383.live.streamtheworld.com/SAM04AAC281_SC?dist=onlineradiobox
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just Jazz - Al Jarreau" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Just Jazz - Al Jarreau.png" group-title="Music",Just Jazz - Al Jarreau
@@ -501,8 +498,10 @@ https://eu10.fastcast4u.com/clubfmuae
 https://stream.radio.co/s6004eac2f/listen
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Exclusively Adele" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Exclusively Adele.png" group-title="Music",Exclusively Adele
 https://streaming.exclusive.radio/er/adele/icecast.audio
-
-
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zayed Radio For Qura'an" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zayed Radio For Quraan.png" group-title="Music",Zayed Radio For Qura'an
+//http://ccfz.dyndns.org:4427/zfm
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fujairah FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah FM.png" group-title="Music",Fujairah FM
+//https://fujairah.fm/stream.php
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/4aMs1TaLpf4c5aooj52BCt9Ap0.jpg" group-title="new",Rambo (1982)
