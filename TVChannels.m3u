@@ -297,6 +297,19 @@ https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/ind
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alarabiya FM.png" group-title="News",Alarabiya FM
 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 
+
+
+//weyyak.
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Action.png" group-title="Movies",Weyyak Action
+//https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" group-title="Movies",Weyyak Drama
+//https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Mix" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Mix.png" group-title="General",Weyyak Mix
+//https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Nawaem" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Nawaem.png" group-title="General",Weyyak Nawaem
+//https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+
+
 //Arab Gulf states.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman.png" group-title="General",Oman
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
@@ -324,10 +337,7 @@ https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
 //Movies.
-//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Action.png" group-title="Movies",Weyyak Action
-//https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" group-title="Movies",Weyyak Drama
-//https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Cinema KSA" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Cinema KSA.png" group-title="Movies",Rotana Cinema KSA
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 
@@ -358,10 +368,7 @@ https://streaming.positivity.radio/pr/posi10s/icecast.audio
 
 
 //General.
-//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Mix" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Mix.png" group-title="General",Weyyak Mix
-//https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
-//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weyyak Nawaem" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Nawaem.png" group-title="General",Weyyak Nawaem
-//https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Hayat TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Hayat TV.png" group-title="General",Al Hayat TV
 https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alaraby 2 TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby 2 TV.png" group-title="General",Alaraby 2 TV
