@@ -159,7 +159,7 @@ https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index
 https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Arabic.png" group-title="News",Al Jazeera Arabic
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera Documentary" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Documentary.png" group-title="News",Al Jazeera Documentary
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera Documentary" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Documentary.png" group-title="Documentary",Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera Mubasher" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Mubasher.png" group-title="News",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
