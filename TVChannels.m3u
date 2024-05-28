@@ -10,7 +10,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u
 https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News Arabia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sky News Arabia.png" group-title="News",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi NG" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi NG.png" group-title="Documentary",Abu Dhabi NG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Dhabi NG" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi NG.png" group-title="Documentary",NG Abu Dhabi
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Majid TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Majid TV.png" group-title="Kids",Majid
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
