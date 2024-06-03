@@ -543,6 +543,8 @@ https://streaming.exclusive.radio/er/adele/icecast.audio
 //http://ccfz.dyndns.org:4427/zfm
 //#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fujairah FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah FM.png" group-title="Music",Fujairah FM
 //https://fujairah.fm/stream.php
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sawa" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sawa.png" group-title="Music",Sawa
+https://mbnv-audio-ingest.akamaized.net/hls/live/2038905/MBNV_SAWA_LEVANT_AUDIO_HLS/master_11.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/4aMs1TaLpf4c5aooj52BCt9Ap0.jpg" group-title="new",Rambo (1982)
