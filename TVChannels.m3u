@@ -573,7 +573,8 @@ https://country.streeemer.com/listen/country/radio.mp3
 https://classical.streeemer.com/listen/classical/radio.aac
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quiet Storm live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Quiet Storm live.png" group-title="Music",Quiet Storm live
 https://cast1.lunabroadcasting.net/listen/quietstorm/radio.aac
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pulse 95 Radio live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Pulse 95 Radio live.png" group-title="Music",Pulse 95 Radio live
+https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
 
 
 
