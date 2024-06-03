@@ -557,8 +557,8 @@ https://edm.streeemer.com/listen/edm/radio.aac
 https://2000.streeemer.com/listen/2000s/radio.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classic Rock Station live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Classic Rock Station live.png" group-title="Music",Classic Rock Station live
 https://classicrock.streeemer.com/listen/classic_rock/radio.aac
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smooth Jazz - Groov live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Smooth Jazz - Groov live.png" group-title="Music",Smooth Jazz - Groov live
+https://jazz.streeemer.com/listen/jazz/radio.aac
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/4aMs1TaLpf4c5aooj52BCt9Ap0.jpg" group-title="new",Rambo (1982)
