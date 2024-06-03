@@ -561,9 +561,8 @@ https://classicrock.streeemer.com/listen/classic_rock/radio.aac
 https://jazz.streeemer.com/listen/jazz/radio.aac
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chillout Vibes live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Chillout Vibes live.png" group-title="Music",Chillout Vibes live
 https://chillout.streeemer.com/listen/chillout/radio.mp3
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oldies Vibes live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oldies Vibes live.png" group-title="Music",Oldies Vibes live
+https://oldies.streeemer.com/listen/oldies/radio.aac
 
 
 
