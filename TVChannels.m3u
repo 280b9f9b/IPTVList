@@ -547,6 +547,10 @@ https://streaming.exclusive.radio/er/adele/icecast.audio
 https://mbnv-audio-ingest.akamaized.net/hls/live/2038905/MBNV_SAWA_LEVANT_AUDIO_HLS/master_11.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love 90's live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Love 90s live.png" group-title="Music",Love 90's live
 https://90.streeemer.com:8000/radio.aac
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wonder 80's live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wonder 80s live.png" group-title="Music",Wonder 80's live
+https://80.streeemer.com/listen/80s/radio.aac
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/4aMs1TaLpf4c5aooj52BCt9Ap0.jpg" group-title="new",Rambo (1982)
 http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36037.mp4
