@@ -559,6 +559,15 @@ https://2000.streeemer.com/listen/2000s/radio.mp3
 https://classicrock.streeemer.com/listen/classic_rock/radio.aac
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smooth Jazz - Groov live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Smooth Jazz - Groov live.png" group-title="Music",Smooth Jazz - Groov live
 https://jazz.streeemer.com/listen/jazz/radio.aac
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chillout Vibes live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Chillout Vibes live.png" group-title="Music",Chillout Vibes live
+https://chillout.streeemer.com/listen/chillout/radio.mp3
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/4aMs1TaLpf4c5aooj52BCt9Ap0.jpg" group-title="new",Rambo (1982)
