@@ -571,8 +571,8 @@ https://hiphop.streeemer.com/listen/hiphop/radio.mp3
 https://country.streeemer.com/listen/country/radio.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classical Mood live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Classical Mood live.png" group-title="Music",Classical Mood live
 https://classical.streeemer.com/listen/classical/radio.aac
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quiet Storm live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Quiet Storm live.png" group-title="Music",Quiet Storm live
+https://cast1.lunabroadcasting.net/listen/quietstorm/radio.aac
 
 
 
