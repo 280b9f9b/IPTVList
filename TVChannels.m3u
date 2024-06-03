@@ -543,6 +543,7 @@ https://streaming.exclusive.radio/er/adele/icecast.audio
 //http://ccfz.dyndns.org:4427/zfm
 //#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fujairah FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah FM.png" group-title="Music",Fujairah FM
 //https://fujairah.fm/stream.php
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sawa" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sawa.png" group-title="Music",Sawa
 https://mbnv-audio-ingest.akamaized.net/hls/live/2038905/MBNV_SAWA_LEVANT_AUDIO_HLS/master_11.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love 90's live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Love 90s live.png" group-title="Music",Love 90's live
@@ -568,6 +569,15 @@ https://oldies.streeemer.com/listen/oldies/radio.aac
 https://hiphop.streeemer.com/listen/hiphop/radio.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Country Vibes live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Country Vibes live.png" group-title="Music",Country Vibes live
 https://country.streeemer.com/listen/country/radio.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Classical Mood live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Classical Mood live.png" group-title="Music",Classical Mood live
+https://classical.streeemer.com/listen/classical/radio.aac
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/4aMs1TaLpf4c5aooj52BCt9Ap0.jpg" group-title="new",Rambo (1982)
 http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36037.mp4
