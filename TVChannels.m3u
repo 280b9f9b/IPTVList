@@ -564,8 +564,8 @@ https://chillout.streeemer.com/listen/chillout/radio.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oldies Vibes live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oldies Vibes live.png" group-title="Music",Oldies Vibes live
 https://oldies.streeemer.com/listen/oldies/radio.aac
 
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hip Hop Vibes live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Hip Hop Vibes live.png" group-title="Music",Hip Hop Vibes live
+https://hiphop.streeemer.com/listen/hiphop/radio.mp3
 
 
 
