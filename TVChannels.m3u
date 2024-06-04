@@ -599,9 +599,8 @@ http://curiosity.shoutca.st:6035/;
 https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quran Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Quran Radio.png" group-title="Music",Quran Radio
 http://n0c.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABj-PILgsAqb07pXlERitp0w
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QURAN LIVE RADIO" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/QURAN LIVE RADIO.png" group-title="Music",QURAN LIVE RADIO
+http://s2.voscast.com:12312/;
 
 
 
