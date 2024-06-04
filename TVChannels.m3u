@@ -631,9 +631,8 @@ https://stream-154.zeno.fm/3gkedytbapbuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI
 https://edge.mixlr.com/channel/rwumx
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khaled Al-Qahtani Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Khaled Al-Qahtani Radio.png" group-title="Music",Khaled Al-Qahtani Radio
 http://live.mp3quran.net:9970/;stream.mp3
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Miraath's Holy Quran Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Miraaths Holy Quran Radio.png" group-title="Music",Miraath's Holy Quran Radio
+https://radio.al7eah.net/8010/stream
 
 
 
