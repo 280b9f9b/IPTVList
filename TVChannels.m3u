@@ -633,8 +633,8 @@ https://edge.mixlr.com/channel/rwumx
 http://live.mp3quran.net:9970/;stream.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Miraath's Holy Quran Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Miraaths Holy Quran Radio.png" group-title="Music",Miraath's Holy Quran Radio
 https://radio.al7eah.net/8010/stream
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nurun Ala Nur" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Nurun Ala Nur.png" group-title="Music",Nurun Ala Nur
+http://104.7.66.64:8011/;?icy=http
 
 
 
