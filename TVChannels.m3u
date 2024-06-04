@@ -597,8 +597,8 @@ https://streaming.exclusive.radio/er/bonjovi/icecast.audio
 http://curiosity.shoutca.st:6035/;
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alif Alif FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alif Alif FM.png" group-title="Music",Alif Alif FM
 https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quran Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Quran Radio.png" group-title="Music",Quran Radio
+http://n0c.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABj-PILgsAqb07pXlERitp0w
 
 
 
