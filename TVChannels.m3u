@@ -621,9 +621,8 @@ https://icecast-rian.cdnvideo.ru/voicearb
 https://ice31.securenetsystems.net/STUDIO1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Sunna" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio Sunna.png" group-title="Music",Radio Sunna
 http://andromeda.shoutca.st:8189/stream
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abdulbasit Abdulsamad WARSH Radio live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abdulbasit Abdulsamad WARSH Radio live.png" group-title="Music",Abdulbasit Abdulsamad WARSH Radio live
+https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad
 
 
 
