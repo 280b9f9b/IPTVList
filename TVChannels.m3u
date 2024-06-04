@@ -619,9 +619,8 @@ https://eu1.fastcast4u.com/proxy/prontofm?mp=%2F1
 https://icecast-rian.cdnvideo.ru/voicearb
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Studio1 Saudi Aramco live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Studio1 Saudi Aramco live.png" group-title="Music",Studio1 Saudi Aramco live
 https://ice31.securenetsystems.net/STUDIO1
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Sunna" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio Sunna.png" group-title="Music",Radio Sunna
+http://andromeda.shoutca.st:8189/stream
 
 
 
