@@ -649,8 +649,8 @@ http://149.28.52.216:3344/stream/10/;?type=mp3
 https://razzrdfx.com/listen/101.8artys_online_radio_fm/radio.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Energy Radio 2 Saudi Aramco live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Energy Radio 2 Saudi Aramco live.png" group-title="Music",Energy Radio 2 Saudi Aramco live
 https://ice31.securenetsystems.net/STUDIO2
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="النهج الواضح-الإذاعة الثانية live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/النهج الواضح-الإذاعة الثانية live.png" group-title="Music",النهج الواضح-الإذاعة الثانية live
+http://178.33.122.39:8001/stream
 
 
 
