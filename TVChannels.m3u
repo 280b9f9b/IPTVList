@@ -613,11 +613,10 @@ https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
 https://s3.radio.co/s9cb11828c/listen
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maher Al-Muaiqly" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Maher Al-Muaiqly.png" group-title="Music",Maher Al-Muaiqly
 http://live.mp3quran.net:9996/;stream.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="90s Fmy" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/90s Fm.png" group-title="Music",90s Fm
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="90s Fm" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/90s Fm.png" group-title="Music",90s Fm
 https://eu1.fastcast4u.com/proxy/prontofm?mp=%2F1
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sputnik Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sputnik Arabic.png" group-title="Music",Sputnik Arabic
+https://icecast-rian.cdnvideo.ru/voicearb
 
 
 
