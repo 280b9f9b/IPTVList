@@ -645,8 +645,8 @@ http://66.45.232.131:9994/;stream.mp3
 https://ice31.securenetsystems.net/STUDIO2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Makkah Live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah Live.png" group-title="Music",Makkah Live
 http://149.28.52.216:3344/stream/10/;?type=mp3
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="101.8artysfm live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/101.8artysfm live.png" group-title="Music",101.8artysfm live
+https://razzrdfx.com/listen/101.8artys_online_radio_fm/radio.mp3
 
 
 
