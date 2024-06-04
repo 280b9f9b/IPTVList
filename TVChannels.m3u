@@ -609,8 +609,8 @@ https://audio.nrpstream.com/listen/nogoumfm/radio.mp3
 https://s1.voscast.com:11377/live.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Montecarlo al doualiya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Montecarlo al doualiya.png" group-title="Music",Montecarlo al doualiya
 https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Mahatet Masr" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio Mahatet Masr.png" group-title="Music",Radio Mahatet Masr
+https://s3.radio.co/s9cb11828c/listen
 
 
 
