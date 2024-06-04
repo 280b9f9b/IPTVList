@@ -605,8 +605,8 @@ http://s2.voscast.com:12312/;
 http://stream.ufmradio.com:8000/;
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nogoum FM 100.6" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Nogoum FM 100.6.png" group-title="Music",Nogoum FM 100.6
 https://audio.nrpstream.com/listen/nogoumfm/radio.mp3
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mix FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Mix FM.png" group-title="Music",Mix FM
+https://s1.voscast.com:11377/live.mp3
 
 
 
