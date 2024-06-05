@@ -654,7 +654,7 @@ http://178.33.122.39:8001/stream
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="النهج الواضح-الإذاعة الثانية live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannel.png" group-title="Music",النهج الواضح-الإذاعة الثانية live
 http://178.33.122.39:8001/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="النهج الواضح-الإذاعة الثانية live" tvg-logo="" group-title="Music",النهج الواضح-الإذاعة الثانية live
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="النهج الواضح-الإذاعة الثانية live" tvg-logo="g" group-title="Music",النهج الواضح-الإذاعة الثانية live
 http://178.33.122.39:8001/stream
 
 
