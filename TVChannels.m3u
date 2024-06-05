@@ -652,20 +652,11 @@ https://ice31.securenetsystems.net/STUDIO2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="النهج الواضح-الإذاعة الثانية live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/النهج الواضح-الإذاعة الثانية live.png" group-title="Music",النهج الواضح-الإذاعة الثانية live
 http://178.33.122.39:8001/stream
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="النهج الواضح-الإذاعة الثانية live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannel.png" group-title="Music",النهج الواضح-الإذاعة الثانية live
-http://178.33.122.39:8001/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="النهج الواضح-الإذاعة الثانية live" tvg-logo="" group-title="Music",النهج الواضح-الإذاعة الثانية live
-http://178.33.122.39:8001/stream
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/4aMs1TaLpf4c5aooj52BCt9Ap0.jpg" group-title="new",Rambo (1982)
-http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36037.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/pzPdwOitmTleVE3YPMfIQgLh84p.jpg" group-title="new",Rambo II (1985)
-http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36038.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/pTVm2HrqV5kOt8tG4ZURNuhrmAq.jpg" group-title="new",Rambo III (1988)
-http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36039.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/yzgBfFpYfJL8x1Wo4Yq5IrImHA1.jpg" group-title="new",Rambo IV (2008)
-http://178.162.193.239:2052/movie/cprimemain-Zck5Tgz8ON/YEmvLQiahj/36040.mp4
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="new",Rambo Last Blood (2019)
 http://fortv.cc:8080/movie/1433265/9941718/203061.mp4
 
