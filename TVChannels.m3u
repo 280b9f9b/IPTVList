@@ -654,6 +654,16 @@ http://178.33.122.39:8001/stream
 
 
 
+//Bahrain Radio Stations.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bahrain 96.5" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain 96.5.png" group-title="Music",Bahrain 96.5
+https://playoutonestreaming.com/proxy/bahrain?_=224716&mp=%2Fstream
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quran for the Soul" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Quran for the Soul.png" group-title="Music",Quran for the Soul
+http://104.7.66.64:8095/;?icy=http
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Voice of Ummah" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The Voice of Ummah.png" group-title="Music",The Voice of Ummah
+https://mediati.me/radio/8010/radio.mp3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFN 360 Bahrain live" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AFN 360 Bahrain live.png" group-title="Music",AFN 360 Bahrain live
+https://27943.live.streamtheworld.com/AFNE_BHN_SC
+
 
 
 
