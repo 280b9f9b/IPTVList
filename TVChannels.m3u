@@ -138,7 +138,7 @@ https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_
 https://live.kwikmotion.com/fujairahradiolive/fujairahradio/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vibe FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Vibe FM.png" group-title="Radio",Vibe FM
 https://live.kwikmotion.com/fujairahviberadiolive/fujairahviberadio/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zayed Radio For Qura'an" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zayed Radio For Quraan.png" group-title="Radio",Zayed Radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zayed Radio For Qura'an" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zayed Radio For Quraan.png" group-title="Religion",Zayed Radio
 https://live.kwikmotion.com/fujairahquranradiolive/fujairahquranradio/chunks.m3u8
 
 
@@ -149,6 +149,8 @@ https://live.kwikmotion.com/fujairahquranradiolive/fujairahquranradio/chunks.m3u
 //Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah and Fujairah.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ajman TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ajman TV.png" group-title="General",Ajman TV
 https://cdn.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Rabia FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Rabia FM.png" group-title="Radio",Al Rabia FM
+https://s2.radio.co/s770fa24b6/listen
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Dafrah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dafrah TV.png" group-title="General",Al Dafrah TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist_b2028000.m3u8
 
@@ -525,8 +527,7 @@ https://drive.uber.radio/uber/boomerang1920s/icecast.audio
 https://ep128.hostingradio.ru:8030/ep128?type=.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportify - Pure Workout 130 BPM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sportify - Pure Workout 130 BPM.png" group-title="Music",Sportify - Pure Workout 130 BPM
 https://drive.uber.radio/uber/sportifybpm130/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Rabia FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Rabia FM.png" group-title="Music",Al Rabia FM
-https://s2.radio.co/s770fa24b6/listen
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Easy Instrumentals" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Easy Instrumentals.png" group-title="Music",Easy Instrumentals
 https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Radio - 50's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Love Radio - 50s.png" group-title="Music",Love Radio - 50's
