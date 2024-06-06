@@ -125,10 +125,10 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Wousta TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Wousta TV.png" group-title="General",Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+//Sharjah Radio.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah Quran" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah Quran.png" group-title="Religion",Sharjah Quran
 https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
-//Sharjah Radio.
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah FM.png" group-title="Music",Sharjah FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sharjah FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah FM.png" group-title="Radio",Sharjah FM
 https://l3.itworkscdn.net/smcradiolive/smcradiolive/icecast.audio
 
 //Fujairah.
