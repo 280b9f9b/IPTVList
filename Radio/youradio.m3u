@@ -11,3 +11,26 @@ https://streaming.positivity.radio/pr/1950/icecast.audio
 https://streaming.positivity.radio/pr/posi60s/icecast.audio
 #EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/238806cb-3b8c-46b3-b728-e053ad5945a6.png" group-title="Radio",Positively 1970's
 https://streaming.positivity.radio/pr/posi70s/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/1826b16c-44c9-4845-8844-84365aaffe1b.png" group-title="Radio",Positively 1980's
+https://streaming.positivity.radio/pr/posi80s/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ba782e84-5145-46ae-8813-a4495cf72ad3.png" group-title="Radio",Positively 1990's
+https://streaming.positivity.radio/pr/posi90s/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/b89ed03d-3b33-4206-851f-98b1107c6dc9.png" group-title="Radio",Positively 2000's
+https://streaming.positivity.radio/pr/posi00s/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/2fa5b335-32fb-4c21-a33c-c6ae04d67da8.png" group-title="Radio",Positively 2010's
+https://streaming.positivity.radio/pr/posi10s/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/69d4c30d-96a8-4ee1-9134-03a69d048519.png" group-title="Radio",Positively Good Morning
+https://streaming.positivity.radio/pr/goodmorning/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/695be525-9e21-4539-9c2e-94a0a0adb9d8.png" group-title="Radio",Positively Good Afternoon
+https://streaming.positivity.radio/pr/goodafternoon/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/02e57f13-6aeb-4e38-be48-e19c6c5bbe81.png" group-title="Radio",Positively Good Evening
+https://streaming.positivity.radio/pr/goodevening/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ac5f588d-6781-4dcf-82c7-fdcb6da653f8.png" group-title="Radio",Positively Good Night
+https://streaming.positivity.radio/pr/goodnight/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/68cf5138-97e2-46d7-9296-b6c453459029.png" group-title="Radio",Positively Christmas Carols
+https://streaming.exclusive.radio/er/christmascarols/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/85f5dfb6-f09d-4616-8e2d-b9040c01a706.png" group-title="Radio",Positively Birdsong
+https://streaming.positivity.radio/pr/posibirdsong/icecast.audio
+
+
+
