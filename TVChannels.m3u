@@ -968,6 +968,43 @@ https://drive.uber.radio/uber/forkidzsleep/icecast.audio
 https://drive.uber.radio/uber/forkidztoddlertunes/icecast.audio
 #EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a6c0ace4-c7c6-4724-b821-27b9dd21bc87.png" group-title="Radio",Wake & Shake
 https://drive.uber.radio/uber/forkidzwakeandshake/icecast.audio
+//The single artist stations
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/cabbb0a2-f8ca-4562-a5d8-265bec1b563f.jpg" group-title="Radio",ABBA - HITS
+https://streaming.exclusive.radio/er/abbahits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ffdf4422-4bf2-4782-a4a1-f53ea2a95f5b.jpg" group-title="Radio",Adele - HITS
+https://streaming.exclusive.radio/er/adelehits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/78c1e353-db46-40a7-945b-7ae78561dede.jpg" group-title="Radio",Bob Marley - HITS
+https://streaming.exclusive.radio/er/bobmarleyhits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ef877966-4789-4c9d-b4a5-80084e554194.jpg" group-title="Radio",Britney Spears - HITS
+https://streaming.exclusive.radio/er/britneyspearshits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/21543c34-b3e3-4460-914c-bc90fe722ef0.jpg" group-title="Radio",Elvis Presley - HITS
+https://streaming.exclusive.radio/er/elvispresleyhits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/be2fc69e-7e22-4f34-a474-c1180d212c60.jpg" group-title="Radio",George Michael - HITS
+https://streaming.exclusive.radio/er/georgemichaelhits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/771deacd-d775-4c01-9a3a-35fb496dc9ef.jpg" group-title="Radio",Justin Bieber - HITS
+https://streaming.exclusive.radio/er/justinbieberhits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/38250748-4c11-4757-9b2f-f653e43da704.jpg" group-title="Radio",Lady Gaga - HITS
+https://streaming.exclusive.radio/er/ladygagahits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/7e0acc26-23a4-4903-8a43-7603cc9da78a.jpg" group-title="Radio",Madonna - Hits
+https://streaming.exclusive.radio/er/madonnahits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/1d63fc61-a6f3-48d9-a250-76bfac96d380.jpg" group-title="Radio",Mariah Carey - HITS
+https://streaming.exclusive.radio/er/mariahcareyhits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8cebfb80-bbef-45d7-a060-070af5573c2c.jpg" group-title="Radio",Michael Jackson - HITS
+https://streaming.exclusive.radio/er/michaeljacksonhits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/55573ca5-2a28-4bc4-99b6-1735520b2748.jpg" group-title="Radio",One Direction - HITS
+https://streaming.exclusive.radio/er/onedirectionhits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/c56d2eec-89d7-4e5a-897b-4e8c4b20407c.jpg" group-title="Radio",Prince - HITS
+https://streaming.exclusive.radio/er/princehits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8b9e5844-e296-4a84-91ed-10f831216b5d.jpg" group-title="Radio",Rihanna - HITS
+https://streaming.exclusive.radio/er/rihannahits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f5133702-3dd2-427d-9555-98376d80890f.jpg" group-title="Radio",Shakira - HITS
+https://streaming.exclusive.radio/er/shakirahits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/daa2edab-e771-41a0-8e3b-6feac4d6bd68.jpg" group-title="Radio",Taylor Swift - HITS
+https://streaming.exclusive.radio/er/taylorswifthits/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/35057368-c633-4c3b-ae39-41a46cd23707.jpg" group-title="Radio",The Weeknd - HITS
+https://streaming.exclusive.radio/er/theweekndhits/icecast.audio
+
+
 
 #EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/78df16eb-7998-49e5-aed9-1bed50ea267a.png" group-title="Music",Easy Instrumentals
 https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
