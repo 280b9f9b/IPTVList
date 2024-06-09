@@ -917,6 +917,32 @@ https://streaming.exclusive.radio/er/rocknrollparty/icecast.audio
 https://drive.uber.radio/uber/starboxsoul/icecast.audio
 #EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/2246fc5b-77cc-4a39-accf-da36aed57859.png" group-title="Radio",Todays Hits
 https://streaming.exclusive.radio/er/chart/icecast.audio
+//World Music Radio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/53f05ae5-1fff-488d-a565-4644c4e47251.png" group-title="Radio",Afrobeats
+https://streaming.exclusive.radio/er/afrobeats/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f23b1bdf-1e89-4e36-9f7c-7754ce0b85b7.png" group-title="Radio",Bollywood
+https://streaming.exclusive.radio/er/bollywood/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ea960da1-97cc-471e-a148-996446ff3835.png" group-title="Radio",Brazil
+https://streaming.exclusive.radio/er/brazil/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f672b15e-d887-4e14-a213-1daa763aae5c.png" group-title="Radio",Cuba
+https://drive.uber.radio/uber/worldcuba/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/d307a1d7-9535-46eb-9a83-dfc261f0b0f1.png" group-title="Radio",Deutsche Musik
+https://streaming.exclusive.radio/er/deutschemusik/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/41f5b3c7-b6b9-4385-b4b1-7fceff208603.png" group-title="Radio",Irish Folk
+https://drive.uber.radio/uber/starboxirishfolk/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/1255643b-b591-41bf-8e5f-8e865469ebd1.png" group-title="Radio",Italy
+https://streaming.exclusive.radio/er/italy/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/0a263cf7-3218-496e-9bce-c60d479c126f.png" group-title="Radio",J Pop
+https://streaming.exclusive.radio/er/jpop/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3887123d-86ee-4036-bda6-0baa6df25a80.png" group-title="Radio",K Pop
+https://streaming.exclusive.radio/er/kpop/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/59a71104-b1ed-49de-b218-94de11b23fb3.png" group-title="Radio",Musique Francaise
+https://streaming.exclusive.radio/er/musiquefrancaise/icecast.audio
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Easy Instrumentals" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Easy Instrumentals.png" group-title="Music",Easy Instrumentals
