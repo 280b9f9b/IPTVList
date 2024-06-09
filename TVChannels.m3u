@@ -497,8 +497,7 @@ https://drive.uber.radio/uber/rtwalt/icecast.audio
 https://stream-151.zeno.fm/2u8azbeaschvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIydThhemJlYXNjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImtVdEppZmg0U182OGVGTXloajBOZ2ciLCJpYXQiOjE3MTY2MjIxMTQsImV4cCI6MTcxNjYyMjE3NH0.zSzKhTUxK4tk6w0tUdNhLwWszs172kYDXDqqivEqORw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Volna UAE" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Volna UAE.png" group-title="Music",Volna UAE
 https://de1.streamingpulse.com/ssl/radiovolna/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AI MUSIC RADIO - DONALD TRUMP" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AI MUSIC RADIO - DONALD TRUMP.png" group-title="Music",AI MUSIC RADIO - DONALD TRUMP
-https://drive.uber.radio/uber/aidonald/icecast.audio
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dilse 90.8 FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dilse 90.8 FM.png" group-title="Music",Dilse 90.8 FM
 https://a7.asurahosting.com:7440/radio.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kudos Radio - Tucker Carlson" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kudos Radio - Tucker Carlson.png" group-title="Music",Kudos Radio - Tucker Carlson
@@ -930,6 +929,11 @@ https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Exclusively ABBA" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Exclusively ABBA.png" group-title="Music",Exclusively ABBA
 http://streaming.exclusive.radio/er/abba/icecast.audio
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AI MUSIC RADIO - DONALD TRUMP" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AI MUSIC RADIO - DONALD TRUMP.png" group-title="Music",AI MUSIC RADIO - DONALD TRUMP
+https://drive.uber.radio/uber/aidonald/icecast.audio
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="new",Rambo Last Blood (2019)
 http://fortv.cc:8080/movie/1433265/9941718/203061.mp4
