@@ -945,28 +945,28 @@ https://streaming.exclusive.radio/er/musiquefrancaise/icecast.audio
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Easy Instrumentals" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Easy Instrumentals.png" group-title="Music",Easy Instrumentals
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/78df16eb-7998-49e5-aed9-1bed50ea267a.png" group-title="Music",Easy Instrumentals
 https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Exclusively ABBA" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Exclusively ABBA.png" group-title="Music",Exclusively ABBA
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/6b8adb31-5021-4e82-ad27-8f176caf9e91.jpg" group-title="Music",Exclusively ABBA
 http://streaming.exclusive.radio/er/abba/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AI MUSIC RADIO - DONALD TRUMP" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AI MUSIC RADIO - DONALD TRUMP.png" group-title="Music",AI MUSIC RADIO - DONALD TRUMP
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/d43615c7-e876-42ef-bd8a-a408059039e6.png" group-title="Music",AI MUSIC RADIO - DONALD TRUMP
 https://drive.uber.radio/uber/aidonald/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rock The World - Alt Rock" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rock The World - Alt Rock.png" group-title="Music",Rock The World - Alt Rock
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a7a81dd1-fdb2-441b-aabd-bfaacd611d94.png" group-title="Music",Rock The World - Alt Rock
 https://drive.uber.radio/uber/rtwalt/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="For Kids Bathtime Fun" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/For Kids Bathtime Fun.png" group-title="Music",For Kids Bathtime Fun
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/076cbdc6-dd16-4670-b951-f7dc0829e101.png" group-title="Music",For Kids Bathtime Fun
 https://drive.uber.radio/uber/forkidzbathtimefun/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just Jazz - Al Jarreau" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Just Jazz - Al Jarreau.png" group-title="Music",Just Jazz - Al Jarreau
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/bb2cdb60-0d19-4b86-9cd0-7677c656d07a.png" group-title="Music",Just Jazz - Al Jarreau
 https://drive.uber.radio/uber/jjraljarreau/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportify - Pure Workout 130 BPM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sportify - Pure Workout 130 BPM.png" group-title="Music",Sportify - Pure Workout 130 BPM
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/c6aee946-2cdc-46f3-8696-3b132a167d17.png" group-title="Music",Sportify - Pure Workout 130 BPM
 https://drive.uber.radio/uber/sportifybpm130/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Radio - 50's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Love Radio - 50s.png" group-title="Music",Love Radio - 50's
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/101f1e99-f931-44ec-a161-b251e14f3c42.png" group-title="Music",Love Radio - 50's
 https://drive.uber.radio/uber/lr1950s/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Country Music Radio - Alabama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Country Music Radio - Alabama.png" group-title="Music",Country Music Radio - Alabama
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/52ddf955-862e-47b2-877d-c92150169970.png" group-title="Music",Country Music Radio - Alabama
 https://drive.uber.radio/uber/cmralabama/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Exclusively Adele" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Exclusively Adele.png" group-title="Music",Exclusively Adele
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f045db74-8996-498a-a3a9-c0c677ece874.jpg" group-title="Music",Exclusively Adele
 https://streaming.exclusive.radio/er/adele/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Music Radio - Afrobeats" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/World Music Radio - Afrobeats.png" group-title="Music",World Music Radio - Afrobeats
-https://streaming.exclusive.radio/er/afrobeats/icecast.audio
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="new",Rambo Last Blood (2019)
 http://fortv.cc:8080/movie/1433265/9941718/203061.mp4
