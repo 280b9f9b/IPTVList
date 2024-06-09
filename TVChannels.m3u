@@ -551,8 +551,7 @@ https://drive.uber.radio/uber/cmralabama/icecast.audio
 https://drive.uber.radio/uber/boomerang1920s/icecast.audio
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Europa Plus (UAE)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Europa Plus (UAE).png" group-title="Music",Europa Plus (UAE)
 https://ep128.hostingradio.ru:8030/ep128?type=.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportify - Pure Workout 130 BPM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sportify - Pure Workout 130 BPM.png" group-title="Music",Sportify - Pure Workout 130 BPM
-https://drive.uber.radio/uber/sportifybpm130/icecast.audio
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Radio - 50's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Love Radio - 50s.png" group-title="Music",Love Radio - 50's
@@ -936,7 +935,8 @@ https://drive.uber.radio/uber/rtwalt/icecast.audio
 https://drive.uber.radio/uber/forkidzbathtimefun/icecast.audio
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just Jazz - Al Jarreau" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Just Jazz - Al Jarreau.png" group-title="Music",Just Jazz - Al Jarreau
 https://drive.uber.radio/uber/jjraljarreau/icecast.audio
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportify - Pure Workout 130 BPM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sportify - Pure Workout 130 BPM.png" group-title="Music",Sportify - Pure Workout 130 BPM
+https://drive.uber.radio/uber/sportifybpm130/icecast.audio
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="new",Rambo Last Blood (2019)
 http://fortv.cc:8080/movie/1433265/9941718/203061.mp4
