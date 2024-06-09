@@ -971,21 +971,21 @@ https://drive.uber.radio/uber/forkidzwakeandshake/icecast.audio
 
 #EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/78df16eb-7998-49e5-aed9-1bed50ea267a.png" group-title="Music",Easy Instrumentals
 https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
-#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/6b8adb31-5021-4e82-ad27-8f176caf9e91.jpg" group-title="Music",Exclusively ABBA
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/6b8adb31-5021-4e82-ad27-8f176caf9e91.jpg" group-title="Music",Abba
 http://streaming.exclusive.radio/er/abba/icecast.audio
 #EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/d43615c7-e876-42ef-bd8a-a408059039e6.png" group-title="Music",AI MUSIC RADIO - DONALD TRUMP
 https://drive.uber.radio/uber/aidonald/icecast.audio
-#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a7a81dd1-fdb2-441b-aabd-bfaacd611d94.png" group-title="Music",Rock The World - Alt Rock
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a7a81dd1-fdb2-441b-aabd-bfaacd611d94.png" group-title="Music",Alt Rock
 https://drive.uber.radio/uber/rtwalt/icecast.audio
-#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/bb2cdb60-0d19-4b86-9cd0-7677c656d07a.png" group-title="Music",Just Jazz - Al Jarreau
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/bb2cdb60-0d19-4b86-9cd0-7677c656d07a.png" group-title="Music",Al Jarreau
 https://drive.uber.radio/uber/jjraljarreau/icecast.audio
-#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/c6aee946-2cdc-46f3-8696-3b132a167d17.png" group-title="Music",Sportify - Pure Workout 130 BPM
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/c6aee946-2cdc-46f3-8696-3b132a167d17.png" group-title="Music",Pure Workout 130 BPM
 https://drive.uber.radio/uber/sportifybpm130/icecast.audio
-#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/101f1e99-f931-44ec-a161-b251e14f3c42.png" group-title="Music",Love Radio - 50's
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/101f1e99-f931-44ec-a161-b251e14f3c42.png" group-title="Music",50's
 https://drive.uber.radio/uber/lr1950s/icecast.audio
-#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/52ddf955-862e-47b2-877d-c92150169970.png" group-title="Music",Country Music Radio - Alabama
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/52ddf955-862e-47b2-877d-c92150169970.png" group-title="Music",Alabama
 https://drive.uber.radio/uber/cmralabama/icecast.audio
-#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f045db74-8996-498a-a3a9-c0c677ece874.jpg" group-title="Music",Exclusively Adele
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f045db74-8996-498a-a3a9-c0c677ece874.jpg" group-title="Music",Adele
 https://streaming.exclusive.radio/er/adele/icecast.audio
 #EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/70c018e8-5324-443f-bad5-17fbd9135666.png" group-title="Music",Sunanda Sharma
 https://drive.uber.radio/uber/bollywoodsunandasharma/icecast.audio
