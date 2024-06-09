@@ -938,8 +938,9 @@ https://streaming.exclusive.radio/er/jpop/icecast.audio
 https://streaming.exclusive.radio/er/kpop/icecast.audio
 #EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/59a71104-b1ed-49de-b218-94de11b23fb3.png" group-title="Radio",Musique Francaise
 https://streaming.exclusive.radio/er/musiquefrancaise/icecast.audio
-
-
+//Taylor Swift Radio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/912eafc8-6659-4a5f-b09a-0a51ac1f7882.jpg" group-title="Radio",Taylor Swift
+https://streaming.exclusive.radio/er/taylorswift/icecast.audio
 
 
 
