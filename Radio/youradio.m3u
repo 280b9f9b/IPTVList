@@ -5,3 +5,5 @@ https://streaming.positivity.radio/pr/1920/icecast.audio
 https://streaming.positivity.radio/pr/1930/icecast.audio
 #EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/d8f4ab2f-d7ae-4776-8cbe-41a68f0dbd31.png" group-title="Radio",Positively 1940's
 https://streaming.positivity.radio/pr/1940/icecast.audio
+#EXTINF:-1 tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8671fc4d-de4c-44e9-b0fc-4b174e05faf9.png" group-title="Radio",Positively 1950's
+https://streaming.positivity.radio/pr/1950/icecast.audio
