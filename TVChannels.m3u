@@ -554,10 +554,7 @@ https://ep128.hostingradio.ru:8030/ep128?type=.mp3
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Radio - 50's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Love Radio - 50s.png" group-title="Music",Love Radio - 50's
-https://drive.uber.radio/uber/lr1950s/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Positively Meditation" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Positively Meditation.png" group-title="Music",Positively Meditation
-https://streaming.positivity.radio/pr/posimeditation/icecast.audio
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Club FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Club FM.png" group-title="Music",Club FM
 https://eu10.fastcast4u.com/clubfmuae
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio 4 FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio 4 FM.png" group-title="Music",Radio 4 FM
@@ -937,6 +934,11 @@ https://drive.uber.radio/uber/forkidzbathtimefun/icecast.audio
 https://drive.uber.radio/uber/jjraljarreau/icecast.audio
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportify - Pure Workout 130 BPM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sportify - Pure Workout 130 BPM.png" group-title="Music",Sportify - Pure Workout 130 BPM
 https://drive.uber.radio/uber/sportifybpm130/icecast.audio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Radio - 50's" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Love Radio - 50s.png" group-title="Music",Love Radio - 50's
+https://drive.uber.radio/uber/lr1950s/icecast.audio
+
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="new",Rambo Last Blood (2019)
 http://fortv.cc:8080/movie/1433265/9941718/203061.mp4
