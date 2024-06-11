@@ -240,11 +240,11 @@ https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b20000
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qatar TV 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV 2.png" group-title="General",Qatar TV 2
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
-#EXTINF:-1 tvg-id="Qatar" tvg-logo="https://www.radio.net/images/broadcasts/fe/f9/129747/1/c300.png" group-title="General",Fame FM Qatar
+#EXTINF:-1 tvg-id="Qatar" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fame FM Qatar.png" group-title="General",Fame FM Qatar
 https://26453.live.streamtheworld.com/SAM03AAC389_SC
-#EXTINF:-1 tvg-id="Qatar" tvg-logo="https://www.radio.net/images/broadcasts/e4/69/35830/1/c300.png" group-title="General",Sout Al-Khaleej 100.8 FM
+#EXTINF:-1 tvg-id="Qatar" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sout Al-Khaleej 100.8 FM.png" group-title="General",Sout Al-Khaleej 100.8 FM
 https://streaming.radio.co/sec5a4b9e1/listen
-#EXTINF:-1 tvg-id="Qatar" tvg-logo="https://www.radio.net/images/broadcasts/22/35/145056/1/c300.png" group-title="General",Inta FM 103.7
+#EXTINF:-1 tvg-id="Qatar" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Inta FM 103.7" group-title="General",Inta FM 103.7
 https://s4.radio.co/s907eaefbe/listen
 
 
