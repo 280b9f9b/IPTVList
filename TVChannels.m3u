@@ -163,6 +163,35 @@ https://s2.radio.co/s770fa24b6/listen
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Dafrah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dafrah TV.png" group-title="General",Al Dafrah TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist_b2028000.m3u8
 
+
+
+
+
+//SaudiaTV.
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/25/b1/small_5040e0f8eaf5c35b89465ccbc09e9b5a99b19018.jpg" group-title="Radio",Khuzama
+//https:
+#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/89/52/small_e07b4198a85a2bc1b3c0733a71f61dd010dec85d.png" group-title="Radio",SaudiaTV
+https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png" group-title="Radio",SBC
+https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8#checkedby:iptvlister.com
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/6b/68/small_3d6f5c459718f2c1677f0fdcbc9d413285602b4e.png" group-title="Radio",ThikrayatTV
+//https:
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/11/78/small_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png" group-title="Radio",Alekhbariya
+//https:
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/47/4f/small_64167a679b7b2b43aa0e9549a920b50dc01cd531.png" group-title="Radio",KSA NOW
+//https:
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/af/5f/small_283fe3d945c4efdc8fbced8185065ba6e5460760.png" group-title="Radio",KSA Sports1
+//https:
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/7b/e0/small_a1bad3d72059d5a1cd18151ca0692c74c0a42926.png" group-title="Radio",KSA Sports2
+//https:
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/56/a9/small_6a57c3a8c8a265e093e9bdbce8b27f9b6f522016.png" group-title="Radio",KSA Sports3
+//https:
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/56/a9/small_6a57c3a8c8a265e093e9bdbce8b27f9b6f522016.png" group-title="Radio",QuranTVsa
+//https:
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/56/a9/small_6a57c3a8c8a265e093e9bdbce8b27f9b6f522016.png" group-title="Radio",SunnaTVsa
+//https:
+
+
 //News.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Arabiya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Arabiya.png" group-title="News",Al Arabiya
 https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
