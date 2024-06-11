@@ -258,6 +258,14 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/index.m3u8
 #EXTINF:-1 tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV Ethraa.png" group-title="General",KTV Ethraa
 https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/index.m3u8
+#EXTINF:-1 tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV Arabe.png" group-title="General",KTV Arabe
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/index.m3u8
+#EXTINF:-1 tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV Plus.png" group-title="General",KTV Plus
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/index.m3u8
+#EXTINF:-1 tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV Sport Plus.png" group-title="General",KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/index.m3u8
+
+
 
 
 
