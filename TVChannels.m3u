@@ -247,8 +247,9 @@ https://streaming.radio.co/sec5a4b9e1/listen
 #EXTINF:-1 tvg-id="Qatar" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Inta FM 103.7.png" group-title="Radio",Inta FM 103.7
 https://s4.radio.co/s907eaefbe/listen
 
-
-
+//Kuwait.
+#EXTINF:-1 tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kuwait TV.png" group-title="General",Kuwait TV
+http://45.65.112.49:8000/play/a0nh#checkedby:iptvlister.com
 
 //News.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Arabiya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Arabiya.png" group-title="News",Al Arabiya
