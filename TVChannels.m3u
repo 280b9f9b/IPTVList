@@ -285,7 +285,7 @@ https://kwtkrdota.cdn.mangomolo.com/k2rdo/k2rdo.stream_aac/index.m3u8
 
 
 //Jordan.
-#EXTINF:-1 tvg-id="Jordan" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/JordanTV.png" group-title="Radio",JordanTV
+#EXTINF:-1 tvg-id="Jordan" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/JordanTV.png" group-title="General",JordanTV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 
 //News.
