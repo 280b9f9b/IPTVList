@@ -176,7 +176,7 @@ https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/inde
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8#checkedby:iptvlister.com
 //#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/ThikrayatTV.png" group-title="General",ThikrayatTV
 //https:
-#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/11/78/small_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png" group-title="News",Alekhbariya
+#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alekhbariya.png" group-title="News",Alekhbariya
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 //#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/47/4f/small_64167a679b7b2b43aa0e9549a920b50dc01cd531.png" group-title="General",KSA NOW
 //https:
