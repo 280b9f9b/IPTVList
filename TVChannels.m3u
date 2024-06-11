@@ -250,14 +250,14 @@ https://s4.radio.co/s907eaefbe/listen
 //Kuwait.
 #EXTINF:-1 tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV 1.png" group-title="General",KTV 1
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/index.m3u8
-#EXTINF:-1 tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV 1.png" group-title="General",KTV 2
+#EXTINF:-1 tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV 2.png" group-title="General",KTV 2
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/index.m3u8
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV Sport.png" group-title="General",KTV Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
+#EXTINF:-1 tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Drama.png" group-title="General",Drama
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/index.m3u8
+#EXTINF:-1 tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV Ethraa.png" group-title="General",KTV Ethraa
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/index.m3u8
 
 
 
