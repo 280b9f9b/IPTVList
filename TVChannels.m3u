@@ -286,7 +286,8 @@ https://kwtkrdota.cdn.mangomolo.com/k2rdo/k2rdo.stream_aac/index.m3u8
 
 //Jordan.
 #EXTINF:-1 tvg-id="Jordan" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/JordanTV.png" group-title="General",JordanTV
-https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
+//https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="Jordan" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Jordan Sport.png" group-title="General",Jordan Sport
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 
