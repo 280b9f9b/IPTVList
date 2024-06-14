@@ -34,7 +34,9 @@ https://geo.dailymotion.com/player/xi5eg.html?video=x8lr1r8&amp;playlist=x7zhig
 #EXTINF:-1 tvg-id="Egypt" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Maspero.png" group-title="General",Maspero
 https://live-c.cf.dmcdn.net/sec2(eWOdwkC3nVYYKtfqhXTTU3EbPKQNtBnpFrit-p4SmEGN7clu6zN5owlMoh_TOEs-GOszwTbRex7SfUk7dzB5kRBcXjd3TofPfB5YuD9jFpE)/dm/3/x8n6e4h/s/live-3.m3u8#cell=lcfc
 #EXTINF:-1 tvg-id="Egypt" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Nile Drama.png" group-title="General",Nile Drama
-https://live-c.cf.dmcdn.net/sec2(PnpsM5kXDrTperHpjttUY-tOJor5gi0n1wW-zQGUSDfb-Eo8pGAx6YyQINdmmueXvLcAew6yXg_TswDmilL3Z49SLnzrTAIakDaWBdsMz7Q)/dm/3/x8n6e3a/s/live-1.m3u8#cell=lcfc
+https://geo.dailymotion.com/player/xi5eg.html?video=x8n6e3a&amp;playlist=x7zhig
+
+
 //#EXTINF:-1 tvg-id="Egypt" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Nile Cinema.png" group-title="General",Nile Cinema
 //https://
 //#EXTINF:-1 tvg-id="Egypt" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Egyptian Satellite.png" group-title="General",Egyptian Satellite
