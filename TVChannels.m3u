@@ -297,28 +297,7 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 
 
-//Egypt.
-#EXTINF:-1 tvg-id="Egypt" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Nile News.png" group-title="News",Nile News
-https://www.dailymotion.com/cdn/live/video/x84nwne.m3u8?sec=RQ1MMhTzwjhWwInt36aNsNahveGOm60TWS3kiJ9vUaeWZno66j160I9Bf4_WKRd0&dmTs=114224&dmV1st=f37f4def-0462-44fc-aea9-4fa15c3dec39
-//https://live-c.cf.dmcdn.net/sec2(H3cD9f6DVNaelRbz_4BLIocsOH1Bw3troXBSkRoAPK7SHMe6feY_rwlHmnbNTaSv5FSL4B6sMtlGk59OBFYoufi37Vqo-1KDYhVEZG2_01o)/dm/3/x84nwne/s/live-3.m3u8#cell=lcfc
-#EXTINF:-1 tvg-id="Egypt" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alawla.png" group-title="General",Alawla
-https://live-c.cf.dmcdn.net/sec2(Er9iV9K22jGTAyw02CYTOsrBphFI7Y5F5d_aRK0TsknIYbry3qNyIb8D_PNIAMT5YlxqDS1423HanYjqkPrijS_50yQ1DkCMpOpHQcU2ZMQ)/dm/3/x856hbh/s/live-3.m3u8
-//https://geo.dailymotion.com/player/xi5eg.html?video=x856hbh
-//https://live-c.cf.dmcdn.net/sec2(pHEt9qZFI1nv7gEhGY5Qmd4vka4CFB0A1lv5AjQfh_J1Wl77Vrvhk2zTiPliIMzvkIDu9P6LJS0oHJy_EwAIwH9sHrp_pPEqrNO5nJIy5mA)/dm/3/x856hbh/s/live-3.m3u8#cell=lcfc
-#EXTINF:-1 tvg-id="Egypt" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Althaania.png" group-title="General",Althaania
-https://live-c.cf.dmcdn.net/sec2(Oz0vzg7h1hKQNzf2_nB9DSCla1LGNu9-oA7bzs-T28iQWNW5N9gs96oOany7XDNRweg6byK5po5CGl9jkLYD4euoSAAZ5N_F6Ornx2E0bwk)/dm/3/x8n6dm7/s/live-1.m3u8#cell=lcfc
-#EXTINF:-1 tvg-id="Egypt" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Egyptian America.png" group-title="General",Egyptian America
-https://live-c.cf.dmcdn.net/sec2(70bd4RP7x424ShMg35k1XnlZhDg_79CbtsS9MzwFK25f0w95sg4kYgofHtIzB66Z3kZs_JdRWiZ-YtGqBskA7i9n-bfMP2bnCX47ELC9Hvg)/dm/3/x84nun4/s/live-3.m3u8#cell=lcfc
-#EXTINF:-1 tvg-id="Egypt" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/NileTV International.png" group-title="General",NileTV International
-https://live-c.cf.dmcdn.net/sec2(WMDAp5pkqc5OkY9upCR4kOzCMPT1NgHVNeOGgmtbXhi3VMU2BK1HTKcNJ-SR8nvESMv0_MozZl5GjBPPfXbSuSGhwVaHxuhZ1RWK_v-5Or8)/dm/3/x8lr1r8/s/live-3.m3u8#cell=lcfc
-#EXTINF:-1 tvg-id="Egypt" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Maspero.png" group-title="General",Maspero
-https://live-c.cf.dmcdn.net/sec2(eWOdwkC3nVYYKtfqhXTTU3EbPKQNtBnpFrit-p4SmEGN7clu6zN5owlMoh_TOEs-GOszwTbRex7SfUk7dzB5kRBcXjd3TofPfB5YuD9jFpE)/dm/3/x8n6e4h/s/live-3.m3u8#cell=lcfc
-#EXTINF:-1 tvg-id="Egypt" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Nile Drama.png" group-title="General",Nile Drama
-https://live-c.cf.dmcdn.net/sec2(PnpsM5kXDrTperHpjttUY-tOJor5gi0n1wW-zQGUSDfb-Eo8pGAx6YyQINdmmueXvLcAew6yXg_TswDmilL3Z49SLnzrTAIakDaWBdsMz7Q)/dm/3/x8n6e3a/s/live-1.m3u8#cell=lcfc
-//#EXTINF:-1 tvg-id="Egypt" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Nile Cinema.png" group-title="General",Nile Cinema
-//https://
-//#EXTINF:-1 tvg-id="Egypt" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Egyptian Satellite.png" group-title="General",Egyptian Satellite
-//https://
+
 
 
 
