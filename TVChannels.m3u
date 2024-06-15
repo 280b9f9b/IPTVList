@@ -808,15 +808,46 @@ https://mediati.me/radio/8010/radio.mp3
 https://27943.live.streamtheworld.com/AFNE_BHN_SC
 
 //Israel Radio Stations.
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Alshams" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio Alshams.png" group-title="Music",Radio Alshams
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/dv8pvv9mdrmx.png" group-title="Radio",kan-88
+https://27343.live.streamtheworld.com/KAN_88.mp3?dist=bynetredirect
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/HnZ76gjPKf.jpg" group-title="Radio",eco-99-fm
+http://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/ucet2cgsmfnz.jpeg" group-title="Radio",hatahana
+https://radio.streamgates.net/stream/hatahana
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/tCKz9fPyZa.png" group-title="Radio",Pervoye Radio
+https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/k3PEFCxDdW.png" group-title="Radio",91 FM
+https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/j7b3gntcrkxc.png" group-title="Radio",Radio Mizrahit FM
+https://mzr.mediacast.co.il/mzradio
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/j7b3gntcrkxc.png" group-title="Radio",Radio Alshams
 https://cdna.streamgates.net/Ashams/Live/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nas Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Nas Radio.png" group-title="Music",Nas Radio
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/vdrjne7rthw2.png" group-title="Radio",Radio Haifa
+https://1075.livecdn.biz/radiohaifa
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/ZLU6jTWyUD.png" group-title="Radio",Jerusalem FM
+https://radio.streamgates.net/stream/101fm
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/ZLU6jTWyUD.png" group-title="Radio",Nas Radio
 https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="From here" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/From here.png" group-title="Music",From here
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/nyqsftvf9ccx.png" group-title="Radio",Radio 100% Hits live
+https://gb25.streamgates.net/radios-audio/100Hits/icecast.audio
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/eGEEZ7vUQd.png" group-title="Radio",Radio Darom live
+https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/t9ptvjpx6ljq.jpg" group-title="Radio",Radio 104.5 FM
+https://radio.streamgates.net/stream/1045fm
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/ub8htw9dhjtw.jpg" group-title="Radio",99.5 live
+https://995.livecdn.biz/995fm
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/EsbjCbZSEV.jpg" group-title="Radio",Radio Katsav Mizrahit live
+https://liveradio.co.il:9040/;
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/aa6mrzun5crx.png" group-title="Radio",Radius 100% Retro live
+https://gb25.streamgates.net/radios-audio/100Retro/icecast.audio
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/536/from-here-arabic-radio.37987acb.png" group-title="Radio",From here
 https://25483.live.streamtheworld.com/RADIO_MAKAN_SC?dist=bynetredirect
-
-
-
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/prQWQtbwa6.png" group-title="Radio",Kol Hamusica - IBA Voice of Music
+https://27993.live.streamtheworld.com/KAN_KOL_HAMUSICA_SC?dist=tunein
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/q9lcjyc3bjcv.png" group-title="Radio",Kol Rega
+https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio
+#EXTINF:-1 tvg-id="Israel" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/z9lxsr4ywplc.jfif" group-title="Radio",holmimmizrahit live
+http://liveradio.co.il:1040/;
 
 
 
