@@ -1,0 +1,9 @@
+//Fujairah.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fujairah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah TV.png" group-title="General",Fujairah TV
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fujairah FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah FM.png" group-title="Radio",Fujairah FM
+https://live.kwikmotion.com/fujairahradiolive/fujairahradio/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vibe FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Vibe FM.png" group-title="Radio",Vibe FM
+https://live.kwikmotion.com/fujairahviberadiolive/fujairahviberadio/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zayed Radio For Qura'an" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zayed Radio For Quraan.png" group-title="Religion",Zayed Radio
+https://live.kwikmotion.com/fujairahquranradiolive/fujairahquranradio/chunks.m3u8
