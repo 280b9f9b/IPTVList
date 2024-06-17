@@ -1,0 +1,39 @@
+//News.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Arabiya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Arabiya.png" group-title="News",Al Arabiya
+https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Hadath" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Hadath.png" group-title="News",Al Hadath
+https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Arabic.png" group-title="News",Al Jazeera
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera Documentary" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Documentary.png" group-title="Documentary",Al Jazeera
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera Mubasher" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Mubasher.png" group-title="News",Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera English.png" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/alternative/AJE/01.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Yaum TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Yaum TV.png" group-title="News",Al Yaum TV
+https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/BBC Arabic.png" group-title="News",BBC Arabic
+//https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CGTN Arabic.png" group-title="News",CGTN Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/DW Arabic.png" group-title="News",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="France 24 Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/France 24 Arabic.png" group-title="News",France 24
+https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/RT Arabic.png" group-title="News",RT Arabic
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRT Arabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TRT Arabi.png" group-title="News",TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg Quicktake" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bloomberg Quicktake.png" group-title="News",Quicktake
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC Arabia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CNBC Arabia.png" group-title="News",CNBC Arabia
+https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alaraby TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby TV.png" group-title="News",Alaraby TV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews english" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews english.png" group-title="News",euronews english
+//https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews french" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews french.png" group-title="News",euronews french
+//https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I24 News Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/I24 News Arabic.png" group-title="News",I24 Arabic
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
