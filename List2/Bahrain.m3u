@@ -1,0 +1,21 @@
+//Bahrain.
+#EXTINF:-1 tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain TV.png" group-title="General",Bahrain TV
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain International.png" group-title="General",Bahrain International
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Sports 1.png" group-title="Sports",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Sports 2.png" group-title="Sports",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Quran.png" group-title="Religion",Bahrain Quran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain FM 93.3.png" group-title="Radio",Bahrain FM 93.3
+http://185.105.4.106:1935/live/radio-93-3/playlist.m3u8
+#EXTINF:-1 tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TRADL Music 95.0.png" group-title="Radio",TRAD'L Music 95.0
+http://185.105.4.106:1935/live/radio-95-0/playlist.m3u8
+#EXTINF:-1 tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain 96.5.png" group-title="Radio",Bahrain 96.5
+http://185.105.4.106:1935/live/radio-96-5/playlist.m3u8
+#EXTINF:-1 tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain 102.3.png" group-title="Radio",Bahrain 102.3
+http://185.105.4.106:1935/live/radio-102-3/playlist.m3u8
+#EXTINF:-1 tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Holy Quran 106.1.png" group-title="Religion",Holy Quran 106.1
+http://185.105.4.106:1935/live/radio-106-1/playlist.m3u8
