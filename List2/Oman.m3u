@@ -1,0 +1,19 @@
+//Oman.
+#EXTINF:-1 tvg-id="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman.png" group-title="General",Oman
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Sport.png" group-title="Sports",Oman Sport
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Calture.png" group-title="Documentary",Oman Calture
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-id="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Mubasher.png" group-title="General",Oman Mubasher
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+//#EXTINF:-1 tvg-id="Oman" tvg-logo="" group-title="General",الإذاعة-العامة
+//https:
+//#EXTINF:-1 tvg-id="Oman" tvg-logo="" group-title="General",إذاعة-الشباب
+//https:
+//#EXTINF:-1 tvg-id="Oman" tvg-logo="" group-title="General",إذاعة-القرآن-الكريم
+//https:
+//#EXTINF:-1 tvg-id="Oman" tvg-logo="" group-title="General",الإذاعة-الإنجليزية
+//https:
+//#EXTINF:-1 tvg-id="Oman" tvg-logo="" group-title="General",صوت-عمان
+//https:
