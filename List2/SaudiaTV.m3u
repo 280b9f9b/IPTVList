@@ -1,0 +1,23 @@
+//SaudiaTV.
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/25/b1/small_5040e0f8eaf5c35b89465ccbc09e9b5a99b19018.jpg" group-title="Radio",Khuzama
+//https:
+#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/SaudiaTV.png" group-title="General",SaudiaTV
+https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8#checkedby:iptvlister.com
+#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/SBC.png" group-title="General",SBC
+https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8#checkedby:iptvlister.com
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/ThikrayatTV.png" group-title="General",ThikrayatTV
+//https:
+#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alekhbariya.png" group-title="News",Alekhbariya
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/47/4f/small_64167a679b7b2b43aa0e9549a920b50dc01cd531.png" group-title="General",KSA NOW
+//https:
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/af/5f/small_283fe3d945c4efdc8fbced8185065ba6e5460760.png" group-title="Sports",KSA Sports1
+//https:
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/7b/e0/small_a1bad3d72059d5a1cd18151ca0692c74c0a42926.png" group-title="Sports",KSA Sports2
+//https:
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/56/a9/small_6a57c3a8c8a265e093e9bdbce8b27f9b6f522016.png" group-title="Sports",KSA Sports3
+//https:
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/56/a9/small_6a57c3a8c8a265e093e9bdbce8b27f9b6f522016.png" group-title="Religion",QuranTVsa
+//https:
+//#EXTINF:-1 tvg-id="SaudiaTV" tvg-logo="https://aloula.faulio.com/storage/mediagallery/56/a9/small_6a57c3a8c8a265e093e9bdbce8b27f9b6f522016.png" group-title="Religion",SunnaTVsa
+//https:
