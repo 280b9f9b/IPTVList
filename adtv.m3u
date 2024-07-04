@@ -67,9 +67,9 @@ https://dmieigthvllta.cdn.mgmlcdn.com/noordubaitv/smil:noordubaitv.smil/index.m3
 
 //Dubai Radio.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dubai Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Radio.png" group-title="Radio",Dubai Radio
-https://dmithrvll.cdn.mangomolo.com/dubairdo/dubairdo_aac/chunklist.m3u8
+https://dmithrvllta.cdn.mgmlcdn.com/dubairdo/dubairdo_aac/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Noor Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Noor Dubai.png" group-title="Religion",Noor Dubai
-http://dmithrvll.cdn.mangomolo.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
+https://dmithrvllta.cdn.mgmlcdn.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
 
 //Al Oula Radio.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Oula" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Oula.png" group-title="Radio",Al Oula
