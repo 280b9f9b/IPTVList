@@ -480,12 +480,30 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 //http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
 
 //Lebanon.
+#EXTINF:-1 tvg-id="Lebanon" tvg-logo="" group-title="General",Al Manar
+https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Lebanon" tvg-logo="" group-title="General",MTV Lebanon
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Lebanon" tvg-logo="" group-title="Music",One TV Lebanon
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-id="Lebanon" tvg-logo="" group-title="Music",NBN
+https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
+#EXTINF:-1 tvg-id="Lebanon" tvg-logo="" group-title="Music",Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Lebanon" tvg-logo="" group-title="Music",Aghani Aghani TV
+https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+#EXTINF:-1 tvg-id="Lebanon" tvg-logo="" group-title="Music",Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="Lebanon" tvg-logo="" group-title="Radio",OneFM
 https://live.3cd.io/v1/broadcast/onefm/playlist.m3u8
+//LB - AL MANAR +6H LB - FUTURE +6H LB - LBC +6H LB - LDC +6H LB - MTV LEBANON +6H LB - OTV +6H LB - AL JADEED +6 LB - LEBANON TV LB - LBC HD LB - LBC SAT LB - LBC INTERNATIONAL LB - OTV TV LB - MTV LEBANON HD LB - MTV LEBANON LB - NBN LEBANON HD LB - FUTURE TV LB - AL MAYADEEN LB - AL MANAR LB - ALAAN TV LEBANON LB - AGHANI AGHANI TV LB - ARABICA HD LB - ONE TV LB - Hawacom TV HD LB - AL NADA TV LB - AL JADEED LB - TELELIBAN TV LB - AL QANAT
+
+
+
+
+
+
+
 
 //weyyak.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wedo-Big-Stories" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wedo-Big-Stories.png" group-title="General",Wedo-Big-Stories
