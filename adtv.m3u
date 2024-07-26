@@ -173,7 +173,7 @@ http://185.105.4.106:1935/live/radio-102-3/playlist.m3u8
 http://185.105.4.106:1935/live/radio-106-1/playlist.m3u8
 
 
-//Oman.
+
 #EXTINF:-1 tvg-chno="70" tvg-id="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman.png" group-title="General",Oman
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Sport.png" group-title="Sports",Oman Sport
@@ -184,7 +184,7 @@ https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklis
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 
 
-//Qatar.
+
 #EXTINF:-1 tvg-chno="70" tvg-id="Qatar" tvg-name="Qatar TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV.png" group-title="General",Qatar TV
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="Qatar" tvg-name="Qatar TV 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV 2.png" group-title="General",Qatar TV 2
@@ -201,7 +201,7 @@ https://streaming.radio.co/sec5a4b9e1/listen
 #EXTINF:-1 tvg-chno="70" tvg-id="Qatar" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Inta FM 103.7.png" group-title="Radio",Inta FM 103.7
 https://s4.radio.co/s907eaefbe/listen
 
-//Kuwait.
+
 #EXTINF:-1 tvg-chno="70" tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV 1.png" group-title="General",KTV 1
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/index.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV 2.png" group-title="General",KTV 2
@@ -238,7 +238,7 @@ https://kwtkrdota.cdn.mangomolo.com/eardo/eardo.stream_aac/index.m3u8
 https://kwtkrdota.cdn.mangomolo.com/k2rdo/k2rdo.stream_aac/index.m3u8
 
 
-//Jordan.
+
 #EXTINF:-1 tvg-chno="70" tvg-id="Jordan" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/JordanTV.png" group-title="General",JordanTV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="Jordan" tvg-logo="" group-title="General",AL MAMLAKA
@@ -256,7 +256,7 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 
 
 
-//News.
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Arabiya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Arabiya.png" group-title="News",Al Arabiya
 https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Hadath" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Hadath.png" group-title="News",Al Hadath
@@ -271,8 +271,6 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 https://live-hls-web-aje.getaj.net/alternative/AJE/01.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Yaum TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Yaum TV.png" group-title="News",Al Yaum TV
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
-//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/BBC Arabic.png" group-title="News",BBC Arabic
-//https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CGTN Arabic.png" group-title="News",CGTN Arabic
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/DW Arabic.png" group-title="News",DW Arabic
@@ -289,15 +287,11 @@ https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
 https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alaraby TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby TV.png" group-title="News",Alaraby TV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews english" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews english.png" group-title="News",euronews english
-//https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
-//#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="euronews french" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/euronews french.png" group-title="News",euronews french
-//https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I24 News Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/I24 News Arabic.png" group-title="News",I24 Arabic
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 
-//MBC shahid.
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC.png" group-title="shahid",MBC
+
+#EXTINF:-1 tvg-chno="70" tvg-id="shahid" tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC.png" group-title="shahid",MBC
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Drama.png" group-title="shahid",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
@@ -398,35 +392,21 @@ https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AlThaqafeya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AlThaqafeya.png" group-title="shahid",AlThaqafeya
 https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_8.m3u8
-//MBC shahid Radio.
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alarabiya FM.png" group-title="News",Alarabiya FM
 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 
-//Rotana.
+
 #EXTINF:-1 tvg-id="Rotana" tvg-logo="" group-title="General",Rotana Cinema
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
-//rotana-cinemamasr
-//rotana-comedy
-//rotana-classical
-//rotana-drama
-//rotana-khaleejiya
-//rotana-lbc
-//Rotana Kids
-//Rotana Aflam
-//rotana-cinemafr
-//rotana+
-//rotana-cinemaus
-//rotana-clip
-//Rotana Mousica
+
 #EXTINF:-1 tvg-id="Rotana" tvg-logo="" group-title="Music",Rotana M+
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c926b44e3f020008e19112/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072632-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=480862f0-a3b1-4a41-ace7-43c6c645f118
-//rotana-risala
-//#EXTINF:-1 tvg-id="Rotana" tvg-logo="" group-title="General",Rotana Studio
-//http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
-//#EXTINF:-1 tvg-id="Rotana" tvg-logo="" group-title="General",Rotana City
-//http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
 
-//Lebanon.
+
+
+
+
 #EXTINF:-1 tvg-id="Lebanon" tvg-logo="" group-title="General",Al Manar
 https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Lebanon" tvg-logo="" group-title="General",MTV Lebanon
@@ -443,7 +423,6 @@ https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8r
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="Lebanon" tvg-logo="" group-title="Radio",OneFM
 https://live.3cd.io/v1/broadcast/onefm/playlist.m3u8
-//LB - AL MANAR +6H LB - FUTURE +6H LB - LBC +6H LB - LDC +6H LB - MTV LEBANON +6H LB - OTV +6H LB - AL JADEED +6 LB - LEBANON TV LB - LBC HD LB - LBC SAT LB - LBC INTERNATIONAL LB - OTV TV LB - MTV LEBANON HD LB - MTV LEBANON LB - NBN LEBANON HD LB - FUTURE TV LB - AL MAYADEEN LB - AL MANAR LB - ALAAN TV LEBANON LB - AGHANI AGHANI TV LB - ARABICA HD LB - ONE TV LB - Hawacom TV HD LB - AL NADA TV LB - AL JADEED LB - TELELIBAN TV LB - AL QANAT
 
 
 
@@ -452,7 +431,6 @@ https://live.3cd.io/v1/broadcast/onefm/playlist.m3u8
 
 
 
-//weyyak.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wedo-Big-Stories" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wedo-Big-Stories.png" group-title="General",Wedo-Big-Stories
 https://weyyak-live.akamaized.net/wedo_big_stories/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duck-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Duck-TV.png" group-title="General",Duck-TV
@@ -499,17 +477,17 @@ https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
 
 
 
-//Kids.
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Istiqama TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Istiqama TV.png" group-title="Religion",Al Istiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
 
 
-//Documentary.
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clarity 4K" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Clarity 4K.png" group-title="Documentary",Clarity 4K
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 
-//Music.
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PMC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC.png" group-title="Music",PMC
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PMC Royale" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC Royale.png" group-title="Music",PMC Royale
@@ -520,7 +498,7 @@ https://nogoumtv.nrpstream.com/hls/stream.m3u8
 
 
 
-//General.
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Hayat TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Hayat TV.png" group-title="General",Al Hayat TV
 https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b1128000.m3u8
@@ -541,7 +519,9 @@ https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/m
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeN TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TeN TV.png" group-title="General",TeN TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 
-//Religion.
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iqraa" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Iqraa.png" group-title="Religion",Iqraa
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kaif TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kaif TV.png" group-title="Religion",Kaif TV
@@ -578,7 +558,6 @@ http://fortv.cc:8080/movie/1433265/9941718/203061.mp4
 
 
 
-//https://sparklinktv.com/fr/channel_list.html
 
 
 
