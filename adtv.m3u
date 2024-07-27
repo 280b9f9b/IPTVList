@@ -543,7 +543,8 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",EN : أهم المباريات اليوم VIP
 http://lukatv.net:8880/ERDFHJL/3422908/329100
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",EN : أهم المباريات اليوم FHD
+http://lukatv.net:8880/ERDFHJL/3422908/393120
 
 
 
