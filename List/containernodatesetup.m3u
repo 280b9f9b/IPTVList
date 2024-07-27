@@ -1,28 +1,632 @@
-#EXTM3U url-tvg=""
-
-
-//MBC.
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC 2.png" group-title="Movies",MBC 2
-http://mohdtv.com:8880/voby1876/61681118/27765
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC ACTION" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC ACTION.png" group-title="Movies",MBC ACTION
-http://mohdtv.com:8880/voby1876/61681118/27763
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC MAX" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC MAX.png" group-title="Movies",MBC MAX
-http://mohdtv.com:8880/voby1876/61681118/27752
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US030 E! HD" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/US030 E! HD.png" group-title="Movies",US030 E! HD
-http://mohdtv.com:8880/voby1876/61681118/3138
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",EN : أهم المباريات اليوم VIP
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="EN : أهم المباريات اليوم VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",EN : أهم المباريات اليوم VIP
 http://lukatv.net:8880/ERDFHJL/3422908/329100
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",EN : أهم المباريات اليوم FHD
+#EXTINF:-1 tvg-id="" tvg-name="8K BEIN SPORTS NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",8K BEIN SPORTS NEWS
+http://lukatv.net:8880/ERDFHJL/3422908/125564
+#EXTINF:-1 tvg-id="" tvg-name="UH BEIN SPORTS 1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",UH BEIN SPORTS 1 UHD
+http://lukatv.net:8880/ERDFHJL/3422908/391209
+#EXTINF:-1 tvg-id="" tvg-name="8K BEIN SPORTS  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",8K BEIN SPORTS  1
+http://lukatv.net:8880/ERDFHJL/3422908/287736
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS  1
+http://lukatv.net:8880/ERDFHJL/3422908/247704
+#EXTINF:-1 tvg-id="" tvg-name="8K BEIN SPORTS  2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",8K BEIN SPORTS  2
+http://lukatv.net:8880/ERDFHJL/3422908/320199
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS  2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS  2
+http://lukatv.net:8880/ERDFHJL/3422908/358250
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS  3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS  3
+http://lukatv.net:8880/ERDFHJL/3422908/157664
+#EXTINF:-1 tvg-id="" tvg-name="8K BEIN SPORTS  3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",8K BEIN SPORTS  3
+http://lukatv.net:8880/ERDFHJL/3422908/343026
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS 4
+http://lukatv.net:8880/ERDFHJL/3422908/157662
+#EXTINF:-1 tvg-id="" tvg-name="8K BEIN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",8K BEIN SPORTS 4
+http://lukatv.net:8880/ERDFHJL/3422908/325178
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS 5
+http://lukatv.net:8880/ERDFHJL/3422908/157663
+#EXTINF:-1 tvg-id="" tvg-name="8K BEIN SPORT 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",8K BEIN SPORT 5
+http://lukatv.net:8880/ERDFHJL/3422908/353661
+#EXTINF:-1 tvg-id="" tvg-name="8K BEIN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",8K BEIN SPORTS 6
+http://lukatv.net:8880/ERDFHJL/3422908/325179
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS 6
+http://lukatv.net:8880/ERDFHJL/3422908/157661
+#EXTINF:-1 tvg-id="" tvg-name="8K BEIN SPORTS  7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",8K BEIN SPORTS  7
+http://lukatv.net:8880/ERDFHJL/3422908/378579
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS 7
+http://lukatv.net:8880/ERDFHJL/3422908/157660
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS 8
+http://lukatv.net:8880/ERDFHJL/3422908/157659
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS 8
+http://lukatv.net:8880/ERDFHJL/3422908/157658
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS 9
+http://lukatv.net:8880/ERDFHJL/3422908/157657
+#EXTINF:-1 tvg-id="" tvg-name="8K BEIN SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",8K BEIN SPORTS 9
+http://lukatv.net:8880/ERDFHJL/3422908/347673
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS NBA
+http://lukatv.net:8880/ERDFHJL/3422908/157651
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN.SPORT.GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN.SPORT.GLOBAL
+http://lukatv.net:8880/ERDFHJL/3422908/208080
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS 1 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS 1 EN
+http://lukatv.net:8880/ERDFHJL/3422908/157650
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS 2 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS 2 EN
+http://lukatv.net:8880/ERDFHJL/3422908/157649
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS 1 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS 1 EN
+http://lukatv.net:8880/ERDFHJL/3422908/157652
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS 1 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS 1 FR
+http://lukatv.net:8880/ERDFHJL/3422908/157654
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS 2 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS 2 FR
+http://lukatv.net:8880/ERDFHJL/3422908/157653
+#EXTINF:-1 tvg-id="" tvg-name="4K BEIN SPORTS 3 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",4K BEIN SPORTS 3 FR
+http://lukatv.net:8880/ERDFHJL/3422908/157648
+#EXTINF:-1 tvg-id="" tvg-name="EN : أهم المباريات اليوم FHD" tvg-logo="" group-title="|AR| BEIN SP⚽RTS FHD 4K ",EN : أهم المباريات اليوم FHD
 http://lukatv.net:8880/ERDFHJL/3422908/393120
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",BEIN SPORTS NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORTS NEWS FHD
 http://lukatv.net:8880/ERDFHJL/3422908/347518
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",BEIN SPORT ①  FHD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN  SPORTS  NEWS  4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN  SPORTS  NEWS  4k
+http://lukatv.net:8880/ERDFHJL/3422908/15587
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT ①  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORT ①  FHD
 http://lukatv.net:8880/ERDFHJL/3422908/96394
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",BEIN SPORT ⓵   4k.
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT ⓵   4k." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORT ⓵   4k.
 http://lukatv.net:8880/ERDFHJL/3422908/66
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT ➊ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORT ➊ HD
+http://lukatv.net:8880/ERDFHJL/3422908/287734
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2  4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORT 2  4k
+http://lukatv.net:8880/ERDFHJL/3422908/350213
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORT 2  FHD
+http://lukatv.net:8880/ERDFHJL/3422908/65
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3  4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORT 3  4k
+http://lukatv.net:8880/ERDFHJL/3422908/96396
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORT 3 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/64
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORTS 4 4K
+http://lukatv.net:8880/ERDFHJL/3422908/12347
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORTS 4 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/73
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORTS 5 4K
+http://lukatv.net:8880/ERDFHJL/3422908/12348
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORTS 5 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/72
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORTS 6 4K
+http://lukatv.net:8880/ERDFHJL/3422908/12349
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORTS 6 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/71
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORTS 7 4K
+http://lukatv.net:8880/ERDFHJL/3422908/12350
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORTS 7 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/70
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORTS 8 4K
+http://lukatv.net:8880/ERDFHJL/3422908/12351
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORTS 8 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/69
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORTS 9 4K
+http://lukatv.net:8880/ERDFHJL/3422908/12352
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN SPORTS 9 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/68
+#EXTINF:-1 tvg-id="" tvg-name="BEIN GLOBAL 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN GLOBAL 4k
+http://lukatv.net:8880/ERDFHJL/3422908/202967
+#EXTINF:-1 tvg-id="" tvg-name="SPORT NPA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",SPORT NPA 4K
+http://lukatv.net:8880/ERDFHJL/3422908/121611
+#EXTINF:-1 tvg-id="" tvg-name="BEIN English 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN English 1 4K
+http://lukatv.net:8880/ERDFHJL/3422908/96397
+#EXTINF:-1 tvg-id="" tvg-name="BEIN English 1  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN English 1  FHD
+http://lukatv.net:8880/ERDFHJL/3422908/96398
+#EXTINF:-1 tvg-id="" tvg-name="BEIN English 2 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN English 2 4k
+http://lukatv.net:8880/ERDFHJL/3422908/96399
+#EXTINF:-1 tvg-id="" tvg-name="BEIN  English 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN  English 2 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/63
+#EXTINF:-1 tvg-id="" tvg-name="BEIN .Fransa.1 FHD -" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN .Fransa.1 FHD -
+http://lukatv.net:8880/ERDFHJL/3422908/140066
+#EXTINF:-1 tvg-id="" tvg-name="BEIN  .Fransa.2 FHD -" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN  .Fransa.2 FHD -
+http://lukatv.net:8880/ERDFHJL/3422908/56782
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Fransa.3 FHD -" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS FHD 4K ",BEIN Fransa.3 FHD -
+http://lukatv.net:8880/ERDFHJL/3422908/12355
+#EXTINF:-1 tvg-id="" tvg-name="EN : أهم المباريات اليوم HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",EN : أهم المباريات اليوم HD
+http://lukatv.net:8880/ERDFHJL/3422908/393121
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS NEWS HD
+http://lukatv.net:8880/ERDFHJL/3422908/347519
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORT NEWS SD
+http://lukatv.net:8880/ERDFHJL/3422908/32824
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 1  SD
+http://lukatv.net:8880/ERDFHJL/3422908/77
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  1   HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS  1   HD
+http://lukatv.net:8880/ERDFHJL/3422908/125555
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 2 SD
+http://lukatv.net:8880/ERDFHJL/3422908/76
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 2  HD
+http://lukatv.net:8880/ERDFHJL/3422908/125556
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 3  SD
+http://lukatv.net:8880/ERDFHJL/3422908/75
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 3  HD
+http://lukatv.net:8880/ERDFHJL/3422908/125557
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 4 SD
+http://lukatv.net:8880/ERDFHJL/3422908/84
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 4 HD
+http://lukatv.net:8880/ERDFHJL/3422908/125548
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 5 HD
+http://lukatv.net:8880/ERDFHJL/3422908/83
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 5 SD
+http://lukatv.net:8880/ERDFHJL/3422908/125549
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 6 SD
+http://lukatv.net:8880/ERDFHJL/3422908/82
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 6 HD
+http://lukatv.net:8880/ERDFHJL/3422908/125550
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 7 SD
+http://lukatv.net:8880/ERDFHJL/3422908/81
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 7 HD
+http://lukatv.net:8880/ERDFHJL/3422908/125551
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 FHD B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 7 FHD B
+http://lukatv.net:8880/ERDFHJL/3422908/80
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 8 SD
+http://lukatv.net:8880/ERDFHJL/3422908/79
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 8 HD
+http://lukatv.net:8880/ERDFHJL/3422908/125553
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 9 SD
+http://lukatv.net:8880/ERDFHJL/3422908/78
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS 9  HD
+http://lukatv.net:8880/ERDFHJL/3422908/125554
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS NBA
+http://lukatv.net:8880/ERDFHJL/3422908/125563
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT EN 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORT EN 1 SD
+http://lukatv.net:8880/ERDFHJL/3422908/74
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT EN 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORT EN 2 SD
+http://lukatv.net:8880/ERDFHJL/3422908/32825
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS  Fr 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS  Fr 1 SD
+http://lukatv.net:8880/ERDFHJL/3422908/60367
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FR 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS FR 2 SD
+http://lukatv.net:8880/ERDFHJL/3422908/60368
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FR 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS SD HD ",BEIN SPORTS FR 3 SD
+http://lukatv.net:8880/ERDFHJL/3422908/60369
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beIN Sports 1 Xtra" tvg-logo="" group-title="|AR| BEIN SPORTS XTRA  ⚽",VIP: beIN Sports 1 Xtra
+http://lukatv.net:8880/ERDFHJL/3422908/396487
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beIN Sports 2 Xtra" tvg-logo="" group-title="|AR| BEIN SPORTS XTRA  ⚽",VIP: beIN Sports 2 Xtra
+http://lukatv.net:8880/ERDFHJL/3422908/396488
+#EXTINF:-1 tvg-id="" tvg-name="VIP: Bein Sport xtra1 Audio" tvg-logo="" group-title="|AR| BEIN SPORTS XTRA  ⚽",VIP: Bein Sport xtra1 Audio
+http://lukatv.net:8880/ERDFHJL/3422908/396489
+#EXTINF:-1 tvg-id="" tvg-name="VIP: Bein Sport xtra2 Audio" tvg-logo="" group-title="|AR| BEIN SPORTS XTRA  ⚽",VIP: Bein Sport xtra2 Audio
+http://lukatv.net:8880/ERDFHJL/3422908/396490
+#EXTINF:-1 tvg-id="" tvg-name="VIP: Bein Sport xtra3 Audio" tvg-logo="" group-title="|AR| BEIN SPORTS XTRA  ⚽",VIP: Bein Sport xtra3 Audio
+http://lukatv.net:8880/ERDFHJL/3422908/396491
+#EXTINF:-1 tvg-id="" tvg-name="VIP: Bein Sports AFC" tvg-logo="" group-title="|AR| BEIN SPORTS AFC  ⚽",VIP: Bein Sports AFC
+http://lukatv.net:8880/ERDFHJL/3422908/396479
+#EXTINF:-1 tvg-id="" tvg-name="VIP: Bein Sports 1 AFC" tvg-logo="" group-title="|AR| BEIN SPORTS AFC  ⚽",VIP: Bein Sports 1 AFC
+http://lukatv.net:8880/ERDFHJL/3422908/396480
+#EXTINF:-1 tvg-id="" tvg-name="VIP: Bein Sports 2 AFC" tvg-logo="" group-title="|AR| BEIN SPORTS AFC  ⚽",VIP: Bein Sports 2 AFC
+http://lukatv.net:8880/ERDFHJL/3422908/396481
+#EXTINF:-1 tvg-id="" tvg-name="VIP: Bein Sports 3 AFC" tvg-logo="" group-title="|AR| BEIN SPORTS AFC  ⚽",VIP: Bein Sports 3 AFC
+http://lukatv.net:8880/ERDFHJL/3422908/396482
+#EXTINF:-1 tvg-id="" tvg-name="VIP: Bein Sport Afc Audio" tvg-logo="" group-title="|AR| BEIN SPORTS AFC  ⚽",VIP: Bein Sport Afc Audio
+http://lukatv.net:8880/ERDFHJL/3422908/396483
+#EXTINF:-1 tvg-id="" tvg-name="VIP: Bein Sport Afc1 Audio" tvg-logo="" group-title="|AR| BEIN SPORTS AFC  ⚽",VIP: Bein Sport Afc1 Audio
+http://lukatv.net:8880/ERDFHJL/3422908/396484
+#EXTINF:-1 tvg-id="" tvg-name="VIP: Bein Sport Afc2 Audio" tvg-logo="" group-title="|AR| BEIN SPORTS AFC  ⚽",VIP: Bein Sport Afc2 Audio
+http://lukatv.net:8880/ERDFHJL/3422908/396485
+#EXTINF:-1 tvg-id="" tvg-name="VIP: Bein Sport Afc3 Audio" tvg-logo="" group-title="|AR| BEIN SPORTS AFC  ⚽",VIP: Bein Sport Afc3 Audio
+http://lukatv.net:8880/ERDFHJL/3422908/396486
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="•●★♣♦♣ BEIN ENTERTAINEMENT ♣♦♣★●•" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DJtI0szPPxQ0meYNkI4i3GRXrGNgNqxCg5tYP-CKTg&s" group-title="|AR| BEIN MEDIA  8k",•●★♣♦♣ BEIN ENTERTAINEMENT ♣♦♣★●•
+http://lukatv.net:8880/ERDFHJL/3422908/391368
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 1 HD" tvg-logo="http://go4.pw/BEIN/BEINMOVIES-1.png" group-title="|AR| BEIN MEDIA  8k",beIN MOVIES 1 HD
+http://lukatv.net:8880/ERDFHJL/3422908/393070
+#EXTINF:-1 tvg-id="" tvg-name="Vip: BEIN MOVIES 1 FHD Premiere" tvg-logo="http://go4.pw/BEIN/BEINMOVIES-1.png" group-title="|AR| BEIN MEDIA  8k",Vip: BEIN MOVIES 1 FHD Premiere
+http://lukatv.net:8880/ERDFHJL/3422908/391369
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 2 HD" tvg-logo="http://go4.pw/BEIN/BEINMOVIES-1.png" group-title="|AR| BEIN MEDIA  8k",beIN MOVIES 2 HD
+http://lukatv.net:8880/ERDFHJL/3422908/393071
+#EXTINF:-1 tvg-id="" tvg-name="Vip: BEIN MOVIES 2 FHD Action" tvg-logo="http://go4.pw/BEIN/BEINMOVIES-1.png" group-title="|AR| BEIN MEDIA  8k",Vip: BEIN MOVIES 2 FHD Action
+http://lukatv.net:8880/ERDFHJL/3422908/391370
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 3 HD" tvg-logo="http://go4.pw/BEIN/BEINMOVIES-1.png" group-title="|AR| BEIN MEDIA  8k",beIN MOVIES 3 HD
+http://lukatv.net:8880/ERDFHJL/3422908/393072
+#EXTINF:-1 tvg-id="" tvg-name="Vip: BEIN MOVIES 3 FHD Drama" tvg-logo="http://go4.pw/BEIN/BEINMOVIES-1.png" group-title="|AR| BEIN MEDIA  8k",Vip: BEIN MOVIES 3 FHD Drama
+http://lukatv.net:8880/ERDFHJL/3422908/391371
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 4 HD" tvg-logo="http://go4.pw/BEIN/BEINMOVIES-1.png" group-title="|AR| BEIN MEDIA  8k",beIN MOVIES 4 HD
+http://lukatv.net:8880/ERDFHJL/3422908/393073
+#EXTINF:-1 tvg-id="" tvg-name="Vip: BEIN MOVIES 4 FHD Family" tvg-logo="http://go4.pw/BEIN/BEINMOVIES-1.png" group-title="|AR| BEIN MEDIA  8k",Vip: BEIN MOVIES 4 FHD Family
+http://lukatv.net:8880/ERDFHJL/3422908/391372
+#EXTINF:-1 tvg-id="" tvg-name="beIN SERIES 1 HD" tvg-logo="http://go4.pw/BEIN/BEINSERIES-1.png" group-title="|AR| BEIN MEDIA  8k",beIN SERIES 1 HD
+http://lukatv.net:8880/ERDFHJL/3422908/393074
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Series 1 FHD" tvg-logo="http://go4.pw/BEIN/BEINSERIES-1.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Series 1 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/391373
+#EXTINF:-1 tvg-id="" tvg-name="beIN SERIES 2 HD" tvg-logo="http://go4.pw/BEIN/BEINSERIES-1.png" group-title="|AR| BEIN MEDIA  8k",beIN SERIES 2 HD
+http://lukatv.net:8880/ERDFHJL/3422908/393075
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Series 2 FHD" tvg-logo="http://go4.pw/BEIN/BEINSERIES-1.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Series 2 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/391374
+#EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1 HD" tvg-logo="http://go4.pw/BEIN/BEINDRAMA-1.png" group-title="|AR| BEIN MEDIA  8k",beIN Drama 1 HD
+http://lukatv.net:8880/ERDFHJL/3422908/393076
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Drama FHD" tvg-logo="http://go4.pw/BEIN/BEINDRAMA-1.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Drama FHD
+http://lukatv.net:8880/ERDFHJL/3422908/391375
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Food Network" tvg-logo="https://e7.pngegg.com/pngimages/468/344/png-clipart-food-network-cooking-channel-television-brunch-others-food-network-cooking-channel.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Food Network
+http://lukatv.net:8880/ERDFHJL/3422908/391376
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Gourmet HD" tvg-logo="http://go4.pw/BEIN/BEINGOURMETHD-1.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Gourmet HD
+http://lukatv.net:8880/ERDFHJL/3422908/391377
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Fatafeet" tvg-logo="https://c3.klipartz.com/pngpicture/254/590/sticker-png-fatafeat-tv-logo.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Fatafeet
+http://lukatv.net:8880/ERDFHJL/3422908/391378
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Fox HD" tvg-logo="http://go4.pw/BEIN/BEIN%20FOX%20HD.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Fox HD
+http://lukatv.net:8880/ERDFHJL/3422908/391379
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Fox Life" tvg-logo="http://go4.pw/BEIN/BEIN%20FOX%20HD.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Fox Life
+http://lukatv.net:8880/ERDFHJL/3422908/391380
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Fox movies HD" tvg-logo="http://go4.pw/BEIN/BEIN%20FOX%20HD.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Fox movies HD
+http://lukatv.net:8880/ERDFHJL/3422908/391381
+#EXTINF:-1 tvg-id="" tvg-name="VIP: Bein Fox Action FHD" tvg-logo="http://go4.pw/BEIN/FOXACTIONMOVIES-1.png" group-title="|AR| BEIN MEDIA  8k",VIP: Bein Fox Action FHD
+http://lukatv.net:8880/ERDFHJL/3422908/391382
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Star Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Star Movies HD
+http://lukatv.net:8880/ERDFHJL/3422908/391383
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Star World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Star World HD
+http://lukatv.net:8880/ERDFHJL/3422908/391384
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein BBC Earth FHD" tvg-logo="https://seeklogo.com/images/B/bbc-earth-logo-6A238338DE-seeklogo.com.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein BBC Earth FHD
+http://lukatv.net:8880/ERDFHJL/3422908/391385
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Travel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/800px-2018_Travel_Channel_logo.svg.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Travel FHD
+http://lukatv.net:8880/ERDFHJL/3422908/391386
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/400px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Animal Planet HD
+http://lukatv.net:8880/ERDFHJL/3422908/391387
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein National Geo HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsBrOqB1lzzyDVvIgP4fsauyaI1EpvZg1pVNGysE3b&s" group-title="|AR| BEIN MEDIA  8k",Vip: Bein National Geo HD
+http://lukatv.net:8880/ERDFHJL/3422908/391388
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein National Geo Wild HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsBrOqB1lzzyDVvIgP4fsauyaI1EpvZg1pVNGysE3b&s" group-title="|AR| BEIN MEDIA  8k",Vip: Bein National Geo Wild HD
+http://lukatv.net:8880/ERDFHJL/3422908/391389
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Discovery Family FHD" tvg-logo="https://e7.pngegg.com/pngimages/981/711/png-clipart-united-states-investigation-discovery-television-show-discovery-channel-id-television-text.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Discovery Family FHD
+http://lukatv.net:8880/ERDFHJL/3422908/391390
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein HgTv HD" tvg-logo="https://abunawaf.com/media/hgtv?amp" group-title="|AR| BEIN MEDIA  8k",Vip: Bein HgTv HD
+http://lukatv.net:8880/ERDFHJL/3422908/391391
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Baby TV  HD AR" tvg-logo="http://go4.pw/AMERICA/USA/BABYTVHD.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Baby TV  HD AR
+http://lukatv.net:8880/ERDFHJL/3422908/391392
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Jeem Kids HD" tvg-logo="http://go4.pw/BEIN/BEINJEEMHD-1.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Jeem Kids HD
+http://lukatv.net:8880/ERDFHJL/3422908/391393
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Baraem Kids" tvg-logo="http://go4.pw/BEIN/BEINBARAEM-1.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Baraem Kids
+http://lukatv.net:8880/ERDFHJL/3422908/391394
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Dream Work FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_alRKX-tZSV4tbhIbGnSqGKaNOC-kPUWevG0SVIELBg&s" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Dream Work FHD
+http://lukatv.net:8880/ERDFHJL/3422908/391395
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Gulli Arabic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Gulli_logo_2023.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Gulli Arabic HD
+http://lukatv.net:8880/ERDFHJL/3422908/391396
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Cartoonito HD AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTykrEYlNuSbos1wieDj-9TSPRQlm6NxKAtRG4RqWTT&s" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Cartoonito HD AR
+http://lukatv.net:8880/ERDFHJL/3422908/391397
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Junior Kids FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwX9hwFqeuSzd5PwdPPCq24bWzUTKTkmNb6a0f2rK-&s" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Junior Kids FHD
+http://lukatv.net:8880/ERDFHJL/3422908/391398
+#EXTINF:-1 tvg-id="" tvg-name="Vip: Bein Cartoon Network HD AR" tvg-logo="http://go4.pw/EUROPE/FRANCE/CARTOONNETWORKFHD.png" group-title="|AR| BEIN MEDIA  8k",Vip: Bein Cartoon Network HD AR
+http://lukatv.net:8880/ERDFHJL/3422908/391399
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN : YAHALA 4k T" tvg-logo="http://go4.pw/OSN/OSNYAHALAOULAHD.png" group-title="|AR| OSN 4K",OSN : YAHALA 4k T
+http://lukatv.net:8880/ERDFHJL/3422908/51425
+#EXTINF:-1 tvg-id="" tvg-name="OSN : YAHALA FHD T" tvg-logo="http://go4.pw/OSN/OSNYAHALAOULAHD.png" group-title="|AR| OSN 4K",OSN : YAHALA FHD T
+http://lukatv.net:8880/ERDFHJL/3422908/32175
+#EXTINF:-1 tvg-id="" tvg-name="OSN : YAHALA BIL ARABI 4K T" tvg-logo="http://go4.pw/OSN/OSNYAHALAHD.png" group-title="|AR| OSN 4K",OSN : YAHALA BIL ARABI 4K T
+http://lukatv.net:8880/ERDFHJL/3422908/51426
+#EXTINF:-1 tvg-id="" tvg-name="OSN : YAHALA BIL ARABI FHD T" tvg-logo="http://go4.pw/OSN/OSNYAHALAHD.png" group-title="|AR| OSN 4K",OSN : YAHALA BIL ARABI FHD T
+http://lukatv.net:8880/ERDFHJL/3422908/32176
+#EXTINF:-1 tvg-id="" tvg-name="OSN : YAHALA  AFLAM 4k +" tvg-logo="http://go4.pw/OSN/OSNYAHALACINEMAHD.png" group-title="|AR| OSN 4K",OSN : YAHALA  AFLAM 4k +
+http://lukatv.net:8880/ERDFHJL/3422908/51427
+#EXTINF:-1 tvg-id="" tvg-name="OSN : YAHALA   AFLAM 4K" tvg-logo="http://go4.pw/OSN/OSNYAHALACINEMAHD.png" group-title="|AR| OSN 4K",OSN : YAHALA   AFLAM 4K
+http://lukatv.net:8880/ERDFHJL/3422908/349215
+#EXTINF:-1 tvg-id="" tvg-name="OSN : MOVIES ACTION 4K" tvg-logo="http://go4.pw/OSN/OSNACTIONHD.png" group-title="|AR| OSN 4K",OSN : MOVIES ACTION 4K
+http://lukatv.net:8880/ERDFHJL/3422908/32127
+#EXTINF:-1 tvg-id="" tvg-name="OSN : MOVIES ACTION FHD" tvg-logo="http://go4.pw/OSN/OSNACTIONHD.png" group-title="|AR| OSN 4K",OSN : MOVIES ACTION FHD
+http://lukatv.net:8880/ERDFHJL/3422908/46302
+#EXTINF:-1 tvg-id="" tvg-name="OSN : MOVIES FAMILY 4K T" tvg-logo="http://go4.pw/ASIA/TURKEY/bein-m-f.png" group-title="|AR| OSN 4K",OSN : MOVIES FAMILY 4K T
+http://lukatv.net:8880/ERDFHJL/3422908/359033
+#EXTINF:-1 tvg-id="" tvg-name="OSN :  MOVIES HOLLYWOOD" tvg-logo="http://go4.pw/OSN/OSN-Movies.png" group-title="|AR| OSN 4K",OSN :  MOVIES HOLLYWOOD
+http://lukatv.net:8880/ERDFHJL/3422908/310303
+#EXTINF:-1 tvg-id="" tvg-name="OSN : MOVIES PREMIERE 4K" tvg-logo="http://go4.pw/OSN/OSN-Movies-First.png" group-title="|AR| OSN 4K",OSN : MOVIES PREMIERE 4K
+http://lukatv.net:8880/ERDFHJL/3422908/32154
+#EXTINF:-1 tvg-id="" tvg-name="OSN : MOVIES PREMIERE +2  4K" tvg-logo="http://go4.pw/OSN/OSN-Movies-First.png" group-title="|AR| OSN 4K",OSN : MOVIES PREMIERE +2  4K
+http://lukatv.net:8880/ERDFHJL/3422908/203179
+#EXTINF:-1 tvg-id="" tvg-name="OSN : STAR WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Star_World_2024.svg/640px-Star_World_2024.svg.png" group-title="|AR| OSN 4K",OSN : STAR WORLD
+http://lukatv.net:8880/ERDFHJL/3422908/19026
+#EXTINF:-1 tvg-id="" tvg-name="OSN : STAR MOVIES 4K" tvg-logo="http://go4.pw/EUROPE/PORTUGAL/STAR-Movies.png" group-title="|AR| OSN 4K",OSN : STAR MOVIES 4K
+http://lukatv.net:8880/ERDFHJL/3422908/32132
+#EXTINF:-1 tvg-id="" tvg-name="OSN : SHOWCASE 4K" tvg-logo="http://go4.pw/OSN/OSNSERIESFIRSTHD.png" group-title="|AR| OSN 4K",OSN : SHOWCASE 4K
+http://lukatv.net:8880/ERDFHJL/3422908/32168
+#EXTINF:-1 tvg-id="" tvg-name="OSN : Showcase Classic" tvg-logo="https://w7.pngwing.com/pngs/633/583/png-transparent-discovery-hd-showcase-discovery-channel-television-channel-logo-others.png" group-title="|AR| OSN 4K",OSN : Showcase Classic
+http://lukatv.net:8880/ERDFHJL/3422908/328466
+#EXTINF:-1 tvg-id="" tvg-name="OSN : ANIMAL PLANET P" tvg-logo="http://go4.pw/EUROPE/SWITZERLAND/animal-planet.png" group-title="|AR| OSN 4K",OSN : ANIMAL PLANET P
+http://lukatv.net:8880/ERDFHJL/3422908/18996
+#EXTINF:-1 tvg-id="" tvg-name="OSN : HISTORY 1 4K" tvg-logo="http://go4.pw/CANADA/HISTORYY.png" group-title="|AR| OSN 4K",OSN : HISTORY 1 4K
+http://lukatv.net:8880/ERDFHJL/3422908/32156
+#EXTINF:-1 tvg-id="" tvg-name="OSN : OSN : HISTORY 2 4K" tvg-logo="http://go4.pw/CANADA/HISTORYY.png" group-title="|AR| OSN 4K",OSN : OSN : HISTORY 2 4K
+http://lukatv.net:8880/ERDFHJL/3422908/18992
+#EXTINF:-1 tvg-id="" tvg-name="OSN : NAT GEO" tvg-logo="http://go4.pw/EUROPE/FRANCE/NATGEOWILDHD.png" group-title="|AR| OSN 4K",OSN : NAT GEO
+http://lukatv.net:8880/ERDFHJL/3422908/19016
+#EXTINF:-1 tvg-id="" tvg-name="OSN : NAT GEO WILD" tvg-logo="http://go4.pw/EUROPE/FRANCE/NATGEOWILDHD.png" group-title="|AR| OSN 4K",OSN : NAT GEO WILD
+http://lukatv.net:8880/ERDFHJL/3422908/19018
+#EXTINF:-1 tvg-id="" tvg-name="OSN : DISCOVERY  4K" tvg-logo="http://go4.pw/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="|AR| OSN 4K",OSN : DISCOVERY  4K
+http://lukatv.net:8880/ERDFHJL/3422908/18999
+#EXTINF:-1 tvg-id="" tvg-name="OSN : DISCOVERY ID 4K" tvg-logo="http://go4.pw/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="|AR| OSN 4K",OSN : DISCOVERY ID 4K
+http://lukatv.net:8880/ERDFHJL/3422908/32149
+#EXTINF:-1 tvg-id="" tvg-name="OSN : DISCOVERY SCIENCE" tvg-logo="http://go4.pw/AMERICA/BRASIL/discovery-science-1.png" group-title="|AR| OSN 4K",OSN : DISCOVERY SCIENCE
+http://lukatv.net:8880/ERDFHJL/3422908/19005
+#EXTINF:-1 tvg-id="" tvg-name="OSN :  NICKTOON 4K" tvg-logo="http://go4.pw/OSN/NICKJUNIOR.png" group-title="|AR| OSN 4K",OSN :  NICKTOON 4K
+http://lukatv.net:8880/ERDFHJL/3422908/45111
+#EXTINF:-1 tvg-id="" tvg-name="OSN : NICKELODEON" tvg-logo="http://go4.pw/EUROPE/FRANCE/NICKELODEON.png" group-title="|AR| OSN 4K",OSN : NICKELODEON
+http://lukatv.net:8880/ERDFHJL/3422908/32165
+#EXTINF:-1 tvg-id="" tvg-name="OSN :  Nick JR" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/NICKJRHR-1.png" group-title="|AR| OSN 4K",OSN :  Nick JR
+http://lukatv.net:8880/ERDFHJL/3422908/19019
+#EXTINF:-1 tvg-id="" tvg-name="OSN : DISNEY JUNIOR 4K" tvg-logo="http://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="|AR| OSN 4K",OSN : DISNEY JUNIOR 4K
+http://lukatv.net:8880/ERDFHJL/3422908/96608
+#EXTINF:-1 tvg-id="" tvg-name="OSN : DISNEY JUNIOR" tvg-logo="http://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="|AR| OSN 4K",OSN : DISNEY JUNIOR
+http://lukatv.net:8880/ERDFHJL/3422908/45110
+#EXTINF:-1 tvg-id="" tvg-name="OSN : DISNEY CHANNEL" tvg-logo="http://go4.pw/EUROPE/FRANCE/DISNEYJUNIORHD.png" group-title="|AR| OSN 4K",OSN : DISNEY CHANNEL
+http://lukatv.net:8880/ERDFHJL/3422908/32151
+#EXTINF:-1 tvg-id="" tvg-name="OSN : Movies Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="|AR| OSN 4K",OSN : Movies Disney
+http://lukatv.net:8880/ERDFHJL/3422908/85808
+#EXTINF:-1 tvg-id="" tvg-name="OSN : Bloomberg 4K" tvg-logo="http://go4.pw/EUROPE/UK/BLOOMBERG-1.png" group-title="|AR| OSN 4K",OSN : Bloomberg 4K
+http://lukatv.net:8880/ERDFHJL/3422908/19001
+#EXTINF:-1 tvg-id="" tvg-name="OSN : Moonbug Kids" tvg-logo="https://images.pluto.tv/channels/6239cfd6530d0100086a9930/colorLogoPNG.png" group-title="|AR| OSN 4K",OSN : Moonbug Kids
+http://lukatv.net:8880/ERDFHJL/3422908/32135
+#EXTINF:-1 tvg-id="" tvg-name="OSN : Kid Zone" tvg-logo="https://e7.pngegg.com/pngimages/25/219/png-clipart-television-show-logo-monkey-business-indoor-play-and-party-centre-lyngsat-kids-zone-television-child.png" group-title="|AR| OSN 4K",OSN : Kid Zone
+http://lukatv.net:8880/ERDFHJL/3422908/45112
+#EXTINF:-1 tvg-id="" tvg-name="OSN : KIDS 4K" tvg-logo="http://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="|AR| OSN 4K",OSN : KIDS 4K
+http://lukatv.net:8880/ERDFHJL/3422908/36653
+#EXTINF:-1 tvg-id="" tvg-name="OSN : Crime Investigation HD" tvg-logo="https://lo1.in/uk/247.png" group-title="|AR| OSN 4K",OSN : Crime Investigation HD
+http://lukatv.net:8880/ERDFHJL/3422908/45113
+#EXTINF:-1 tvg-id="" tvg-name="OSN : COMEDY" tvg-logo="http://go4.pw/EUROPE/PORTUGAL/STAR-Comedy.png" group-title="|AR| OSN 4K",OSN : COMEDY
+http://lukatv.net:8880/ERDFHJL/3422908/32147
+#EXTINF:-1 tvg-id="" tvg-name="OSN : TLC" tvg-logo="http://go4.pw/EUROPE/FRANCE/DISCOVERYCHANNELHD.png" group-title="|AR| OSN 4K",OSN : TLC
+http://lukatv.net:8880/ERDFHJL/3422908/19022
+#EXTINF:-1 tvg-id="" tvg-name="OSN : MEZZE" tvg-logo="http://go4.pw/OSN/OME-Mezze.png" group-title="|AR| OSN 4K",OSN : MEZZE
+http://lukatv.net:8880/ERDFHJL/3422908/32131
+#EXTINF:-1 tvg-id="" tvg-name="OSN : CRIME" tvg-logo="https://lo1.in/uk/247.png" group-title="|AR| OSN 4K",OSN : CRIME
+http://lukatv.net:8880/ERDFHJL/3422908/140668
+#EXTINF:-1 tvg-id="" tvg-name="OSN : E!" tvg-logo="http://go4.pw/EUROPE/FRANCE/E!-1.png" group-title="|AR| OSN 4K",OSN : E!
+http://lukatv.net:8880/ERDFHJL/3422908/32153
+#EXTINF:-1 tvg-id="" tvg-name="OSN : NOW" tvg-logo="http://go4.pw/EUROPE/UK/NOW-80s-1.png" group-title="|AR| OSN 4K",OSN : NOW
+http://lukatv.net:8880/ERDFHJL/3422908/19014
+#EXTINF:-1 tvg-id="" tvg-name="OSN : WWE FHD" tvg-logo="https://shahid.mbc.net/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2Fslider%2FHatem_Slider%2F2022%2FDec22%2FWWE_new_logo%2Foriginal%2FWWE_new_logo.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="|AR| OSN 4K",OSN : WWE FHD
+http://lukatv.net:8880/ERDFHJL/3422908/32141
+#EXTINF:-1 tvg-id="" tvg-name="OSN :  WWE NETWORK HD" tvg-logo="http://go4.pw/AMERICA/USA/WWE.png" group-title="|AR| OSN 4K",OSN :  WWE NETWORK HD
+http://lukatv.net:8880/ERDFHJL/3422908/32174
+#EXTINF:-1 tvg-id="" tvg-name="OSN : PLAY MOVIES 1 R" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal-play.png" group-title="|AR| OSN 4K",OSN : PLAY MOVIES 1 R
+http://lukatv.net:8880/ERDFHJL/3422908/335960
+#EXTINF:-1 tvg-id="" tvg-name="OSN : PLAY MOVIES 2 R" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal-play.png" group-title="|AR| OSN 4K",OSN : PLAY MOVIES 2 R
+http://lukatv.net:8880/ERDFHJL/3422908/335961
+#EXTINF:-1 tvg-id="" tvg-name="OSN : PLAY MOVIES 3 T" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal-play.png" group-title="|AR| OSN 4K",OSN : PLAY MOVIES 3 T
+http://lukatv.net:8880/ERDFHJL/3422908/335962
+#EXTINF:-1 tvg-id="" tvg-name="OSN : PLAY MOVIES 4" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal-play.png" group-title="|AR| OSN 4K",OSN : PLAY MOVIES 4
+http://lukatv.net:8880/ERDFHJL/3422908/335963
+#EXTINF:-1 tvg-id="" tvg-name="OSN : PLAY CINEMA 1" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal-play.png" group-title="|AR| OSN 4K",OSN : PLAY CINEMA 1
+http://lukatv.net:8880/ERDFHJL/3422908/335964
+#EXTINF:-1 tvg-id="" tvg-name="OSN : PLAY CINEMA 2" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal-play.png" group-title="|AR| OSN 4K",OSN : PLAY CINEMA 2
+http://lukatv.net:8880/ERDFHJL/3422908/335965
+#EXTINF:-1 tvg-id="" tvg-name="OSN : PLAY CINEMA 3" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal-play.png" group-title="|AR| OSN 4K",OSN : PLAY CINEMA 3
+http://lukatv.net:8880/ERDFHJL/3422908/335966
+#EXTINF:-1 tvg-id="" tvg-name="OSN : PLAY CINEMA 4" tvg-logo="http://go4.pw/EUROPE/FRANCE/canal-play.png" group-title="|AR| OSN 4K",OSN : PLAY CINEMA 4
+http://lukatv.net:8880/ERDFHJL/3422908/335967
+#EXTINF:-1 tvg-id="" tvg-name="OSN : ALFA  AL YAWM 4K" tvg-logo="https://media.zid.store/a37db7b9-561f-4af3-a2eb-4cbc9ba70958/22ba5846-169b-4505-a11a-1cfb234f5cb5-260x260.png" group-title="|AR| OSN 4K",OSN : ALFA  AL YAWM 4K
+http://lukatv.net:8880/ERDFHJL/3422908/51432
+#EXTINF:-1 tvg-id="" tvg-name="OSN : ALFA FANN 4K" tvg-logo="https://media.zid.store/a37db7b9-561f-4af3-a2eb-4cbc9ba70958/22ba5846-169b-4505-a11a-1cfb234f5cb5-260x260.png" group-title="|AR| OSN 4K",OSN : ALFA FANN 4K
+http://lukatv.net:8880/ERDFHJL/3422908/46303
+#EXTINF:-1 tvg-id="" tvg-name="OSN : ALFA SAFWA" tvg-logo="https://images.tv.osn.com/colossus/images/series/1060560423/1956276042/landscapewithtitle/1956276042_LTT.jpg?im=Resize=(1248)" group-title="|AR| OSN 4K",OSN : ALFA SAFWA
+http://lukatv.net:8880/ERDFHJL/3422908/46301
+#EXTINF:-1 tvg-id="" tvg-name="OSN : ALFA CINEMA 1 4K" tvg-logo="http://go4.pw/OSN/ALFACINEMA.png" group-title="|AR| OSN 4K",OSN : ALFA CINEMA 1 4K
+http://lukatv.net:8880/ERDFHJL/3422908/51430
+#EXTINF:-1 tvg-id="" tvg-name="OSN : ALFA CINEMA 2 4K" tvg-logo="http://go4.pw/OSN/ALFACINEMA.png" group-title="|AR| OSN 4K",OSN : ALFA CINEMA 2 4K
+http://lukatv.net:8880/ERDFHJL/3422908/35009
+#EXTINF:-1 tvg-id="" tvg-name="OSN : ALFA MUSALSALAT 1 4K" tvg-logo="http://go4.pw/OSN/ALFASERIESHD.png" group-title="|AR| OSN 4K",OSN : ALFA MUSALSALAT 1 4K
+http://lukatv.net:8880/ERDFHJL/3422908/51428
+#EXTINF:-1 tvg-id="" tvg-name="OSN : ALFA MUSALSALAT 2 4K" tvg-logo="http://go4.pw/OSN/ALFASERIESHD.png" group-title="|AR| OSN 4K",OSN : ALFA MUSALSALAT 2 4K
+http://lukatv.net:8880/ERDFHJL/3422908/34878
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA M + 4K" tvg-logo="https://i.pinimg.com/originals/ae/93/6e/ae936e8f3b7adfef13bd7cffe8d077e3.png" group-title="|AR| ROTANA & ART   ",ROTANA M + 4K
+http://lukatv.net:8880/ERDFHJL/3422908/89803
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA M + FHD" tvg-logo="https://i.pinimg.com/originals/ae/93/6e/ae936e8f3b7adfef13bd7cffe8d077e3.png" group-title="|AR| ROTANA & ART   ",ROTANA M + FHD
+http://lukatv.net:8880/ERDFHJL/3422908/132948
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA  + 4K" tvg-logo="https://4.bp.blogspot.com/-adBXYWmcXKs/W0DSjhpkQsI/AAAAAAAAVFo/3LwS1uQomOoq7U2LzYS_-tSQWvz_1v-jQCLcBGAs/s1600/rotana_sa.png" group-title="|AR| ROTANA & ART   ",ROTANA  + 4K
+http://lukatv.net:8880/ERDFHJL/3422908/89805
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA  +  FHD" tvg-logo="https://4.bp.blogspot.com/-adBXYWmcXKs/W0DSjhpkQsI/AAAAAAAAVFo/3LwS1uQomOoq7U2LzYS_-tSQWvz_1v-jQCLcBGAs/s1600/rotana_sa.png" group-title="|AR| ROTANA & ART   ",ROTANA  +  FHD
+http://lukatv.net:8880/ERDFHJL/3422908/132949
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA AFLAM + 4K" tvg-logo="https://4.bp.blogspot.com/-adBXYWmcXKs/W0DSjhpkQsI/AAAAAAAAVFo/3LwS1uQomOoq7U2LzYS_-tSQWvz_1v-jQCLcBGAs/s1600/rotana_sa.png" group-title="|AR| ROTANA & ART   ",ROTANA AFLAM + 4K
+http://lukatv.net:8880/ERDFHJL/3422908/89804
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA AFLAM + HD" tvg-logo="https://4.bp.blogspot.com/-adBXYWmcXKs/W0DSjhpkQsI/AAAAAAAAVFo/3LwS1uQomOoq7U2LzYS_-tSQWvz_1v-jQCLcBGAs/s1600/rotana_sa.png" group-title="|AR| ROTANA & ART   ",ROTANA AFLAM + HD
+http://lukatv.net:8880/ERDFHJL/3422908/132947
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA DRAMA 4K" tvg-logo="http://go4.pw/ROTANA/ROTANADRAMA.png" group-title="|AR| ROTANA & ART   ",ROTANA DRAMA 4K
+http://lukatv.net:8880/ERDFHJL/3422908/59198
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA DRAMA  FHD" tvg-logo="http://go4.pw/ROTANA/ROTANADRAMA.png" group-title="|AR| ROTANA & ART   ",ROTANA DRAMA  FHD
+http://lukatv.net:8880/ERDFHJL/3422908/59211
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA USA" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rotana-cinema/rotana-cinema.png" group-title="|AR| ROTANA & ART   ",ROTANA CINEMA USA
+http://lukatv.net:8880/ERDFHJL/3422908/132950
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA 4K" tvg-logo="http://go4.pw/ROTANA/ROTANACINEMA.png" group-title="|AR| ROTANA & ART   ",ROTANA CINEMA 4K
+http://lukatv.net:8880/ERDFHJL/3422908/59199
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CINEMA  FHD" tvg-logo="http://go4.pw/ROTANA/ROTANACINEMA.png" group-title="|AR| ROTANA & ART   ",ROTANA CINEMA  FHD
+http://lukatv.net:8880/ERDFHJL/3422908/59635
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KHALIJIAH 4K" tvg-logo="http://go4.pw/ROTANA/ROTANAKHALIJIA.png" group-title="|AR| ROTANA & ART   ",ROTANA KHALIJIAH 4K
+http://lukatv.net:8880/ERDFHJL/3422908/59206
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KHALIJIAH  FHD" tvg-logo="http://go4.pw/ROTANA/ROTANAKHALIJIA.png" group-title="|AR| ROTANA & ART   ",ROTANA KHALIJIAH  FHD
+http://lukatv.net:8880/ERDFHJL/3422908/59200
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC 4K" tvg-logo="http://go4.pw/ROTANA/ROTANACLASSIC.png" group-title="|AR| ROTANA & ART   ",ROTANA CLASSIC 4K
+http://lukatv.net:8880/ERDFHJL/3422908/59201
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC FHD" tvg-logo="http://go4.pw/ROTANA/ROTANACLASSIC.png" group-title="|AR| ROTANA & ART   ",ROTANA CLASSIC FHD
+http://lukatv.net:8880/ERDFHJL/3422908/59209
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA COMEDY 4K" tvg-logo="http://go4.pw/Rotana%20comedy.png" group-title="|AR| ROTANA & ART   ",ROTANA COMEDY 4K
+http://lukatv.net:8880/ERDFHJL/3422908/59204
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA COMEDY FHD" tvg-logo="http://go4.pw/Rotana%20comedy.png" group-title="|AR| ROTANA & ART   ",ROTANA COMEDY FHD
+http://lukatv.net:8880/ERDFHJL/3422908/59213
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC 4K" tvg-logo="http://go4.pw/ROTANA/ROTANAMUSIC.png" group-title="|AR| ROTANA & ART   ",ROTANA MUSIC 4K
+http://lukatv.net:8880/ERDFHJL/3422908/59202
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC FHD" tvg-logo="http://go4.pw/ROTANA/ROTANAMUSIC.png" group-title="|AR| ROTANA & ART   ",ROTANA MUSIC FHD
+http://lukatv.net:8880/ERDFHJL/3422908/59205
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLIP 4K" tvg-logo="http://go4.pw/ROTANA/ROTANACLIP.png" group-title="|AR| ROTANA & ART   ",ROTANA CLIP 4K
+http://lukatv.net:8880/ERDFHJL/3422908/59208
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLIP FHD" tvg-logo="http://go4.pw/ROTANA/ROTANACLIP.png" group-title="|AR| ROTANA & ART   ",ROTANA CLIP FHD
+http://lukatv.net:8880/ERDFHJL/3422908/59210
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC SHAHID 4K+" tvg-logo="https://d.top4top.io/p_1477bk0fq1.png" group-title="|AR| MBC 4K ",MBC SHAHID 4K+
+http://lukatv.net:8880/ERDFHJL/3422908/235522
+#EXTINF:-1 tvg-id="" tvg-name="MBC+ eLife HD" tvg-logo="http://go4.pw/MBCGROUP/MBCELIFE.png" group-title="|AR| MBC 4K ",MBC+ eLife HD
+http://lukatv.net:8880/ERDFHJL/3422908/189586
+#EXTINF:-1 tvg-id="" tvg-name="MBC : 1 4K" tvg-logo="http://go4.pw/MBCGROUP/MBC1-1.png" group-title="|AR| MBC 4K ",MBC : 1 4K
+http://lukatv.net:8880/ERDFHJL/3422908/429
+#EXTINF:-1 tvg-id="" tvg-name="MBC  : 1 4K.+" tvg-logo="http://go4.pw/MBCGROUP/MBC1-1.png" group-title="|AR| MBC 4K ",MBC  : 1 4K.+
+http://lukatv.net:8880/ERDFHJL/3422908/38511
+#EXTINF:-1 tvg-id="" tvg-name="MBC : 2 4K" tvg-logo="http://go4.pw/MBCGROUP/MBC2-1.png" group-title="|AR| MBC 4K ",MBC : 2 4K
+http://lukatv.net:8880/ERDFHJL/3422908/428
+#EXTINF:-1 tvg-id="" tvg-name="MBC : 2  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBC2-1.png" group-title="|AR| MBC 4K ",MBC : 2  4K+
+http://lukatv.net:8880/ERDFHJL/3422908/3070
+#EXTINF:-1 tvg-id="" tvg-name="MBC  : 3 4K." tvg-logo="http://go4.pw/MBCGROUP/MBC3-1.png" group-title="|AR| MBC 4K ",MBC  : 3 4K.
+http://lukatv.net:8880/ERDFHJL/3422908/90
+#EXTINF:-1 tvg-id="mbc3.sa" tvg-name="MBC : 3  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBC3-1.png" group-title="|AR| MBC 4K ",MBC : 3  4K+
+http://lukatv.net:8880/ERDFHJL/3422908/25762
+#EXTINF:-1 tvg-id="mbc4.sa" tvg-name="MBC : 4  4K" tvg-logo="http://go4.pw/MBCGROUP/MBC4-1.png" group-title="|AR| MBC 4K ",MBC : 4  4K
+http://lukatv.net:8880/ERDFHJL/3422908/25760
+#EXTINF:-1 tvg-id="" tvg-name="MBC : 4  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBC4-1.png" group-title="|AR| MBC 4K ",MBC : 4  4K+
+http://lukatv.net:8880/ERDFHJL/3422908/14519
+#EXTINF:-1 tvg-id="" tvg-name="MBC :  5 4K" tvg-logo="http://go4.pw/MBCGROUP/MBC5-1.png" group-title="|AR| MBC 4K ",MBC :  5 4K
+http://lukatv.net:8880/ERDFHJL/3422908/15331
+#EXTINF:-1 tvg-id="" tvg-name="MBC : 5  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBC5-1.png" group-title="|AR| MBC 4K ",MBC : 5  4K+
+http://lukatv.net:8880/ERDFHJL/3422908/38514
+#EXTINF:-1 tvg-id="" tvg-name="MBC : IRAQ 4K" tvg-logo="http://go4.pw/MBCGROUP/MBCIRAQ-1.png" group-title="|AR| MBC 4K ",MBC : IRAQ 4K
+http://lukatv.net:8880/ERDFHJL/3422908/51587
+#EXTINF:-1 tvg-id="" tvg-name="MBC : IRAQ  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBCIRAQ-1.png" group-title="|AR| MBC 4K ",MBC : IRAQ  4K+
+http://lukatv.net:8880/ERDFHJL/3422908/38516
+#EXTINF:-1 tvg-id="" tvg-name="MBC : MASR 1 4K" tvg-logo="http://go4.pw/MBCGROUP/MBCMASR-1.png" group-title="|AR| MBC 4K ",MBC : MASR 1 4K
+http://lukatv.net:8880/ERDFHJL/3422908/38512
+#EXTINF:-1 tvg-id="" tvg-name="MBC : MASER  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBCMASR-1.png" group-title="|AR| MBC 4K ",MBC : MASER  4K+
+http://lukatv.net:8880/ERDFHJL/3422908/74308
+#EXTINF:-1 tvg-id="" tvg-name="MBC : Maser 2 4K" tvg-logo="http://go4.pw/MBC_Masr.png" group-title="|AR| MBC 4K ",MBC : Maser 2 4K
+http://lukatv.net:8880/ERDFHJL/3422908/422
+#EXTINF:-1 tvg-id="" tvg-name="MBC : MASER 2  4K+" tvg-logo="http://go4.pw/MBC_Masr.png" group-title="|AR| MBC 4K ",MBC : MASER 2  4K+
+http://lukatv.net:8880/ERDFHJL/3422908/74309
+#EXTINF:-1 tvg-id="" tvg-name="MBC : DRAMA 4K" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMA-1.png" group-title="|AR| MBC 4K ",MBC : DRAMA 4K
+http://lukatv.net:8880/ERDFHJL/3422908/4346
+#EXTINF:-1 tvg-id="" tvg-name="MBC : DRAMA  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMA-1.png" group-title="|AR| MBC 4K ",MBC : DRAMA  4K+
+http://lukatv.net:8880/ERDFHJL/3422908/38515
+#EXTINF:-1 tvg-id="" tvg-name="MBC : Drama + 4K" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMAPLUSHD-1.png" group-title="|AR| MBC 4K ",MBC : Drama + 4K
+http://lukatv.net:8880/ERDFHJL/3422908/29890
+#EXTINF:-1 tvg-id="" tvg-name="MBC : Drama +  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMAPLUSHD-1.png" group-title="|AR| MBC 4K ",MBC : Drama +  4K+
+http://lukatv.net:8880/ERDFHJL/3422908/3077
+#EXTINF:-1 tvg-id="" tvg-name="MBC : ACTION 4K" tvg-logo="http://go4.pw/MBCGROUP/MBCACTION-1.png" group-title="|AR| MBC 4K ",MBC : ACTION 4K
+http://lukatv.net:8880/ERDFHJL/3422908/426
+#EXTINF:-1 tvg-id="" tvg-name="MBC : ACTION  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBCACTION-1.png" group-title="|AR| MBC 4K ",MBC : ACTION  4K+
+http://lukatv.net:8880/ERDFHJL/3422908/4348
+#EXTINF:-1 tvg-id="" tvg-name="MBC : MAX 4K" tvg-logo="http://go4.pw/MBCGROUP/MBCMAX-.png" group-title="|AR| MBC 4K ",MBC : MAX 4K
+http://lukatv.net:8880/ERDFHJL/3422908/3073
+#EXTINF:-1 tvg-id="" tvg-name="MBC : MAX  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBCMAX-.png" group-title="|AR| MBC 4K ",MBC : MAX  4K+
+http://lukatv.net:8880/ERDFHJL/3422908/74310
+#EXTINF:-1 tvg-id="" tvg-name="MBC : Variety 4K" tvg-logo="http://go4.pw/MBCGROUP/MBC-Variety-HD.png" group-title="|AR| MBC 4K ",MBC : Variety 4K
+http://lukatv.net:8880/ERDFHJL/3422908/29891
+#EXTINF:-1 tvg-id="" tvg-name="MBC : Variety  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBC-Variety-HD.png" group-title="|AR| MBC 4K ",MBC : Variety  4K+
+http://lukatv.net:8880/ERDFHJL/3422908/74311
+#EXTINF:-1 tvg-id="" tvg-name="MBC : BOLLYWOOD 4K" tvg-logo="http://go4.pw/MBCGROUP/MBCBOLLYWOOD-1.png" group-title="|AR| MBC 4K ",MBC : BOLLYWOOD 4K
+http://lukatv.net:8880/ERDFHJL/3422908/25759
+#EXTINF:-1 tvg-id="" tvg-name="MBC : BOLLYWOOD  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBCBOLLYWOOD-1.png" group-title="|AR| MBC 4K ",MBC : BOLLYWOOD  4K+
+http://lukatv.net:8880/ERDFHJL/3422908/425
+#EXTINF:-1 tvg-id="" tvg-name="MBC  : ZEE AFLAM 4K" tvg-logo="http://go4.pw/ARABE/ZEEAFLAM.png" group-title="|AR| MBC 4K ",MBC  : ZEE AFLAM 4K
+http://lukatv.net:8880/ERDFHJL/3422908/74314
+#EXTINF:-1 tvg-id="" tvg-name="MBC : ZEE ALWAN 4K" tvg-logo="http://go4.pw/ARABE/ZEEAFLAM.png" group-title="|AR| MBC 4K ",MBC : ZEE ALWAN 4K
+http://lukatv.net:8880/ERDFHJL/3422908/74315
+#EXTINF:-1 tvg-id="" tvg-name="MBC : Mix Hollywood 4K" tvg-logo="http://go4.pw/EGYPT/mix-bel-araby.png" group-title="|AR| MBC 4K ",MBC : Mix Hollywood 4K
+http://lukatv.net:8880/ERDFHJL/3422908/74312
+#EXTINF:-1 tvg-id="" tvg-name="MBC : B4U AFLAM" tvg-logo="http://go4.pw/MBCGROUP/B4UAFLAM.png" group-title="|AR| MBC 4K ",MBC : B4U AFLAM
+http://lukatv.net:8880/ERDFHJL/3422908/203066
+#EXTINF:-1 tvg-id="" tvg-name="MBC + ELIFE" tvg-logo="http://go4.pw/MBCGROUP/MBCELIFE.png" group-title="|AR| MBC HD ",MBC + ELIFE
+http://lukatv.net:8880/ERDFHJL/3422908/335344
+#EXTINF:-1 tvg-id="" tvg-name="MBC : 1 4K+" tvg-logo="http://go4.pw/MBCGROUP/MBC1-1.png" group-title="|AR| MBC HD ",MBC : 1 4K+
+http://lukatv.net:8880/ERDFHJL/3422908/126424
+#EXTINF:-1 tvg-id="" tvg-name="MBC. 1 FHD" tvg-logo="http://go4.pw/MBCGROUP/MBC1-1.png" group-title="|AR| MBC HD ",MBC. 1 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/25761
+#EXTINF:-1 tvg-id="" tvg-name="MBC. 2 FHD" tvg-logo="http://go4.pw/MBCGROUP/MBC2-1.png" group-title="|AR| MBC HD ",MBC. 2 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/4351
+#EXTINF:-1 tvg-id="" tvg-name="MBC. 2 HD" tvg-logo="http://go4.pw/MBCGROUP/MBC2-1.png" group-title="|AR| MBC HD ",MBC. 2 HD
+http://lukatv.net:8880/ERDFHJL/3422908/4343
+#EXTINF:-1 tvg-id="" tvg-name="MBC. 3 FHD" tvg-logo="http://go4.pw/MBCGROUP/MBC3-1.png" group-title="|AR| MBC HD ",MBC. 3 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/4342
+#EXTINF:-1 tvg-id="" tvg-name="MBC. 3 HD" tvg-logo="http://go4.pw/MBCGROUP/MBC3-1.png" group-title="|AR| MBC HD ",MBC. 3 HD
+http://lukatv.net:8880/ERDFHJL/3422908/3069
+#EXTINF:-1 tvg-id="" tvg-name="MBC. 4 FHD" tvg-logo="http://go4.pw/MBCGROUP/MBC4-1.png" group-title="|AR| MBC HD ",MBC. 4 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/4341
+#EXTINF:-1 tvg-id="" tvg-name="MBC. 4 HD" tvg-logo="http://go4.pw/MBCGROUP/MBC4-1.png" group-title="|AR| MBC HD ",MBC. 4 HD
+http://lukatv.net:8880/ERDFHJL/3422908/4349
+#EXTINF:-1 tvg-id="" tvg-name="MBC. 5 FHD" tvg-logo="http://go4.pw/MBCGROUP/MBC5-1.png" group-title="|AR| MBC HD ",MBC. 5 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/4350
+#EXTINF:-1 tvg-id="" tvg-name="MBC. 5 HD" tvg-logo="http://go4.pw/MBCGROUP/MBC5-1.png" group-title="|AR| MBC HD ",MBC. 5 HD
+http://lukatv.net:8880/ERDFHJL/3422908/14576
+#EXTINF:-1 tvg-id="" tvg-name="MBC. DRAMA + FHD" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMA-1.png" group-title="|AR| MBC HD ",MBC. DRAMA + FHD
+http://lukatv.net:8880/ERDFHJL/3422908/427
+#EXTINF:-1 tvg-id="" tvg-name="MBC. DRAMA +  HD" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMA-1.png" group-title="|AR| MBC HD ",MBC. DRAMA +  HD
+http://lukatv.net:8880/ERDFHJL/3422908/40217
+#EXTINF:-1 tvg-id="" tvg-name="MBC. DRAMA FHD" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMA-1.png" group-title="|AR| MBC HD ",MBC. DRAMA FHD
+http://lukatv.net:8880/ERDFHJL/3422908/424
+#EXTINF:-1 tvg-id="" tvg-name="MBC. DRAMA HD" tvg-logo="http://go4.pw/MBCGROUP/MBCDRAMA-1.png" group-title="|AR| MBC HD ",MBC. DRAMA HD
+http://lukatv.net:8880/ERDFHJL/3422908/25758
+#EXTINF:-1 tvg-id="mbcaction.sa" tvg-name="MBC. ACTION HD" tvg-logo="http://go4.pw/MBCGROUP/MBCACTION-1.png" group-title="|AR| MBC HD ",MBC. ACTION HD
+http://lukatv.net:8880/ERDFHJL/3422908/74319
+#EXTINF:-1 tvg-id="" tvg-name="MBC. ACTION FHD" tvg-logo="http://go4.pw/MBCGROUP/MBCACTION-1.png" group-title="|AR| MBC HD ",MBC. ACTION FHD
+http://lukatv.net:8880/ERDFHJL/3422908/4347
+#EXTINF:-1 tvg-id="" tvg-name="MBC. MASER 1 FHD" tvg-logo="http://go4.pw/MBCGROUP/MBCMASR-1.png" group-title="|AR| MBC HD ",MBC. MASER 1 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/74316
+#EXTINF:-1 tvg-id="" tvg-name="MBC. MASER 1  HD" tvg-logo="http://go4.pw/MBCGROUP/MBCMASR-1.png" group-title="|AR| MBC HD ",MBC. MASER 1  HD
+http://lukatv.net:8880/ERDFHJL/3422908/423
+#EXTINF:-1 tvg-id="" tvg-name="MBC. MASER 2 FHD" tvg-logo="http://go4.pw/MBC_Masr.png" group-title="|AR| MBC HD ",MBC. MASER 2 FHD
+http://lukatv.net:8880/ERDFHJL/3422908/74317
+#EXTINF:-1 tvg-id="" tvg-name="MBC. MASR 2 HD" tvg-logo="http://go4.pw/MBC_Masr.png" group-title="|AR| MBC HD ",MBC. MASR 2 HD
+http://lukatv.net:8880/ERDFHJL/3422908/38513
+#EXTINF:-1 tvg-id="" tvg-name="MBC. iraq FHD" tvg-logo="http://go4.pw/MBCGROUP/MBCIRAQ-1.png" group-title="|AR| MBC HD ",MBC. iraq FHD
+http://lukatv.net:8880/ERDFHJL/3422908/3060
+#EXTINF:-1 tvg-id="" tvg-name="MBC. IRAQ HD" tvg-logo="http://go4.pw/MBCGROUP/MBCIRAQ-1.png" group-title="|AR| MBC HD ",MBC. IRAQ HD
+http://lukatv.net:8880/ERDFHJL/3422908/51588
+#EXTINF:-1 tvg-id="" tvg-name="MBC. MAX FHD" tvg-logo="http://go4.pw/MBCGROUP/MBCMAX-.png" group-title="|AR| MBC HD ",MBC. MAX FHD
+http://lukatv.net:8880/ERDFHJL/3422908/421
+#EXTINF:-1 tvg-id="" tvg-name="MBC. MAX  FH" tvg-logo="http://go4.pw/MBCGROUP/MBCMAX-.png" group-title="|AR| MBC HD ",MBC. MAX  FH
+http://lukatv.net:8880/ERDFHJL/3422908/74192
+#EXTINF:-1 tvg-id="" tvg-name="MBC. Variety FHD" tvg-logo="http://go4.pw/MBCGROUP/MBC-Variety-HD.png" group-title="|AR| MBC HD ",MBC. Variety FHD
+http://lukatv.net:8880/ERDFHJL/3422908/74318
+#EXTINF:-1 tvg-id="" tvg-name="MBC.Variety-HD" tvg-logo="http://go4.pw/MBCGROUP/MBC-Variety-HD.png" group-title="|AR| MBC HD ",MBC.Variety-HD
+http://lukatv.net:8880/ERDFHJL/3422908/4336
+#EXTINF:-1 tvg-id="" tvg-name="MBC. BOLLYWOOD  FHD" tvg-logo="http://go4.pw/MBCGROUP/MBCBOLLYWOOD-1.png" group-title="|AR| MBC HD ",MBC. BOLLYWOOD  FHD
+http://lukatv.net:8880/ERDFHJL/3422908/4335
+#EXTINF:-1 tvg-id="" tvg-name="MBC. BOLLYWOOD  HD" tvg-logo="http://go4.pw/MBCGROUP/MBCBOLLYWOOD-1.png" group-title="|AR| MBC HD ",MBC. BOLLYWOOD  HD
+http://lukatv.net:8880/ERDFHJL/3422908/3075
+#EXTINF:-1 tvg-id="" tvg-name="MBC. Mix Hollywood" tvg-logo="http://go4.pw/MBCGROUP/MBCBOLLYWOOD-1.png" group-title="|AR| MBC HD ",MBC. Mix Hollywood
+http://lukatv.net:8880/ERDFHJL/3422908/74302
+#EXTINF:-1 tvg-id="" tvg-name="MBC.ZEE AFLAM FHD" tvg-logo="http://go4.pw/ARABE/ZEEAFLAM.png" group-title="|AR| MBC HD ",MBC.ZEE AFLAM FHD
+http://lukatv.net:8880/ERDFHJL/3422908/344809
+#EXTINF:-1 tvg-id="" tvg-name="MBC : ZEE AFLAM HD" tvg-logo="http://go4.pw/ARABE/ZEEAFLAM.png" group-title="|AR| MBC HD ",MBC : ZEE AFLAM HD
+http://lukatv.net:8880/ERDFHJL/3422908/344814
+#EXTINF:-1 tvg-id="" tvg-name="MBC : ZEE ALWAN FHD" tvg-logo="https://mj.bald-news.com/wp-content/uploads/2024/04/19_2020-637232477207491632-749.png" group-title="|AR| MBC HD ",MBC : ZEE ALWAN FHD
+http://lukatv.net:8880/ERDFHJL/3422908/344810
+#EXTINF:-1 tvg-id="" tvg-name="MBC ZEE ZAMAN FHD" tvg-logo="https://d.top4top.io/p_1477bk0fq1.png" group-title="|AR| MBC HD ",MBC ZEE ZAMAN FHD
+http://lukatv.net:8880/ERDFHJL/3422908/344811
+#EXTINF:-1 tvg-id="" tvg-name="MBC : ZEE ALWAN HD" tvg-logo="https://mj.bald-news.com/wp-content/uploads/2024/04/19_2020-637232477207491632-749.png" group-title="|AR| MBC HD ",MBC : ZEE ALWAN HD
+http://lukatv.net:8880/ERDFHJL/3422908/344815
+#EXTINF:-1 tvg-id="" tvg-name="MBC : B4U PLUS FHD" tvg-logo="http://go4.pw/ARABE/B4UPLUS.png" group-title="|AR| MBC HD ",MBC : B4U PLUS FHD
+http://lukatv.net:8880/ERDFHJL/3422908/344813
+#EXTINF:-1 tvg-id="" tvg-name="MBC : B4U PLUS HD" tvg-logo="http://go4.pw/ARABE/B4UPLUS.png" group-title="|AR| MBC HD ",MBC : B4U PLUS HD
+http://lukatv.net:8880/ERDFHJL/3422908/344817
+#EXTINF:-1 tvg-id="" tvg-name="MBC :| B4U AFLAM HD" tvg-logo="http://go4.pw/MBCGROUP/B4UAFLAM.png" group-title="|AR| MBC HD ",MBC :| B4U AFLAM HD
+http://lukatv.net:8880/ERDFHJL/3422908/344816
+#EXTINF:-1 tvg-id="" tvg-name="MBC : B4U AFLAM FHD" tvg-logo="http://go4.pw/MBCGROUP/B4UAFLAM.png" group-title="|AR| MBC HD ",MBC : B4U AFLAM FHD
+http://lukatv.net:8880/ERDFHJL/3422908/344812
