@@ -15,5 +15,12 @@ http://mohdtv.com:8880/voby1876/61681118/3138
 
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",EN : أهم المباريات اليوم VIP
+http://lukatv.net:8880/ERDFHJL/3422908/329100
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",EN : أهم المباريات اليوم FHD
+http://lukatv.net:8880/ERDFHJL/3422908/393120
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",BEIN SPORTS NEWS FHD
+http://lukatv.net:8880/ERDFHJL/3422908/347518
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="|AR| BEIN SP⚽RTS VIP",BEIN SPORT ①  FHD
+http://lukatv.net:8880/ERDFHJL/3422908/96394
 
