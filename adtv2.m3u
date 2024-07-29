@@ -3,3 +3,6 @@
 http://lukatv.net:8880/ERDFHJL/3422908/428
 #EXTINF:-1 tvg-id="" tvg-name="MBC : 2  4K+" tvg-logo="http://go4.pw/MBCGROUP/MBC2-1.png" group-title="Movies",MBC : 2  4K+
 http://lukatv.net:8880/ERDFHJL/3422908/3070
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Sky Cinema SciFi
+http://45.88.200.117:8089/110/index.m3u8?token=426fbb70aaf0edfe17969b431e79e57a
