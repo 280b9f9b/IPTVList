@@ -45,95 +45,95 @@ https://radio.skynewsarabia.com/stream/radio/skynewsarabia
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Dubai" tvg-name="Sama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sama.png" group-title="General",Sama
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sama.png" group-title="General",Sama
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/index.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="Dubai" tvg-name="Dubai Zamaan" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Zamaan.png" group-title="Classic",Dubai Zamaan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Zamaan.png" group-title="Classic",Dubai Zamaan
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/index.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="Dubai" tvg-name="Dubai Sports 1" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Sports 1.png" group-title="Sports",D Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Sports 1.png" group-title="Sports",D Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u
-#EXTINF:-1 tvg-chno="23" tvg-id="Dubai" tvg-name="Dubai Sports 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Sports 2.png" group-title="Sports",D Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Sports 2.png" group-title="Sports",D Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u
-#EXTINF:-1 tvg-chno="24" tvg-id="Dubai" tvg-name="Dubai Sports 3" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Sports 3.png" group-title="Sports",D Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Sports 3.png" group-title="Sports",D Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/playlist.m3u
-#EXTINF:-1 tvg-chno="25" tvg-id="Dubai" tvg-name="Dubai Racing 1" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Racing 1.png" group-title="Sports",D Racing 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Racing 1.png" group-title="Sports",D Racing 1
 https://dmisvthvllta.cdn.mgmlcdn.com/events/smil:events.stream.smil/index.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="Dubai" tvg-name="Dubai Racing 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Racing 2.png" group-title="Sports",D Racing 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Racing 2.png" group-title="Sports",D Racing 2
 https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-id="Dubai" tvg-name="Dubai Racing 3" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Racing 3.png" group-title="Sports",D Racing 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Racing 3.png" group-title="Sports",D Racing 3
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/index.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="Dubai" tvg-name="OneTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/OneTV.png" group-title="General",OneTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/OneTV.png" group-title="General",OneTV
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/index.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-id="Dubai" tvg-name="Noor Dubai TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Noor Dubai TV.png" group-title="Religion",Noor Dubai TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Noor Dubai TV.png" group-title="Religion",Noor Dubai TV
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="30" tvg-id="DubaiRadio" tvg-name="Dubai Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Radio.png" group-title="Radio",Dubai Radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Radio.png" group-title="Radio",Dubai Radio
 https://dmithrvllta.cdn.mgmlcdn.com/dubairdo/dubairdo_aac/chunklist.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="DubaiRadio" tvg-name="Noor Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Noor Dubai.png" group-title="Religion",Noor Dubai
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Noor Dubai.png" group-title="Religion",Noor Dubai
 https://dmithrvllta.cdn.mgmlcdn.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-chno="32" tvg-id="AlOulaRadio" tvg-name="Al Oula" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Oula.png" group-title="Radio",Al Oula
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Oula.png" group-title="Radio",Al Oula
 https://uk6.internet-radio.com/proxy/aloula?mp=/stream;
 
 
-#EXTINF:-1 tvg-chno="33" tvg-id="ARNRadio" tvg-name="Al Khaleejiya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Khaleejiya.png" group-title="Radio",Al Khaleejiya
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Khaleejiya.png" group-title="Radio",Al Khaleejiya
 https://n0d.radiojar.com/5wpf9e4erxquv
-#EXTINF:-1 tvg-chno="34" tvg-id="ARNRadio" tvg-name="Virgin Radio Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Virgin Radio Dubai.png" group-title="Radio",Virgin
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Virgin Radio Dubai.png" group-title="Radio",Virgin
 https://n0d.radiojar.com/nhq0vcqwuueuv
-#EXTINF:-1 tvg-chno="35" tvg-id="ARNRadio" tvg-name="City 101.6 Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/City 101.6 Dubai.png" group-title="Radio",City 101.6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/City 101.6 Dubai.png" group-title="Radio",City 101.6
 https://n0d.radiojar.com/gmwyu8xdrxquv
-#EXTINF:-1 tvg-chno="36" tvg-id="ARNRadio" tvg-name="Al Arabiya 99" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Arabiya 99.png" group-title="Radio",Al Arabiya 99
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Arabiya 99.png" group-title="Radio",Al Arabiya 99
 https://n07.radiojar.com/s1mygd1frxquv
-#EXTINF:-1 tvg-chno="37" tvg-id="ARNRadio" tvg-name="Dubai 92" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai 92.png" group-title="Radio",Dubai 92
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai 92.png" group-title="Radio",Dubai 92
 https://n0d.radiojar.com/6ty5rrkerxquv
-#EXTINF:-1 tvg-chno="38" tvg-id="ARNRadio" tvg-name="Hit 96.7" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Hit 96.7.png" group-title="Radio",Hit 96.7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Hit 96.7.png" group-title="Radio",Hit 96.7
 https://n0d.radiojar.com/3yygc0pwuueuv
-#EXTINF:-1 tvg-chno="39" tvg-id="ARNRadio" tvg-name="Tag 91.1" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Tag 91.1.png" group-title="Radio",Tag 91.1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Tag 91.1.png" group-title="Radio",Tag 91.1
 https://n0d.radiojar.com/bpv82qebsxquv
-#EXTINF:-1 tvg-chno="40" tvg-id="ARNRadio" tvg-name="Radio Shoma" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio Shoma.png" group-title="Radio",Radio Shoma
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio Shoma.png" group-title="Radio",Radio Shoma
 https://n0d.radiojar.com/rzcfw4cbsxquv
-#EXTINF:-1 tvg-chno="41" tvg-id="ARNRadio" tvg-name="Dubai Eye 103.8" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Eye 103.8.png" group-title="Radio",Dubai Eye
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai Eye 103.8.png" group-title="Radio",Dubai Eye
 https://n0d.radiojar.com/shcthrfbsxquv
 
-#EXTINF:-1 tvg-chno="42" tvg-id="Radio" tvg-name="Channel 4 FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Channel 4 FM.png" group-title="Radio",Channel 4 FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Channel 4 FM.png" group-title="Radio",Channel 4 FM
 https://streams.radio.co/sce558c2e6/listen
 
 
 
-#EXTINF:-1 tvg-chno="43" tvg-id="Sharjah" tvg-name="Sharjah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah TV.png" group-title="General",Sharjah TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah TV.png" group-title="General",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-id="Sharjah" tvg-name="Sharjah 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah 2.png" group-title="General",Sharjah 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah 2.png" group-title="General",Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="45" tvg-id="Sharjah" tvg-name="Sharjah Sports TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah Sports TV.png" group-title="Sports",Shj Sports TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah Sports TV.png" group-title="Sports",Shj Sports TV
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-id="Sharjah" tvg-name="Al Sharqiya Min Kabla" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Sharqiya Min Kabla.png" group-title="General",Al Sharqiya
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Sharqiya Min Kabla.png" group-title="General",Al Sharqiya
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="Sharjah" tvg-name="Al Wousta TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Wousta TV.png" group-title="General",Al Wousta TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Wousta TV.png" group-title="General",Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-id="SharjahRadio" tvg-name="Sharjah Quran" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah Quran.png" group-title="Religion",Sharjah Quran
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah Quran.png" group-title="Religion",Sharjah Quran
 https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-id="SharjahRadio" tvg-name="Sharjah FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah FM.png" group-title="Radio",Sharjah FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah FM.png" group-title="Radio",Sharjah FM
 https://l3.itworkscdn.net/smcradiolive/smcradiolive/icecast.audio
 
 
-#EXTINF:-1 tvg-chno="50" tvg-id="Fujairah" tvg-name="Fujairah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah TV.png" group-title="General",Fujairah TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah TV.png" group-title="General",Fujairah TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/chunks.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-id="FujairahRadio" tvg-name="Fujairah FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah FM.png" group-title="Radio",Fujairah FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah FM.png" group-title="Radio",Fujairah FM
 https://live.kwikmotion.com/fujairahradiolive/fujairahradio/chunks.m3u8
-#EXTINF:-1 tvg-chno="52" tvg-id="FujairahRadio" tvg-name="Vibe FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Vibe FM.png" group-title="Radio",Vibe FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Vibe FM.png" group-title="Radio",Vibe FM
 https://live.kwikmotion.com/fujairahviberadiolive/fujairahviberadio/chunks.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="FujairahRadio" tvg-name="Zayed Radio For Qura'an" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zayed Radio For Quraan.png" group-title="Religion",Zayed Radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zayed Radio For Quraan.png" group-title="Religion",Zayed Radio
 https://live.kwikmotion.com/fujairahquranradiolive/fujairahquranradio/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="54" tvg-id="Ajman" tvg-name="Ajman TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ajman TV.png" group-title="General",Ajman TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ajman TV.png" group-title="General",Ajman TV
 https://cdn.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="AjmanRadio" tvg-name="Al Rabia FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Rabia FM.png" group-title="Radio",Al Rabia FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Rabia FM.png" group-title="Radio",Al Rabia FM
 https://s2.radio.co/s770fa24b6/listen
-#EXTINF:-1 tvg-chno="56" tvg-id="AlDafrahTV" tvg-name="Al Dafrah TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dafrah TV.png" group-title="General",Al Dafrah TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dafrah TV.png" group-title="General",Al Dafrah TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist_b2028000.m3u8
 
 
