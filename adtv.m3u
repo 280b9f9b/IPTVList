@@ -551,8 +551,8 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 tvg-logo="" group-title="Music",Persiana 4K
 https://4kuhls.persiana.live/hls/stream.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="General",NASA TV UHD
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="new" tvg-logo="https://image.tmdb.org/t/p/original/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="new",Rambo Last Blood (2019)
