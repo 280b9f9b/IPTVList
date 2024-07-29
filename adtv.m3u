@@ -138,67 +138,67 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/c
 
 
 
-#EXTINF:-1 tvg-chno="57" tvg-id="SaudiaTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/SaudiaTV.png" group-title="General",SaudiaTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/SaudiaTV.png" group-title="General",SaudiaTV
 https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8#checkedby:iptvlister.com
-#EXTINF:-1 tvg-chno="58" tvg-id="SaudiaTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/SBC.png" group-title="General",SBC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/SBC.png" group-title="General",SBC
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8#checkedby:iptvlister.com
-#EXTINF:-1 tvg-chno="59" tvg-id="SaudiaTV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alekhbariya.png" group-title="News",Alekhbariya
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alekhbariya.png" group-title="News",Alekhbariya
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="60" tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain TV.png" group-title="General",Bahrain TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain TV.png" group-title="General",Bahrain TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain International.png" group-title="General",Bahrain International
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain International.png" group-title="General",Bahrain International
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8#checkedby:iptvlister.com
-#EXTINF:-1 tvg-chno="62" tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Sports 1.png" group-title="Sports",Bahrain Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Sports 1.png" group-title="Sports",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Sports 2.png" group-title="Sports",Bahrain Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Sports 2.png" group-title="Sports",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="64" tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Quran.png" group-title="Religion",Bahrain Quran
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain Quran.png" group-title="Religion",Bahrain Quran
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain FM 93.3.png" group-title="Radio",Bahrain FM 93.3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain FM 93.3.png" group-title="Radio",Bahrain FM 93.3
 http://185.105.4.106:1935/live/radio-93-3/playlist.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TRADL Music 95.0.png" group-title="Radio",TRAD'L Music 95.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TRADL Music 95.0.png" group-title="Radio",TRAD'L Music 95.0
 http://185.105.4.106:1935/live/radio-95-0/playlist.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain 96.5.png" group-title="Radio",Bahrain 96.5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain 96.5.png" group-title="Radio",Bahrain 96.5
 http://185.105.4.106:1935/live/radio-96-5/playlist.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain 102.3.png" group-title="Radio",Bahrain 102.3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain 102.3.png" group-title="Radio",Bahrain 102.3
 http://185.105.4.106:1935/live/radio-102-3/playlist.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-id="Bahrain" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Holy Quran 106.1.png" group-title="Religion",Holy Quran 106.1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Holy Quran 106.1.png" group-title="Religion",Holy Quran 106.1
 http://185.105.4.106:1935/live/radio-106-1/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="70" tvg-id="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman.png" group-title="General",Oman
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman.png" group-title="General",Oman
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Sport.png" group-title="Sports",Oman Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Sport.png" group-title="Sports",Oman Sport
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Calture.png" group-title="Documentary",Oman Calture
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Calture.png" group-title="Documentary",Oman Calture
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="Oman" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Mubasher.png" group-title="General",Oman Mubasher
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Mubasher.png" group-title="General",Oman Mubasher
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="70" tvg-id="Qatar" tvg-name="Qatar TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV.png" group-title="General",Qatar TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV.png" group-title="General",Qatar TV
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="Qatar" tvg-name="Qatar TV 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV 2.png" group-title="General",Qatar TV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV 2.png" group-title="General",Qatar TV 2
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="Qatar" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Rayyan.png" group-title="General",Al Rayyan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Rayyan.png" group-title="General",Al Rayyan
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_1080p/chunks_dvr.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="Qatar" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qadeem.png" group-title="General",Qadeem
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qadeem.png" group-title="General",Qadeem
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-id="Qatar" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fame FM Qatar.png" group-title="Radio",Fame FM Qatar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fame FM Qatar.png" group-title="Radio",Fame FM Qatar
 https://26453.live.streamtheworld.com/SAM03AAC389_SC
-#EXTINF:-1 tvg-chno="70" tvg-id="Qatar" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sout Al-Khaleej 100.8 FM.png" group-title="Radio",Sout AlKhalej 100.8 FM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sout Al-Khaleej 100.8 FM.png" group-title="Radio",Sout AlKhalej 100.8 FM
 https://streaming.radio.co/sec5a4b9e1/listen
-#EXTINF:-1 tvg-chno="70" tvg-id="Qatar" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Inta FM 103.7.png" group-title="Radio",Inta FM 103.7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Inta FM 103.7.png" group-title="Radio",Inta FM 103.7
 https://s4.radio.co/s907eaefbe/listen
 
 
-#EXTINF:-1 tvg-chno="70" tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV 1.png" group-title="General",KTV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV 1.png" group-title="General",KTV 1
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/index.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="Kuwait" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV 2.png" group-title="General",KTV 2
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/index.m3u8
