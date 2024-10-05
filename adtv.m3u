@@ -130,7 +130,7 @@ https://live.kwikmotion.com/fujairahquranradiolive/fujairahquranradio/chunks.m3u
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ajman TV.png" group-title="General",Ajman TV
-https://cdn.logichost.in/ajmantv/live/playlist.m3u8
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Rabia FM.png" group-title="Radio",Al Rabia FM
 https://s2.radio.co/s770fa24b6/listen
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dafrah TV.png" group-title="General",Al Dafrah TV
