@@ -289,8 +289,7 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Radio",OneFM
-https://live.3cd.io/v1/broadcast/onefm/playlist.m3u8
+
 
 
 
@@ -311,12 +310,8 @@ https://weyyak-live.akamaized.net/hayat_qalbi/tracks-v1a1/mono.m3u8
 https://weyyak-live.akamaized.net/weyyak_smurf_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Toon-Goggles-WW.png" group-title="General",Toon-Goggles-WW
 https://weyyak-live.akamaized.net/weyyak_toon_goggles_ww/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/just.classical.png" group-title="General",just.classical
-https://weyyak-live.akamaized.net/weyyak_just_classical/tracks-v6a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AfroKiddos.png" group-title="General",AfroKiddos
 https://weyyak-live.akamaized.net/weyyak_afrokiddos/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Boonie-Cubs-TV.png" group-title="Movies",Boonie-Cubs-TV
-https://weyyak-live.akamaized.net/Boonie-Cubs-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cooking-Panda.png" group-title="Movies",Cooking-Panda
 https://weyyak-live.akamaized.net/weyyak_cookong_panda/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Deluxe-Lounge-HD.png" group-title="General",Deluxe-Lounge-HD
@@ -405,30 +400,19 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="General",CCTV4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Clarity 4K.png" group-title="Documentary",Clarity 4K
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="General",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Outdoor",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NHK BSP4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 tvg-logo="" group-title="Music",Persiana 4K
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NASA TV UHD
-https://endpnt.com/hls/nasa4k60/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",Sky Cinema SciFi
-http://45.88.200.117:8089/102/index.m3u8?token=c7a7a7c8a1449ec6e2f5beb20a827faa
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="new",Rambo Last Blood (2019)
-http://fortv.cc:8080/movie/1433265/9941718/203061.mp4
 
 
 
