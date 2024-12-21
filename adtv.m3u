@@ -261,8 +261,6 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 https://live-hls-web-aje.getaj.net/alternative/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Yaum TV.png" group-title="News",Al Yaum TV
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CGTN Arabic.png" group-title="News",CGTN Arabic
-https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/DW Arabic.png" group-title="News",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/France 24 Arabic.png" group-title="News",France 24
