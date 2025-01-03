@@ -3159,8 +3159,10 @@ https://30a-tv.com/NothingScripted.m3u8
 http://luckonline.eu:8080/home/faizul/1347
 #EXTINF:-1 group-title="Unsorted" tvg-id="NTDTVEast.us" tvg-name="NTD TV | (STIRЯ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,NTD TV | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
 https://amg17596-ntdtv-amg17596c1-stirr-us-4738.playouts.now.amagi.tv/ntd.m3u8
-#EXTINF:-1 group-title="Unsorted" tvg-id="NoEPG" tvg-name="NTD TV | (Ƭ⫯ⲍƬ⋎) https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8" tvg-logo="InsertLogoHere" ,NTD TV | (Ƭ⫯ⲍƬ⋎) https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
-Unsorted
+#EXTINF:-1 group-title="Unsorted" tvg-id="NoEPG" tvg-name="NTD TV | (Ƭ⫯ⲍƬ⋎) https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8" tvg-logo="InsertLogoHere" ,NTD TV | (Ƭ⫯ⲍƬ⋎)
+https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Unsorted" tvg-id="NoEPG" tvg-name="NTV (CJON-DT) | (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,NTV (CJON-DT) | (Ƭ⫯ⲍƬ⋎)
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
 #EXTINF:-1 group-title="Unsorted" tvg-id="OneAmericaNewsNetwork.us" tvg-name="OAN (One America News) | (Roku) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,OAN (One America News) | (Roku) (Ƭ⫯ⲍƬ⋎)
