@@ -793,7 +793,7 @@ https://c.mjh.nz/news_in_90_seconds
 https://c.mjh.nz/sport_in_90_seconds
 #EXTINF:-1 group-title="Information" tvg-id="mjh-abc-90-seconds-weather" tvg-name="ABC 90 Seconds Weather (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://live-production.wcms.abc-cdn.net.au/d376e49724862f104d044ff6467f85d8?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" ,ABC 90 Seconds Weather (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
 https://c.mjh.nz/weather_in_90_seconds
-#EXTINF:-1 group-title="Local" tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-name="ABC East | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" ,ABC East | (MOJ) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 group-title="Local" tvg-id="ABC.(WOLO).Columbia.SC.us" tvg-name="ABC East | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" ,ABC East | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Animation/KidsTV" tvg-id="mjh-abc-kids" tvg-name="ABC Kids (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" ,ABC Kids (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
 https://c.mjh.nz/abc-kids.m3u8
