@@ -697,31 +697,32 @@ http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
 
 
 
-#EXTM3U
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 13 The Musical (2022) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 13 The Musical (2022) | (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",13 The Musical (2022)
 http://www.luckonline.eu:80/movie/home/faizul/4598.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D 300 Rise Of An Empire | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D 300 Rise Of An Empire | (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",3D 300 Rise Of An Empire
 http://www.luckonline.eu:80/movie/home/faizul/1779.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D All Girls Weekend | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D All Girls Weekend | (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",3D All Girls Weekend
 http://www.luckonline.eu:80/movie/home/faizul/1780.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Avengers Infinity War | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Avengers Infinity War | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",3D Avengers Infinity War
 http://www.luckonline.eu:80/movie/home/faizul/2180.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Batman vs Superman Dawn Of Justice | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Batman vs Superman Dawn Of Justice | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",3D Batman vs Superman Dawn Of Justice
 http://www.luckonline.eu:80/movie/home/faizul/1784.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Black Panther | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Black Panther | (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",3D Black Panther
 http://www.luckonline.eu:80/movie/home/faizul/1988.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Countdown | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Countdown | (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",3D Countdown
 http://www.luckonline.eu:80/movie/home/faizul/1785.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Edge Of Tomorrow | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Edge Of Tomorrow | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",3D Edge Of Tomorrow
 http://www.luckonline.eu:80/movie/home/faizul/1782.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Enter The Warriors Gate | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Enter The Warriors Gate | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",3D Enter The Warriors Gate
 http://www.luckonline.eu:80/movie/home/faizul/1969.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Frozen | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Frozen | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",3D Frozen
 http://www.luckonline.eu:80/movie/home/faizul/1821.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Gamer | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Gamer | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",3D Gamer
 http://www.luckonline.eu:80/movie/home/faizul/1795.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Ghost in the Shell | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Ghost in the Shell | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",3D Ghost in the Shell
 http://www.luckonline.eu:80/movie/home/faizul/1804.mkv
+
+
 #EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Ghostbusters Answer the Call (2016) | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Ghostbusters Answer the Call (2016) | (Ƭ⫯ⲍƬ⋎)
 http://www.luckonline.eu:80/movie/home/faizul/1786.mp4
 #EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Gravity | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Gravity | (Ƭ⫯ⲍƬ⋎)
