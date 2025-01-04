@@ -1,1 +1,114 @@
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Action -TCL | (Ƭ⫯ⲍƬ⋎)
+https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax East | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax MoreMax | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax Outer Max | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax West | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cinevault 80s | (Tubi) (Ƭ⫯ⲍƬ⋎)
+https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Classic Movies Channel (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cowboy Movie Channel | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
+https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cult Classic Movie Theater | (Ƭ⫯ⲍƬ⋎)
+https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX 2 | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX Drive-in | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",FXM | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO | (Ƭ⫯ⲍƬ⋎)
+http://143.244.60.30/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO || (Ƭ⫯ⲍƬ⋎)
+http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO 2 | (MOJ) (Ƭ⫯ⲍƬ⋎)
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Comedy | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Family | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Family | (Ƭ⫯ⲍƬ⋎)
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Pop | (Ƭ⫯ⲍƬ⋎)
+http://181.176.153.106:8090/play/a0qc
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Zone | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO1 | (Luck) (Ƭ⫯ⲍƬ⋎)
+http://www.luckonline.eu:80/home/faizul/947
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO2 | (Luck) (Ƭ⫯ⲍƬ⋎) | (Luck) (Ƭ⫯ⲍƬ⋎)
+http://luckonline.eu:8080/home/faizul/947
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO2 | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Lifetime Movies Network | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Movie Favorites By Lifetime (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32f13eb-8395-4e23-87b8-0bd6e7d05f16
+#EXTINF:-1 tvg-logo="" group-title="Movies",Movies for Gamers (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0
+#EXTINF:-1 tvg-logo="" group-title="Movies",MovieSphere (UK) | (Samsung) (Ƭ⫯ⲍƬ⋎)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",MovieSphere by Lionsgate (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
+#EXTINF:-1 tvg-logo="" group-title="Movies",MyTime Movie Network (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",New Releases Kids Movies | (Luck) (Ƭ⫯ⲍƬ⋎)
+http://luckonline.eu:8080/home/faizul/3023
+#EXTINF:-1 tvg-logo="" group-title="Movies",New Releases Movies | (Luck) (Ƭ⫯ⲍƬ⋎)
+http://luckonline.eu:8080/home/faizul/3028
+#EXTINF:-1 tvg-logo="" group-title="Movies",Paramount Movie Channel (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+#EXTINF:-1 tvg-logo="" group-title="Movies",Paramount Movie Channel | (Ƭ⫯ⲍƬ⋎)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="" group-title="Movies",PlutoTV Crime Movies (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b
+#EXTINF:-1 tvg-logo="" group-title="Movies",PlutoTV Cult Films (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2ff9f4-514d-4e8c-b1c7-b4c048053a69
+#EXTINF:-1 tvg-logo="" group-title="Movies",Showtime 2 | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Showtime East | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Showtime Extreme | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Showtime Next | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Showtime West | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Showtime Women | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",STAR Movies | (Luck) (TizTV)
+http://www.luckonline.eu:80/home/faizul/1169
+#EXTINF:-1 tvg-logo="" group-title="Movies",Star movies Select | (Luck) (TizTV)
+http://www.luckonline.eu:80/home/faizul/745
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Comedy | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz East | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Edge | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore Action | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore Classic | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore Westerns | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz West | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Turner Classic Movies (TCM) East | (Ƭ⫯ⲍƬ⋎)
+http://143.244.60.30/TCM/index.m3u8
+
