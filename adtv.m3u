@@ -697,9 +697,9 @@ http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",13 The Musical (2022)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZkOTczZWEtYWQzNy00YWM4LWE5MTItNGI5YTYxZWU5NDZlXkEyXkFqcGc@._V1_.jpg" group-title="Video-On-Demand",13 The Musical (2022)
 http://www.luckonline.eu:80/movie/home/faizul/4598.mp4
-#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",3D 300 Rise Of An Empire
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEwNTU2MjAwMDdeQTJeQWpwZ15BbWU3MDk2Njc2Njk@._V1_.jpg" group-title="Video-On-Demand",3D 300 Rise Of An Empire
 http://www.luckonline.eu:80/movie/home/faizul/1779.mp4
 #EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",3D All Girls Weekend
 http://www.luckonline.eu:80/movie/home/faizul/1780.mkv
