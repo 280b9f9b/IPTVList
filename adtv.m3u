@@ -699,35 +699,38 @@ http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZkOTczZWEtYWQzNy00YWM4LWE5MTItNGI5YTYxZWU5NDZlXkEyXkFqcGc@._V1_.jpg" group-title="Video-On-Demand",13 The Musical (2022)
 http://www.luckonline.eu:80/movie/home/faizul/4598.mp4
-
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 57 Seconds (2023) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 57 Seconds (2023) | (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTljMTJiOGItNzJlNy00ZWYzLWEwNjktNzMzMWExNTFlZDAzXkEyXkFqcGc@._V1_.jpg" group-title="Video-On-Demand",57 Seconds (2023)
 http://www.luckonline.eu:80/movie/home/faizul/5974.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 9 Bullets (2022) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 9 Bullets (2022) | (Luck) (Ƭ⫯ⲍƬ⋎)
+
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",9 Bullets (2022)
 http://www.luckonline.eu:80/movie/home/faizul/4084.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 9 Bullets (2022) || (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 9 Bullets (2022) || (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",9 Bullets (2022)
 http://www.luckonline.eu:80/movie/home/faizul/4409.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 97 Minutes (2023) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 97 Minutes (2023) | (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",97 Minutes (2023)
 http://www.luckonline.eu:80/movie/home/faizul/5555.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | A Babysitter's Guide to Monster Hunting (2020) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | A Babysitter's Guide to Monster Hunting (2020) | (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",A Babysitter's Guide to Monster Hunting (2020)
 http://www.luckonline.eu:80/movie/home/faizul/3657.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="NoEPG" tvg-name="πVODπ | A Bugs Life (1998) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,πVODπ | A Bugs Life (1998) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",A Bugs Life (1998)
 https://a.datadiff.us.kg/movies/A%20Bug%27s%20Life%20%281998%29/A%20Bug%27s%20Life%20%281998%20%20%281080p%20BDRip%20x265%2010bit%20AC3%205.1%20-%20JBENT%20%5BTAoE%5D.mkv-xpost.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | A Family Affair (2024) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | A Family Affair (2024) | (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",A Family Affair (2024)
 http://www.luckonline.eu:80/movie/home/faizul/6830.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | A Nice Girl Like You (2020) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | A Nice Girl Like You (2020) | (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",A Nice Girl Like You (2020)
 http://www.luckonline.eu:80/movie/home/faizul/3541.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | A Quiet Place Day One (2024) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | A Quiet Place Day One (2024) | (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",A Quiet Place Day One (2024)
 http://www.luckonline.eu:80/movie/home/faizul/6876.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | A Quiet Place Day One (2024) || (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | A Quiet Place Day One (2024) || (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",A Quiet Place Day One (2024)
 http://www.luckonline.eu:80/movie/home/faizul/6976.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | A Quiet Place Day One (2024) ||| (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | A Quiet Place Day One (2024) ||| (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",A Quiet Place Day One (2024)
 http://www.luckonline.eu:80/movie/home/faizul/6820.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | A Quiet Place Day One (2024) |||| (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | A Quiet Place Day One (2024) |||| (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",A Quiet Place Day One (2024)
 http://www.luckonline.eu:80/movie/home/faizul/6827.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | A Quiet Place Part II (2021) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | A Quiet Place Part II (2021) | (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",A Quiet Place Part II (2021)
 http://www.luckonline.eu:80/movie/home/faizul/3870.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | Abigail (2024) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | Abigail (2024) | (Luck) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand",Abigail (2024)
 http://www.luckonline.eu:80/movie/home/faizul/6700.mkv
+
+
+
 #EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | Abstruse (2019) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | Abstruse (2019) | (Luck) (Ƭ⫯ⲍƬ⋎)
 http://www.luckonline.eu:80/movie/home/faizul/3083.mp4
 #EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | Abstruse (2019) || (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | Abstruse (2019) || (Luck) (Ƭ⫯ⲍƬ⋎)
