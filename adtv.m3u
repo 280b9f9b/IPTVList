@@ -676,17 +676,10 @@ http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
 
 
 
-#EXTM3U
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="New EPG" tvg-name="[adult swim] Daily Animated" tvg-logo="New Logo" ,[adult swim] Daily Animated
-https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="[adult swim] East" tvg-logo="InsertLogoHere" ,[adult swim] East
-https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aseast.us.m3u8
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="[adult swim] West" tvg-logo="InsertLogoHere" ,[adult swim] West
-https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aswest.us.m3u8
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="[adult swim] Williams Stream Opt-1" tvg-logo="InsertLogoHere" ,[adult swim] Williams Stream Opt-1
-https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream.m3u8
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="[adult swim] Williams Stream Opt-2" tvg-logo="https://i.postimg.cc/tCg1Cr0p/adult-swim-Williams-Stream-Logo.jpg" ,[adult swim] Williams Stream Opt-2
-https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Animation/KidsTV" tvg-id="New EPG" tvg-name="80s-90s Cartoons" tvg-logo="New Logo" ,80s-90s Cartoons
 https://stream-cdn-iad.vaughnsoft.net/play/live_90scartooncentral.flv
 #EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="90's Kids (US)" tvg-logo="InsertLogoHere" ,90's Kids (US)
