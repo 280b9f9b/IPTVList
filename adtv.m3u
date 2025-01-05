@@ -926,6 +926,217 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 
 
 
+#EXTINF:-1 group-title="Music" tvg-id="New EPG" tvg-name="1HD Music |" tvg-logo="New Logo" ,1HD Music |
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="30aTV Music |" tvg-logo="https://i.postimg.cc/C1PZSLd6/30a-TV-Music.png" ,30aTV Music |
+http://30a-tv.com/music.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="98.1 Pearl FM |" tvg-logo="InsertLogoHere" ,98.1 Pearl FM |
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Afrobeats |" tvg-logo="InsertLogoHere" ,Afrobeats |
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="AMusic Channel |" tvg-logo="InsertLogoHere" ,AMusic Channel |
+http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="CMC-USA (California Music Channel) (1920x1080) |" tvg-logo="https://i.postimg.cc/Ghn9dD9D/CMC-Logo.png" ,CMC-USA (California Music Channel) (1920x1080) |
+https://cmc-ono.amagi.tv/amRdirect/DEVICE_ID=_DEVICE_UUID_&device[dnt]=&us_privacy=&coppa=&app_bundle=&app_name=CMC%20California%20Music%20Channel&app_store_url=&platform=web&uid=1ie9cmlub-qqp9-rrg-2ou7-6j5hh960vlt/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="CMC-USA (California Music Channel) (640x360) |" tvg-logo="https://i.postimg.cc/Ghn9dD9D/CMC-Logo.png" ,CMC-USA (California Music Channel) (640x360) |
+https://cmc-ono.amagi.tv/amRdirect/DEVICE_ID=_DEVICE_UUID_&device[dnt]=&us_privacy=&coppa=&app_bundle=&app_name=CMC%20California%20Music%20Channel&app_store_url=&platform=web&uid=1ie9cmlub-qqp9-rrg-2ou7-6j5hh960vlt/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/640x360_1205600/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="CMTEqualPlay.us" tvg-name="CMT Equal Play (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,CMT Equal Play (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280712-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd328c28-b23b-4f85-9b18-9d73786f7109
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="EIMC (Euro-Indie Music Chart) |" tvg-logo="https://i.postimg.cc/vBjjZytk/Euro-Indie-Music-Chart.jpg" ,EIMC (Euro-Indie Music Chart) |
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="EPG N/A" tvg-name="Feva Music | (STIRЯ)" tvg-logo="Logo N/A" ,Feva Music | (STIRЯ)
+https://d2y0xw9ugf4if7.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-FEVAMusic/417.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="IHeart80s.us" tvg-name="iHeart 80s | (Roku)" tvg-logo="Logo N/A" ,iHeart 80s | (Roku)
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="IHeart90s.us" tvg-name="iHeart 90s | (Roku)" tvg-logo="Logo N/A" ,iHeart 90s | (Roku)
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="mjh-juice-tv" tvg-name="JuiceTV (NZ) | (mjh.nz)" tvg-logo="https://i.mjh.nz/.images/juice-tv.png" ,JuiceTV (NZ) | (mjh.nz)
+https://i.mjh.nz/.r/juice-tv.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="New EPG" tvg-name="JuiceTV (NZ) |" tvg-logo="https://i.postimg.cc/qvbSPrr5/juice-tv.png" ,JuiceTV (NZ) |
+https://juicex.nz/hls/mystream.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="mjh-juice-x" tvg-name="JuiceX (NZ) | (mjh.nz)" tvg-logo="https://i.mjh.nz/.images/juice-x.png" ,JuiceX (NZ) | (mjh.nz)
+https://i.mjh.nz/.r/juice-x.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="KroneHit TV | (1080p) (AT)" tvg-logo="https://i.postimg.cc/K8GzR3hT/Krone-Hit-TV.jpg" ,KroneHit TV | (1080p) (AT)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="KroneHit TV | (720p) (AT)" tvg-logo="https://i.postimg.cc/yY01Tj6Z/KroneHit.jpg" ,KroneHit TV | (720p) (AT)
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Lofi Boy | (Rumble)" tvg-logo="https://i.postimg.cc/hj546RMH/Lofi-Boy-Girl.jpg" ,Lofi Boy | (Rumble)
+https://rumble.com/live-hls/2lh8yh/playlist.m3u8?
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Lofi Girl | (Rumble)" tvg-logo="https://i.postimg.cc/hj546RMH/Lofi-Boy-Girl.jpg" ,Lofi Girl | (Rumble)
+https://rumble.com/live-hls/1essrt/playlist.m3u8?
+#EXTINF:-1 group-title="Music" tvg-id="New EPG" tvg-name="Lofi Girl | (YouTube)" tvg-logo="https://i.postimg.cc/hj546RMH/Lofi-Boy-Girl.jpg" ,Lofi Girl | (YouTube)
+https://YouTube.com/LofiGirl/live
+#EXTINF:-1 group-title="Music" tvg-id="New EPG" tvg-name="Mezzo Live |" tvg-logo="New Logo" ,Mezzo Live |
+https://cdn.troya.one/ch130/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOEK2Z906g5TWU2JHvmcDS0Pt_YjSiVi_LMVvrYztJoI
+#EXTINF:-1 group-title="Music" tvg-id="New EPG" tvg-name="Mezzo Music |" tvg-logo="New Logo" ,Mezzo Music |
+https://tvcdnpotok.com/-2-rurwRuiLsEZT0g-ECbg/553/1734731605/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Biggest Pop (CA) | (PlutoTV)" tvg-logo="InsertLogoHere" ,MTV Biggest Pop (CA) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994
+#EXTINF:-1 group-title="Music" tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,MTV Biggest Pop (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Classic (CA) | (PlutoTV)" tvg-logo="InsertLogoHere" ,MTV Classic (CA) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Classic | (Luck)" tvg-logo="https://i.postimg.cc/prBBRGQc/MTV-Classic.png" ,MTV Classic | (Luck)
+http://luckonline.eu:8080/home/faizul/1451
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Dance (UK) (Luck)" tvg-logo="https://i.postimg.cc/ry7SmcQq/MTVLogo.jpg" ,MTV Dance (UK) (Luck)
+http://luckonline.eu:8080/home/faizul/495
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Flow Latino (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,MTV Flow Latino (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f
+#EXTINF:-1 group-title="Music" tvg-id="EPG N/A" tvg-name="MTV Hits | (Luck) (TizTV)" tvg-logo="Logo N/A" ,MTV Hits | (Luck) (TizTV)
+http://www.luckonline.eu:80/home/faizul/1446
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Hits | (UK) (Luck)" tvg-logo="https://i.postimg.cc/L5PrDppY/MTV-Hits.png" ,MTV Hits | (UK) (Luck)
+http://luckonline.eu:8080/home/faizul/1445
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Live | (Luck)" tvg-logo="https://i.postimg.cc/ry7SmcQq/MTVLogo.jpg" ,MTV Live | (Luck)
+http://luckonline.eu:8080/home/faizul/496
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Music | (UK) (Luck)" tvg-logo="https://i.postimg.cc/wMRWzcfS/MTV-Music.png" ,MTV Music | (UK) (Luck)
+http://luckonline.eu:8080/home/faizul/1444
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Rocks | (UK) (Luck)" tvg-logo="https://i.postimg.cc/j55ggrzq/MTV-Rocks.png" ,MTV Rocks | (UK) (Luck)
+http://luckonline.eu:8080/home/faizul/1443
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Spankin New (CA) | (PlutoTV)" tvg-logo="InsertLogoHere" ,MTV Spankin New (CA) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4
+#EXTINF:-1 group-title="Music" tvg-id="YoMTV.us" tvg-name="MTV Yo! (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,MTV Yo! (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Next Radio Generation 91 | (720p)" tvg-logo="https://i.postimg.cc/7YqHbCWW/NRG.png" ,Next Radio Generation 91 | (720p)
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Nick.Music.(NICM).us" tvg-name="NickMusic | (MOJ)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" ,NickMusic | (MOJ)
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Now Music | (UK) (Luck)" tvg-logo="https://i.postimg.cc/Z5rL8Czr/Now-Music.png" ,Now Music | (UK) (Luck)
+http://luckonline.eu:8080/home/faizul/1347
+#EXTINF:-1 group-title="Music" tvg-id="QwestTVJazzBeyond.fr" tvg-name="Qwest TV Jazz & Beyond (UK) | (Samsung)" tvg-logo="Logo N/A" ,Qwest TV Jazz & Beyond (UK) | (Samsung)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="New EPG" tvg-name="Retro Music TV |" tvg-logo="New Logo" ,Retro Music TV |
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="New EPG" tvg-name="RockTV |" tvg-logo="New Logo" ,RockTV |
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Sonus FM (Electronic Music) |" tvg-logo="https://i.postimg.cc/c4Bg6G4d/SonusFM.png" ,Sonus FM (Electronic Music) |
+http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Sonus FM (Electronic Music) ||" tvg-logo="https://i.postimg.cc/c4Bg6G4d/SonusFM.png" ,Sonus FM (Electronic Music) ||
+https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayFlashback70s.ca" tvg-name="Stingray 70s Flashback 70s |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray 70s Flashback 70s |
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayEverything80s.ca" tvg-name="Stingray 80s Remember the 80s |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray 80s Remember the 80s |
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayNothinBut90s.ca" tvg-name="Stingray 90s Nothin' But 90s |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray 90s Nothin' But 90s |
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayClassicRock.ca" tvg-name="Stingray Classic Rock |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Classic Rock |
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Stingray Classica (CA) | (PlutoTV)" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Classica (CA) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240c3f9189ce00087dd17e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799157-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b0939c7d-0d09-49b1-a6ca-f5d30195d075
+#EXTINF:-1 group-title="Music" tvg-id="Classica.us" tvg-name="Stingray Classica (US) | (PlutoTV)" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Classica (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280711-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1c3ac7db-5cfe-4d39-aec3-70a684e58c38
+#EXTINF:-1 group-title="Music" tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Classica |
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Stingray CMusic (CA) | (PlutoTV)" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray CMusic (CA) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d00dbdaaa00085bc5e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799158-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=591a5510-6f0c-4769-9f52-fb2ec0e8a3ea
+#EXTINF:-1 group-title="Music" tvg-id="StingrayCMusic.ca" tvg-name="Stingray CMusic |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray CMusic |
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Stingray Djazz (CA) | (PlutoTV)" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Djazz (CA) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=959d0b22-4af5-4741-8264-1da92550e8c1
+#EXTINF:-1 group-title="Music" tvg-id="StingrayDJAZZ.ca" tvg-name="Stingray DJAZZ |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray DJAZZ |
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayEasyListening.ca" tvg-name="Stingray Easy Listening |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Easy Listening |
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayHitList.ca" tvg-name="Stingray Hit List |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Hit List |
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayHolidayHits.ca" tvg-name="Stingray Holiday Hits |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Holiday Hits |
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayHolidayscapes.ca" tvg-name="Stingray Holidayscapes |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Holidayscapes |
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayHotCountry.ca" tvg-name="Stingray Hot Country |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Hot Country |
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayKaraoke.ca" tvg-name="Stingray Karaoke |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Karaoke |
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Naturescape |
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayPopAdult.ca" tvg-name="Stingray Pop Adult |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Pop Adult |
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Stingray Qello Concerts (CA) | (PlutoTV)" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Qello Concerts (CA) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d3d466225000827412b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb439-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ba3de05-22ef-4ab2-8d11-c4a6c21d39ba
+#EXTINF:-1 group-title="Music" tvg-id="QelloConcertsbyStingray.ca" tvg-name="Stingray Qello Concerts |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Qello Concerts |
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayRockAlternative.ca" tvg-name="Stingray Rock Alternative |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Rock Alternative |
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayRomanceLatino.ca" tvg-name="Stingray Romance Latino |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Romance Latino |
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingraySmoothJazz.ca" tvg-name="Stingray Smooth Jazz |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Smooth Jazz |
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingraySoulStorm.ca" tvg-name="Stingray Soul Storm |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Soul Storm |
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayTheSpa.ca" tvg-name="Stingray The Spa |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray The Spa |
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayTodaysKPop.ca" tvg-name="Stingray Today's KPOP |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Today's KPOP |
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayTodaysLatinPop.ca" tvg-name="Stingray Today's Latin Pop |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Today's Latin Pop |
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayUrbanBeat.ca" tvg-name="Stingray Urban Beat |" tvg-logo="https://i.postimg.cc/N0J4vRnN/Stingray-Music.png" ,Stingray Urban Beat |
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="TraceBrazuca.fr" tvg-name="TRACE Brazuca | (STIRЯ)" tvg-logo="Logo N/A" ,TRACE Brazuca | (STIRЯ)
+https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="TraceLatina.fr" tvg-name="TRACE Latina | (STIRЯ)" tvg-logo="Logo N/A" ,TRACE Latina | (STIRЯ)
+https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="EPG N/A" tvg-name="TRACE UK | (STIRЯ)" tvg-logo="Logo N/A" ,TRACE UK | (STIRЯ)
+https://amg01131-tracetv-amg01131c5-stirr-us-4389.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="TraceUrban.fr" tvg-name="Trace Urban (AU) | (Samsung)" tvg-logo="Logo N/A" ,Trace Urban (AU) | (Samsung)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="TraceUrban.fr" tvg-name="TRACE Urban | (STIRЯ)" tvg-logo="Logo N/A" ,TRACE Urban | (STIRЯ)
+https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="V2Beat TV |" tvg-logo="https://i.postimg.cc/05p0CML7/V2-Beat.jpg" ,V2Beat TV |
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Vevo2K.us" tvg-name="Vevo 2K (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,Vevo 2K (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
+#EXTINF:-1 group-title="Music" tvg-id="Vevo70s.us" tvg-name="Vevo '70s (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,Vevo '70s (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b
+#EXTINF:-1 group-title="Music" tvg-id="Vevo80s.us" tvg-name="Vevo '80s (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,Vevo '80s (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
+#EXTINF:-1 group-title="Music" tvg-id="Vevo90s.us" tvg-name="Vevo '90s (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,Vevo '90s (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
+#EXTINF:-1 group-title="Music" tvg-id="VevoCountry.us" tvg-name="Vevo Country (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,Vevo Country (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc209-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e6e85b0-154a-4a57-b91f-09965c300dbe
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Vevo Íconos Latinos (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,Vevo Íconos Latinos (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce910-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=79a35639-aaba-46f2-bc03-c95f92f52181
+#EXTINF:-1 group-title="Music" tvg-id="VevoLatino.us" tvg-name="Vevo Latino (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,Vevo Latino (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce911-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7c08002-33dc-40eb-8b3c-28a20a838cdb
+#EXTINF:-1 group-title="Music" tvg-id="VevoPop.us" tvg-name="Vevo Pop (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,Vevo Pop (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce912-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48fd2d58-c66f-492e-90a6-986e95bbc2e9
+#EXTINF:-1 group-title="Music" tvg-id="VevoRB.us" tvg-name="Vevo R&B (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,Vevo R&B (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
+#EXTINF:-1 group-title="Music" tvg-id="VevoRB.us" tvg-name="Vevo R&B (US) || (PlutoTV)" tvg-logo="InsertLogoHere" ,Vevo R&B (US) || (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a6d8e13af63d0008278715/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce914-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b303005a-9948-4dcf-9591-1e047fa47b4d
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Vevo Regional Mexicano (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,Vevo Regional Mexicano (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab5fe35425100080e2991/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce916-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a80400b9-d4b6-4bbf-812e-2c1959206e6b
+#EXTINF:-1 group-title="Music" tvg-id="VevoRetroRock.us" tvg-name="Vevo Retro Rock (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,Vevo Retro Rock (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
+#EXTINF:-1 group-title="Music" tvg-id="VevoTrueSchoolHipHop.us" tvg-name="Vevo True School Hip-Hop (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,Vevo True School Hip-Hop (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e
+#EXTINF:-1 group-title="Music" tvg-id="VevoTrueSchoolHipHop.us" tvg-name="Vevo True School Hip-Hop (US) || (PlutoTV)" tvg-logo="InsertLogoHere" ,Vevo True School Hip-Hop (US) || (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663d36fa41af640008c083f6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1020-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ba4f413c-9ae3-416b-b96f-d617f19cfbd8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Video Tour Channel |" tvg-logo="https://i.postimg.cc/MpN1T1Zp/Video-Tour.png" ,Video Tour Channel |
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="World Music | 88.7 Stereo FM 88Stereo.com | (Costa Rica) (486p)" tvg-logo="https://i.postimg.cc/3NYXh78j/88Stereo.png" ,World Music | 88.7 Stereo FM 88Stereo.com | (Costa Rica) (486p)
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="World Music | Atomic TV |" tvg-logo="InsertLogoHere" ,World Music | Atomic TV |
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="World Music | MeerTV |" tvg-logo="https://i.postimg.cc/d11ypXN3/Meer-Vandaag.jpg" ,World Music | MeerTV |
+http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="World Music | PamirTV |" tvg-logo="https://i.postimg.cc/5NSWmmQ6/Pamir-TV.gif" ,World Music | PamirTV |
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="World Music | Radio 51 Lombardia | (IT)" tvg-logo="https://i.postimg.cc/zvXv4p4T/Radio-51.png" ,World Music | Radio 51 Lombardia | (IT)
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="World Music | Radio Iglesias |" tvg-logo="https://i.postimg.cc/nzTcKBMr/Radio-Iglesias.png" ,World Music | Radio Iglesias |
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="World Music | RetroMusicTV |" tvg-logo="https://i.postimg.cc/02802fdK/retro-music.png" ,World Music | RetroMusicTV |
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="XITE Classic Country (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,XITE Classic Country (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3732-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9a2470b0-2c67-4210-9c3e-4f3cfd8315af
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="XITE Gospel (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,XITE Gospel (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623b93628e6ded0007337d4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3733-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d4552432-fb18-4599-b869-34839da45a05
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="XITE Rock (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,XITE Rock (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3735-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f428e683-63a3-4e04-a7ac-126caa2fda54
+#EXTINF:-1 group-title="Nature" tvg-id="New EPG" tvg-name="Kartera_Nature | (vaughn.live)" tvg-logo="New Logo" ,Kartera_Nature | (vaughn.live)
+https://stream-cdn-iad2.vaughnsoft.net/play/live_kartera_nature.flv
+
+
+
 
 
 
