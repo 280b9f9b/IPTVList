@@ -732,22 +732,28 @@ http://www.luckonline.eu:80/movie/home/faizul/6700.mkv
 
 
 
-#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Abstruse (2019)" tvg-logo="Logo N/A" ,Abstruse (2019)
+#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Abstruse (2019)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWExM2Q1OTEtOWMxNy00YWFkLWI0ZWItMDJhMGY1ZGZmNDM1XkEyXkFqcGc@._V1_.jpg" ,Abstruse (2019)
 http://www.luckonline.eu:80/movie/home/faizul/3083.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Abstruse (2019)" tvg-logo="Logo N/A" ,Abstruse (2019)
+#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Abstruse (2019)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWExM2Q1OTEtOWMxNy00YWFkLWI0ZWItMDJhMGY1ZGZmNDM1XkEyXkFqcGc@._V1_.jpg" ,Abstruse (2019)
 http://www.luckonline.eu:80/movie/home/faizul/3320.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Accident Man Hitman's Holiday (2022)" tvg-logo="Logo N/A" ,Accident Man Hitman's Holiday (2022)
+#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Accident Man Hitman's Holiday (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQwMDJiMGYtOWU3YS00YzJjLWJiZGQtMzE0MmE0MWU5ZjRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" ,Accident Man Hitman's Holiday (2022)
 http://www.luckonline.eu:80/movie/home/faizul/4410.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Accident Man Hitman's Holiday (2022)" tvg-logo="Logo N/A" ,Accident Man Hitman's Holiday (2022)
+#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Accident Man Hitman's Holiday (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQwMDJiMGYtOWU3YS00YzJjLWJiZGQtMzE0MmE0MWU5ZjRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" ,Accident Man Hitman's Holiday (2022)
 http://www.luckonline.eu:80/movie/home/faizul/4352.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Across the Universe (2007)" tvg-logo="New Logo" ,Across the Universe (2007)
+#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Across the Universe (2007)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZS_YCKIR7Horo-j9muyf7XReIH2HDg3KYA&s" ,Across the Universe (2007)
 https://ia903202.us.archive.org/15/items/across-the-universe-film/Across%20The%20Universe%20-%20DVD.mp4?cnt=0
-#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Adventures of Rufus The Fantastic Pet (2021)" tvg-logo="Logo N/A" ,Adventures of Rufus The Fantastic Pet (2021)
+#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Adventures of Rufus The Fantastic Pet (2021)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTcyOGM3OWMtNDgzZC00MThjLTlhZDItZWZmZmIyZDI4ODk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" ,Adventures of Rufus The Fantastic Pet (2021)
 http://www.luckonline.eu:80/movie/home/faizul/3418.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Adventures of Rufus The Fantastic Pet (2021)" tvg-logo="Logo N/A" ,Adventures of Rufus The Fantastic Pet (2021)
+#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Adventures of Rufus The Fantastic Pet (2021)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTcyOGM3OWMtNDgzZC00MThjLTlhZDItZWZmZmIyZDI4ODk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" ,Adventures of Rufus The Fantastic Pet (2021)
 http://www.luckonline.eu:80/movie/home/faizul/3394.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Afraid (2024)" tvg-logo="Logo N/A" ,Afraid (2024)
+#EXTINF:-1 group-title="Video-On-Demand" tvg-name="Afraid (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk2YjRhMGUtOGVjOC00ZTA0LTlhYzUtY2Y5OWZhYzQ0NmJkXkEyXkFqcGc@._V1_.jpg" ,Afraid (2024)
 http://www.luckonline.eu:80/movie/home/faizul/6942.mkv
+
+
+
+
+
+
 #EXTINF:-1 group-title="Video-On-Demand" tvg-name="Air Force One Down (2024)" tvg-logo="Logo N/A" ,Air Force One Down (2024)
 http://www.luckonline.eu:80/movie/home/faizul/6583.mkv
 #EXTINF:-1 group-title="Video-On-Demand" tvg-id="NoEPG" tvg-name="Alice in Wonderland (1951)" tvg-logo="InsertLogoHere" ,Alice in Wonderland (1951)
