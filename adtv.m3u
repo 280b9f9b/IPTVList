@@ -699,80 +699,7 @@ http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZkOTczZWEtYWQzNy00YWM4LWE5MTItNGI5YTYxZWU5NDZlXkEyXkFqcGc@._V1_.jpg" group-title="Video-On-Demand",13 The Musical (2022)
 http://www.luckonline.eu:80/movie/home/faizul/4598.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEwNTU2MjAwMDdeQTJeQWpwZ15BbWU3MDk2Njc2Njk@._V1_.jpg" group-title="Video-On-Demand",3D 300 Rise Of An Empire
-http://www.luckonline.eu:80/movie/home/faizul/1779.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ4NzIxOTc3Nl5BMl5BanBnXkFtZTgwNDE2NjI2OTE@._V1_.jpg" group-title="Video-On-Demand",3D All Girls Weekend
-http://www.luckonline.eu:80/movie/home/faizul/1780.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg" group-title="Video-On-Demand",3D Avengers Infinity War
-http://www.luckonline.eu:80/movie/home/faizul/2180.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_.jpg" group-title="Video-On-Demand",3D Batman vs Superman Dawn Of Justice
-http://www.luckonline.eu:80/movie/home/faizul/1784.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_FMjpg_UX1000_.jpg" group-title="Video-On-Demand",3D Black Panther
-http://www.luckonline.eu:80/movie/home/faizul/1988.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzJjODI5ZTQtMTIxNy00MjY0LTlhNDgtNzk0YjZjM2Q1ZDIyXkEyXkFqcGc@._V1_.jpg" group-title="Video-On-Demand",3D Countdown
-http://www.luckonline.eu:80/movie/home/faizul/1785.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_.jpg" group-title="Video-On-Demand",3D Edge Of Tomorrow
-http://www.luckonline.eu:80/movie/home/faizul/1782.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ5MWVlOWQtNWZjYy00ZWRiLWFkYzItNzU5MTRjNWJjZTBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Video-On-Demand",3D Enter The Warriors Gate
-http://www.luckonline.eu:80/movie/home/faizul/1969.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_FMjpg_UX1000_.jpg" group-title="Video-On-Demand",3D Frozen
-http://www.luckonline.eu:80/movie/home/faizul/1821.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThSyaClbzz1NYrAld7AfRIuXOfVpu7At_okg&s" group-title="Video-On-Demand",3D Gamer
-http://www.luckonline.eu:80/movie/home/faizul/1795.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgyYWNjZTktOGIzOS00NzRhLTk5YmMtOWQxNGExZjNjYzY4XkEyXkFqcGc@._V1_.jpg" group-title="Video-On-Demand",3D Ghost in the Shell
-http://www.luckonline.eu:80/movie/home/faizul/1804.mkv
 
-
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Ghostbusters Answer the Call (2016) | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Ghostbusters Answer the Call (2016) | (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1786.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Gravity | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Gravity | (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1819.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Hercules | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Hercules | (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1777.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D How To Train Your Dragon 2 | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D How To Train Your Dragon 2 | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1822.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Independence Day Resurgence | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Independence Day Resurgence | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1787.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Jumper | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Jumper | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1814.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Jurassic World | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Jurassic World | (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1818.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Mad Max Fury Road | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Mad Max Fury Road | (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1812.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Man Of Steel | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Man Of Steel | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1803.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Mind And Machine | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Mind And Machine | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1811.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Need For Speed | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Need For Speed | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1810.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Noah | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Noah | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1792.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Pan | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Pan | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1796.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Spider-Man Homecoming (2017) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Spider-Man Homecoming (2017) | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1808.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D The Finest Hours | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D The Finest Hours | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1802.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D The Good Dinosaur | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D The Good Dinosaur | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1801.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D The Hunger Games Mockingjay Part 2 | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D The Hunger Games Mockingjay Part 2 | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1791.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D The Huntsman Winter's War | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D The Huntsman Winter's War | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1774.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Thor The Dark World | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Thor The Dark World | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1775.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Titanic | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Titanic | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1772.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Valerian & The City Of A Thousand Planets | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Valerian & The City Of A Thousand Planets | (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1800.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Walking With Dinosaurs | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Walking With Dinosaurs | (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1984.mp4
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Warcraft The Beginning | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Warcraft The Beginning | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1798.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D Wonder Woman | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D Wonder Woman | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1799.mkv
-#EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 3D XXX Return Of Xander Cage | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 3D XXX Return Of Xander Cage | (Luck) (Ƭ⫯ⲍƬ⋎)
-http://www.luckonline.eu:80/movie/home/faizul/1806.mp4
 #EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 57 Seconds (2023) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 57 Seconds (2023) | (Luck) (Ƭ⫯ⲍƬ⋎)
 http://www.luckonline.eu:80/movie/home/faizul/5974.mkv
 #EXTINF:-1 group-title="Video-On-Demand" tvg-id="EPG N/A" tvg-name="πVODπ | 9 Bullets (2022) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,πVODπ | 9 Bullets (2022) | (Luck) (Ƭ⫯ⲍƬ⋎)
@@ -2669,7 +2596,79 @@ http://www.luckonline.eu:80/movie/home/faizul/3538.mp4
 http://www.luckonline.eu:80/movie/home/faizul/6086.mp4
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEwNTU2MjAwMDdeQTJeQWpwZ15BbWU3MDk2Njc2Njk@._V1_.jpg" group-title="Video-On-Demand 3D",3D 300 Rise Of An Empire
+http://www.luckonline.eu:80/movie/home/faizul/1779.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ4NzIxOTc3Nl5BMl5BanBnXkFtZTgwNDE2NjI2OTE@._V1_.jpg" group-title="Video-On-Demand 3D",3D All Girls Weekend
+http://www.luckonline.eu:80/movie/home/faizul/1780.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg" group-title="Video-On-Demand 3D",3D Avengers Infinity War
+http://www.luckonline.eu:80/movie/home/faizul/2180.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_.jpg" group-title="Video-On-Demand 3D",3D Batman vs Superman Dawn Of Justice
+http://www.luckonline.eu:80/movie/home/faizul/1784.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_FMjpg_UX1000_.jpg" group-title="Video-On-Demand 3D",3D Black Panther
+http://www.luckonline.eu:80/movie/home/faizul/1988.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzJjODI5ZTQtMTIxNy00MjY0LTlhNDgtNzk0YjZjM2Q1ZDIyXkEyXkFqcGc@._V1_.jpg" group-title="Video-On-Demand 3D",3D Countdown
+http://www.luckonline.eu:80/movie/home/faizul/1785.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_.jpg" group-title="Video-On-Demand 3D",3D Edge Of Tomorrow
+http://www.luckonline.eu:80/movie/home/faizul/1782.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ5MWVlOWQtNWZjYy00ZWRiLWFkYzItNzU5MTRjNWJjZTBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Video-On-Demand 3D",3D Enter The Warriors Gate
+http://www.luckonline.eu:80/movie/home/faizul/1969.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_FMjpg_UX1000_.jpg" group-title="Video-On-Demand 3D",3D Frozen
+http://www.luckonline.eu:80/movie/home/faizul/1821.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThSyaClbzz1NYrAld7AfRIuXOfVpu7At_okg&s" group-title="Video-On-Demand 3D",3D Gamer
+http://www.luckonline.eu:80/movie/home/faizul/1795.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgyYWNjZTktOGIzOS00NzRhLTk5YmMtOWQxNGExZjNjYzY4XkEyXkFqcGc@._V1_.jpg" group-title="Video-On-Demand 3D",3D Ghost in the Shell
+http://www.luckonline.eu:80/movie/home/faizul/1804.mkv
 
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Ghostbusters Answer the Call (2016)
+http://www.luckonline.eu:80/movie/home/faizul/1786.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Gravity
+http://www.luckonline.eu:80/movie/home/faizul/1819.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Hercules
+http://www.luckonline.eu:80/movie/home/faizul/1777.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D How To Train Your Dragon 2
+http://www.luckonline.eu:80/movie/home/faizul/1822.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Independence Day Resurgence
+http://www.luckonline.eu:80/movie/home/faizul/1787.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Jumper
+http://www.luckonline.eu:80/movie/home/faizul/1814.mkv
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Jurassic World
+http://www.luckonline.eu:80/movie/home/faizul/1818.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Mad Max Fury Road
+http://www.luckonline.eu:80/movie/home/faizul/1812.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Man Of Steel
+http://www.luckonline.eu:80/movie/home/faizul/1803.mkv
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Mind And Machine
+http://www.luckonline.eu:80/movie/home/faizul/1811.mkv
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Need For Speed
+http://www.luckonline.eu:80/movie/home/faizul/1810.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Noah
+http://www.luckonline.eu:80/movie/home/faizul/1792.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Pan
+http://www.luckonline.eu:80/movie/home/faizul/1796.mkv
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Spider-Man Homecoming (2017)
+http://www.luckonline.eu:80/movie/home/faizul/1808.mkv
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D The Finest Hours
+http://www.luckonline.eu:80/movie/home/faizul/1802.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D The Good Dinosaur
+http://www.luckonline.eu:80/movie/home/faizul/1801.mkv
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D The Hunger Games Mockingjay Part 2
+http://www.luckonline.eu:80/movie/home/faizul/1791.mkv
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D The Huntsman Winter's War
+http://www.luckonline.eu:80/movie/home/faizul/1774.mkv
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Thor The Dark World
+http://www.luckonline.eu:80/movie/home/faizul/1775.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Titanic
+http://www.luckonline.eu:80/movie/home/faizul/1772.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Valerian & The City Of A Thousand Planets
+http://www.luckonline.eu:80/movie/home/faizul/1800.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Walking With Dinosaurs
+http://www.luckonline.eu:80/movie/home/faizul/1984.mp4
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Warcraft The Beginning
+http://www.luckonline.eu:80/movie/home/faizul/1798.mkv
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D Wonder Woman
+http://www.luckonline.eu:80/movie/home/faizul/1799.mkv
+#EXTINF:-1 tvg-logo="" group-title="Video-On-Demand 3D",3D XXX Return Of Xander Cage
+http://www.luckonline.eu:80/movie/home/faizul/1806.mp4
 
 
 
