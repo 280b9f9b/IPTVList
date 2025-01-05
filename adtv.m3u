@@ -421,13 +421,13 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_cinemax_small-200.gif" group-title="Movies",Cinemax East
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax MoreMax
+#EXTINF:-1 tvg-logo="https://archive.org/download/CinemaxMoremax/cinemax%20moremax.png" group-title="Movies",Cinemax MoreMax
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax Outer Max
+#EXTINF:-1 tvg-logo="https://tvbix.com/images/channels/outer-max.png" group-title="Movies",Cinemax Outer Max
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax West
+#EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_cinemax_small-200.gif" group-title="Movies",Cinemax West
 http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Cinevault 80s
+#EXTINF:-1 tvg-logo="https://www.cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="Movies",Cinevault 80s
 https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Classic Movies Channel (US)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
