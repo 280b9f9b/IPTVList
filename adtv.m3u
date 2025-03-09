@@ -221,7 +221,7 @@ https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index
 https://shls-live-ak.akamaized.net/out/v1/0fcbe9a01dc6474cbec18c1027326c50/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Asouf" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Asouf.png" group-title="shahid",Al Asouf
 https://shls-live-ak.akamaized.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index_19.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hassino" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Hassino.png" group-title="shahid",Hassino
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hassino" tvg-logo="" group-title="shahid",Sikkat Safar
 https://shls-live-ak.akamaized.net/out/v1/40031eca7be34c4ea9744bf067f4fefa/index_8.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 3" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC 3.png" group-title="Kids",MBC 3
 https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
