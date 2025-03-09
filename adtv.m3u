@@ -143,6 +143,133 @@ https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alekhbariya.png" group-title="News",Alekhbariya
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC.png" group-title="shahid",MBC
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC%202.png" group-title="Movies",MBC 2
+https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Drama.png" group-title="shahid",MBC Drama
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Masr" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Masr.png" group-title="shahid",MBC Masr
+https://shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Plus Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Plus Drama.png" group-title="shahid",MBC Plus
+https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 4" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC 4.png" group-title="shahid",MBC 4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 5" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC 5.png" group-title="shahid",MBC 5
+https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Masr 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Masr 2.png" group-title="shahid",MBC Masr 2
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Iraq" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Iraq.png" group-title="shahid",MBC Iraq
+https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Bollywood" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Bollywood.png" group-title="Movies",MBC Bollywood
+https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Persia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Persia.png" group-title="Movies",MBC Persia
+https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramadan Maana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramadan Maana.png" group-title="shahid",Ramadan Maana
+https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramez.png" group-title="shahid",Ramez
+https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Top Chef Channel" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Top Chef Channel.png" group-title="shahid",Top Chef Channel
+https://shls-live-ak.akamaized.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al-Liqaa-Min-Al-Sifr-Channel" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al-Liqaa-Min-Al-Sifr-Channel.png" group-title="shahid",Al Liqaa Min Al Sifr
+https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index_9.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi-play" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Desi-play.png" group-title="shahid",Desi-play
+https://shls-live-ak.akamaized.net/out/v1/05f3eb584b674d8099779eabb6521b58/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion-TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fashion-TV.png" group-title="shahid",Fashion-TV
+https://mbc1-enc.edgenextcdn.net/out/v1/61474465407042c896d3d27685175891/index_3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC’S-Top-Gear" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/BBC’S-Top-Gear.png" group-title="shahid",Top Gear
+https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naser Al Qassaby" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Naser Al Qassaby.png" group-title="shahid",Al Qassaby
+https://shls-live-ak.akamaized.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index_6.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies.png" group-title="Movies",Movies
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies-Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies-Action.png" group-title="Movies",Movies Action
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies-Thriller" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies-Thriller.png" group-title="Movies",Movies Thriller
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aflam" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Aflam.png" group-title="Movies",Aflam
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masrah Masr" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Masrah Masr.png" group-title="shahid",Masrah Masr
+https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Freej" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Freej.png" group-title="shahid",Freej
+https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index_5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maraya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Maraya.png" group-title="shahid",Maraya
+https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El-Leba" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/El-Leba.png" group-title="shahid",El-Leba
+https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Kabeer Awi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Kabeer Awi.png" group-title="shahid",Al Kabeer Awi
+https://shls-live-ak.akamaized.net/out/v1/5f5de4f9efe24f758f1364dde5e2a45c/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ragel-We-Set-Settat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ragel-We-Set-Settat.png" group-title="shahid",Ragel We 6 Settat
+https://shls-live-ak.akamaized.net/out/v1/8328464750f04ec6bb512585e6941631/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tash" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Tash.png" group-title="shahid",Tash
+https://shls-live-ak.akamaized.net/out/v1/e34e3ac9d2534543a13b44c2b458b0c2/index_3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wifi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wifi.png" group-title="shahid",Wifi
+https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Selfie" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Selfie.png" group-title="shahid",Selfie
+https://shls-live-ak.akamaized.net/out/v1/2a0f4768f7fa42ed813674628b487e95/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bab Al Hara" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bab Al Hara.png" group-title="shahid",Bab Al Hara
+https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al-Meerath" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al-Meerath.png" group-title="shahid",Al-Meerath
+https://shls-live-ak.akamaized.net/out/v1/0fcbe9a01dc6474cbec18c1027326c50/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Asouf" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Asouf.png" group-title="shahid",Al Asouf
+https://shls-live-ak.akamaized.net/out/v1/0afd546fcb5342f69d6bfff2dd1596e9/index_19.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hassino" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Hassino.png" group-title="shahid",Hassino
+https://shls-live-ak.akamaized.net/out/v1/40031eca7be34c4ea9744bf067f4fefa/index_8.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 3" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC 3.png" group-title="Kids",MBC 3
+https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spacetoon" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Spacetoon.png" group-title="Kids",Spacetoon
+https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asharq" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Asharq.png" group-title="shahid",Asharq
+https://asharq-prod-dub-ak.akamaized.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al-Arabiya-Business" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al-Arabiya-Business.png" group-title="shahid",AlArabiya B
+https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index_3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WrestleMania" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/WrestleMania.png" group-title="shahid",WrestleMania
+https://shls-live-ak.akamaized.net/out/v1/cf05f1dbbeae4878bbc4a5919cef3391/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC FM.png" group-title="Music",MBC FM
+https://mbcfm-riyadh-prod-dub-ak.akamaized.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Panorama FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Panorama FM.png" group-title="Music",Panorama FM
+https://panoramafm-prod-dub-ak.akamaized.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wanasa" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wanasa.png" group-title="Music",Wanasa
+https://wanasah-prod-dub-ak.akamaized.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abdul-Majeed-Abdullah" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abdul-Majeed-Abdullah.png" group-title="Music",Abdul Majeed Abdullah
+https://abdulmajeed-abdullah-ak.akamaized.net/out/v1/b5759c5db43d4d10b382a4bc2b337ab5/index_21.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rashed-Al-Majed" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rashed-Al-Majed.png" group-title="Music",Rashed Al Majed
+https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index_27.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Muhammad-Abdo" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Muhammad-Abdo.png" group-title="Music",Muhammad Abdo
+https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index_27.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nature-Time" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Nature-Time.png" group-title="shahid",Nature Time
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AlThaqafeya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AlThaqafeya.png" group-title="shahid",AlThaqafeya
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_8.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alarabiya FM.png" group-title="News",Alarabiya FM
+https://fm.alarabiya.net/fm/myStream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC.png" group-title="General",MBC
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC%202.png" group-title="Movies",MBC 2
