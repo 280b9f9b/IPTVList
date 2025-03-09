@@ -168,7 +168,7 @@ https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/i
 https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Persia" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Persia.png" group-title="Movies",MBC Persia
 https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramadan Maana" tvg-logo="" group-title="shahid",Majid Almohandis
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramadan Maana" tvg-logo="" group-title="Music",Majid Almohandis
 https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="" group-title="shahid",Gulf Comedy
 https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
@@ -187,8 +187,9 @@ https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naser Al Qassaby" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Naser Al Qassaby.png" group-title="shahid",Al Qassaby
 https://shls-live-ak.akamaized.net/out/v1/20e003242d244710bfe9ca0fd2b94d00/index_6.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies.png" group-title="Movies",Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies.png" group-title="Music",Tarab
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_4.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies-Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies-Action.png" group-title="Movies",Movies Action
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies-Thriller" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Movies-Thriller.png" group-title="Movies",Movies Thriller
