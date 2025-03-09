@@ -325,15 +325,26 @@ https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/in
 https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="General",Thikrayat
+https://thikrayat-tv-prod-dub-enc.edgenextcdn.net/out/v1/af636a943ca443a9b1776488c5fb9a64/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="General",SBC
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/d369be2a1373b221dafc3f3eb025f2a9/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="General",Al-Quraan-al-Kareem
+https://quran-tv-prod-dub-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General",Al-Sunnah-al-Nabawiyah
+https://sunna-tv-prod-dub-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d1412fe29/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General",BIG-TIME
+https://thekhayal-prod-dub-enc.edgenextcdn.net/out/v1/c82a0a3ff78c44938d6536104e5f0a7e/index.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="General",Big-Time-Plus
+https://big-time-plus-enc.edgenextcdn.net/out/v1/c885383fb76943c98fa223e7fd08b125/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Alkhuzama-Radio
+https://alkhuzama-radio-enc.edgenextcdn.net/out/v1/b0c891ef58f34537ba2efd035da76da4/index.m3u8
 
 
 
