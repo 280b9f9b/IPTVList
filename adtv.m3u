@@ -198,8 +198,9 @@ https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masrah Masr" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Masrah Masr.png" group-title="shahid",Masrah Masr
 https://shls-live-ak.akamaized.net/out/v1/8fae48b64942450cb5d60b3fb6910de0/index_2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Freej" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Freej.png" group-title="shahid",Freej
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Freej" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramez.png" group-title="shahid",Ramez
 https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index_5.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maraya" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Maraya.png" group-title="shahid",Maraya
 https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El-Leba" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/El-Leba.png" group-title="shahid",El-Leba
