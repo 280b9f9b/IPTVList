@@ -293,25 +293,36 @@ https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index_2.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="General",Ramadan-Ma’na-Series
+https://shls-live-enc.edgenextcdn.net/out/v1/9747e20a05794a14b0cfccd7c621dd00/index_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Ramadan-Ma’na-GCC
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Freej
+https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index_12.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Seen
+https://shls-live-enc.edgenextcdn.net/out/v1/d7978c28150e44a0a104ecd607a56368/index_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Al-Sadma
+https://shls-live-enc.edgenextcdn.net/out/v1/976f5db2766347f8963f32eebfa8ed10/index_12.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="General",AlSaudia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="General",KSA-Now
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="General",Asharq-Documentary
+https://asharq-documentary-enc.edgenextcdn.net/out/v1/871a6254268e4609b6a0985a1881becc/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General",Asharq-Discovery
+https://asharq-discovery-enc.edgenextcdn.net/out/v1/afc5e5b828df4f1a88b433fc9f8ff2f1/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General",Bedaya
+https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="General",SSC
+https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.m3u8
 
 
 
