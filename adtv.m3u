@@ -150,6 +150,9 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC%202.png" group-title="Movies",MBC 2
 https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",MBC Action
+https://edge66.magictvbox.com/liveApple/MBC_Action/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Drama.png" group-title="shahid",MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC%20Drama.png" group-title="General",MBC Drama
