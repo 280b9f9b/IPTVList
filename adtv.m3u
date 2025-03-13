@@ -321,7 +321,7 @@ https://asharq-documentary-enc.edgenextcdn.net/out/v1/871a6254268e4609b6a0985a18
 #EXTINF:-1 tvg-logo="" group-title="General",Asharq-Discovery
 https://asharq-discovery-enc.edgenextcdn.net/out/v1/afc5e5b828df4f1a88b433fc9f8ff2f1/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General",Bedaya
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Bedaya.png" group-title="General",Bedaya
 https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General",SSC
