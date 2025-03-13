@@ -296,7 +296,7 @@ https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index_2.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="General",Ramadan-Ma’na-Series
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ramadan Maana.png" group-title="General",Ramadan-Ma’na-Series
 https://shls-live-enc.edgenextcdn.net/out/v1/9747e20a05794a14b0cfccd7c621dd00/index_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",Ramadan-Ma’na-GCC
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index_1.m3u8
