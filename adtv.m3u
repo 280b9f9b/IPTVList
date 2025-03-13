@@ -307,7 +307,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/d7978c28150e44a0a104ecd607a56368/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al-Sadma.png" group-title="General",Al-Sadma
 https://shls-live-enc.edgenextcdn.net/out/v1/976f5db2766347f8963f32eebfa8ed10/index_12.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General",AlSaudia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/SaudiaTV.png" group-title="General",AlSaudia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 
 
