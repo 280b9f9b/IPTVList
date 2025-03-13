@@ -344,7 +344,7 @@ https://sunna-tv-prod-dub-enc.edgenextcdn.net/out/v1/561f3a49088b47869fffb53d141
 #EXTINF:-1 tvg-logo="" group-title="General",BIG-TIME
 https://thekhayal-prod-dub-enc.edgenextcdn.net/out/v1/c82a0a3ff78c44938d6536104e5f0a7e/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General",Big-Time-Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Big-Time-Plus.png" group-title="General",Big-Time-Plus
 https://big-time-plus-enc.edgenextcdn.net/out/v1/c885383fb76943c98fa223e7fd08b125/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",Alkhuzama-Radio
 https://alkhuzama-radio-enc.edgenextcdn.net/out/v1/b0c891ef58f34537ba2efd035da76da4/index.m3u8
