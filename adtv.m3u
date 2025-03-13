@@ -205,7 +205,7 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramadan Maana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Majid Almohandis.png" group-title="Music",Majid Almohandis
 https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index_1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="" group-title="shahid",Gulf Comedy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramez" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Gulf Comedy.png" group-title="shahid",Gulf Comedy
 https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_2.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Top Chef Channel" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Top Chef Channel.png" group-title="shahid",Top Chef Channel
