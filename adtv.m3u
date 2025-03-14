@@ -501,7 +501,7 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="General",Rotana Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Cinema.png" group-title="General",Rotana Cinema
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 
 
