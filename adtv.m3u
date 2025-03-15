@@ -803,6 +803,37 @@ http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Hallmark Mystery
 http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://example.com/disney-channel-logo.png" group-title="Kids",Disney Channel
+http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/disney-jr-logo.png" group-title="Kids",Disney Junior
+http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/disney-xd-logo.png" group-title="Kids",Disney XD
+http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="EPG N/A" tvg-name="Disney Channel (XD?)" tvg-logo="Logo N/A" ,Disney Channel (XD?)
+http://www.luckonline.eu:80/home/faizul/461
+#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney Channel" tvg-logo="InsertLogoHere" ,Disney Channel
+http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney Channel East" tvg-logo="InsertLogoHere" ,Disney Channel East
+http://voidharbinger.xyz:80/8037040094/7103596248/815100
+#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney Channel West" tvg-logo="InsertLogoHere" ,Disney Channel West
+http://voidharbinger.xyz:80/8037040094/7103596248/815101
+
+#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney Jr" tvg-logo="InsertLogoHere" ,Disney Jr
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney XD" tvg-logo="https://i.postimg.cc/s2kN6LDt/Disney-XD.png" ,Disney XD
+http://luckonline.eu:8080/home/faizul/459
+
+#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney XD" tvg-logo="InsertLogoHere" ,Disney XD
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="EPG N/A" tvg-name="Disney XD" tvg-logo="Logo N/A" ,Disney XD
+http://www.luckonline.eu:80/home/faizul/459
+
+
+
 
 
 
@@ -1189,14 +1220,7 @@ http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://example.com/amc-network-logo.png" group-title="Movies",AMC Network
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/disney-channel-logo.png" group-title="Kids",Disney Channel
-http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/disney-jr-logo.png" group-title="Kids",Disney Junior
-http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://example.com/disney-xd-logo.png" group-title="Kids",Disney XD
-http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://example.com/fyi-logo.png" group-title="Lifestyle",FYI
 http://fl5.moveonjoy.com/FYI/index.m3u8
@@ -1488,22 +1512,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Animation/KidsTV" tvg-id="EPG N/A" tvg-name="Discovery kids" tvg-logo="Logo N/A" ,Discovery kids
 http://www.luckonline.eu:80/home/faizul/1279
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="EPG N/A" tvg-name="Disney Channel (XD?)" tvg-logo="Logo N/A" ,Disney Channel (XD?)
-http://www.luckonline.eu:80/home/faizul/461
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney Channel" tvg-logo="InsertLogoHere" ,Disney Channel
-http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney Channel East" tvg-logo="InsertLogoHere" ,Disney Channel East
-http://voidharbinger.xyz:80/8037040094/7103596248/815100
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney Channel West" tvg-logo="InsertLogoHere" ,Disney Channel West
-http://voidharbinger.xyz:80/8037040094/7103596248/815101
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney Jr" tvg-logo="InsertLogoHere" ,Disney Jr
-http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney XD" tvg-logo="https://i.postimg.cc/s2kN6LDt/Disney-XD.png" ,Disney XD
-http://luckonline.eu:8080/home/faizul/459
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney XD" tvg-logo="InsertLogoHere" ,Disney XD
-http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="EPG N/A" tvg-name="Disney XD" tvg-logo="Logo N/A" ,Disney XD
-http://www.luckonline.eu:80/home/faizul/459
+
 #EXTINF:-1 group-title="Animation/KidsTV" tvg-id="DoraTV.us" tvg-name="DoraTV (US)" tvg-logo="InsertLogoHere" ,DoraTV (US)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949
 #EXTINF:-1 group-title="Animation/KidsTV" tvg-id="ForeverKids.us" tvg-name="Forever Kids (US)" tvg-logo="InsertLogoHere" ,Forever Kids (US)
