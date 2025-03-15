@@ -740,6 +740,46 @@ http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 http://181.176.153.106:8090/play/a0qc
 
 
+#EXTINF:-1 tvg-logo="https://example.com/starz-logo.png" group-title="Movies",Starz
+http://fl5.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/starz-comedy-logo.png" group-title="Comedy",Starz Comedy
+http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Comedy
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/starz-edge-logo.png" group-title="Movies",Starz Edge
+http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Edge
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/starz-encore-logo.png" group-title="Movies",Starz Encore
+http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/starz-encore-classic-logo.png" group-title="Movies",Starz Encore Classic
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore Classic
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/starz-encore-westerns-logo.png" group-title="Movies",Starz Encore Westerns
+http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore Westerns
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz East
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz West
+http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
+
+
 
 
 
@@ -1163,23 +1203,7 @@ http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://example.com/longhorn-network-logo.png" group-title="Sports",Longhorn Network
 http://fl5.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/starz-logo.png" group-title="Movies",Starz
-http://fl5.moveonjoy.com/STARZ/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/starz-comedy-logo.png" group-title="Comedy",Starz Comedy
-http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://example.com/starz-edge-logo.png" group-title="Movies",Starz Edge
-http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://example.com/starz-encore-logo.png" group-title="Movies",Starz Encore
-http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://example.com/starz-encore-classic-logo.png" group-title="Movies",Starz Encore Classic
-http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://example.com/starz-encore-westerns-logo.png" group-title="Movies",Starz Encore Westerns
-http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://example.com/syfy-logo.png" group-title="Sci-Fi",Syfy
 http://fl5.moveonjoy.com/SYFY/index.m3u8
@@ -1272,22 +1296,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://www.luckonline.eu:80/home/faizul/1169
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star movies Select
 http://www.luckonline.eu:80/home/faizul/745
-#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Comedy
-http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Starz East
-http://fl2.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Edge
-http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore
-http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore Action
-http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore Classic
-http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore Westerns
-http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Starz West
-http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Movies",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Turner Classic Movies (TCM) East
