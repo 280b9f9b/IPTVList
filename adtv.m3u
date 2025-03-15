@@ -780,6 +780,25 @@ http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",BET EAST		
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",BET GOSPEL		
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",BET Her
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",BET Soul
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" group-title="Entertainment",MTV Classic
 http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" group-title="Entertainment",MTV Live
@@ -851,14 +870,7 @@ http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",BEIN_SPORTS		
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",BET_EAST		
-http://fl2.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",BET_GOSPEL		
-http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",BET_HER		
-http://fl2.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",BET_SOUL		
-http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="News",BLOOMBERG		
 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",BRAVO		
@@ -1111,8 +1123,7 @@ http://fl3.moveonjoy.com/Antenna/index.m3u8
 #EXTINF:-1 tvg-logo="https://example.com/aspire-logo.png" group-title="General",Aspire
 http://fl3.moveonjoy.com/Aspire/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/betjams-logo.png" group-title="Music",BET Jams
-http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://example.com/bigtennetwork-logo.png" group-title="Sports",Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
@@ -1308,14 +1319,7 @@ https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/62458
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",BBC Two UK
 https://d20opqftbkv2z0.cloudfront.net/live13/bbctwo/bitrate1-clear.isml/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",BET Her
-http://fl2.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",BET Jams
-http://fl3.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",BET Soul
-http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",BET
-http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Bravo
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",CMT
