@@ -768,6 +768,15 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX		
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX 2
+http://fl2.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX Drive-in
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX HITS		
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+
 
 
 
@@ -878,14 +887,7 @@ http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 http://fl2.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",E_ENTERTAINMENT_TELEVISION		
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX		
-http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX_2		
-http://fl2.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX_DRIVE_IN		
-http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX_HITS		
-http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN_NEWS		
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN_U		
@@ -1247,12 +1249,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56
 https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cult Classic Movie Theater.png" group-title="Movies",Cult Classic Movie Theater
 https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX
-http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX 2
-http://fl2.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX Drive-in
-http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Lifetime Movies Network
