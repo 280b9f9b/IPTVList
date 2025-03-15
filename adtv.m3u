@@ -666,6 +666,14 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax.png" group-title="Movies",Cinemax
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax West.png" group-title="Movies",Cinemax
+http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax MoreMax.png" group-title="Movies",Cinemax MoreMax
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax Outer Max.png" group-title="Movies",Cinemax Outer Max
+http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 
 
 
@@ -692,16 +700,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax.png" group-title="Movies",Cinemax
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax MoreMax.png" group-title="Movies",Cinemax MoreMax
-http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax Outer Max.png" group-title="Movies",Cinemax Outer Max
-http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax West.png" group-title="Movies",Cinemax West
-http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
 
 
 
