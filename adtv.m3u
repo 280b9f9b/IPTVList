@@ -699,6 +699,31 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="General",HBO		
+http://fl5.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="General",HBO_2		
+http://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO2
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="General",HBO_COMEDY		
+http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO Comedy
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="General",HBO_FAMILY		
+http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO Family
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="General",HBO_ZONE		
+http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO Zone
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO Pop
+http://181.176.153.106:8090/play/a0qc
+
 
 
 
@@ -996,18 +1021,7 @@ http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 http://fl5.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",GAME_SHOW_NETWORK		
 http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO		
-http://fl5.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO		
-http://fl5.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO_2		
-http://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO_COMEDY		
-http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO_FAMILY		
-http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HBO_ZONE		
-http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="General",LONGHORN_NETWORK		
 http://fl5.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",STARZ		
@@ -1075,30 +1089,7 @@ http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",EPIX Drive-in
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO
-http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO
-http://143.244.60.30/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO
-http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO 2
-https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Comedy
-http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Family
-http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Family
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Pop
-http://181.176.153.106:8090/play/a0qc
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Zone
-http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO1
-http://www.luckonline.eu:80/home/faizul/947
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO2
-http://luckonline.eu:8080/home/faizul/947
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO2
-http://fl2.moveonjoy.com/HBO_2/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Movies",Lifetime Movies Network
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Movie Favorites By Lifetime (US)
