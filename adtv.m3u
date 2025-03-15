@@ -700,7 +700,12 @@ http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Showtime.png" group-title="Movies",Showtime Women
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="Network",ABC EAST		
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Network",FREE FORM		
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",National_Geographic		
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FX.png" group-title="Entertainment",FX		
 http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FXM.png" group-title="Movies",FXM		
@@ -787,6 +792,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Loupe 4K.png" group-title="General",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Love Nature 4K.png" group-title="Outdoor",Love Nature 4K
@@ -801,8 +809,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="General",ABC_EAST		
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="General",UFC		
 http://fl1.moveonjoy.com/UFC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",ACC_NETWORK		
@@ -875,10 +882,7 @@ http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",FOX_Sports_1		
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",FREE_FORM		
-http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",FREE_FORM		
-http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="General",FUSE		
 http://fl2.moveonjoy.com/FUSE/index.m3u8
 
@@ -921,8 +925,7 @@ http://fl2.moveonjoy.com/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General",Nat_Geo_Wild		
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",National_Geographic		
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="General",NBA_TV		
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",NBC_EAST		
@@ -1223,8 +1226,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Comet
 http://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",Freeform
-http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Fuse
 http://fl2.moveonjoy.com/FUSE/index.m3u8
 
