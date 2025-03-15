@@ -742,40 +742,28 @@ http://181.176.153.106:8090/play/a0qc
 
 #EXTINF:-1 tvg-logo="https://example.com/starz-logo.png" group-title="Movies",Starz
 http://fl5.moveonjoy.com/STARZ/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Movies",Starz East
+http://fl2.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-logo="https://example.com/starz-comedy-logo.png" group-title="Comedy",Starz Comedy
 http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Comedy
+#EXTINF:-1 tvg-logo="" group-title="Comedy",Starz Comedy
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://example.com/starz-edge-logo.png" group-title="Movies",Starz Edge
 http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Starz Edge
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://example.com/starz-encore-logo.png" group-title="Movies",Starz Encore
 http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://example.com/starz-encore-classic-logo.png" group-title="Movies",Starz Encore Classic
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore Classic
-http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://example.com/starz-encore-westerns-logo.png" group-title="Movies",Starz Encore Westerns
 http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Starz East
-http://fl2.moveonjoy.com/STARZ/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="Movies",Starz Encore Action
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="Movies",Starz West
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 
