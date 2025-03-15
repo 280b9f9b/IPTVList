@@ -728,6 +728,51 @@ http://181.176.153.106:8090/play/a0qc
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" group-title="Entertainment",MTV Classic
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" group-title="Entertainment",MTV Live
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" group-title="Entertainment",MTV U
+https://fl2.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" group-title="Entertainment",MTV
+http://www.luckonline.eu:80/home/faizul/1436
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" group-title="Entertainment",MTV
+http://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" group-title="Entertainment",MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" group-title="Entertainment",MTV2
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" group-title="Entertainment",MTV2
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Biggest Pop (CA) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Biggest Pop (CA) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994
+#EXTINF:-1 group-title="Music" tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop (US) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Biggest Pop (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Classic (CA) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Classic (CA) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Classic | (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Classic | (Luck)
+http://luckonline.eu:8080/home/faizul/1451
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Dance (UK) (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Dance (UK) (Luck)
+http://luckonline.eu:8080/home/faizul/495
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Flow Latino (US) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Flow Latino (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f
+#EXTINF:-1 group-title="Music" tvg-id="EPG N/A" tvg-name="MTV Hits | (Luck) (TizTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Hits | (Luck) (TizTV)
+http://www.luckonline.eu:80/home/faizul/1446
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Hits | (UK) (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Hits | (UK) (Luck)
+http://luckonline.eu:8080/home/faizul/1445
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Live | (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Live | (Luck)
+http://luckonline.eu:8080/home/faizul/496
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Music | (UK) (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Music | (UK) (Luck)
+http://luckonline.eu:8080/home/faizul/1444
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Rocks | (UK) (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Rocks | (UK) (Luck)
+http://luckonline.eu:8080/home/faizul/1443
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Spankin New (CA) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Spankin New (CA) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4
+#EXTINF:-1 group-title="Music" tvg-id="YoMTV.us" tvg-name="MTV Yo! (US) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Yo! (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
+
+
 
 
 
@@ -863,18 +908,7 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",MSNBC		
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MTV		
-http://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MTV_2		
-http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MTV_CLASSIC		
-http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MTV_LIVE		
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MTV_LIVE		
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MTV_U		
-http://fl2.moveonjoy.com/MTV_U/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="General",Nat_Geo_Wild		
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",National_Geographic		
@@ -1204,24 +1238,7 @@ http://fl2.moveonjoy.com/HSN/index.m3u8
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Lifetime
 http://212.102.60.231/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",MTV Classic
-http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",MTV Live
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",MTV U
-http://fl2.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",MTV U
-https://fl2.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",MTV
-http://www.luckonline.eu:80/home/faizul/1436
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",MTV
-http://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",MTV
-https://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",MTV2
-http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",MTV2
-https://fl5.moveonjoy.com/MTV_2/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",MUCH
 http://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",OWN
@@ -1579,32 +1596,7 @@ https://YouTube.com/LofiGirl/live
 https://cdn.troya.one/ch130/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOEK2Z906g5TWU2JHvmcDS0Pt_YjSiVi_LMVvrYztJoI
 #EXTINF:-1 group-title="Music" tvg-id="New EPG" tvg-name="Mezzo Music |" tvg-logo="New Logo" ,Mezzo Music |
 https://tvcdnpotok.com/-2-rurwRuiLsEZT0g-ECbg/553/1734731605/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Biggest Pop (CA) | (PlutoTV)" tvg-logo="InsertLogoHere" ,MTV Biggest Pop (CA) | (PlutoTV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994
-#EXTINF:-1 group-title="Music" tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,MTV Biggest Pop (US) | (PlutoTV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Classic (CA) | (PlutoTV)" tvg-logo="InsertLogoHere" ,MTV Classic (CA) | (PlutoTV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Classic | (Luck)" tvg-logo="https://i.postimg.cc/prBBRGQc/MTV-Classic.png" ,MTV Classic | (Luck)
-http://luckonline.eu:8080/home/faizul/1451
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Dance (UK) (Luck)" tvg-logo="https://i.postimg.cc/ry7SmcQq/MTVLogo.jpg" ,MTV Dance (UK) (Luck)
-http://luckonline.eu:8080/home/faizul/495
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Flow Latino (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,MTV Flow Latino (US) | (PlutoTV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f
-#EXTINF:-1 group-title="Music" tvg-id="EPG N/A" tvg-name="MTV Hits | (Luck) (TizTV)" tvg-logo="Logo N/A" ,MTV Hits | (Luck) (TizTV)
-http://www.luckonline.eu:80/home/faizul/1446
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Hits | (UK) (Luck)" tvg-logo="https://i.postimg.cc/L5PrDppY/MTV-Hits.png" ,MTV Hits | (UK) (Luck)
-http://luckonline.eu:8080/home/faizul/1445
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Live | (Luck)" tvg-logo="https://i.postimg.cc/ry7SmcQq/MTVLogo.jpg" ,MTV Live | (Luck)
-http://luckonline.eu:8080/home/faizul/496
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Music | (UK) (Luck)" tvg-logo="https://i.postimg.cc/wMRWzcfS/MTV-Music.png" ,MTV Music | (UK) (Luck)
-http://luckonline.eu:8080/home/faizul/1444
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Rocks | (UK) (Luck)" tvg-logo="https://i.postimg.cc/j55ggrzq/MTV-Rocks.png" ,MTV Rocks | (UK) (Luck)
-http://luckonline.eu:8080/home/faizul/1443
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Spankin New (CA) | (PlutoTV)" tvg-logo="InsertLogoHere" ,MTV Spankin New (CA) | (PlutoTV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4
-#EXTINF:-1 group-title="Music" tvg-id="YoMTV.us" tvg-name="MTV Yo! (US) | (PlutoTV)" tvg-logo="InsertLogoHere" ,MTV Yo! (US) | (PlutoTV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
+
 #EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Next Radio Generation 91 | (720p)" tvg-logo="https://i.postimg.cc/7YqHbCWW/NRG.png" ,Next Radio Generation 91 | (720p)
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="Nick.Music.(NICM).us" tvg-name="NickMusic | (MOJ)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" ,NickMusic | (MOJ)
