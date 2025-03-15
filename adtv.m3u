@@ -701,33 +701,33 @@ http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FX.png" group-title="General",FX		
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FX.png" group-title="Entertainment",FX		
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FXM.png" group-title="General",FXM		
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FXM.png" group-title="Movies",FXM		
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FXX.png" group-title="General",FXX		
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FXX.png" group-title="Comedy",FXX		
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="General",HBO		
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO		
 http://fl5.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="General",HBO_2		
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO_2		
 http://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO2
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="General",HBO_COMEDY		
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Comedy",HBO_COMEDY		
 http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO Comedy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Comedy",HBO Comedy
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="General",HBO_FAMILY		
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Family",HBO_FAMILY		
 http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO Family
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Family",HBO Family
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO Family
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Family",HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="General",HBO_ZONE		
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO_ZONE		
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" group-title="Movies",HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
