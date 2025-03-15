@@ -996,7 +996,7 @@ http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/WWE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",YES_NETWORK		
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",American_Heroes_Channel		
+#EXTINF:-1 tvg-logo="" group-title="General",Heroes		
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",Antenna		
 http://fl3.moveonjoy.com/Antenna/index.m3u8
