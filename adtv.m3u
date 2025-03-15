@@ -794,7 +794,14 @@ http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Hallmark Channel
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Hallmark Drama
+https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Hallmark Family
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Hallmark Mystery
+http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
 
 
@@ -935,11 +942,7 @@ http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://example.com/grittv-logo.png" group-title="General",GRIT TV
 http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/hallmarkchannel-logo.png" group-title="General",HALLMARK CHANNEL
-http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://example.com/hallmarkdrama-logo.png" group-title="General",HALLMARK DRAMA
-http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://example.com/hln-logo.png" group-title="News",HLN
 http://fl2.moveonjoy.com/HLN/index.m3u8
@@ -1336,14 +1339,7 @@ http://fl2.moveonjoy.com/FUSE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Game Show Network
 http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",Hallmark Channel
-http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",Hallmark Drama
-https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",Hallmark Family
-http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",Hallmark Mystery
-http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",HGTV
 http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Horror
