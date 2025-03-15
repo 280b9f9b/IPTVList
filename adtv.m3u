@@ -237,6 +237,8 @@ https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/inde
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC%202.png" group-title="Movies",MBC 2
 https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/MBC%20ACTION.png" group-title="Movies",MBC Action
+https://edge66.magictvbox.com/liveApple/MBC_Action/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MBC 4" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC 4.png" group-title="shahid",MBC 4
 https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC%204.png" group-title="General",MBC 4
@@ -352,8 +354,7 @@ https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/MBC%20ACTION.png" group-title="Movies",MBC Action
-https://edge66.magictvbox.com/liveApple/MBC_Action/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al-Liqaa-Min-Al-Sifr-Channel" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al-Liqaa-Min-Al-Sifr-Channel.png" group-title="shahid",Al Liqaa Min Al Sifr
 https://shls-live-ak.akamaized.net/out/v1/e09d6e88de95452fa5566a839ca5ed5c/index_9.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi-play" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Desi-play.png" group-title="shahid",Desi-play
