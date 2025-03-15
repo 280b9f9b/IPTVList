@@ -691,6 +691,12 @@ http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FX.png" group-title="General",FX		
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FXM.png" group-title="General",FXM		
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FXX.png" group-title="General",FXX		
+http://fl2.moveonjoy.com/FXX/index.m3u8
 
 
 
@@ -795,14 +801,7 @@ http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",FUSE		
 http://fl2.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",FX		
-http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",FX		
-http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",FX_MOVIE		
-http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",FXX		
-http://fl2.moveonjoy.com/FXX/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="General",GET_TV		
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",GOLF_CHANNEL		
@@ -1075,8 +1074,7 @@ http://fl2.moveonjoy.com/EPIX/index.m3u8
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",EPIX Drive-in
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",FXM
-http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO
@@ -1194,10 +1192,7 @@ http://fl3.moveonjoy.com/COMET/index.m3u8
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Fuse
 http://fl2.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",FX
-http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",FXX
-http://fl2.moveonjoy.com/FXX/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Game Show Network
 http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Hallmark Channel
