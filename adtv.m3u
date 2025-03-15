@@ -677,7 +677,18 @@ http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Showtime.png" group-title="Movies",Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Showtime 2.png" group-title="Movies",Showtime 2
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Showtime West.png" group-title="Movies",Showtime West
+http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Showtime Extreme.png" group-title="Movies",Showtime Extreme
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Showtime Next.png" group-title="Movies",Showtime Next
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Showtime Women.png" group-title="Movies",Showtime Women
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 
 
@@ -890,16 +901,7 @@ http://fl2.moveonjoy.com/REELZ/index.m3u8
 http://fl2.moveonjoy.com/REVOLT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",SEC_NETWORK		
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",SHOWTIME		
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",SHOWTIME_2		
-http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",SHOWTIME_EXTREME		
-http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",SHOWTIME_NEXT		
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",SHOWTIME_WOMEN		
-http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="General",SMITHSONIAN_CHANNEL		
 http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",STADIUM		
@@ -1128,18 +1130,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b
 #EXTINF:-1 tvg-logo="" group-title="Movies",PlutoTV Cult Films (US)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2ff9f4-514d-4e8c-b1c7-b4c048053a69
-#EXTINF:-1 tvg-logo="" group-title="Movies",Showtime 2
-http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Showtime East
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Showtime Extreme
-http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Showtime Next
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Showtime West
-http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Showtime Women
-http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Movies",STAR Movies
 http://www.luckonline.eu:80/home/faizul/1169
 #EXTINF:-1 tvg-logo="" group-title="Movies",Star movies Select
