@@ -749,10 +749,8 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",CBSEAST		
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",CINEMAX_EAST		
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",CINEMAX_WEST		
-http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="General",CNBC		
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",CNN		
@@ -956,8 +954,7 @@ http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",Buzzr		
 http://fl3.moveonjoy.com/Buzzr/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",CINEMAX_MOREMAX		
-http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="General",Cleo_TV		
 http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",CMT		
@@ -990,8 +987,6 @@ http://fl3.moveonjoy.com/Ovation/index.m3u8
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",AMC_NETWORK		
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",CINEMAX		
-http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",DISNEY_CHANNEL		
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",DISNEY_JR		
