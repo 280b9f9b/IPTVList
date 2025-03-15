@@ -804,20 +804,19 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="General",UFC		
+#EXTINF:-1 tvg-logo="" group-title="Sports",UFC		
 http://fl1.moveonjoy.com/UFC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",ACC_NETWORK		
+#EXTINF:-1 tvg-logo="" group-title="Sports",ACC NETWORK		
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Animal_Planet		
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Animal Planet		
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",BBC_AMERICA		
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="General",BBC_WORLD_NEWS		
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",BEIN_SPORTS		
