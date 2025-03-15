@@ -810,295 +810,402 @@ http://fl1.moveonjoy.com/UFC/index.m3u8
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Animal Planet		
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="General",BBC_WORLD_NEWS		
+#EXTINF:-1 tvg-logo="" group-title="News",BBC WORLD NEWS		
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",BEIN_SPORTS		
+#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN_SPORTS		
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",BET_EAST		
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",BET_EAST		
 http://fl2.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",BET_GOSPEL		
+#EXTINF:-1 tvg-logo="" group-title="Music",BET_GOSPEL		
 http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",BET_HER		
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",BET_HER		
 http://fl2.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",BET_SOUL		
+#EXTINF:-1 tvg-logo="" group-title="Music",BET_SOUL		
 http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",BLOOMBERG		
+#EXTINF:-1 tvg-logo="" group-title="News",BLOOMBERG		
 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",BRAVO		
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",BRAVO		
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",CARTOON_NETWORK		
+#EXTINF:-1 tvg-logo="" group-title="Kids",CARTOON_NETWORK		
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",CBS_SPORTS_NETWORK		
+#EXTINF:-1 tvg-logo="" group-title="Sports",CBS_SPORTS_NETWORK		
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",CBS_SPORTS_NETWORK		
+#EXTINF:-1 tvg-logo="" group-title="Sports",CBS_SPORTS_NETWORK		
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",CBSEAST		
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="General",CNBC		
+#EXTINF:-1 tvg-logo="" group-title="News",CNBC		
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",CNN		
+#EXTINF:-1 tvg-logo="" group-title="News",CNN		
 http://fl2.moveonjoy.com/CNN/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",CNN_INTERNATIONAL		
+#EXTINF:-1 tvg-logo="" group-title="News",CNN_INTERNATIONAL		
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",C-SPAN		
+#EXTINF:-1 tvg-logo="" group-title="News",C-SPAN		
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",DISCOVERY_FAMILY_CHANNEL		
+#EXTINF:-1 tvg-logo="" group-title="Family",DISCOVERY_FAMILY_CHANNEL		
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",DISCOVERY_LIFE		
+#EXTINF:-1 tvg-logo="" group-title="Documentary",DISCOVERY_LIFE		
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",DIY		
+#EXTINF:-1 tvg-logo="" group-title="Home & Garden",DIY		
 http://fl2.moveonjoy.com/DIY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",E_ENTERTAINMENT_TELEVISION		
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",E_ENTERTAINMENT_TELEVISION		
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",EPIX		
+#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX		
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",EPIX_2		
+#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX_2		
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",EPIX_DRIVE_IN		
+#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX_DRIVE_IN		
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",EPIX_HITS		
+#EXTINF:-1 tvg-logo="" group-title="Movies",EPIX_HITS		
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",ESPN_NEWS		
+#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN_NEWS		
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",ESPN_U		
+#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN_U		
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",FOOD_NETWORK		
+#EXTINF:-1 tvg-logo="" group-title="Lifestyle",FOOD_NETWORK		
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",FOX_Business_Network		
+#EXTINF:-1 tvg-logo="" group-title="News",FOX_Business_Network		
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",FOX_EAST		
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",FOX_News_Channel		
+#EXTINF:-1 tvg-logo="" group-title="News",FOX_News_Channel		
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",FOX_Sports_1		
+#EXTINF:-1 tvg-logo="" group-title="Sports",FOX_Sports_1		
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="General",FUSE		
+#EXTINF:-1 tvg-logo="" group-title="Music",FUSE		
 http://fl2.moveonjoy.com/FUSE/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General",GET_TV		
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://example.com/gettv-logo.png" group-title="Classic",GET TV
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",GOLF_CHANNEL		
+
+#EXTINF:-1 tvg-logo="https://example.com/golfchannel-logo.png" group-title="Sports",GOLF CHANNEL
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",GRIT_TV		
+
+#EXTINF:-1 tvg-logo="https://example.com/grittv-logo.png" group-title="General",GRIT TV
 http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HALLMARK_CHANNEL		
+
+#EXTINF:-1 tvg-logo="https://example.com/hallmarkchannel-logo.png" group-title="General",HALLMARK CHANNEL
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HALLMARK_DRAMA		
+
+#EXTINF:-1 tvg-logo="https://example.com/hallmarkdrama-logo.png" group-title="General",HALLMARK DRAMA
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HLN		
+
+#EXTINF:-1 tvg-logo="https://example.com/hln-logo.png" group-title="News",HLN
 http://fl2.moveonjoy.com/HLN/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",HSN		
+
+#EXTINF:-1 tvg-logo="https://example.com/hsn-logo.png" group-title="Shopping",HSN
 http://fl2.moveonjoy.com/HSN/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",INSP		
+
+#EXTINF:-1 tvg-logo="https://example.com/insp-logo.png" group-title="General",INSP
 http://fl2.moveonjoy.com/INSP/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",INVESTIGATION	
+
+#EXTINF:-1 tvg-logo="https://example.com/investigationdiscovery-logo.png" group-title="Crime",INVESTIGATION DISCOVERY
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",ION_TV		
+
+#EXTINF:-1 tvg-logo="https://example.com/iontv-logo.png" group-title="General",ION TV
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",LIFETIME		
+
+#EXTINF:-1 tvg-logo="https://example.com/lifetime-logo.png" group-title="General",LIFETIME
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",LIFETIME	
+
+#EXTINF:-1 tvg-logo="https://example.com/lifetime-movie-network-logo.png" group-title="Movies",LIFETIME MOVIE NETWORK
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",LIFETIME	
+
+#EXTINF:-1 tvg-logo="https://example.com/lifetime-movie-network-logo.png" group-title="Movies",LIFETIME MOVIE NETWORK
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MAV_TV		
+
+#EXTINF:-1 tvg-logo="https://example.com/mavtv-logo.png" group-title="General",MAV TV
 http://fl2.moveonjoy.com/MAV_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",ME_TV		
+
+#EXTINF:-1 tvg-logo="https://example.com/metv-logo.png" group-title="Classic",ME TV
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MLB_NETWORK		
+
+#EXTINF:-1 tvg-logo="https://example.com/mlbnetwork-logo.png" group-title="Sports",MLB NETWORK
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MOTOR_TREND		
+
+#EXTINF:-1 tvg-logo="https://example.com/motortrend-logo.png" group-title="Automotive",MOTOR TREND
 http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MSNBC		
+
+#EXTINF:-1 tvg-logo="https://example.com/msnbc-logo.png" group-title="News",MSNBC
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General",Nat_Geo_Wild		
+
+
+
+
+#EXTINF:-1 tvg-logo="https://example.com/natgeowild-logo.png" group-title="Nature",Nat Geo Wild
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General",NBA_TV		
+#EXTINF:-1 tvg-logo="https://example.com/nbatv-logo.png" group-title="Sports",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NBC_EAST		
+
+#EXTINF:-1 tvg-logo="https://example.com/nbceast-logo.png" group-title="General",NBC East
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NBC_SPORTS_NETWORK		
+
+#EXTINF:-1 tvg-logo="https://example.com/nbcsports-logo.png" group-title="Sports",NBC Sports Network
 http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NEWS_NATION		
+
+#EXTINF:-1 tvg-logo="https://example.com/newsnation-logo.png" group-title="News",News Nation
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NFL_1		
+
+#EXTINF:-1 tvg-logo="https://example.com/nfl1-logo.png" group-title="Sports",NFL 1
 http://fl2.moveonjoy.com/NFL_1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NFL_NETWORK		
+
+#EXTINF:-1 tvg-logo="https://example.com/nflnetwork-logo.png" group-title="Sports",NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NHL_NETWORK		
+
+#EXTINF:-1 tvg-logo="https://example.com/nhlnetwork-logo.png" group-title="Sports",NHL Network
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NHL_NETWORK		
+
+#EXTINF:-1 tvg-logo="https://example.com/nhlnetwork-logo.png" group-title="Sports",NHL Network
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NICK_JR		
+
+#EXTINF:-1 tvg-logo="https://example.com/nickjr-logo.png" group-title="Kids",Nick Jr.
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NICK_MUSIC		
+
+#EXTINF:-1 tvg-logo="https://example.com/nickmusic-logo.png" group-title="Music",Nick Music
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NICKELODEON		
+
+#EXTINF:-1 tvg-logo="https://example.com/nickelodeon-logo.png" group-title="Kids",Nickelodeon
 http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",NICKTOONS		
+
+#EXTINF:-1 tvg-logo="https://example.com/nicktoons-logo.png" group-title="Kids",Nicktoons
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",OUTDOOR_CHANNEL		
+
+#EXTINF:-1 tvg-logo="https://example.com/outdoorchannel-logo.png" group-title="Sports",Outdoor Channel
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",OUTER_MAX		
+
+#EXTINF:-1 tvg-logo="https://example.com/outermax-logo.png" group-title="Movies",Outer Max
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",OWN		
+
+#EXTINF:-1 tvg-logo="https://example.com/own-logo.png" group-title="General",OWN
 http://fl2.moveonjoy.com/OWN/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",OXYGEN		
+
+#EXTINF:-1 tvg-logo="https://example.com/oxygen-logo.png" group-title="Crime",Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",OXYGEN		
+
+#EXTINF:-1 tvg-logo="https://example.com/oxygen-logo.png" group-title="Crime",Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",PARAMOUNT_NETWORK		
+
+#EXTINF:-1 tvg-logo="https://example.com/paramountnetwork-logo.png" group-title="General",Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",QVC		
+
+#EXTINF:-1 tvg-logo="https://example.com/qvc-logo.png" group-title="Shopping",QVC
 http://fl2.moveonjoy.com/QVC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",REELZ		
+
+#EXTINF:-1 tvg-logo="https://example.com/reelz-logo.png" group-title="Movies",Reelz
 http://fl2.moveonjoy.com/REELZ/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",REVOLT		
+
+#EXTINF:-1 tvg-logo="https://example.com/revolt-logo.png" group-title="Music",Revolt
 http://fl2.moveonjoy.com/REVOLT/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",SEC_NETWORK		
+
+#EXTINF:-1 tvg-logo="https://example.com/secnetwork-logo.png" group-title="Sports",SEC Network
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General",SMITHSONIAN_CHANNEL		
+
+
+
+
+#EXTINF:-1 tvg-logo="https://example.com/smithsonian-logo.png" group-title="Documentary",Smithsonian Channel
 http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",STADIUM		
+
+#EXTINF:-1 tvg-logo="https://example.com/stadium-logo.png" group-title="Sports",Stadium
 http://fl2.moveonjoy.com/STADIUM/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",SUNDANCE		
+
+#EXTINF:-1 tvg-logo="https://example.com/sundance-logo.png" group-title="Movies",Sundance
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TBS		
+
+#EXTINF:-1 tvg-logo="https://example.com/tbs-logo.png" group-title="General",TBS
 http://fl2.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TCM		
+
+#EXTINF:-1 tvg-logo="https://example.com/tcm-logo.png" group-title="Movies",TCM
 http://fl2.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TENNIS_CHANNEL		
+
+#EXTINF:-1 tvg-logo="https://example.com/tennischannel-logo.png" group-title="Sports",Tennis Channel
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",THE_WEATHER_CHANNEL		
+
+#EXTINF:-1 tvg-logo="https://example.com/weatherchannel-logo.png" group-title="News",The Weather Channel
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Travel_Channel		
+
+#EXTINF:-1 tvg-logo="https://example.com/travelchannel-logo.png" group-title="Travel",Travel Channel
 http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TRU_TV		
+
+#EXTINF:-1 tvg-logo="https://example.com/trutv-logo.png" group-title="General",Tru TV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TV_Land		
+
+#EXTINF:-1 tvg-logo="https://example.com/tvland-logo.png" group-title="General",TV Land
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TV_ONE		
+
+#EXTINF:-1 tvg-logo="https://example.com/tvone-logo.png" group-title="General",TV One
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",USA_Network		
+
+#EXTINF:-1 tvg-logo="https://example.com/usanetwork-logo.png" group-title="General",USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",VH1		
+
+#EXTINF:-1 tvg-logo="https://example.com/vh1-logo.png" group-title="Music",VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",VICELAND		
+
+#EXTINF:-1 tvg-logo="https://example.com/viceland-logo.png" group-title="Lifestyle",Viceland
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",WE_TV		
+
+#EXTINF:-1 tvg-logo="https://example.com/wetv-logo.png" group-title="General",WE TV
 http://fl2.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",WGN		
+
+#EXTINF:-1 tvg-logo="https://example.com/wgn-logo.png" group-title="General",WGN
 http://fl2.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",FISHING	
+
+#EXTINF:-1 tvg-logo="https://example.com/fishing-logo.png" group-title="Sports",World Fishing Network
 http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",WWE		
+
+#EXTINF:-1 tvg-logo="https://example.com/wwe-logo.png" group-title="Sports",WWE
 http://fl2.moveonjoy.com/WWE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",YES_NETWORK		
+
+#EXTINF:-1 tvg-logo="https://example.com/yesnetwork-logo.png" group-title="Sports",YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Heroes		
+
+#EXTINF:-1 tvg-logo="https://example.com/americanheroes-logo.png" group-title="History",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Antenna		
+
+#EXTINF:-1 tvg-logo="https://example.com/antenna-logo.png" group-title="General",Antenna TV
 http://fl3.moveonjoy.com/Antenna/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Aspire		
+
+#EXTINF:-1 tvg-logo="https://example.com/aspire-logo.png" group-title="General",Aspire
 http://fl3.moveonjoy.com/Aspire/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",BET_Jams		
+
+#EXTINF:-1 tvg-logo="https://example.com/betjams-logo.png" group-title="Music",BET Jams
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",BIG_TEN_NETWORK		
+
+#EXTINF:-1 tvg-logo="https://example.com/bigtennetwork-logo.png" group-title="Sports",Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",BOOMERANG		
+
+#EXTINF:-1 tvg-logo="https://example.com/boomerang-logo.png" group-title="Kids",Boomerang
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",BOUNCE_TV		
+
+#EXTINF:-1 tvg-logo="https://example.com/bouncetv-logo.png" group-title="General",Bounce TV
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Buzzr		
+
+#EXTINF:-1 tvg-logo="https://example.com/buzzr-logo.png" group-title="Games",Buzzr
 http://fl3.moveonjoy.com/Buzzr/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General",Cleo_TV		
+
+#EXTINF:-1 tvg-logo="https://example.com/cleo-tv-logo.png" group-title="General",Cleo TV
 http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",CMT		
+
+#EXTINF:-1 tvg-logo="https://example.com/cmt-logo.png" group-title="Music",CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Comedy_Central		
+
+#EXTINF:-1 tvg-logo="https://example.com/comedy-central-logo.png" group-title="Comedy",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",COMET		
+
+#EXTINF:-1 tvg-logo="https://example.com/comet-logo.png" group-title="Sci-Fi",COMET
 http://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",COOKING_CHANNEL		
+
+#EXTINF:-1 tvg-logo="https://example.com/cooking-channel-logo.png" group-title="Food",Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",COURT_TV		
+
+#EXTINF:-1 tvg-logo="https://example.com/court-tv-logo.png" group-title="Crime",Court TV
 http://fl3.moveonjoy.com/COURT_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",COZI_TV		
+
+#EXTINF:-1 tvg-logo="https://example.com/cozi-tv-logo.png" group-title="Classic",COZI TV
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Crime_and_Investigation_Network		
+
+#EXTINF:-1 tvg-logo="https://example.com/crime-investigation-logo.png" group-title="Crime",Crime and Investigation Network
 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Discovery_Channel		
+
+#EXTINF:-1 tvg-logo="https://example.com/discovery-channel-logo.png" group-title="Documentary",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Discovery_Science		
+
+#EXTINF:-1 tvg-logo="https://example.com/discovery-science-logo.png" group-title="Science",Discovery Science
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Logo		
+
+#EXTINF:-1 tvg-logo="https://example.com/logo-channel-logo.png" group-title="Lifestyle",Logo
 http://fl3.moveonjoy.com/Logo/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",MSG		
+
+#EXTINF:-1 tvg-logo="https://example.com/msg-logo.png" group-title="Sports",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Newsy		
+
+#EXTINF:-1 tvg-logo="https://example.com/newsy-logo.png" group-title="News",Newsy
 http://fl3.moveonjoy.com/Newsy/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Ovation		
+
+#EXTINF:-1 tvg-logo="https://example.com/ovation-logo.png" group-title="Arts",Ovation
 http://fl3.moveonjoy.com/Ovation/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",Pursuit_Channel		
+
+#EXTINF:-1 tvg-logo="https://example.com/pursuit-channel-logo.png" group-title="Sports",Pursuit Channel
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",AMC_NETWORK		
+
+#EXTINF:-1 tvg-logo="https://example.com/amc-network-logo.png" group-title="Movies",AMC Network
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",DISNEY_CHANNEL		
+
+#EXTINF:-1 tvg-logo="https://example.com/disney-channel-logo.png" group-title="Kids",Disney Channel
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",DISNEY_JR		
+
+#EXTINF:-1 tvg-logo="https://example.com/disney-jr-logo.png" group-title="Kids",Disney Junior
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",DISNEY_XD		
+
+#EXTINF:-1 tvg-logo="https://example.com/disney-xd-logo.png" group-title="Kids",Disney XD
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",FYI		
+
+#EXTINF:-1 tvg-logo="https://example.com/fyi-logo.png" group-title="Lifestyle",FYI
 http://fl5.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",GAME_SHOW_NETWORK		
+
+#EXTINF:-1 tvg-logo="https://example.com/game-show-network-logo.png" group-title="Games",Game Show Network
 http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General",LONGHORN_NETWORK		
+#EXTINF:-1 tvg-logo="https://example.com/longhorn-network-logo.png" group-title="Sports",Longhorn Network
 http://fl5.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",STARZ		
+
+#EXTINF:-1 tvg-logo="https://example.com/starz-logo.png" group-title="Movies",Starz
 http://fl5.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",STARZ_COMEDY		
+
+#EXTINF:-1 tvg-logo="https://example.com/starz-comedy-logo.png" group-title="Comedy",Starz Comedy
 http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",STARZ_EDGE		
+
+#EXTINF:-1 tvg-logo="https://example.com/starz-edge-logo.png" group-title="Movies",Starz Edge
 http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",STARZ_ENCORE		
+
+#EXTINF:-1 tvg-logo="https://example.com/starz-encore-logo.png" group-title="Movies",Starz Encore
 http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",STARZ
+
+#EXTINF:-1 tvg-logo="https://example.com/starz-encore-classic-logo.png" group-title="Movies",Starz Encore Classic
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",STARZ	
+
+#EXTINF:-1 tvg-logo="https://example.com/starz-encore-westerns-logo.png" group-title="Movies",Starz Encore Westerns
 http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",SYFY		
+
+#EXTINF:-1 tvg-logo="https://example.com/syfy-logo.png" group-title="Sci-Fi",Syfy
 http://fl5.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TLC		
+
+#EXTINF:-1 tvg-logo="https://example.com/tlc-logo.png" group-title="Reality",TLC
 http://fl5.moveonjoy.com/TLC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TNT		
+
+#EXTINF:-1 tvg-logo="https://example.com/tnt-logo.png" group-title="Movies",TNT
 http://fl5.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TNT		
+
+#EXTINF:-1 tvg-logo="https://example.com/tnt-logo.png" group-title="Movies",TNT
 http://fl5.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TSN_1		
+
+#EXTINF:-1 tvg-logo="https://example.com/tsn-1-logo.png" group-title="Sports",TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TSN_2		
+
+#EXTINF:-1 tvg-logo="https://example.com/tsn-2-logo.png" group-title="Sports",TSN 2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TSN_3		
+
+#EXTINF:-1 tvg-logo="https://example.com/tsn-3-logo.png" group-title="Sports",TSN 3
 http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TSN_4		
+
+#EXTINF:-1 tvg-logo="https://example.com/tsn-4-logo.png" group-title="Sports",TSN 4
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",TSN_5		
+
+#EXTINF:-1 tvg-logo="https://example.com/tsn-5-logo.png" group-title="Sports",TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
 
