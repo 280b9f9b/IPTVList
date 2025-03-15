@@ -888,7 +888,7 @@ http://fl2.moveonjoy.com/HLN/index.m3u8
 http://fl2.moveonjoy.com/HSN/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",INSP		
 http://fl2.moveonjoy.com/INSP/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",INVESTIGATION_DISCOVERY		
+#EXTINF:-1 tvg-logo="" group-title="General",INVESTIGATION	
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",ION_TV		
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
