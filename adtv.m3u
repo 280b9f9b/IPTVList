@@ -645,6 +645,370 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax.png" group-title="Movies",Cinemax
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax MoreMax.png" group-title="Movies",Cinemax MoreMax
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax Outer Max.png" group-title="Movies",Cinemax Outer Max
+http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax West.png" group-title="Movies",Cinemax West
+http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="General",ABC_EAST		
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",UFC		
+http://fl1.moveonjoy.com/UFC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",ACC_NETWORK		
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Animal_Planet		
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BBC_AMERICA		
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BBC_WORLD_NEWS		
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BEIN_SPORTS		
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BET_EAST		
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BET_GOSPEL		
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BET_HER		
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BET_SOUL		
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BLOOMBERG		
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BRAVO		
+http://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",CARTOON_NETWORK		
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",CBS_SPORTS_NETWORK		
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",CBS_SPORTS_NETWORK		
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",CBSEAST		
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",CINEMAX_EAST		
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",CINEMAX_WEST		
+http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",CNBC		
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",CNN		
+http://fl2.moveonjoy.com/CNN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",CNN_INTERNATIONAL		
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",C-SPAN		
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",DISCOVERY_FAMILY_CHANNEL		
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",DISCOVERY_LIFE		
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",DIY		
+http://fl2.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",E_ENTERTAINMENT_TELEVISION		
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",EPIX		
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",EPIX_2		
+http://fl2.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",EPIX_DRIVE_IN		
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",EPIX_HITS		
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",ESPN_NEWS		
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",ESPN_U		
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",FOOD_NETWORK		
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",FOX_Business_Network		
+http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",FOX_EAST		
+http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",FOX_News_Channel		
+http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",FOX_Sports_1		
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",FREE_FORM		
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",FREE_FORM		
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",FUSE		
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",FX		
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",FX		
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",FX_MOVIE		
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",FXX		
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",GET_TV		
+http://fl2.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",GOLF_CHANNEL		
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",GRIT_TV		
+http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",HALLMARK_CHANNEL		
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",HALLMARK_DRAMA		
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",HLN		
+http://fl2.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",HSN		
+http://fl2.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",INSP		
+http://fl2.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",INVESTIGATION_DISCOVERY		
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",ION_TV		
+http://fl2.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",LIFETIME		
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",LIFETIME_MOVIE_NETWORK		
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",LIFETIME_MOVIE_NETWORK		
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",MAV_TV		
+http://fl2.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",ME_TV		
+http://fl2.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",MLB_NETWORK		
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",MOTOR_TREND		
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",MSNBC		
+http://fl2.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",MTV		
+http://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",MTV_2		
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",MTV_CLASSIC		
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",MTV_LIVE		
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",MTV_LIVE		
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",MTV_U		
+http://fl2.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Nat_Geo_Wild		
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",National_Geographic		
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",NBA_TV		
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",NBC_EAST		
+http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",NBC_SPORTS_NETWORK		
+http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",NEWS_NATION		
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",NFL_1		
+http://fl2.moveonjoy.com/NFL_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",NFL_NETWORK		
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",NHL_NETWORK		
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",NHL_NETWORK		
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",NICK_JR		
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",NICK_MUSIC		
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",NICKELODEON		
+http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",NICKTOONS		
+http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",OUTDOOR_CHANNEL		
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",OUTER_MAX		
+http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",OWN		
+http://fl2.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",OXYGEN		
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",OXYGEN		
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",PARAMOUNT_NETWORK		
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",QVC		
+http://fl2.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",REELZ		
+http://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",REVOLT		
+http://fl2.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",SEC_NETWORK		
+http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",SHOWTIME		
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",SHOWTIME_2		
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",SHOWTIME_EXTREME		
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",SHOWTIME_NEXT		
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",SHOWTIME_WOMEN		
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",SMITHSONIAN_CHANNEL		
+http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",STADIUM		
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",SUNDANCE		
+http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",TBS		
+http://fl2.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",TCM		
+http://fl2.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",TENNIS_CHANNEL		
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",THE_WEATHER_CHANNEL		
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Travel_Channel		
+http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",TRU_TV		
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",TV_Land		
+http://fl2.moveonjoy.com/TV_Land/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",TV_ONE		
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",USA_Network		
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",VH1		
+http://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",VICELAND		
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",WE_TV		
+http://fl2.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",WGN		
+http://fl2.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",WORLD_FISHING_NETWORK		
+http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",WWE		
+http://fl2.moveonjoy.com/WWE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",YES_NETWORK		
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",American_Heroes_Channel		
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Antenna		
+http://fl3.moveonjoy.com/Antenna/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Aspire		
+http://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BET_Jams		
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BIG_TEN_NETWORK		
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BOOMERANG		
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",BOUNCE_TV		
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Buzzr		
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",CINEMAX_MOREMAX		
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Cleo_TV		
+http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",CMT		
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Comedy_Central		
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",COMET		
+http://fl3.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",COOKING_CHANNEL		
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",COURT_TV		
+http://fl3.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",COZI_TV		
+http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Crime_and_Investigation_Network		
+http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Discovery_Channel		
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Discovery_Science		
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Logo		
+http://fl3.moveonjoy.com/Logo/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",MSG		
+http://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Newsy		
+http://fl3.moveonjoy.com/Newsy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Ovation		
+http://fl3.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",Pursuit_Channel		
+http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",AMC_NETWORK		
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",CINEMAX		
+http://fl5.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",DISNEY_CHANNEL		
+http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",DISNEY_JR		
+http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",DISNEY_XD		
+http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",FYI		
+http://fl5.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",GAME_SHOW_NETWORK		
+http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",HBO		
+http://fl5.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",HBO		
+http://fl5.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",HBO_2		
+http://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",HBO_COMEDY		
+http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",HBO_FAMILY		
+http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",HBO_ZONE		
+http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",LONGHORN_NETWORK		
+http://fl5.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",STARZ		
+http://fl5.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",STARZ_COMEDY		
+http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",STARZ_EDGE		
+http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",STARZ_ENCORE		
+http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",STARZ_ENCORE_CLASSIC		
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",STARZ_ENCORE_WESTERNS		
+http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",SYFY		
+http://fl5.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",TLC		
+http://fl5.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",TNT		
+http://fl5.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",TNT		
+http://fl5.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",TSN_1		
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",TSN_2		
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",TSN_3		
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",TSN_4		
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General",TSN_5		
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -652,14 +1016,8 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Action -TCL
 https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax East.png" group-title="Movies",Cinemax East
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax MoreMax.png" group-title="Movies",Cinemax MoreMax
-http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax Outer Max.png" group-title="Movies",Cinemax Outer Max
-http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax West.png" group-title="Movies",Cinemax West
-http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinevault 80s.png" group-title="Movies",Cinevault 80s
 https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Classic Movies Channel (US).png" group-title="Movies",Classic Movies Channel (US)
