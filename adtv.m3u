@@ -894,9 +894,9 @@ http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",LIFETIME		
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",LIFETIME_MOVIE_NETWORK		
+#EXTINF:-1 tvg-logo="" group-title="General",LIFETIME	
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="General",LIFETIME_MOVIE_NETWORK		
+#EXTINF:-1 tvg-logo="" group-title="General",LIFETIME	
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",MAV_TV		
 http://fl2.moveonjoy.com/MAV_TV/index.m3u8
