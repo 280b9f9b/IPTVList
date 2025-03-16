@@ -1862,16 +1862,22 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_kartera_nature.flv
 
 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemsLui5351Me6PPOi3KYUC18HUGvkSDxWFdrCn-jsYGSnSgWH" group-title="Video-On-Demand",Ad Vitam 2025
+https://netupserver.com/film/2025/Ad%20Vitam/Ad.Vitam.2025.1080p.WEB-DL.6CH.YIFY.Rexcima.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHtTJuHVN-oW1LmpISTlMuX4MPtA0jXJSv2QJ9yP5NmDi0bfRJ" group-title="Video-On-Demand",Alarum 2025
+https://netupserver.com/film/2025/Alarum/Alarum.2025.1080p.WEB-DL.6CH.YIFY.Rexcima.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSawO3SUofY0C52-XQ1FgbWj0CYO7sRbunt_IQmolkxEFT4BxxN" group-title="Video-On-Demand",Back in Action 2025
+https://netupserver.com/film/2025/Back%20in%20action/Back.in.Action.2025.1080p.WEB-DL.Pahe.Rexcima.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDNlZjVjNWItZmQ3My00Njk1LWI5YjUtZGI1YzE2ODQ2ZjJhXkEyXkFqcGc@._V1_.jpg" group-title="Video-On-Demand",Bank of Dave 2 2025
+https://netupserver.com/film/2025/Bank%20of%20Dave%202/Bank.of.Dave.2.The.Loan.Ranger.2025.1080p.WEB-DL.6CH.YIFY.Rexcima.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBgfm-Upr7lZJmw4RuiQTZKoTrYtAoQvZVQ_Ao8iCL5xX4NWWj" group-title="Video-On-Demand",Captain America 2025
+https://netupserver.com/film/2025/Capitan/Captain.America.Brave.New.World.2025.1080p.TeleSync.x264.Rexcima.mp4
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAqUbbbQ48NB2E7eS41D6RMt8t1JG1mWdjlQiqxvDDPcigWbOY" group-title="Video-On-Demand",Valiant One 2025
 https://netupserver.com/film/2025/Valiant%20One/Valiant.One.2025.1080p.WEB-DL.x264.Rexcima.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAqUbbbQ48NB2E7eS41D6RMt8t1JG1mWdjlQiqxvDDPcigWbOY" group-title="Video-On-Demand",Valiant One 2025
-https://netupserver.com/film/2025/Valiant%20One/Valiant.One.2025.720p.WEB-DL.x264.Rexcima.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAqUbbbQ48NB2E7eS41D6RMt8t1JG1mWdjlQiqxvDDPcigWbOY" group-title="Video-On-Demand",Valiant One 2025
-https://netupserver.com/film/2025/Valiant%20One/Valiant.One.2025.480p.WEB-DL.x264.Rexcima.mp4
+
 
 #EXTINF:-1 group-title="Video-On-Demand" tvg-name="Superman (2025)" tvg-logo="Logo N/A" ,Superman (2025)
 http://www.luckonline.eu:80/movie/home/faizul/7379.mkv
