@@ -363,8 +363,7 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAqUbbbQ48NB2E7eS41D6RMt8t1JG1mWdjlQiqxvDDPcigWbOY" group-title="Video-On-Demand",Valiant One 2025
-https://netupserver.com/film/2025/Valiant%20One/Valiant.One.2025.1080p.WEB-DL.x264.Rexcima.mp4
+
 
 
 
@@ -1867,7 +1866,8 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_kartera_nature.flv
 
 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAqUbbbQ48NB2E7eS41D6RMt8t1JG1mWdjlQiqxvDDPcigWbOY" group-title="Video-On-Demand",Valiant One 2025
+https://netupserver.com/film/2025/Valiant%20One/Valiant.One.2025.1080p.WEB-DL.x264.Rexcima.mp4
 #EXTINF:-1 group-title="Video-On-Demand" tvg-name="Superman (2025)" tvg-logo="Logo N/A" ,Superman (2025)
 http://www.luckonline.eu:80/movie/home/faizul/7379.mkv
 
