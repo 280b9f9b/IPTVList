@@ -613,8 +613,6 @@ http://fl2.moveonjoy.com/BRAVO/index.m3u8
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" ,CBS_SPORTS_NETWORK
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Sports" ,CBS_SPORTS_NETWORK
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="General" ,CBSEAST
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="News" ,CNBC
@@ -661,8 +659,6 @@ http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/lifetime-movie-network-logo.png" ,LIFETIME MOVIE NETWORK
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/lifetime-movie-network-logo.png" ,LIFETIME MOVIE NETWORK
-http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://example.com/mavtv-logo.png" ,MAV TV
 http://fl2.moveonjoy.com/MAV_TV/index.m3u8
 #EXTINF:-1 group-title="Classic" tvg-logo="https://example.com/metv-logo.png" ,ME TV
@@ -683,8 +679,6 @@ http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/nhlnetwork-logo.png" ,NHL Network
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/nhlnetwork-logo.png" ,NHL Network
-http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://example.com/nickmusic-logo.png" ,Nick Music
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://example.com/nickelodeon-logo.png" ,Nickelodeon
@@ -693,12 +687,8 @@ http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/outdoorchannel-logo.png" ,Outdoor Channel
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/outermax-logo.png" ,Outer Max
-http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://example.com/own-logo.png" ,OWN
 http://fl2.moveonjoy.com/OWN/index.m3u8
-#EXTINF:-1 group-title="Crime" tvg-logo="https://example.com/oxygen-logo.png" ,Oxygen
-http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 group-title="Crime" tvg-logo="https://example.com/oxygen-logo.png" ,Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://example.com/paramountnetwork-logo.png" ,Paramount Network
@@ -791,8 +781,6 @@ http://fl5.moveonjoy.com/FYI/index.m3u8
 http://fl5.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/tnt-logo.png" ,TNT
 http://fl5.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/tnt-logo.png" ,TNT
-http://fl5.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/tsn-1-logo.png" ,TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/tsn-2-logo.png" ,TSN 2
@@ -809,8 +797,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56
 https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cult Classic Movie Theater.png" ,Cult Classic Movie Theater
 https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
-#EXTINF:-1 group-title="Movies" ,Lifetime Movies Network
-http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Movies" ,Movie Favorites By Lifetime (US)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32f13eb-8395-4e23-87b8-0bd6e7d05f16
 #EXTINF:-1 group-title="Movies" ,Movies for Gamers (US)
@@ -843,40 +829,20 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 http://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1 group-title="Entertainment" ,AMC
 https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,AMC East
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Entertainment" ,AMC+
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" ,BBC America East
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Bravo
-http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,CMT
-http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 group-title="Entertainment" ,Comedy Central (CA)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc03faa5-401f-4a68-9972-153b1f336cac
-#EXTINF:-1 group-title="Entertainment" ,Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Comet
-http://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Fuse
-http://fl2.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" ,HGTV
 http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" ,Horror
 https://stitcher-yidio.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Firefox&deviceVersion=133.0&deviceId=55E88BA9-D5C9-3C64-BACE-32265DD6D370&appVersion=1&deviceDNT=0&deviceModel=web&embedPartner=yidio.com&sid=36e7f30751b4eecd6baa8051b5bdfce7
-#EXTINF:-1 group-title="Entertainment" ,HSN
-http://fl2.moveonjoy.com/HSN/index.m3u8
 #EXTINF:-1 group-title="Entertainment" ,MUCH
 http://fl1.moveonjoy.com/MUCH/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,OWN
-http://fl2.moveonjoy.com/OWN/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Oxygen True Crime
-http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 group-title="Entertainment" ,Oxygen True Crime
 https://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Paramount Network
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Entertainment" ,StartTV
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" ,SYFY
@@ -889,14 +855,8 @@ http://143.244.60.30/TBS/index.m3u8
 http://fl1.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 group-title="Entertainment" ,TNT
 http://fl2.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,TruTV
-http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,VH1
-http://fl2.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 group-title="Entertainment" ,VH1
 https://fl2.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Vice
-http://fl2.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:-1 group-title="Entertainment" ,W Network
 http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="90's Kids (US)" tvg-logo="InsertLogoHere" ,90's Kids (US)
@@ -925,10 +885,6 @@ https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 http://voidharbinger.xyz:80/4072887660/9415763082/815097
 #EXTINF:-1 group-title="Animation/KidsTV" tvg-id="EPG N/A" tvg-name="Boomerang" tvg-logo="Logo N/A" ,Boomerang
 http://www.luckonline.eu:80/home/faizul/1992
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Boomerang" tvg-logo="InsertLogoHere" ,Boomerang
-http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Cartoon Network (CA)" tvg-logo="https://i.postimg.cc/zBWyQJ01/Cartoon-Network-Logo.png" ,Cartoon Network (CA)
-http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Cartoon Network (UK)" tvg-logo="https://i.postimg.cc/j5D2bYr9/Cartoon-Network-Logo.jpg" ,Cartoon Network (UK)
 http://luckonline.eu:8080/home/faizul/752
 #EXTINF:-1 group-title="Animation/KidsTV" tvg-id="EPG N/A" tvg-name="Cartoon Network (UK)" tvg-logo="Logo N/A" ,Cartoon Network (UK)
@@ -963,8 +919,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280716-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0c5875b8-f67e-402d-97b3-0cf608608acb
 #EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Crunchyroll (US)" tvg-logo="InsertLogoHere" ,Crunchyroll (US)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Discovery Family Channel" tvg-logo="InsertLogoHere" ,Discovery Family Channel
-http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Animation/KidsTV" tvg-id="EPG N/A" tvg-name="Discovery kids" tvg-logo="Logo N/A" ,Discovery kids
 http://www.luckonline.eu:80/home/faizul/1279
 #EXTINF:-1 group-title="Animation/KidsTV" tvg-id="DoraTV.us" tvg-name="DoraTV (US)" tvg-logo="InsertLogoHere" ,DoraTV (US)
@@ -1165,8 +1119,6 @@ https://cdn.troya.one/ch130/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOEK2Z9
 https://tvcdnpotok.com/-2-rurwRuiLsEZT0g-ECbg/553/1734731605/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Next Radio Generation 91 | (720p)" tvg-logo="https://i.postimg.cc/7YqHbCWW/NRG.png" ,Next Radio Generation 91 | (720p)
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="Nick.Music.(NICM).us" tvg-name="NickMusic | (MOJ)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" ,NickMusic | (MOJ)
-http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="Now Music | (UK) (Luck)" tvg-logo="https://i.postimg.cc/Z5rL8Czr/Now-Music.png" ,Now Music | (UK) (Luck)
 http://luckonline.eu:8080/home/faizul/1347
 #EXTINF:-1 group-title="Music" tvg-id="QwestTVJazzBeyond.fr" tvg-name="Qwest TV Jazz & Beyond (UK) | (Samsung)" tvg-logo="Logo N/A" ,Qwest TV Jazz & Beyond (UK) | (Samsung)
@@ -2331,3 +2283,15 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Two.png" ,Persiana Two
 https://twohls.persiana.live/hls/stream.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
