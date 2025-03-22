@@ -470,6 +470,16 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinemax East" tvg-logo="InsertLogoHere" ,Cinemax East
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinemax MoreMax" tvg-logo="InsertLogoHere" ,Cinemax MoreMax
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinemax Outer Max" tvg-logo="InsertLogoHere" ,Cinemax Outer Max
+http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinemax West" tvg-logo="InsertLogoHere" ,Cinemax West
+http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
+
+
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO" tvg-logo="InsertLogoHere" ,HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO" tvg-logo="InsertLogoHere" ,HBO
@@ -510,14 +520,7 @@ http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="Action -TCL | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,Action -TCL
 https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinemax East | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Cinemax East
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinemax MoreMax | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Cinemax MoreMax
-http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinemax Outer Max | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Cinemax Outer Max
-http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinemax West | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Cinemax West
-http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinevault 80s | (Tubi) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Cinevault 80s
 https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="ClassicMoviesChannel.us" tvg-name="Classic Movies Channel (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Classic Movies Channel (US)
