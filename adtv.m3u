@@ -574,8 +574,8 @@ http://www.luckonline.eu:80/home/faizul/1169
 #EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="Star movies Select | (Luck) (TizTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/STAR.png" ,Star movies Select
 http://www.luckonline.eu:80/home/faizul/745
 
-#EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="Action -TCL | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,Action -TCL
-https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinevault 80s | (Tubi) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Cinevault 80s
 https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
@@ -626,8 +626,7 @@ http://143.244.60.30/TCM/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="A&E | (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,A&E
-https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12793
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="AMC (American Movie Classics) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,AMC (American Movie Classics)
 https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="AMC East (American Movie Classics) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,AMC East (American Movie Classics)
