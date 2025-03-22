@@ -544,34 +544,34 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="FXX | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/FX.png" ,FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="ParamountMovieChannel.us" tvg-name="Paramount Movie Channel (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Paramount Movie Channel (US)
+#EXTINF:-1 group-title="Movies" tvg-id="ParamountMovieChannel.us" tvg-name="Paramount Movie Channel (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Paramount.png" ,Paramount Movie Channel (US)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Paramount Movie Channel | (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://i.imgur.com/sj5h9bl.png" ,Paramount Movie Channel
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Paramount Movie Channel | (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Paramount.png" ,Paramount Movie Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Paramount Network | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Paramount Network
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Paramount Network | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Paramount.png" ,Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Comedy | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Starz Comedy
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Comedy | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz Comedy
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz East | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Starz East
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz East | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz East
 http://fl2.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Edge | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Starz Edge
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Edge | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz Edge
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Encore | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Starz Encore
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Encore | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz Encore
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Encore Action | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Starz Encore Action
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Encore Action | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz Encore Action
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Encore Classic | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Starz Encore Classic
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Encore Classic | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz Encore Classic
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Encore Westerns | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Starz Encore Westerns
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Encore Westerns | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz West | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Starz West
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz West | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz West
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 
 
-#EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="STAR Movies | (Luck) (TizTV)" tvg-logo="Logo N/A" ,STAR Movies | (Luck)
+#EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="STAR Movies | (Luck) (TizTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/STAR.png" ,STAR Movies | (Luck)
 http://www.luckonline.eu:80/home/faizul/1169
-#EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="Star movies Select | (Luck) (TizTV)" tvg-logo="Logo N/A" ,Star movies Select
+#EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="Star movies Select | (Luck) (TizTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/STAR.png" ,Star movies Select
 http://www.luckonline.eu:80/home/faizul/745
 
 #EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="Action -TCL | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,Action -TCL
