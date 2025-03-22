@@ -519,29 +519,29 @@ http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Hallmark Channel" tvg-logo="InsertLogoHere" ,Hallmark Channel
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Hallmark Channel" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Hallmark.png" ,Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Hallmark Drama" tvg-logo="InsertLogoHere" ,Hallmark Drama
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Hallmark Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Hallmark.png" ,Hallmark Drama
 https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Hallmark Family" tvg-logo="InsertLogoHere" ,Hallmark Family
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Hallmark Family" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Hallmark.png" ,Hallmark Family
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="Hallmark Mystery" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" ,Hallmark Mystery
+#EXTINF:-1 group-title="Entertainment" tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="Hallmark Mystery" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Hallmark.png" ,Hallmark Mystery
 http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="EPIX | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,EPIX
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="EPIX | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/EPIX.png" ,EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="EPIX 2 | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,EPIX 2
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="EPIX 2 | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/EPIX.png" ,EPIX 2
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="EPIX Drive-in | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,EPIX Drive-in
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="EPIX Drive-in | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/EPIX.png" ,EPIX Drive-in
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="FXM | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,FXM
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="FXM | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/FX.png" ,FXM
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="FX | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,FX
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="FX | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/FX.png" ,FX
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="FXX | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,FXX
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="FXX | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/FX.png" ,FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="ParamountMovieChannel.us" tvg-name="Paramount Movie Channel (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Paramount Movie Channel (US)
