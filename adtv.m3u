@@ -470,6 +470,30 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO" tvg-logo="InsertLogoHere" ,HBO
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO" tvg-logo="InsertLogoHere" ,HBO
+http://143.244.60.30/HBO/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO" tvg-logo="InsertLogoHere" ,HBO
+http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO 2" tvg-logo="InsertLogoHere" ,HBO 2
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Comedy" tvg-logo="InsertLogoHere" ,HBO Comedy
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Family" tvg-logo="InsertLogoHere" ,HBO Family
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Family" tvg-logo="InsertLogoHere" ,HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="New EPG" tvg-name="HBO Pop" tvg-logo="New Logo" ,HBO Pop
+http://181.176.153.106:8090/play/a0qc
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Zone" tvg-logo="InsertLogoHere" ,HBO Zone
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="HBO1" tvg-logo="Logo N/A" ,HBO1
+http://www.luckonline.eu:80/home/faizul/947
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO2" tvg-logo="https://i.postimg.cc/d1D0RPH6/HBO.jpg" ,HBO2
+http://luckonline.eu:8080/home/faizul/947
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO2" tvg-logo="InsertLogoHere" ,HBO2
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
 
 
 #EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="Action -TCL | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,Action -TCL
@@ -498,30 +522,7 @@ http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="FXM | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,FXM
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,HBO
-http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO | (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,HBO
-http://143.244.60.30/HBO/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO || (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,HBO
-http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO 2 | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,HBO 2
-https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Comedy | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,HBO Comedy
-http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Family | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,HBO Family
-http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Family | (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,HBO Family
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="New EPG" tvg-name="HBO Pop | (Ƭ⫯ⲍƬ⋎)" tvg-logo="New Logo" ,HBO Pop
-http://181.176.153.106:8090/play/a0qc
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Zone | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,HBO Zone
-http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="HBO1 | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,HBO1
-http://www.luckonline.eu:80/home/faizul/947
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO2 | (Luck) (Ƭ⫯ⲍƬ⋎) | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://i.postimg.cc/d1D0RPH6/HBO.jpg" ,HBO2
-http://luckonline.eu:8080/home/faizul/947
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO2 | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,HBO2
-http://fl2.moveonjoy.com/HBO_2/index.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Lifetime Movies Network | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Lifetime Movies Network
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Movie Favorites By Lifetime (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Movie Favorites By Lifetime (US)
