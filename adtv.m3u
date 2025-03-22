@@ -505,17 +505,17 @@ http://luckonline.eu:8080/home/faizul/947
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO2
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime 2 | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Showtime 2
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime 2 | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Showtime.png" ,Showtime 2
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime East | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Showtime East
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime East | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Showtime.png" ,Showtime East
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime Extreme | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Showtime Extreme
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime Extreme | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Showtime.png" ,Showtime Extreme
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime Next | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Showtime Next
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime Next | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Showtime.png" ,Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime West | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Showtime West
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime West | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Showtime.png" ,Showtime West
 http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime Women | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Showtime Women
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime Women | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Showtime.png" ,Showtime Women
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 
