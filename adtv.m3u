@@ -471,7 +471,7 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 
 
-#EXTM3U
+
 #EXTINF:-1 group-title="Anime" tvg-id="AnimeAllDay.us" tvg-name="Anime All Day (US)" tvg-logo="InsertLogoHere" ,Anime All Day (US)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d3a88f8f951c430/master.m3u8
 #EXTINF:-1 group-title="Cars" tvg-logo="https://example.com/motortrend-logo.png" ,MOTOR TREND
