@@ -480,29 +480,29 @@ http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
 
 
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO" tvg-logo="InsertLogoHere" ,HBO
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO" tvg-logo="InsertLogoHere" ,HBO
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO
 http://143.244.60.30/HBO/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO" tvg-logo="InsertLogoHere" ,HBO
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO
 http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO 2" tvg-logo="InsertLogoHere" ,HBO 2
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Comedy" tvg-logo="InsertLogoHere" ,HBO Comedy
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO Comedy
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Family" tvg-logo="InsertLogoHere" ,HBO Family
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO Family
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Family" tvg-logo="InsertLogoHere" ,HBO Family
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="New EPG" tvg-name="HBO Pop" tvg-logo="New Logo" ,HBO Pop
+#EXTINF:-1 group-title="Movies" tvg-id="New EPG" tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO Pop
 http://181.176.153.106:8090/play/a0qc
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Zone" tvg-logo="InsertLogoHere" ,HBO Zone
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Zone" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="HBO1" tvg-logo="Logo N/A" ,HBO1
+#EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="HBO1" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO1
 http://www.luckonline.eu:80/home/faizul/947
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO2" tvg-logo="https://i.postimg.cc/d1D0RPH6/HBO.jpg" ,HBO2
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO2
 http://luckonline.eu:8080/home/faizul/947
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO2" tvg-logo="InsertLogoHere" ,HBO2
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO2
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime 2 | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Showtime 2
