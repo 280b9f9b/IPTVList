@@ -467,6 +467,129 @@ https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 http://82.212.74.2:8000/live/hls/7311.m3u8
 #EXTINF:-1 group-title="Religion" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" ,Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Anime" tvg-id="AnimeAllDay.us" tvg-name="Anime All Day (US)" tvg-logo="InsertLogoHere" ,Anime All Day (US)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d3a88f8f951c430/master.m3u8
+#EXTINF:-1 group-title="Cars" tvg-logo="https://example.com/motortrend-logo.png" ,MOTOR TREND
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 group-title="Cartoons" ,Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://example.com/comedy-central-logo.png" ,Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 group-title="Comedy" ,Comedy Central (CA)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc03faa5-401f-4a68-9972-153b1f336cac
+#EXTINF:-1 group-title="Comedy" ,TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="Comedy" ,TBS
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 group-title="Crime" tvg-logo="https://example.com/court-tv-logo.png" ,Court TV
+http://fl3.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 group-title="Crime" tvg-logo="https://example.com/crime-investigation-logo.png" ,Crime and Investigation Network
+http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 group-title="DIY" ,DIY
+http://fl2.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 group-title="Documentary" ,National_Geographic
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://example.com/smithsonian-logo.png" ,Smithsonian Channel
+http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://example.com/americanheroes-logo.png" ,American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://example.com/discovery-channel-logo.png" ,Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,E_ENTERTAINMENT_TELEVISION
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://example.com/ovation-logo.png" ,Ovation
+http://fl3.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://example.com/fyi-logo.png" ,FYI
+http://fl5.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="Family" ,DISCOVERY_FAMILY_CHANNEL
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Family" ,DISCOVERY_LIFE
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 group-title="Fishing" tvg-logo="https://example.com/fishing-logo.png" ,World Fishing Network
+http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Food" ,FOOD_NETWORK
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Food" tvg-logo="https://example.com/cooking-channel-logo.png" ,Cooking Channel
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Game Shows" tvg-logo="https://example.com/buzzr-logo.png" ,Buzzr
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 group-title="General" ,ABC EAST
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="General" ,FREE FORM
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 group-title="General" ,Hallmark Channel
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="General" ,Hallmark Drama
+https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="General" ,Hallmark Family
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="General" ,Hallmark Mystery
+http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://example.com/wgn-logo.png" ,WGN
+http://fl2.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://example.com/bouncetv-logo.png" ,Bounce TV
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://example.com/cozi-tv-logo.png" ,COZI TV
+http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://example.com/hsn-logo.png" ,HSN
+http://fl2.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 group-title="Horror" ,Horror
+https://stitcher-yidio.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Firefox&deviceVersion=133.0&deviceId=55E88BA9-D5C9-3C64-BACE-32265DD6D370&appVersion=1&deviceDNT=0&deviceModel=web&embedPartner=yidio.com&sid=36e7f30751b4eecd6baa8051b5bdfce7
+#EXTINF:-1 group-title="Investigation" tvg-logo="https://example.com/investigationdiscovery-logo.png" ,INVESTIGATION DISCOVERY
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://example.com/disney-jr-logo.png" ,Disney Jr
+http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="NoEPG" tvg-name="Disney Jr" tvg-logo="InsertLogoHere" ,Disney Jr
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://example.com/disney-xd-logo.png" ,Disney XD
+http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="NoEPG" tvg-name="Disney XD" tvg-logo="InsertLogoHere" ,Disney XD
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="EPG N/A" tvg-name="Disney Channel (XD?)" tvg-logo="Logo N/A" ,Disney XD
+http://www.luckonline.eu:80/home/faizul/461
+#EXTINF:-1 group-title="Kids" tvg-id="EPG N/A" tvg-name="Disney XD" tvg-logo="Logo N/A" ,Disney XD
+http://www.luckonline.eu:80/home/faizul/459
+#EXTINF:-1 group-title="Kids" tvg-id="NoEPG" tvg-name="Disney XD" tvg-logo="https://i.postimg.cc/s2kN6LDt/Disney-XD.png" ,Disney XD
+http://luckonline.eu:8080/home/faizul/459
+#EXTINF:-1 group-title="Kids" ,CARTOON_NETWORK
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://example.com/nickelodeon-logo.png" ,Nickelodeon
+http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://example.com/nicktoons-logo.png" ,Nicktoons
+http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://example.com/boomerang-logo.png" ,Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="NoEPG" tvg-name="90's Kids (US)" tvg-logo="InsertLogoHere" ,90's Kids (US)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565
+#EXTINF:-1 group-title="Kids" tvg-id="mjh-abc-kids" tvg-name="ABC Kids (AU)" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" ,ABC Kids (AU)
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="NoEPG" tvg-name="After School Cartoons" tvg-logo="https://i.postimg.cc/c4y6jVZn/After-School-Cartoons.jpg" ,After School Cartoons
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://example.com/insp-logo.png" ,INSP
+http://fl2.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://example.com/own-logo.png" ,OWN
+http://fl2.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://example.com/oxygen-logo.png" ,Oxygen
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://example.com/tvone-logo.png" ,TV One
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://example.com/wetv-logo.png" ,WE TV
+http://fl2.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://example.com/aspire-logo.png" ,Aspire
+http://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://example.com/cleo-tv-logo.png" ,Cleo TV
+http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" ,HGTV
+http://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" ,StartTV
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 group-title="Lifestyle" ,W Network
+http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax.png" ,Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cinemax.png" ,Cinemax
@@ -483,27 +606,21 @@ http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Showtime.png" ,Showtime Women
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 group-title="Network" ,ABC EAST
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Network" ,FREE FORM
-http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 group-title="Documentary" ,National_Geographic
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FX.png" ,FX
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FX.png" ,FX
 http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FXM.png" ,FXM
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FXX.png" ,FXX
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/FXX.png" ,FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" ,HBO
 http://fl5.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" ,HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 group-title="Family" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" ,HBO_FAMILY
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" ,HBO_FAMILY
 http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Family" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" ,HBO Family
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" ,HBO Family
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Family" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" ,HBO Family
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" ,HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/HBO.png" ,HBO Pop
 http://181.176.153.106:8090/play/a0qc
@@ -519,283 +636,45 @@ http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 group-title="Movies" ,EPIX HITS
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,BET EAST
-http://fl2.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 group-title="Music" ,BET GOSPEL
-http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,BET Her
-http://fl2.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,BET Soul
-http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,BET Jams
-http://fl3.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Hallmark Channel
-http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Hallmark Drama
-https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Hallmark Family
-http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Hallmark Mystery
-http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://example.com/disney-jr-logo.png" ,Disney Jr
-http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney Jr" tvg-logo="InsertLogoHere" ,Disney Jr
-http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://example.com/disney-xd-logo.png" ,Disney XD
-http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney XD" tvg-logo="InsertLogoHere" ,Disney XD
-http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="EPG N/A" tvg-name="Disney Channel (XD?)" tvg-logo="Logo N/A" ,Disney XD
-http://www.luckonline.eu:80/home/faizul/461
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="EPG N/A" tvg-name="Disney XD" tvg-logo="Logo N/A" ,Disney XD
-http://www.luckonline.eu:80/home/faizul/459
-#EXTINF:-1 group-title="Animation/KidsTV" tvg-id="NoEPG" tvg-name="Disney XD" tvg-logo="https://i.postimg.cc/s2kN6LDt/Disney-XD.png" ,Disney XD
-http://luckonline.eu:8080/home/faizul/459
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Classic
-http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Live
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV U
-https://fl2.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV
-http://www.luckonline.eu:80/home/faizul/1436
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV
-http://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV
-https://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV2
-http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Biggest Pop (CA) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Biggest Pop (CA) | (PlutoTV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994
-#EXTINF:-1 group-title="Music" tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop (US) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Biggest Pop (US) | (PlutoTV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Classic (CA) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Classic (CA) | (PlutoTV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Classic | (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Classic | (Luck)
-http://luckonline.eu:8080/home/faizul/1451
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Flow Latino (US) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Flow Latino (US) | (PlutoTV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f
-#EXTINF:-1 group-title="Music" tvg-id="EPG N/A" tvg-name="MTV Hits | (Luck) (TizTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Hits | (Luck) (TizTV)
-http://www.luckonline.eu:80/home/faizul/1446
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Hits | (UK) (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Hits | (UK) (Luck)
-http://luckonline.eu:8080/home/faizul/1445
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Live | (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Live | (Luck)
-http://luckonline.eu:8080/home/faizul/496
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Music | (UK) (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Music | (UK) (Luck)
-http://luckonline.eu:8080/home/faizul/1444
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Rocks | (UK) (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Rocks | (UK) (Luck)
-http://luckonline.eu:8080/home/faizul/1443
-#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Spankin New (CA) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Spankin New (CA) | (PlutoTV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4
-#EXTINF:-1 group-title="Music" tvg-id="YoMTV.us" tvg-name="MTV Yo! (US) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Yo! (US) | (PlutoTV)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Loupe 4K.png" ,Loupe 4K
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Loupe 4K.png" ,Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
-#EXTINF:-1 group-title="Outdoor" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Love Nature 4K.png" ,Love Nature 4K
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Love Nature 4K.png" ,Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fashion-TV.png" ,Fashion TV UHD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fashion-TV.png" ,Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports" ,UFC
-http://fl1.moveonjoy.com/UFC/index.m3u8
-#EXTINF:-1 group-title="Sports" ,ACC NETWORK
-http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Documentary" ,Animal Planet
-http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 group-title="News" ,BBC WORLD NEWS
-http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 group-title="Sports" ,BEIN_SPORTS
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="News" ,BLOOMBERG
-http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,BRAVO
+#EXTINF:-1 group-title="Movies" ,BRAVO
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 group-title="Kids" ,CARTOON_NETWORK
-http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Sports" ,CBS_SPORTS_NETWORK
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="General" ,CBSEAST
-http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 group-title="News" ,CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title="News" ,CNN_INTERNATIONAL
-http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-#EXTINF:-1 group-title="News" ,C-SPAN
-http://fl2.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 group-title="Family" ,DISCOVERY_FAMILY_CHANNEL
-http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Documentary" ,DISCOVERY_LIFE
-http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 group-title="Home & Garden" ,DIY
-http://fl2.moveonjoy.com/DIY/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,E_ENTERTAINMENT_TELEVISION
-http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 group-title="Sports" ,ESPN_NEWS
-http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title="Sports" ,ESPN_U
-http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,FOOD_NETWORK
-http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 group-title="News" ,FOX_Business_Network
-http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 group-title="General" ,FOX_EAST
-http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="Sports" ,FOX_Sports_1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="Music" ,FUSE
-http://fl2.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 group-title="Classic" tvg-logo="https://example.com/gettv-logo.png" ,GET TV
+#EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/gettv-logo.png" ,GET TV
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/grittv-logo.png" ,GRIT TV
+#EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/grittv-logo.png" ,GRIT TV
 http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://example.com/hln-logo.png" ,HLN
-http://fl2.moveonjoy.com/HLN/index.m3u8
-#EXTINF:-1 group-title="Shopping" tvg-logo="https://example.com/hsn-logo.png" ,HSN
-http://fl2.moveonjoy.com/HSN/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/insp-logo.png" ,INSP
-http://fl2.moveonjoy.com/INSP/index.m3u8
-#EXTINF:-1 group-title="Crime" tvg-logo="https://example.com/investigationdiscovery-logo.png" ,INVESTIGATION DISCOVERY
-http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/iontv-logo.png" ,ION TV
+#EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/iontv-logo.png" ,ION TV
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/lifetime-movie-network-logo.png" ,LIFETIME MOVIE NETWORK
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/mavtv-logo.png" ,MAV TV
-http://fl2.moveonjoy.com/MAV_TV/index.m3u8
-#EXTINF:-1 group-title="Classic" tvg-logo="https://example.com/metv-logo.png" ,ME TV
+#EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/metv-logo.png" ,ME TV
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/mlbnetwork-logo.png" ,MLB NETWORK
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Automotive" tvg-logo="https://example.com/motortrend-logo.png" ,MOTOR TREND
-http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1 group-title="Nature" tvg-logo="https://example.com/natgeowild-logo.png" ,Nat Geo Wild
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/nbceast-logo.png" ,NBC East
-http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/nbcsports-logo.png" ,NBC Sports Network
-http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://example.com/newsnation-logo.png" ,News Nation
-http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/nflnetwork-logo.png" ,NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/nhlnetwork-logo.png" ,NHL Network
-http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://example.com/nickmusic-logo.png" ,Nick Music
-http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://example.com/nickelodeon-logo.png" ,Nickelodeon
-http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://example.com/nicktoons-logo.png" ,Nicktoons
-http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/outdoorchannel-logo.png" ,Outdoor Channel
-http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/own-logo.png" ,OWN
-http://fl2.moveonjoy.com/OWN/index.m3u8
-#EXTINF:-1 group-title="Crime" tvg-logo="https://example.com/oxygen-logo.png" ,Oxygen
-http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/paramountnetwork-logo.png" ,Paramount Network
+#EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/paramountnetwork-logo.png" ,Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Shopping" tvg-logo="https://example.com/qvc-logo.png" ,QVC
-http://fl2.moveonjoy.com/QVC/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/reelz-logo.png" ,Reelz
 http://fl2.moveonjoy.com/REELZ/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/secnetwork-logo.png" ,SEC Network
-http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://example.com/smithsonian-logo.png" ,Smithsonian Channel
-http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/stadium-logo.png" ,Stadium
-http://fl2.moveonjoy.com/STADIUM/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/sundance-logo.png" ,Sundance
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/tbs-logo.png" ,TBS
+#EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/tbs-logo.png" ,TBS
 http://fl2.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/tcm-logo.png" ,TCM
 http://fl2.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/tennischannel-logo.png" ,Tennis Channel
-http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://example.com/weatherchannel-logo.png" ,The Weather Channel
-http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Travel" tvg-logo="https://example.com/travelchannel-logo.png" ,Travel Channel
-http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/trutv-logo.png" ,Tru TV
-http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/tvone-logo.png" ,TV One
-http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://example.com/vh1-logo.png" ,VH1
-http://fl2.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://example.com/viceland-logo.png" ,Viceland
-http://fl2.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/wetv-logo.png" ,WE TV
-http://fl2.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/wgn-logo.png" ,WGN
-http://fl2.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/fishing-logo.png" ,World Fishing Network
-http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/wwe-logo.png" ,WWE
-http://fl2.moveonjoy.com/WWE/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/yesnetwork-logo.png" ,YES Network
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1 group-title="History" tvg-logo="https://example.com/americanheroes-logo.png" ,American Heroes Channel
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/aspire-logo.png" ,Aspire
-http://fl3.moveonjoy.com/Aspire/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/bigtennetwork-logo.png" ,Big Ten Network
-http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://example.com/boomerang-logo.png" ,Boomerang
-http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/bouncetv-logo.png" ,Bounce TV
-http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
-#EXTINF:-1 group-title="Games" tvg-logo="https://example.com/buzzr-logo.png" ,Buzzr
-http://fl3.moveonjoy.com/Buzzr/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://example.com/cleo-tv-logo.png" ,Cleo TV
-http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://example.com/cmt-logo.png" ,CMT
-http://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 group-title="Comedy" tvg-logo="https://example.com/comedy-central-logo.png" ,Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 group-title="Sci-Fi" tvg-logo="https://example.com/comet-logo.png" ,COMET
-http://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 group-title="Food" tvg-logo="https://example.com/cooking-channel-logo.png" ,Cooking Channel
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Crime" tvg-logo="https://example.com/court-tv-logo.png" ,Court TV
-http://fl3.moveonjoy.com/COURT_TV/index.m3u8
-#EXTINF:-1 group-title="Classic" tvg-logo="https://example.com/cozi-tv-logo.png" ,COZI TV
-http://fl3.moveonjoy.com/COZI_TV/index.m3u8
-#EXTINF:-1 group-title="Crime" tvg-logo="https://example.com/crime-investigation-logo.png" ,Crime and Investigation Network
-http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://example.com/discovery-channel-logo.png" ,Discovery Channel
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 group-title="Science" tvg-logo="https://example.com/discovery-science-logo.png" ,Discovery Science
-http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/msg-logo.png" ,MSG
-http://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://example.com/newsy-logo.png" ,Newsy
-http://fl3.moveonjoy.com/Newsy/index.m3u8
-#EXTINF:-1 group-title="Arts" tvg-logo="https://example.com/ovation-logo.png" ,Ovation
-http://fl3.moveonjoy.com/Ovation/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/pursuit-channel-logo.png" ,Pursuit Channel
-http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/amc-network-logo.png" ,AMC Network
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://example.com/fyi-logo.png" ,FYI
-http://fl5.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 group-title="Sci-Fi" tvg-logo="https://example.com/syfy-logo.png" ,Syfy
+#EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/syfy-logo.png" ,Syfy
 http://fl5.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://example.com/tnt-logo.png" ,TNT
 http://fl5.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/tsn-1-logo.png" ,TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/tsn-2-logo.png" ,TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/tsn-3-logo.png" ,TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/tsn-4-logo.png" ,TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/tsn-5-logo.png" ,TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Classic Movies Channel (US).png" ,Classic Movies Channel (US)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Classic%20Movies%20Channel%20(US).png" ,Classic Movies Channel (US)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
-#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cowboy Movie Channel.png" ,Cowboy Movie Channel
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cowboy%20Movie%20Channel.png" ,Cowboy Movie Channel
 https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cult Classic Movie Theater.png" ,Cult Classic Movie Theater
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cult%20Classic%20Movie%20Theater.png" ,Cult Classic Movie Theater
 https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
 #EXTINF:-1 group-title="Movies" ,Movie Favorites By Lifetime (US)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32f13eb-8395-4e23-87b8-0bd6e7d05f16
@@ -823,50 +702,183 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://www.luckonline.eu:80/home/faizul/1169
 #EXTINF:-1 group-title="Movies" ,Star movies Select
 http://www.luckonline.eu:80/home/faizul/745
-#EXTINF:-1 group-title="Movies" ,Toonami Aftermath Movies
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 group-title="Movies" ,Turner Classic Movies (TCM) East
 http://143.244.60.30/TCM/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,AMC
+#EXTINF:-1 group-title="Movies" ,AMC
 https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,AMC+
+#EXTINF:-1 group-title="Movies" ,AMC+
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" ,BBC America East
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Comedy Central (CA)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc03faa5-401f-4a68-9972-153b1f336cac
-#EXTINF:-1 group-title="Entertainment" ,HGTV
-http://fl2.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Horror
-https://stitcher-yidio.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Firefox&deviceVersion=133.0&deviceId=55E88BA9-D5C9-3C64-BACE-32265DD6D370&appVersion=1&deviceDNT=0&deviceModel=web&embedPartner=yidio.com&sid=36e7f30751b4eecd6baa8051b5bdfce7
-#EXTINF:-1 group-title="Entertainment" ,MUCH
-http://fl1.moveonjoy.com/MUCH/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Oxygen True Crime
-https://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,StartTV
-http://fl3.moveonjoy.com/Start_Tv/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,SYFY
-http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,TBS
-http://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,TBS
-http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,TCM
+#EXTINF:-1 group-title="Movies" ,TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,TNT
+#EXTINF:-1 group-title="Movies" ,TNT
 http://fl2.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,VH1
+#EXTINF:-1 group-title="Music" ,BET EAST
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="Music" ,BET GOSPEL
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 group-title="Music" ,BET Her
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 group-title="Music" ,BET Soul
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 group-title="Music" ,BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Classic
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Live
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV U
+https://fl2.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV
+http://www.luckonline.eu:80/home/faizul/1436
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV
+http://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV2
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Biggest Pop (CA) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Biggest Pop (CA) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994
+#EXTINF:-1 group-title="Music" tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop (US) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Biggest Pop (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Classic (CA) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Classic (CA) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Classic | (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Classic | (Luck)
+http://luckonline.eu:8080/home/faizul/1451
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Flow Latino (US) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Flow Latino (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f
+#EXTINF:-1 group-title="Music" tvg-id="EPG N/A" tvg-name="MTV Hits | (Luck) (TizTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Hits | (Luck) (TizTV)
+http://www.luckonline.eu:80/home/faizul/1446
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Hits | (UK) (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Hits | (UK) (Luck)
+http://luckonline.eu:8080/home/faizul/1445
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Live | (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Live | (Luck)
+http://luckonline.eu:8080/home/faizul/496
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Music | (UK) (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Music | (UK) (Luck)
+http://luckonline.eu:8080/home/faizul/1444
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Rocks | (UK) (Luck)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Rocks | (UK) (Luck)
+http://luckonline.eu:8080/home/faizul/1443
+#EXTINF:-1 group-title="Music" tvg-id="NoEPG" tvg-name="MTV Spankin New (CA) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Spankin New (CA) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4
+#EXTINF:-1 group-title="Music" tvg-id="YoMTV.us" tvg-name="MTV Yo! (US) | (PlutoTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV.png" ,MTV Yo! (US) | (PlutoTV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
+#EXTINF:-1 group-title="Music" ,FUSE
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://example.com/nickmusic-logo.png" ,Nick Music
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://example.com/vh1-logo.png" ,VH1
+http://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://example.com/viceland-logo.png" ,Viceland
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://example.com/cmt-logo.png" ,CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 group-title="Music" ,MUCH
+http://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 group-title="Music" ,VH1
 https://fl2.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 group-title="Entertainment" ,W Network
-http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NoEPG" tvg-name="90's Kids (US)" tvg-logo="InsertLogoHere" ,90's Kids (US)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565
-#EXTINF:-1 group-title="Kids" tvg-id="mjh-abc-kids" tvg-name="ABC Kids (AU)" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" ,ABC Kids (AU)
-https://c.mjh.nz/abc-kids.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="NoEPG" tvg-name="After School Cartoons" tvg-logo="https://i.postimg.cc/c4y6jVZn/After-School-Cartoons.jpg" ,After School Cartoons
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Kids" tvg-id="AnimeAllDay.us" tvg-name="Anime All Day (US)" tvg-logo="InsertLogoHere" ,Anime All Day (US)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
+#EXTINF:-1 group-title="National Geographic" tvg-logo="https://example.com/natgeowild-logo.png" ,Nat Geo Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="NBC Networks" tvg-logo="https://example.com/nbceast-logo.png" ,NBC East
+http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="News" ,BBC WORLD NEWS
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="News" ,BLOOMBERG
+http://fl2.moveonjoy.com/BLOOMBERGE/index.m3u8
+#EXTINF:-1 group-title="News" ,CBSEAST
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 group-title="News" ,CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="News" ,CNN_INTERNATIONAL
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://example.com/hln-logo.png" ,HLN
+http://fl2.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://example.com/newsnation-logo.png" ,News Nation
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://example.com/newsy-logo.png" ,Newsy
+http://fl3.moveonjoy.com/Newsy/index.m3u8
+#EXTINF:-1 group-title="News" ,BBC America East
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 group-title="Outdoor" tvg-logo="https://example.com/outdoorchannel-logo.png" ,Outdoor Channel
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Politics" ,C-SPAN
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 group-title="Reality" tvg-logo="https://example.com/trutv-logo.png" ,Tru TV
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 group-title="Sci-Fi" tvg-logo="https://example.com/comet-logo.png" ,COMET
+http://fl3.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 group-title="Sci-Fi" ,SYFY
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="Science" tvg-logo="https://example.com/discovery-science-logo.png" ,Discovery Science
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 group-title="Shopping" tvg-logo="https://example.com/qvc-logo.png" ,QVC
+http://fl2.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 group-title="Sports" ,UFC
+http://fl1.moveonjoy.com/UFC/index.m3u8
+#EXTINF:-1 group-title="Sports" ,ACC NETWORK
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports" ,Animal Planet
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="Sports" ,BEIN_SPORTS
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports" ,CBS_SPORTS_NETWORK
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports" ,ESPN_NEWS
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="Sports" ,ESPN_U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="Sports" ,FOX_Business_Network
+http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 group-title="Sports" ,FOX_EAST
+http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="Sports" ,FOX_Sports_1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/mavtv-logo.png" ,MAV TV
+http://fl2.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/mlbnetwork-logo.png" ,MLB NETWORK
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/nbcsports-logo.png" ,NBC Sports Network
+http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/nflnetwork-logo.png" ,NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/nhlnetwork-logo.png" ,NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/secnetwork-logo.png" ,SEC Network
+http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/stadium-logo.png" ,Stadium
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/tennischannel-logo.png" ,Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/yesnetwork-logo.png" ,YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/bigtennetwork-logo.png" ,Big Ten Network
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/msg-logo.png" ,MSG
+http://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/pursuit-channel-logo.png" ,Pursuit Channel
+http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/tsn-1-logo.png" ,TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/tsn-2-logo.png" ,TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/tsn-3-logo.png" ,TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/tsn-4-logo.png" ,TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://example.com/tsn-5-logo.png" ,TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://example.com/travelchannel-logo.png" ,Travel Channel
+http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 group-title="True Crime" ,Oxygen True Crime
+https://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="Weather" tvg-logo="https://example.com/weatherchannel-logo.png" ,The Weather Channel
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Wrestling" tvg-logo="https://example.com/wwe-logo.png" ,WWE
+http://fl2.moveonjoy.com/WWE/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Kids" tvg-id="New EPG" tvg-name="Anime All Day" tvg-logo="New Logo" ,Anime All Day
 https://stitcher-yidio.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Firefox&deviceVersion=133.0&deviceId=7729E570-C01B-1F24-9382-142B6A850D6E&appVersion=1&deviceDNT=0&deviceModel=web&embedPartner=yidio.com&sid=36e7f30751b4eecd6baa8051b5bdfce7
 #EXTINF:-1 group-title="Kids" tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV (US)" tvg-logo="InsertLogoHere" ,Baby Shark TV (US)
