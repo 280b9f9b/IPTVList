@@ -496,6 +496,18 @@ http://luckonline.eu:8080/home/faizul/947
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
 
 
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Hallmark Channel" tvg-logo="InsertLogoHere" ,Hallmark Channel
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Hallmark Drama" tvg-logo="InsertLogoHere" ,Hallmark Drama
+https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Hallmark Family" tvg-logo="InsertLogoHere" ,Hallmark Family
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="Hallmark Mystery" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" ,Hallmark Mystery
+http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="Action -TCL | (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,Action -TCL
 https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinemax East | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Cinemax East
@@ -633,14 +645,7 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Game.Show.Network.-.East.us" tvg-name="Game Show Network | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" ,Game Show Network
 http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Hallmark Channel | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Hallmark Channel
-http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Hallmark Drama | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Hallmark Drama
-https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Hallmark Family | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Hallmark Family
-http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="Hallmark Mystery | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" ,Hallmark Mystery
-http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="HGTV (Home & Garden Television) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,HGTV (Home & Garden Television)
 http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="New EPG" tvg-name="Horror | (Yidio.com) (Ƭ⫯ⲍƬ⋎)" tvg-logo="New Logo" ,Horror
