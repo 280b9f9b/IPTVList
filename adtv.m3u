@@ -718,7 +718,7 @@ http://fl2.moveonjoy.com/W_NETWORK/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Movies 2025" ,Ad Vitam (2025)
+#EXTINF:-1 group-title="Movies 2025" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEzZDcxYTAtN2YxZC00OGYzLWI3MDktNmEzYWJmMjQyNDBiXkEyXkFqcGc@._V1_.jpg" ,Ad Vitam (2025)
 https://netupserver.com/film/2025/Ad%20Vitam/Ad.Vitam.2025.1080p.WEB-DL.6CH.YIFY.Rexcima.mp4
 #EXTINF:-1 group-title="Movies 2025" ,Alarum (2025)
 https://netupserver.com/film/2025/Alarum/Alarum.2025.1080p.WEB-DL.6CH.YIFY.Rexcima.mp4
