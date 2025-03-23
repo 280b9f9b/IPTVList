@@ -544,7 +544,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Encore Classic | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz Encore Classic
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Encore Classic | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz Encore
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz West | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz West
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
@@ -552,49 +552,49 @@ http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="STAR Movies | (Luck) (TizTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Star.png" ,STAR Movies
 http://www.luckonline.eu:80/home/faizul/1169
-#EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="Star movies Select | (Luck) (TizTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Star.png" ,Star movies Select
+#EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="Star movies Select | (Luck) (TizTV)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Star.png" ,Star Select
 http://www.luckonline.eu:80/home/faizul/745
 
 
 
 
 
-#EXTINF:-1 group-title="Movies" tvg-id="ClassicMoviesChannel.us" tvg-name="Classic Movies Channel (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Classic Movies Channel (US)
+#EXTINF:-1 group-title="Movies" tvg-id="ClassicMoviesChannel.us" tvg-name="Classic Movies Channel (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Classic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
-#EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="Cowboy Movie Channel | (STIRЯ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,Cowboy Movie Channel
+#EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="Cowboy Movie Channel | (STIRЯ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,Cowboy
 https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cult Classic Movie Theater | (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Cult Classic Movie Theater
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cult Classic Movie Theater | (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Cult
 https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
 
 
 
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Lifetime Movies Network | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Lifetime Movies Network
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Lifetime Movies Network | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Lifetime
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Movie Favorites By Lifetime (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Movie Favorites By Lifetime (US)
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Movie Favorites By Lifetime (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Favorites
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32f13eb-8395-4e23-87b8-0bd6e7d05f16
-#EXTINF:-1 group-title="Movies" tvg-id="MoviesforGamers.us" tvg-name="Movies for Gamers (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Movies for Gamers (US)
+#EXTINF:-1 group-title="Movies" tvg-id="MoviesforGamers.us" tvg-name="Movies for Gamers (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Movies for Gamers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0
-#EXTINF:-1 group-title="Movies" tvg-id="MovieSphere.us" tvg-name="MovieSphere (UK) | (Samsung) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,MovieSphere (UK)
+#EXTINF:-1 group-title="Movies" tvg-id="MovieSphere.us" tvg-name="MovieSphere (UK) | (Samsung) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="MovieSphere by Lionsgate (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,MovieSphere by Lionsgate (US)
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="MovieSphere by Lionsgate (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,MovieSphere
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
-#EXTINF:-1 group-title="Movies" tvg-id="MyTimeMovieNetworkEast.us" tvg-name="MyTime Movie Network (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,MyTime Movie Network (US)
+#EXTINF:-1 group-title="Movies" tvg-id="MyTimeMovieNetworkEast.us" tvg-name="MyTime Movie Network (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,MyTime
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="New Releases Kids Movies | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://i.postimg.cc/sDDBg3QM/new-releases.png" ,New Releases Kids Movies
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="New Releases Kids Movies | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://i.postimg.cc/sDDBg3QM/new-releases.png" ,New Releases Kids
 http://luckonline.eu:8080/home/faizul/3023
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="New Releases Movies | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://i.postimg.cc/sDDBg3QM/new-releases.png" ,New Releases Movies
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="New Releases Movies | (Luck) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://i.postimg.cc/sDDBg3QM/new-releases.png" ,New Releases
 http://luckonline.eu:8080/home/faizul/3028
 
-#EXTINF:-1 group-title="Movies" tvg-id="PlutoTVCrimeMovies.us" tvg-name="PlutoTV Crime Movies (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,PlutoTV Crime Movies (US)
+#EXTINF:-1 group-title="Movies" tvg-id="PlutoTVCrimeMovies.us" tvg-name="PlutoTV Crime Movies (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,PlutoTV Crime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b
-#EXTINF:-1 group-title="Movies" tvg-id="PlutoTVCultFilms.us" tvg-name="PlutoTV Cult Films (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,PlutoTV Cult Films (US)
+#EXTINF:-1 group-title="Movies" tvg-id="PlutoTVCultFilms.us" tvg-name="PlutoTV Cult Films (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,PlutoTV Cult
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2ff9f4-514d-4e8c-b1c7-b4c048053a69
 
 
 
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Toonami Aftermath Movies" tvg-logo="InsertLogoHere" ,Toonami Aftermath Movies
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Toonami Aftermath Movies" tvg-logo="InsertLogoHere" ,Toonami
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Turner Classic Movies (TCM) East | (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" ,Turner Classic Movies (TCM) East | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Turner Classic Movies (TCM) East | (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" ,TCM
 http://143.244.60.30/TCM/index.m3u8
 
 
@@ -607,9 +607,9 @@ http://143.244.60.30/TCM/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="AMC (American Movie Classics) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,AMC (American Movie Classics)
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="AMC (American Movie Classics) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,AMC
 https://fl2.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="AMC East (American Movie Classics) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,AMC East (American Movie Classics)
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="AMC East (American Movie Classics) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,AMC East
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="New EPG" tvg-name="AMC+ | (Ƭ⫯ⲍƬ⋎)" tvg-logo="New Logo" ,AMC+
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
@@ -627,9 +627,9 @@ http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
 http://fl2.moveonjoy.com/BET_EAST/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Bravo | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Bravo
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="CMT (Country Music Television) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,CMT (Country Music Television)
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="CMT (Country Music Television) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Comedy Central (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Comedy Central (CA)
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Comedy Central (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Comedy Central
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc03faa5-401f-4a68-9972-153b1f336cac
 #EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Comedy Central | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
@@ -642,11 +642,11 @@ http://fl2.moveonjoy.com/FUSE/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="HGTV (Home & Garden Television) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,HGTV (Home & Garden Television)
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="HGTV (Home & Garden Television) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,HGTV
 http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="New EPG" tvg-name="Horror | (Yidio.com) (Ƭ⫯ⲍƬ⋎)" tvg-logo="New Logo" ,Horror
 https://stitcher-yidio.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Firefox&deviceVersion=133.0&deviceId=55E88BA9-D5C9-3C64-BACE-32265DD6D370&appVersion=1&deviceDNT=0&deviceModel=web&embedPartner=yidio.com&sid=36e7f30751b4eecd6baa8051b5bdfce7
-#EXTINF:-1 group-title="Entertainment" tvg-id="HSN..-.Home.Shopping.Network.us" tvg-name="HSN (HomeShoppingNetwork) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png" ,HSN (HomeShoppingNetwork)
+#EXTINF:-1 group-title="Entertainment" tvg-id="HSN..-.Home.Shopping.Network.us" tvg-name="HSN (HomeShoppingNetwork) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png" ,HSN
 http://fl2.moveonjoy.com/HSN/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="MTV Classic | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,MTV Classic
@@ -681,17 +681,17 @@ https://fl2.moveonjoy.com/OXYGEN/index.m3u8
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="SYFY | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,SYFY
 http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TBS (TurnerBroadcastingSystem) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TBS (TurnerBroadcastingSystem)
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TBS (TurnerBroadcastingSystem) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TBS | (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TBS
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TCM (TurnerClassicMovies) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TCM (TurnerClassicMovies)
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TCM (TurnerClassicMovies) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TCM (TurnerClassicMovies) || (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TCM (TurnerClassicMovies)
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TCM (TurnerClassicMovies) || (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TCM
 https://fl2.moveonjoy.com/TCM/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TNT (TurnerNetworkTelevision) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TNT (TurnerNetworkTelevision)
+#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TNT (TurnerNetworkTelevision) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TNT
 http://fl2.moveonjoy.com/TNT/index.m3u8
 
 
