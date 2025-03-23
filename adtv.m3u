@@ -694,8 +694,7 @@ https://fl2.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TNT (TurnerNetworkTelevision) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TNT (TurnerNetworkTelevision)
 http://fl2.moveonjoy.com/TNT/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TNT East [Geo-blocked] | (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" ,TNT East [Geo-blocked]
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TruTV | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TruTV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
