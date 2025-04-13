@@ -443,34 +443,38 @@ https://shls-live-ak.akamaized.net/out/v1/cf05f1dbbeae4878bbc4a5919cef3391/index
 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Cinema.png" ,Rotana Cinema
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Cinema.png" ,Rotana Cinema
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Cinema Egypt.png" ,Rotana Cinema Egypt
+#EXTINF:-1 group-title="Movies (Egypt)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Cinema Egypt.png" ,Rotana Cinema Egypt
 https://rotana.hibridcdn.net/rotana/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Cinema KSA.png" ,Rotana Cinema KSA
+#EXTINF:-1 group-title="Movies (KSA)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Cinema KSA.png" ,Rotana Cinema KSA
 https://rotana.hibridcdn.net/rotana/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Aflam+ HD.png" ,Rotana Aflam+ HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Aflam+ HD.png" ,Rotana Aflam+ HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Drama.png" ,Rotana Drama
+#EXTINF:-1 group-title="Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Drama.png" ,Rotana Drama
 https://rotana.hibridcdn.net/rotana/drama_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Comedy" ,Rotana Comedy
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Comedy.png" ,Rotana Comedy
 https://rotana.hibridcdn.net/rotana/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Classic.png" ,Rotana Classic
+#EXTINF:-1 group-title="Classic Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Classic.png" ,Rotana Classic
 https://rotana.hibridcdn.net/rotana/classical_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Clip.png" ,Rotana Clip
+#EXTINF:-1 group-title="Music Clips" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Clip.png" ,Rotana Clip
 https://rotana.hibridcdn.net/rotana/clip_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Khalijia.png" ,Rotana Khalijia
+#EXTINF:-1 group-title="Gulf Entertainment" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Khalijia.png" ,Rotana Khalijia
 https://rotana.hibridcdn.net/rotana/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Radio Jordan Studio.png" ,Rotana Radio Jordan Studio
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Radio Jordan Studio.png" ,Rotana Radio Jordan Studio
 http://45.63.116.205/hls/stream1.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Tarab Jordan City View.png" ,Rotana Tarab Jordan City View
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Tarab Jordan City View.png" ,Rotana Tarab Jordan City View
 http://45.63.116.205/hls3/stream1.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana FM KSA.png" ,Rotana FM KSA
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana FM KSA.png" ,Rotana FM KSA
 rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
 
 
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Mayadeen.png" ,Al Mayadeen
+
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Mayadeen.png" ,Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Aghani Aghani TV.png" ,Aghani Aghani TV
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
@@ -479,44 +483,47 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wedo-Big-Stories.png" ,Wedo-Big-Stories
+
+#EXTINF:-1 group-title="Stories" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Wedo-Big-Stories.png" ,Wedo-Big-Stories
 https://weyyak-live.akamaized.net/wedo_big_stories/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Duck-TV.png" ,Duck-TV
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Duck-TV.png" ,Duck-TV
 https://weyyak-live.akamaized.net/weyyak_ducktv/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Jodha-Akbar.png" ,Jodha-Akbar
+#EXTINF:-1 group-title="Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Jodha-Akbar.png" ,Jodha-Akbar
 https://weyyak-live.akamaized.net/jodha_akbar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Hayat-Qalbi.png" ,Hayat-Qalbi
+#EXTINF:-1 group-title="Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Hayat-Qalbi.png" ,Hayat-Qalbi
 https://weyyak-live.akamaized.net/hayat_qalbi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The-Smurfs.png" ,The-Smurfs
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The-Smurfs.png" ,The-Smurfs
 https://weyyak-live.akamaized.net/weyyak_smurf_tv/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Toon-Goggles-WW.png" ,Toon-Goggles-WW
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Toon-Goggles-WW.png" ,Toon-Goggles-WW
 https://weyyak-live.akamaized.net/weyyak_toon_goggles_ww/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AfroKiddos.png" ,AfroKiddos
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AfroKiddos.png" ,AfroKiddos
 https://weyyak-live.akamaized.net/weyyak_afrokiddos/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cooking-Panda.png" ,Cooking-Panda
+#EXTINF:-1 group-title="Food" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Cooking-Panda.png" ,Cooking-Panda
 https://weyyak-live.akamaized.net/weyyak_cookong_panda/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Deluxe-Lounge-HD.png" ,Deluxe-Lounge-HD
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Deluxe-Lounge-HD.png" ,Deluxe-Lounge-HD
 https://weyyak-live.akamaized.net/weyyak_party_time_karaoke/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Party-Tyme-Karaoke.png" ,Party-Tyme-Karaoke
+#EXTINF:-1 group-title="Karaoke" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Party-Tyme-Karaoke.png" ,Party-Tyme-Karaoke
 https://weyyak-live.akamaized.net/weyyak_party_time_karaoke/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TG-Junior.png" ,TG-Junior
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TG-Junior.png" ,TG-Junior
 https://weyyak-live.akamaized.net/weyyak_tg_junior/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ski-TV.png" ,Ski-TV
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ski-TV.png" ,Ski-TV
 https://weyyak-live.akamaized.net/Ski-TV/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Alwan.png" ,Zee-Alwan
+#EXTINF:-1 group-title="Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Alwan.png" ,Zee-Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Aflam.png" ,Zee-Aflam
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zee-Aflam.png" ,Zee-Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Nawaem.png" ,Weyyak Nawaem
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Nawaem.png" ,Weyyak Nawaem
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Mix.png" ,Weyyak Mix
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Mix.png" ,Weyyak Mix
 https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Action.png" ,Weyyak Action
+#EXTINF:-1 group-title="Action" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Action.png" ,Weyyak Action
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" ,Weyyak Drama
+#EXTINF:-1 group-title="Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Weyyak Drama.png" ,Weyyak Drama
 https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Istiqama TV.png" ,Al Istiqama TV
+#EXTINF:-1 group-title="Religion" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Istiqama TV.png" ,Al Istiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+
+
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC.png" ,PMC
 https://hls.pmchd.live/hls/stream.m3u8
@@ -525,30 +532,35 @@ https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/NogoumFMTV.png" ,NogoumFMTV
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
 
+
+
+
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Hayat TV.png" ,Al Hayat TV
 https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b1128000.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby 2 TV.png" ,Alaraby 2 TV
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby 2 TV.png" ,Alaraby 2 TV
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Khalij.png" ,Al Khalij
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Khalij.png" ,Al Khalij
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Atfal & Mawaheb TV.png" ,Atfal & Mawaheb TV
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Atfal & Mawaheb TV.png" ,Atfal & Mawaheb TV
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Elsharq TV.png" ,Elsharq TV
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Elsharq TV.png" ,Elsharq TV
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Huda TV.png" ,Huda TV
+#EXTINF:-1 group-title="Religious" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Huda TV.png" ,Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Mekameleen TV.png" ,Mekameleen TV
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Mekameleen TV.png" ,Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/REFLET-TV.png" ,REFLET-TV
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TeN TV.png" ,TeN TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Iqraa.png" ,Iqraa
+#EXTINF:-1 group-title="Religious" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Iqraa.png" ,Iqraa
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kaif TV.png" ,Kaif TV
 http://82.212.74.2:8000/live/hls/7311.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" ,Makkah TV
+#EXTINF:-1 group-title="Religious" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" ,Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+
 
 
 
