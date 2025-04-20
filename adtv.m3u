@@ -539,11 +539,11 @@ https://nogoumtv.nrpstream.com/hls/stream.m3u8
 
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Hayat TV.png" ,Al Hayat TV
 https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b1128000.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby 2 TV.png" ,Alaraby 2 TV
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby 2 TV.png" ,Alaraby 2 TV
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Khalij.png" ,Al Khalij
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Khalij.png" ,Al Khalij
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Atfal & Mawaheb TV.png" ,Atfal & Mawaheb TV
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Atfal & Mawaheb TV.png" ,Atfal & Mawaheb TV
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Elsharq TV.png" ,Elsharq TV
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
