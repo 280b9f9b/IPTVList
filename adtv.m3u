@@ -2,10 +2,10 @@
 
 
 
-#EXTINF:-1 tvg-id="3340" tvg-name="DMAX HD" group-title="Abu Dhabi" ,DMAX HD
+#EXTINF:-1 tvg-id="404812" tvg-name="DMAX HD" group-title="Abu Dhabi" ,DMAX HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 
-#EXTINF:-1 tvg-id="TVB Xing He HD" tvg-name="TVB Xing He HD" group-title="Abu Dhabi" ,TVB Xing He HD
+#EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-name="TVB Xing He HD" group-title="Abu Dhabi" ,TVB Xing He HD
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 
 
