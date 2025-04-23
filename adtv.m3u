@@ -48,7 +48,7 @@ https://radio.skynewsarabia.com/stream/radio/skynewsarabia
 
 
 
-
+ 
 
 #EXTINF:-1 tvg-id="55896" tvg-name="Dubai TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai%20TV.png" group-title="Dubai",Dubai TV
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/index.m3u8
@@ -248,7 +248,7 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 
 
 
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Arabic.png" ,Al Jazeera
+#EXTINF:-1 tvg-id="76735" group-title="News" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Arabic.png" ,Al Jazeera
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Documentary.png" ,Al Jazeera
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
@@ -276,7 +276,7 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Shahid" tvg-id="404022" tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC.png" ,MBC
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 group-title="Shahid" tvg-id="(no tvg-id)" tvg-name="MBC Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Drama.png" ,MBC Drama
+#EXTINF:-1 group-title="Shahid" tvg-id="403539" tvg-name="MBC Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC Drama.png" ,MBC Drama
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 group-title="Shahid" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MBC%20Drama.png" ,MBC Drama
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
