@@ -1346,8 +1346,8 @@ https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" ,Euronews Português (1080p)
 https://euronews-live-por-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/eyJzdGlkIjoiOWE0ZWZmNzItMmE0ZC00NmFjLWIzZjgtNzJiNjIzODU3N2I5IiwibWt0IjoicHQiLCJjaCI6NjU3MiwicHRmIjo1fQ==/26035/euronews-pt.m3u8
-#EXTINF:-1 group-title="News" tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" ,Exitosa (720p)
-https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
+
+
 #EXTINF:-1 group-title="News" tvg-id="ExpressenTV.se" tvg-logo="https://i.imgur.com/ai0BIci.png" ,Expressen TV (1080p)
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="FalestinonaChannel.lb" tvg-logo="https://i.imgur.com/Z3QeQHk.png" ,Falestinona Channel (576p)
@@ -1434,8 +1434,8 @@ https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/53
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="IUAtv.ua" tvg-logo="https://i.imgur.com/t1OABVZ.png" ,I-UA.tv (1080p)
 https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
-#EXTINF:-1 group-title="News" tvg-id="IBC24.in" tvg-logo="https://i.imgur.com/2LbR2a0.png" ,IBC 24 (720p)
-https://livetv.ibc24.in/livestream.m3u8
+
+
 #EXTINF:-1 group-title="News" tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" ,ICI RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="News" tvg-id="IndiaNews.in" tvg-logo="https://i.imgur.com/l54AGtz.png" ,India News (576p) [Not 24/7]
@@ -1464,8 +1464,8 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 https://ip2stream.iranpress.com/hls/ip2.m3u8
 #EXTINF:-1 group-title="News" tvg-id="IRINN2.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" ,IRIB2
 https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
-#EXTINF:-1 group-title="News" tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" ,IRINN
-https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
+
+
 #EXTINF:-1 group-title="News" tvg-id="IsraelParsTV.il" tvg-logo="https://i.imgur.com/UM5Gf4L.png" ,Israel Pars TV (540p)
 https://live.pars-israel.com/iptv/stream.m3u8
 #EXTINF:-1 group-title="News" tvg-id="IT3.ua" tvg-logo="https://i.imgur.com/8rNbbY7.png" ,IT-3 (720p)
@@ -1770,8 +1770,8 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="Sahara24.mr" tvg-logo="https://i.imgur.com/7RnkkCU.png" ,Sahara 24 (720p)
 https://live.saharamedias.net/sahara24-live/index.m3u8
-#EXTINF:-1 group-title="News" tvg-id="SamayKolkata.in" tvg-logo="https://i.ibb.co/3mrYZDG/cropped-LOGO-web1.jpg" ,Samay Kolkata (720p)
-https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8
+
+
 #EXTINF:-1 group-title="News" tvg-id="SCCurrents.us" tvg-logo="https://i.imgur.com/8FZsNyK.png" ,SC Currents
 https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8
 #EXTINF:-1 group-title="News" tvg-id="ScrippsNews.us" tvg-logo="https://i.imgur.com/W0Jvi5o.png" ,Scripps News
@@ -2406,8 +2406,8 @@ https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 https://sitv.ru/hls/s86.m3u8
 #EXTINF:-1 group-title="Russia" tvg-id="Telplus.ru" tvg-logo="https://i.imgur.com/1zbcZ3p.png" ,Телплюс ТВ (Астрахань) (360p) [Not 24/7]
 https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-id="Tivikom.ru" tvg-logo="https://i.imgur.com/qcJ4EBl.png" ,Тивиком (Улан-Удэ) (1080p) [Not 24/7]
-http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Russia" tvg-id="TolkHD.ru" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-tolk.jpg?itok=EjM37GGs" ,Толк HD
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-id="3ABNRussia.ru" tvg-logo="https://i.imgur.com/4fhBbam.png" ,Три Ангела (720p)
