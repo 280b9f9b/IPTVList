@@ -515,28 +515,23 @@ https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 http://82.212.74.2:8000/live/hls/7311.m3u8
 #EXTINF:-1 group-title="Religion" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" ,Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Romanza+ Africa.png" ,Romanza+ Africa
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/TVI África.png" ,TVI África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinemax East" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Cinemax%20East.png" ,Cinemax East
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinemax MoreMax" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Cinemax%20East.png" ,Cinemax MoreMax
-http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinemax Outer Max" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Cinemax%20East.png" ,Cinemax Outer Max
-http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cinemax West" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Cinemax%20East.png" ,Cinemax West
-http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO
-http://fl2.moveonjoy.com/HBO/index.m3u8
+
+
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO
 http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO Family
-http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="New EPG" tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO Pop
 http://181.176.153.106:8090/play/a0qc
+
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime East | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Showtime.png" ,Showtime East
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime Next | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Showtime.png" ,Showtime Next
