@@ -902,8 +902,8 @@ https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
 https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="RevryQueer.us" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" ,EN: Revry Queer (720p)
 https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="SoReal.us" tvg-logo="https://i.imgur.com/wZ2uj9d.png" ,EN: So...Real
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Lifestyle" tvg-id="SOSDocteurTV.tg" tvg-logo="https://i.imgur.com/wQpooHw.png" ,FR: SOS Docteur TV (480p) [Not 24/7]
 https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="SuperyachtTV.mc" tvg-logo="https://i.imgur.com/cgjgjE1.png" ,EN: Superyacht TV (1080p)
