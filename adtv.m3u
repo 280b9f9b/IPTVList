@@ -1861,14 +1861,17 @@ http://play.1list.vip/movie/andrecyrineu/obb546cadil/214536.mp4
 
 
 
-#EXTINF:-1 group-title="YouRadio" tvg-id="(no tvg-id)" tvg-name="TikTok Trending" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Trending.png" ,TikTok Trending
+#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Trending.png" ,TikTok Trending
 https://2.mystreaming.net/er-app/tiktoktrending/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="(no tvg-id)" tvg-name="TikTok 2023 Viral" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok 2023 Viral.png" ,TikTok 2023 Viral
+#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok 2023 Viral.png" ,TikTok 2023 Viral
 https://drive.uber.radio/uber/tt2023/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="(no tvg-id)" tvg-name="TikTok Hits" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Hits.png" ,TikTok Hits
+#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Hits.png" ,TikTok Hits
 https://drive.uber.radio/uber/tthits/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="(no tvg-id)" tvg-name="TikTok Throwbacks" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Throwbacks.png" ,TikTok Throwbacks
+#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Throwbacks.png" ,TikTok Throwbacks
 https://drive.uber.radio/uber/ttthrowbacks/icecast.audio
+
+
+
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/35c37ca0-a061-46a7-9e39-6120119a48a3.png" ,Positively 1920's
 https://streaming.positivity.radio/pr/1920/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8b332995-6f75-4c31-8e23-c209101dddd2.png" ,Positively 1930's
