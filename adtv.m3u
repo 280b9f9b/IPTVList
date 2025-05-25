@@ -1682,18 +1682,16 @@ https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
 #EXTINF:-1 group-title="News" tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png" ,TN Todo Noticias (1080p)
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 group-title="News" tvg-id="TODAYAllDay.us" tvg-logo="https://i.imgur.com/LhbQ8Mr.png" ,TODAY All Day
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b9a9385-79d0-48ba-8524-7334c82add93
-#EXTINF:-1 group-title="News" tvg-id="TOLOnews.af" tvg-logo="https://i.imgur.com/oxaHaTq.png" ,Tolo News (720p)
-https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
-#EXTINF:-1 group-title="News" tvg-id="TopNews.th" tvg-logo="https://i.imgur.com/tRFnV9M.png" ,Top News (720p)
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+
+
+
 #EXTINF:-1 group-title="News" tvg-id="TopStoriesbyNewsy.us" tvg-logo="https://i.imgur.com/UfN6aAi.png" ,Top Stories by Newsy (720p)
 https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
-#EXTINF:-1 group-title="News" tvg-id="TRA2.do" tvg-logo="https://i.imgur.com/iwJ42rD.png" ,TRA 2 (576p)
-https://203677.global.ssl.fastly.net/64b98ca5465883a424fe1c82/live_dabf38f04a9d11ee8eeb577c693b7d74/index.m3u8
-#EXTINF:-1 group-title="News" tvg-id="TRANoticias.do" tvg-logo="https://i.imgur.com/M6ZhJqM.png" ,TRA Noticias (576p)
-hhttps://fl1002.bozztv.com/ssh101/rctvhdtra/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:-1 group-title="News" tvg-id="TRT.gr" tvg-logo="https://i.imgur.com/g0jPOcC.png" ,TRT (360p)
 https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="TRTArabi.tr" tvg-logo="https://i.imgur.com/dEfI2M9.png" ,TRT Arabi (1080p)
@@ -1760,8 +1758,8 @@ https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="VoATV.us" tvg-logo="https://i.imgur.com/rtRnlqN.png" ,VOA TV Africa (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="VouliTV.cy" tvg-logo="https://i.ibb.co/tzQ3jCR/cropped-VOULI-TV-LOGO-HIGH-RESOLUTION-BLUE.png" ,Vouli TV (1080p) [Not 24/7]
-https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
+
+
 #EXTINF:-1 group-title="News" tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" ,VPItv (1080p)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="VTV.mv" tvg-logo="https://i.imgur.com/6bY9Umo.png" ,VTV (1080p) [Not 24/7]
@@ -1814,16 +1812,16 @@ http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 https://ott.columbus.te.ua/ternopil1/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="TolkHD.ru" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-tolk.jpg?itok=EjM37GGs" ,Толк HD
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="CTiNews.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" ,中天新聞台 (1080p)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+
+
 #EXTINF:-1 group-title="News" tvg-id="ChuzhouNewsChannel.cn" tvg-logo="https://i.imgur.com/9JfZJRv.png" ,滁州市广播电视台 新闻综合频道 (1080p)
 http://live.cztv.cc:85/live/xwpd.m3u8
-#EXTINF:-1 group-title="News" tvg-id="HebiNewsChannel.cn" tvg-logo="https://i.imgur.com/Osw5yRW.png" ,鹤壁新闻综合 (480p) [Not 24/7]
-http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
-#EXTINF:-1 group-title="News" tvg-id="TelepaceNews.it" tvg-logo="https://i.imgur.com/kC0c9Q6.png" ,Telepace News (720p)
-https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8
-#EXTINF:-1 group-title="News" tvg-id="ESPNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" ,ESPNews (720p)
-http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="Travel" tvg-id="ArubaTV.aw" tvg-logo="https://i.imgur.com/9fWY09U.png" ,Aruba.TV (1080p)
 https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
 
