@@ -1899,7 +1899,7 @@ https://streaming.positivity.radio/pr/1950/icecast.audio
 https://streaming.positivity.radio/pr/1940/icecast.audio
 #EXTINF:-1 group-title="YouRadio Positively" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8b332995-6f75-4c31-8e23-c209101dddd2.png" ,Positively 1930's
 https://streaming.positivity.radio/pr/1930/icecast.audio
-#EXTINF:-1 group-title="YouRadio Positively Positively" tvg-logo="https://manager.uber.radio/static/uploads/station/35c37ca0-a061-46a7-9e39-6120119a48a3.png" ,Positively 1920's
+#EXTINF:-1 group-title="YouRadio Positively" tvg-logo="https://manager.uber.radio/static/uploads/station/35c37ca0-a061-46a7-9e39-6120119a48a3.png" ,Positively 1920's
 https://streaming.positivity.radio/pr/1920/icecast.audio
 #EXTINF:-1 group-title="YouRadio Positively" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ce4670d7-6aa7-47d5-b117-d9734c07a001.png" ,Positively Happy Pets
 https://streaming.positivity.radio/pr-app/calmpets/icecast.audio
