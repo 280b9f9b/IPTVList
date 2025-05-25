@@ -470,12 +470,12 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/REFLET-TV.png" ,REFLET-TV
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TeN TV.png" ,TeN TV
-https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+
+
 #EXTINF:-1 group-title="Religion" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Iqraa.png" ,Iqraa
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kaif TV.png" ,Kaif TV
-http://82.212.74.2:8000/live/hls/7311.m3u8
+
+
 #EXTINF:-1 group-title="Religion" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" ,Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
@@ -488,34 +488,17 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO
-http://212.102.60.231/HBO/index.m3u8
+
+
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="New EPG" tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO Pop
 http://181.176.153.106:8090/play/a0qc
 
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime East | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Showtime.png" ,Showtime East
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime Next | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Showtime.png" ,Showtime Next
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime West | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Showtime.png" ,Showtime West
-http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Showtime Women | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Showtime.png" ,Showtime Women
-http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 
 
 
-
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="EPIX | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/EPIX.png" ,EPIX
-http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="EPIX 2 | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/EPIX.png" ,EPIX 2
-http://fl2.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="EPIX Drive-in | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/EPIX.png" ,EPIX Drive-in
-http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="FXM | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/FX.png" ,FXM
-http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 
 
 
@@ -527,16 +510,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a
 
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Encore Classic | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz Encore
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz West | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz West
-http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
+
+
 #EXTINF:-1 group-title="Movies" tvg-id="ClassicMoviesChannel.us" tvg-name="Classic Movies Channel (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Classic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
 #EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="Cowboy Movie Channel | (STIRЯ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,Cowboy
 https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Cult Classic Movie Theater | (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Cult
-https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Lifetime Movies Network | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Lifetime
-http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Movie Favorites By Lifetime (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Favorites
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32f13eb-8395-4e23-87b8-0bd6e7d05f16
 #EXTINF:-1 group-title="Movies" tvg-id="MoviesforGamers.us" tvg-name="Movies for Gamers (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Movies for Gamers
@@ -723,14 +705,14 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Lifestyle" tvg-id="13P.cl" tvg-logo="https://i.imgur.com/R6D228s.png" ,ES: 13 Prime (720p)
-https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+
+
 #EXTINF:-1 group-title="Lifestyle" tvg-id="30ALuxeLifeDiscovered.us" tvg-logo="https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg" ,EN: 30A Luxe Life Discovered
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="AntenaMonden.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300" ,RO: Antena Monden (720p)
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="AntiquesRoadTrip.us" tvg-logo="https://i.imgur.com/kkm7VqV.png" ,EN: Antiques Road Trip (1080p) [Geo-blocked]
-https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Lifestyle" tvg-id="AyushTV.in" tvg-logo="https://i.imgur.com/PWzvp0B.png" ,HI: Ayush TV (360p) [Not 24/7]
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="BBCHomeGarden.us" tvg-logo="https://i.imgur.com/rC0pi1D.png" ,EN: BBC Home & Garden
@@ -739,34 +721,32 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="BizTV.us" tvg-logo="https://i.imgur.com/yaNXOnO.png" ,EN: Biz TV (1080p)
 https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="BiznetLifestyle.id" tvg-logo="https://i.imgur.com/XqUfQKA.png" ,ID: Biznet Lifestyle (480p)
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="CardioTVSRC.ro" tvg-logo="https://i.imgur.com/6Ab3KD6.png" ,RO: Cardio TV SRC (720p)
-https://5947cbf6e693a.streamlock.net/live/play2/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Lifestyle" tvg-id="CaTine.ro" tvg-logo="https://i.imgur.com/eFNHuIh.png" ,RO: CaTine (720p)
 https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="Cats247.us" tvg-logo="https://i.imgur.com/od1taaY.png" ,EN: Cats 24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1d9d30b-52fa-4979-a2d6-5066af724ab6
 #EXTINF:-1 group-title="Lifestyle" tvg-id="CineLife.us" tvg-logo="https://i.imgur.com/RIUNuMQ.png" ,EN: CineLife
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="CleoTV.us" tvg-logo="https://i.imgur.com/US0T6DC.png" ,EN: Cleo TV (720p)
-http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="CodeFashionTV.bg" tvg-logo="https://i.imgur.com/mVc2g64.png" ,BG: Code Fashion TV (1080p)
-https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="CodeHealthTV.bg" tvg-logo="https://i.imgur.com/NXBMzGV.png" ,BG: Code Health TV (1080p)
-https://cdn3.invivo.bg/codehealth_test/index.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="CoolTV.hu" tvg-logo="https://i.imgur.com/rXJtthd.png" ,HU: Cool TV (1080p)
-http://146.59.85.40:89/coolhd/index.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="Diva.za" tvg-logo="https://i.imgur.com/U9wMnQ0.png" ,EN: Diva (720p)
-https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="DoctorLive.in" tvg-logo="https://i.imgur.com/D6cMaVs.png" ,HI: Doctor Live (720p)
-https://5a1178b42cc03.streamlock.net/8250/8250/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" ,ES: Fashion TV (Spain) (1080p)
-https://fashiontv-fashiontv-2-es.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVParis.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" ,FR: Fashion TV Paris (144p)
-https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVPG16.fr" tvg-logo="https://i.imgur.com/GFTAN5Q.png" ,FR: Fashion TV PG16 (144p)
-https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/vQuyyWO.png" ,FR: Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVCzechSlovak.fr" tvg-logo="https://i.imgur.com/7Bigo7u.png" ,CS/SK: FashionTV Czech&Slovak (450p) [Not 24/7]
@@ -783,12 +763,12 @@ https://srv.webtvmanager.fr:3697/stream/play.m3u8
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="JustVogueTV.ae" tvg-logo="https://i.imgur.com/sRKYBMb.png" ,EN: Just Vogue TV (1080p)
 https://ip100.radyotelekomtv.com:3873/stream/play.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="KappaTV.in" tvg-logo="https://i.imgur.com/e9qTjgB.png" ,ML: Kappa TV (360p)
-https://idvd.multitvsolution.com/idvo/kappatv.m3u8
+
+
 #EXTINF:-1 group-title="Lifestyle" tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" ,KO: KBS Life (480p)
 http://mytv.dothome.co.kr/ch/catv/5.php
-#EXTINF:-1 group-title="Lifestyle" tvg-id="KeurNdananeTV.sn" tvg-logo="https://i.imgur.com/pxQkYG7.jpeg" ,FR: Keur Ndanane TV (720p)
-https://helga.iptv2022.com/sh/KN_TV/index.m3u8
+
+
 #EXTINF:-1 group-title="Lifestyle" tvg-id="SmartLifeStyleTV.us" tvg-logo="https://i.imgur.com/kHFlTEy.png" ,EN: Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p)
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="Localish.us" tvg-logo="https://i.imgur.com/ACEbGD5.png" ,EN: Localish (720p)
@@ -807,8 +787,8 @@ https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6022bd17849c620007f43ae0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0db981e3-cabf-4589-ae4e-5696db28f9ea
 #EXTINF:-1 group-title="Lifestyle" tvg-id="QS24tv.ch" tvg-logo="https://i.ibb.co/qnBDjtC/Logo-QS24-schwarz-Pfade.png" ,DE: QS24.tv (1080p)
 https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="QTV2.cn" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" ,ZH: QTV-2
-http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+
+
 #EXTINF:-1 group-title="Lifestyle" tvg-id="Revry2.us" tvg-logo="https://i.imgur.com/bKpligT.png" ,EN: Revry 2
 https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="RevryBrasil.us" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$" ,PT: Revry Brasil
@@ -825,10 +805,8 @@ https://sy.wns.live/hls/stream.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab9df3d48f40008868091/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c35404c-1695-499c-9f13-965f00e7ea9b
 #EXTINF:-1 group-title="Lifestyle" tvg-id="TV5MondeStyle.fr" tvg-logo="https://i.imgur.com/cwC7Q2V.png" ,FR: TV5Monde Style (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="TVKesehatan.id" tvg-logo="https://i.imgur.com/IGIX3o8.jpg" ,ID: TV Kesehatan (1080p)
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-id="Wapp.cl" tvg-logo="https://i.imgur.com/Bv1yJ1d.png" ,ES: Wapp (1080p)
-https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
+
+
 #EXTINF:-1 group-title="Lifestyle" tvg-id="Zhivi.ru" tvg-logo="https://i.imgur.com/LPqySGk.png" ,RU: ЖИВИ!
 http://31.148.48.15/Zhivi/index.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="NTVStyle.ru" tvg-logo="https://i.imgur.com/rX6K6qT.png" ,RU: НТВ Стиль
