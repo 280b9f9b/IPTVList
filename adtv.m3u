@@ -1901,15 +1901,18 @@ https://streaming.positivity.radio/pr/1940/icecast.audio
 https://streaming.positivity.radio/pr/1930/icecast.audio
 #EXTINF:-1 group-title="YouRadio Positively" tvg-logo="https://manager.uber.radio/static/uploads/station/35c37ca0-a061-46a7-9e39-6120119a48a3.png" ,Positively 1920's
 https://streaming.positivity.radio/pr/1920/icecast.audio
-
-
-
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ce4670d7-6aa7-47d5-b117-d9734c07a001.png" ,Positively Happy Pets
+https://streaming.positivity.radio/pr-app/calmpets/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/282607e3-4c51-4384-9900-b67a4949c983.png" ,Positively Plants Growth
 https://streaming.positivity.radio/pr/posiplants/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/85f5dfb6-f09d-4616-8e2d-b9040c01a706.png" ,Positively Birdsong
 https://streaming.positivity.radio/pr/posibirdsong/icecast.audio
-
-
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/2e9449fc-2d82-4c21-acb5-4887193d174d.png" ,Positively ASMR Crackling Fire
+https://nl4.mystreaming.net/uber-app/asmrmix/icecast.audio
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/851658a3-d94b-4b2b-a0e3-974538f64d12.png" ,Positively ASMR Forest Sounds
+https://2.mystreaming.net/uber-app/asmrmouthsounds/icecast.audio
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/e5b013be-8e5c-4707-9f45-ed5dfd1ecf22.png" ,Positively ASMR River Flow
+https://nl4.mystreaming.net/uber-app/asmrsleep/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/0f095e9a-98c8-4ad1-bbc8-b30f24bf9abe.png" ,Positively Bowls
 https://streaming.positivity.radio/pr/bowls/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/105614e4-f852-42d8-ab77-7d10b03b46c7.png" ,Positively Calm
@@ -1930,7 +1933,8 @@ https://streaming.positivity.radio/pr/compassion/icecast.audio
 https://streaming.positivity.radio/pr/country/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/0838e29f-369c-4238-938c-65a1004e67e5.png" ,Positively Detox 741Hz
 https://streaming.positivity.radio/pr/detox/icecast.audio
-
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8c2ce12e-a647-491b-855a-cc233c6169d0.png" ,Positively Easy Hits
+https://streaming.positivity.radio/pr-app/posieasy/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8f9c9873-0e19-4eac-a3e7-4537720c40b2.png" ,Positively Energy
 https://streaming.positivity.radio/pr/energy/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/2c95f1d4-d34d-479f-b39b-4c961c2da75f.png" ,Positively Enlightening 936Hz
@@ -1993,27 +1997,6 @@ https://streaming.positivity.radio/pr/sleepclassical/icecast.audio
 https://streaming.positivity.radio/pr/sleepkids/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/cea14a8d-e13f-4370-9feb-77df48b3b3cc.png" ,Positively Sleep Max Richter
 https://streaming.positivity.radio/pr/maxrichter/icecast.audio
-
-
-
-
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ab269dc8-4a0c-4eaa-8529-f1105e72442c.png" ,Positively Easy
-https://streaming.positivity.radio/pr/posieasy/icecast.audio
-
-
-
-
-
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/1b35ce1c-9dc1-43e5-acd3-e37e2ad8c78a.png" ,Positively High Energy
-https://streaming.positivity.radio/pr/energyworkout/icecast.audio
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/908c3c4f-367a-4962-b9ea-8a2f458e80da.png" ,Positively Sleep Relax
 https://streaming.positivity.radio/pr/sleeprelax/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/13b4a62d-6af3-4150-b1d6-7bfb768608ef.png" ,Positively Sleep Tones
@@ -2032,13 +2015,23 @@ https://streaming.positivity.radio/pr/stressrelief/icecast.audio
 https://streaming.positivity.radio/pr/taichi/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/9b184bd2-04a7-4126-99ae-365720d1c457.png" ,Positively Tranquil
 https://streaming.positivity.radio/pr/positranquil/icecast.audio
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/240002ea-2a00-4f83-aa8e-01789fa230bd.png" ,Positively Uplifting 417Hz
+https://streaming.positivity.radio/pr/uplifting/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/276f1ff6-4ac3-4ee1-bf2e-3711de267ee1.png" ,Positively Vibe
 https://streaming.positivity.radio/pr/posivibe/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3558595d-efa8-4964-883c-822c447e870c.png" ,Positively Vibrant
 https://streaming.positivity.radio/pr/vibrant/icecast.audio
+
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/fa699026-e291-4da2-b4a0-90cf84697828.png" ,Positively White Noise
+https://streaming.positivity.radio/pr-app/whitenoise/icecast.audio
+
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/704a1c68-8f0b-4daf-9885-214f35b829ec.png" ,Positively Zen
 https://streaming.positivity.radio/pr/zen/icecast.audio
 
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ab269dc8-4a0c-4eaa-8529-f1105e72442c.png" ,Positively Easy
+https://streaming.positivity.radio/pr/posieasy/icecast.audio
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/1b35ce1c-9dc1-43e5-acd3-e37e2ad8c78a.png" ,Positively High Energy
+https://streaming.positivity.radio/pr/energyworkout/icecast.audio
 
 
 
@@ -2047,8 +2040,24 @@ https://streaming.positivity.radio/pr/zen/icecast.audio
 
 
 
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/240002ea-2a00-4f83-aa8e-01789fa230bd.png" ,Positively Uplifting 417Hz
-https://streaming.positivity.radio/pr/uplifting/icecast.audio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
