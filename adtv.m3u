@@ -2131,24 +2131,22 @@ https://2.mystreaming.net/uber-app/wake/icecast.audio
 
 
 
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/53f05ae5-1fff-488d-a565-4644c4e47251.png" ,Afrobeats
+#EXTINF:-1 group-title="YouRadio World Music Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/53f05ae5-1fff-488d-a565-4644c4e47251.png" ,Afrobeats
 https://streaming.exclusive.radio/er/afrobeats/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f23b1bdf-1e89-4e36-9f7c-7754ce0b85b7.png" ,Bollywood
+#EXTINF:-1 group-title="YouRadio World Music Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f23b1bdf-1e89-4e36-9f7c-7754ce0b85b7.png" ,Bollywood
 https://streaming.exclusive.radio/er/bollywood/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ea960da1-97cc-471e-a148-996446ff3835.png" ,Brazil
-https://streaming.exclusive.radio/er/brazil/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f672b15e-d887-4e14-a213-1daa763aae5c.png" ,Cuba
-https://drive.uber.radio/uber/worldcuba/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/d307a1d7-9535-46eb-9a83-dfc261f0b0f1.png" ,Deutsche Musik
-https://streaming.exclusive.radio/er/deutschemusik/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/41f5b3c7-b6b9-4385-b4b1-7fceff208603.png" ,Irish Folk
-https://drive.uber.radio/uber/starboxirishfolk/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/1255643b-b591-41bf-8e5f-8e865469ebd1.png" ,Italy
+#EXTINF:-1 group-title="YouRadio World Music Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/1255643b-b591-41bf-8e5f-8e865469ebd1.png" ,Italy
 https://streaming.exclusive.radio/er/italy/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/0a263cf7-3218-496e-9bce-c60d479c126f.png" ,J Pop
+#EXTINF:-1 group-title="YouRadio World Music Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/0a263cf7-3218-496e-9bce-c60d479c126f.png" ,J Pop
 https://streaming.exclusive.radio/er/jpop/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3887123d-86ee-4036-bda6-0baa6df25a80.png" ,K Pop
+#EXTINF:-1 group-title="YouRadio World Music Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3887123d-86ee-4036-bda6-0baa6df25a80.png" ,K Pop
 https://streaming.exclusive.radio/er/kpop/icecast.audio
+
+
+
+
+
+
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/59a71104-b1ed-49de-b218-94de11b23fb3.png" ,Musique Francaise
 https://streaming.exclusive.radio/er/musiquefrancaise/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/912eafc8-6659-4a5f-b09a-0a51ac1f7882.jpg" ,Taylor Swift
