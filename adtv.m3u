@@ -2095,32 +2095,42 @@ https://drive.uber.radio/uber/starboxsoftrock/icecast.audio
 
 
 
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/5b6bd9ad-c854-4a86-81a5-6d925a610ed8.png" ,Blues
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/5b6bd9ad-c854-4a86-81a5-6d925a610ed8.png" ,Blues
 https://drive.uber.radio/uber/starboxblues/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/407bff50-41d0-41c5-b2f8-f671c48db482.png" ,Christmas Pop
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/407bff50-41d0-41c5-b2f8-f671c48db482.png" ,Christmas Pop
 https://streaming.exclusive.radio/er/christmaspop/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8545b0f4-3555-457f-9e73-fd7f20b962a6.png" ,Easy
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8545b0f4-3555-457f-9e73-fd7f20b962a6.png" ,Easy
 https://drive.uber.radio/uber/starboxeasy/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ae02f548-9221-480f-8c1b-e10bdea95e72.png" ,Hollywood & Broadway Musicals
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ae02f548-9221-480f-8c1b-e10bdea95e72.png" ,Hollywood & Broadway Musicals
 https://streaming.exclusive.radio/er/hollywoodandbroadway/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/af750036-7f6a-4ee3-b6f4-f08d9760bee5.png" ,Indie
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/af750036-7f6a-4ee3-b6f4-f08d9760bee5.png" ,Indie
 https://drive.uber.radio/uber/starboxindie/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/734ef06b-79d9-4348-b359-61989c6170da.png" ,Northern Soul
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/734ef06b-79d9-4348-b359-61989c6170da.png" ,Northern Soul
 https://drive.uber.radio/uber/starboxnorthernsoul/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/d469c3c0-a121-482f-a11c-b5a51b9479f0.png" ,Party
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/d469c3c0-a121-482f-a11c-b5a51b9479f0.png" ,Party
 https://streaming.exclusive.radio/er/party/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3ce09af3-fcc8-4bd2-a243-37f50057a036.png" ,Reggae
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3ce09af3-fcc8-4bd2-a243-37f50057a036.png" ,Reggae
 https://drive.uber.radio/uber/starboxreggae/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a94d952a-e26f-4a84-87aa-ba8695d0f22d.png" ,RnB
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a94d952a-e26f-4a84-87aa-ba8695d0f22d.png" ,RnB
 https://drive.uber.radio/uber/starboxrnb/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3a07ada7-380c-4270-9a93-4fe58d1a0adb.png" ,Rock
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3a07ada7-380c-4270-9a93-4fe58d1a0adb.png" ,Rock
 https://drive.uber.radio/uber/starboxrock/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/883dc078-4a20-40da-89d3-f5faaaafc379.png" ,Rock N Roll
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/883dc078-4a20-40da-89d3-f5faaaafc379.png" ,Rock N Roll
 https://streaming.exclusive.radio/er/rocknrollparty/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/94a58f73-9dac-4f38-a580-47736aca5f79.png" ,Soul
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/94a58f73-9dac-4f38-a580-47736aca5f79.png" ,Soul
 https://drive.uber.radio/uber/starboxsoul/icecast.audio
-#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/2246fc5b-77cc-4a39-accf-da36aed57859.png" ,Todays Hits
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/db2b1ec3-ebe2-48cc-99e0-893a4fe6ddad.png" ,Glastonbury 25
+https://nl4.mystreaming.net/uber-app/festivals/icecast.audio
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/2246fc5b-77cc-4a39-accf-da36aed57859.png" ,Todays Hits
 https://streaming.exclusive.radio/er/chart/icecast.audio
+#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a8fc7978-44f0-49ad-8685-631c0b66a9d8.png" ,Protest Songs
+https://2.mystreaming.net/uber-app/wake/icecast.audio
+
+
+
+
+
+
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/53f05ae5-1fff-488d-a565-4644c4e47251.png" ,Afrobeats
 https://streaming.exclusive.radio/er/afrobeats/icecast.audio
 #EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f23b1bdf-1e89-4e36-9f7c-7754ce0b85b7.png" ,Bollywood
