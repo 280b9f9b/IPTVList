@@ -2021,17 +2021,12 @@ https://streaming.positivity.radio/pr/uplifting/icecast.audio
 https://streaming.positivity.radio/pr/posivibe/icecast.audio
 #EXTINF:-1 group-title="YouRadio Positively" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3558595d-efa8-4964-883c-822c447e870c.png" ,Positively Vibrant
 https://streaming.positivity.radio/pr/vibrant/icecast.audio
-
 #EXTINF:-1 group-title="YouRadio Positively" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/fa699026-e291-4da2-b4a0-90cf84697828.png" ,Positively White Noise
 https://streaming.positivity.radio/pr-app/whitenoise/icecast.audio
-
 #EXTINF:-1 group-title="YouRadio Positively" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/704a1c68-8f0b-4daf-9885-214f35b829ec.png" ,Positively Zen
 https://streaming.positivity.radio/pr/zen/icecast.audio
 
-#EXTINF:-1 group-title="YouRadio Positively" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ab269dc8-4a0c-4eaa-8529-f1105e72442c.png" ,Positively Easy
-https://streaming.positivity.radio/pr/posieasy/icecast.audio
-#EXTINF:-1 group-title="YouRadio Positively" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/1b35ce1c-9dc1-43e5-acd3-e37e2ad8c78a.png" ,Positively High Energy
-https://streaming.positivity.radio/pr/energyworkout/icecast.audio
+
 
 
 
