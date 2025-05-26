@@ -1845,30 +1845,100 @@ http://play.1list.vip/movie/andrecyrineu/obb546cadil/214536.mp4
 
 
 
+#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/912eafc8-6659-4a5f-b09a-0a51ac1f7882.jpg" ,Taylor Swift
+https://streaming.exclusive.radio/er/taylorswift/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/6b8adb31-5021-4e82-ad27-8f176caf9e91.jpg" ,Abba
+http://streaming.exclusive.radio/er/abba/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f045db74-8996-498a-a3a9-c0c677ece874.jpg" ,Adele
+https://streaming.exclusive.radio/er/adele/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/101f1e99-f931-44ec-a161-b251e14f3c42.png" ,50's
+https://drive.uber.radio/uber/lr1950s/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/52ddf955-862e-47b2-877d-c92150169970.png" ,Alabama
+https://drive.uber.radio/uber/cmralabama/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/6dae4965-500b-4a2a-b7fd-a114a1b284a7.jpg" ,Bon Jovi
+https://streaming.exclusive.radio/er/bonjovi/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/70c018e8-5324-443f-bad5-17fbd9135666.png" ,Sunanda Sharma
+https://drive.uber.radio/uber/bollywoodsunandasharma/icecast.audio
+
+
+
+
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/cabbb0a2-f8ca-4562-a5d8-265bec1b563f.jpg" ,ABBA - HITS
+https://2.mystreaming.net/er-app/abbahits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ffdf4422-4bf2-4782-a4a1-f53ea2a95f5b.jpg" ,Adele - HITS
+https://streaming.exclusive.radio/er/adelehits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/78c1e353-db46-40a7-945b-7ae78561dede.jpg" ,Bob Marley - HITS
+https://streaming.exclusive.radio/er/bobmarleyhits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ef877966-4789-4c9d-b4a5-80084e554194.jpg" ,Britney Spears - HITS
+https://streaming.exclusive.radio/er/britneyspearshits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/21543c34-b3e3-4460-914c-bc90fe722ef0.jpg" ,Elvis Presley - HITS
+https://streaming.exclusive.radio/er/elvispresleyhits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/be2fc69e-7e22-4f34-a474-c1180d212c60.jpg" ,George Michael - HITS
+https://streaming.exclusive.radio/er/georgemichaelhits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/771deacd-d775-4c01-9a3a-35fb496dc9ef.jpg" ,Justin Bieber - HITS
+https://streaming.exclusive.radio/er/justinbieberhits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/38250748-4c11-4757-9b2f-f653e43da704.jpg" ,Lady Gaga - HITS
+https://streaming.exclusive.radio/er/ladygagahits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/7e0acc26-23a4-4903-8a43-7603cc9da78a.jpg" ,Madonna - Hits
+https://streaming.exclusive.radio/er/madonnahits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/1d63fc61-a6f3-48d9-a250-76bfac96d380.jpg" ,Mariah Carey - HITS
+https://streaming.exclusive.radio/er/mariahcareyhits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8cebfb80-bbef-45d7-a060-070af5573c2c.jpg" ,Michael Jackson - HITS
+https://streaming.exclusive.radio/er/michaeljacksonhits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/55573ca5-2a28-4bc4-99b6-1735520b2748.jpg" ,One Direction - HITS
+https://streaming.exclusive.radio/er/onedirectionhits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/c56d2eec-89d7-4e5a-897b-4e8c4b20407c.jpg" ,Prince - HITS
+https://streaming.exclusive.radio/er/princehits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8b9e5844-e296-4a84-91ed-10f831216b5d.jpg" ,Rihanna - HITS
+https://streaming.exclusive.radio/er/rihannahits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f5133702-3dd2-427d-9555-98376d80890f.jpg" ,Shakira - HITS
+https://streaming.exclusive.radio/er/shakirahits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/daa2edab-e771-41a0-8e3b-6feac4d6bd68.jpg" ,Taylor Swift - HITS
+https://streaming.exclusive.radio/er/taylorswifthits/icecast.audio
+#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/35057368-c633-4c3b-ae39-41a46cd23707.jpg" ,The Weeknd - HITS
+https://streaming.exclusive.radio/er/theweekndhits/icecast.audio
 
 
 
 
 
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/9065f9ad-0516-4f5e-9d2d-afe593c6e4a7.png" ,1920's
+https://drive.uber.radio/uber/boomerang1920s/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/dbf9c9ab-8a43-41a0-ad71-6589fe279551.png" ,1930's
+https://drive.uber.radio/uber/boomerang1930s/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/e12eff30-2e2c-4bdc-82ee-a6f0dba6f30e.png" ,1940's
+https://drive.uber.radio/uber/boomerang1940s/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f8f64afa-4d9a-4da3-985e-7921d8b3f3e2.png" ,1950's
+https://drive.uber.radio/uber/boomerang1950s/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8519d60a-86a9-4889-aadf-ac2056cb7d2e.png" ,1960's
+https://drive.uber.radio/uber/boomerang1960s/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8a747c94-c244-46d7-b7fa-fbc5c2a003d2.png" ,1970's
+https://drive.uber.radio/uber/boomerang1970s/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/40837613-bc69-4b20-9d24-111bc44044c0.png" ,1980's
+https://drive.uber.radio/uber/boomerang1980s/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/7d98f408-ef21-42cf-ac2e-d185f8b668bd.png" ,1990's
+https://drive.uber.radio/uber/boomerang1990s/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/06d2963c-92ff-4826-80bd-86e77c43e745.png" ,2000's
+https://drive.uber.radio/uber/boomerang2000s/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/d1b2f26c-acb6-49a3-a2d9-e5e557da0ad3.png" ,2010's
+https://drive.uber.radio/uber/boomerang2010s/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8f02e070-20a5-4eea-8d4a-2338e9f190ba.png" ,2020's
+https://drive.uber.radio/uber/boomerang2020s/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/138850d4-1759-41d1-b5dc-01e14a617822.png" ,The 70's 80's & 90's
+https://drive.uber.radio/uber/ghr/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/43f85fea-7416-471e-80d3-7182924dbce7.png" ,Country
+https://drive.uber.radio/uber/starboxcountry/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ff902cfd-0e64-4f71-b090-e5df675892fb.png" ,Disco
+https://streaming.exclusive.radio/er/disco/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/7857a5df-ffec-406b-a4a1-141a0d257c85.png" ,Motown
+https://drive.uber.radio/uber/starboxmotown/icecast.audio
+#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/fedcb917-46f3-43eb-a5fc-a10d81a9248f.png" ,Soft Rock
+https://drive.uber.radio/uber/starboxsoftrock/icecast.audio
 
 
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Trending.png" ,TikTok Trending
-https://2.mystreaming.net/er-app/tiktoktrending/icecast.audio
-#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok 2023 Viral.png" ,TikTok 2023 Viral
-https://drive.uber.radio/uber/tt2023/icecast.audio
-#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Hits.png" ,TikTok Hits
-https://drive.uber.radio/uber/tthits/icecast.audio
-#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Throwbacks.png" ,TikTok Throwbacks
-https://drive.uber.radio/uber/ttthrowbacks/icecast.audio
 
 
 #EXTINF:-1 group-title="YouRadio Positively" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/68cf5138-97e2-46d7-9296-b6c453459029.png" ,Positively Christmas Carols
@@ -2031,61 +2101,22 @@ https://streaming.positivity.radio/pr/zen/icecast.audio
 
 
 
+#EXTINF:-1 group-title="YouRadio Easy" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/78df16eb-7998-49e5-aed9-1bed50ea267a.png" ,Easy Instrumentals
+https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/9065f9ad-0516-4f5e-9d2d-afe593c6e4a7.png" ,1920's
-https://drive.uber.radio/uber/boomerang1920s/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/dbf9c9ab-8a43-41a0-ad71-6589fe279551.png" ,1930's
-https://drive.uber.radio/uber/boomerang1930s/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/e12eff30-2e2c-4bdc-82ee-a6f0dba6f30e.png" ,1940's
-https://drive.uber.radio/uber/boomerang1940s/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f8f64afa-4d9a-4da3-985e-7921d8b3f3e2.png" ,1950's
-https://drive.uber.radio/uber/boomerang1950s/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8519d60a-86a9-4889-aadf-ac2056cb7d2e.png" ,1960's
-https://drive.uber.radio/uber/boomerang1960s/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8a747c94-c244-46d7-b7fa-fbc5c2a003d2.png" ,1970's
-https://drive.uber.radio/uber/boomerang1970s/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/40837613-bc69-4b20-9d24-111bc44044c0.png" ,1980's
-https://drive.uber.radio/uber/boomerang1980s/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/7d98f408-ef21-42cf-ac2e-d185f8b668bd.png" ,1990's
-https://drive.uber.radio/uber/boomerang1990s/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/06d2963c-92ff-4826-80bd-86e77c43e745.png" ,2000's
-https://drive.uber.radio/uber/boomerang2000s/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/d1b2f26c-acb6-49a3-a2d9-e5e557da0ad3.png" ,2010's
-https://drive.uber.radio/uber/boomerang2010s/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8f02e070-20a5-4eea-8d4a-2338e9f190ba.png" ,2020's
-https://drive.uber.radio/uber/boomerang2020s/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/138850d4-1759-41d1-b5dc-01e14a617822.png" ,The 70's 80's & 90's
-https://drive.uber.radio/uber/ghr/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/43f85fea-7416-471e-80d3-7182924dbce7.png" ,Country
-https://drive.uber.radio/uber/starboxcountry/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ff902cfd-0e64-4f71-b090-e5df675892fb.png" ,Disco
-https://streaming.exclusive.radio/er/disco/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/7857a5df-ffec-406b-a4a1-141a0d257c85.png" ,Motown
-https://drive.uber.radio/uber/starboxmotown/icecast.audio
-#EXTINF:-1 group-title="YouRadio Greatest Hits" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/fedcb917-46f3-43eb-a5fc-a10d81a9248f.png" ,Soft Rock
-https://drive.uber.radio/uber/starboxsoftrock/icecast.audio
-
-
+#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Trending.png" ,TikTok Trending
+https://2.mystreaming.net/er-app/tiktoktrending/icecast.audio
+#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok 2023 Viral.png" ,TikTok 2023 Viral
+https://drive.uber.radio/uber/tt2023/icecast.audio
+#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Hits.png" ,TikTok Hits
+https://drive.uber.radio/uber/tthits/icecast.audio
+#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Throwbacks.png" ,TikTok Throwbacks
+https://drive.uber.radio/uber/ttthrowbacks/icecast.audio
 
 
 
@@ -2128,7 +2159,13 @@ https://2.mystreaming.net/uber-app/wake/icecast.audio
 
 
 
+#EXTINF:-1 group-title="YouRadio Just Jazz Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/bb2cdb60-0d19-4b86-9cd0-7677c656d07a.png" ,Al Jarreau
+https://drive.uber.radio/uber/jjraljarreau/icecast.audio
 
+
+
+#EXTINF:-1 group-title="YouRadio Rock The World" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a7a81dd1-fdb2-441b-aabd-bfaacd611d94.png" ,Alt Rock
+https://drive.uber.radio/uber/rtwalt/icecast.audio
 
 
 #EXTINF:-1 group-title="YouRadio World Music Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/53f05ae5-1fff-488d-a565-4644c4e47251.png" ,Afrobeats
@@ -2181,75 +2218,25 @@ https://drive.uber.radio/uber/forkidzwakeandshake/icecast.audio
 
 
 
-#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/912eafc8-6659-4a5f-b09a-0a51ac1f7882.jpg" ,Taylor Swift
-https://streaming.exclusive.radio/er/taylorswift/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/6b8adb31-5021-4e82-ad27-8f176caf9e91.jpg" ,Abba
-http://streaming.exclusive.radio/er/abba/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f045db74-8996-498a-a3a9-c0c677ece874.jpg" ,Adele
-https://streaming.exclusive.radio/er/adele/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/101f1e99-f931-44ec-a161-b251e14f3c42.png" ,50's
-https://drive.uber.radio/uber/lr1950s/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/52ddf955-862e-47b2-877d-c92150169970.png" ,Alabama
-https://drive.uber.radio/uber/cmralabama/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/6dae4965-500b-4a2a-b7fd-a114a1b284a7.jpg" ,Bon Jovi
-https://streaming.exclusive.radio/er/bonjovi/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/70c018e8-5324-443f-bad5-17fbd9135666.png" ,Sunanda Sharma
-https://drive.uber.radio/uber/bollywoodsunandasharma/icecast.audio
 
 
 
 
-#EXTINF:-1 group-title="YouRadio Rock The World" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a7a81dd1-fdb2-441b-aabd-bfaacd611d94.png" ,Alt Rock
-https://drive.uber.radio/uber/rtwalt/icecast.audio
-
-
-#EXTINF:-1 group-title="YouRadio Sportify" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/c6aee946-2cdc-46f3-8696-3b132a167d17.png" ,Pure Workout 130 BPM
-https://drive.uber.radio/uber/sportifybpm130/icecast.audio
-
-#EXTINF:-1 group-title="YouRadio Easy" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/78df16eb-7998-49e5-aed9-1bed50ea267a.png" ,Easy Instrumentals
-https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
-
-
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/cabbb0a2-f8ca-4562-a5d8-265bec1b563f.jpg" ,ABBA - HITS
-https://2.mystreaming.net/er-app/abbahits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ffdf4422-4bf2-4782-a4a1-f53ea2a95f5b.jpg" ,Adele - HITS
-https://streaming.exclusive.radio/er/adelehits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/78c1e353-db46-40a7-945b-7ae78561dede.jpg" ,Bob Marley - HITS
-https://streaming.exclusive.radio/er/bobmarleyhits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ef877966-4789-4c9d-b4a5-80084e554194.jpg" ,Britney Spears - HITS
-https://streaming.exclusive.radio/er/britneyspearshits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/21543c34-b3e3-4460-914c-bc90fe722ef0.jpg" ,Elvis Presley - HITS
-https://streaming.exclusive.radio/er/elvispresleyhits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/be2fc69e-7e22-4f34-a474-c1180d212c60.jpg" ,George Michael - HITS
-https://streaming.exclusive.radio/er/georgemichaelhits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/771deacd-d775-4c01-9a3a-35fb496dc9ef.jpg" ,Justin Bieber - HITS
-https://streaming.exclusive.radio/er/justinbieberhits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/38250748-4c11-4757-9b2f-f653e43da704.jpg" ,Lady Gaga - HITS
-https://streaming.exclusive.radio/er/ladygagahits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/7e0acc26-23a4-4903-8a43-7603cc9da78a.jpg" ,Madonna - Hits
-https://streaming.exclusive.radio/er/madonnahits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/1d63fc61-a6f3-48d9-a250-76bfac96d380.jpg" ,Mariah Carey - HITS
-https://streaming.exclusive.radio/er/mariahcareyhits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8cebfb80-bbef-45d7-a060-070af5573c2c.jpg" ,Michael Jackson - HITS
-https://streaming.exclusive.radio/er/michaeljacksonhits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/55573ca5-2a28-4bc4-99b6-1735520b2748.jpg" ,One Direction - HITS
-https://streaming.exclusive.radio/er/onedirectionhits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/c56d2eec-89d7-4e5a-897b-4e8c4b20407c.jpg" ,Prince - HITS
-https://streaming.exclusive.radio/er/princehits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8b9e5844-e296-4a84-91ed-10f831216b5d.jpg" ,Rihanna - HITS
-https://streaming.exclusive.radio/er/rihannahits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f5133702-3dd2-427d-9555-98376d80890f.jpg" ,Shakira - HITS
-https://streaming.exclusive.radio/er/shakirahits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/daa2edab-e771-41a0-8e3b-6feac4d6bd68.jpg" ,Taylor Swift - HITS
-https://streaming.exclusive.radio/er/taylorswifthits/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio HITS" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/35057368-c633-4c3b-ae39-41a46cd23707.jpg" ,The Weeknd - HITS
-https://streaming.exclusive.radio/er/theweekndhits/icecast.audio
 
 
 
 
-#EXTINF:-1 group-title="YouRadio Just Jazz Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/bb2cdb60-0d19-4b86-9cd0-7677c656d07a.png" ,Al Jarreau
-https://drive.uber.radio/uber/jjraljarreau/icecast.audio
+
+
+
+
+
+
+
+
+
+
+
 
 
 
