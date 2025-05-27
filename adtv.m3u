@@ -1840,9 +1840,12 @@ http://play.1list.vip/movie/andrecyrineu/obb546cadil/214536.mp4
 
 
 
-
-
-
+#EXTINF:-1 group-title="India Today" ,India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 group-title="India Today" ,Aaj Tak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
+#EXTINF:-1 group-title="India Today" ,GNT
+https://feeds.intoday.in/gnt/api/master.m3u8
 
 
 #EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/912eafc8-6659-4a5f-b09a-0a51ac1f7882.jpg" ,Taylor Swift
