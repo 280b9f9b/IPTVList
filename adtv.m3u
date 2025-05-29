@@ -1851,17 +1851,19 @@ https://feeds.intoday.in/gnt/api/master.m3u8
 
 
 #EXTINF:-1 group-title="NDTV" ,24x7
-https://dai.google.com/linear/hls/pa/event/FbL8YN7tSnqysJ6wVjKW7A/stream/1362f835-2933-432d-8d49-ce0e489f284e:BRU/master.m3u8
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 group-title="NDTV" ,India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 #EXTINF:-1 group-title="NDTV" ,Profit
-https://dai.google.com/linear/hls/pa/event/QuU6z3GSTDaXuLL9Hs5A5Q/stream/70ca6279-8d22-41d0-9e32-69263c69fed3:GRQ/master.m3u8
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_1.m3u8
 #EXTINF:-1 group-title="NDTV" ,Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_1.m3u8
 #EXTINF:-1 group-title="NDTV" ,MPCG
-https://dai.google.com/linear/hls/pa/event/sXGilpLZQeWCygKyNIyQig/stream/75bb0a45-4277-430a-b1c8-f0ee3d89548c:BRU/master.m3u8
+https://ndtvregional.akamaized.net/hls/live/2102726/ndtvmpcg/chunklist_1.m3u8
 #EXTINF:-1 group-title="NDTV" ,Rajasthan
-https://dai.google.com/linear/hls/pa/event/IoTNl-GQShWKit_KdZNY_A/stream/535edeb2-d308-4e87-96b4-9aa39db895d4:BRU/master.m3u8
+https://ndtvregional.akamaized.net/hls/live/2102726/ndtvraj/chunklist_1.m3u8
+
+
 
 #EXTINF:-1 group-title="Zee" ,Zee News
 https://d2dsoyvkr33m05.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDgzNjcyMzF9.WSsSwbIVaEDNExg67EpUGo2OHgdPGI5PmnoJzk-zqo0
