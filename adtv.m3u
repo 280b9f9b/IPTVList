@@ -1891,6 +1891,34 @@ https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 #EXTINF:-1 group-title="Zee" ,Zee 13
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 
+
+
+
+
+
+
+#EXTINF:-1 group-title="Zattoo" ,1+1
+https://live20.bozztv.com/trn03/gin-1plus1/index.m3u8
+#EXTINF:-1 group-title="Zattoo" ,Freedom
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+
+
+
+#EXTINF:-1 group-title="CNBC" ,TV18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="CNBC" ,Awaaz
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="CNBC" ,Bazaar
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/912eafc8-6659-4a5f-b09a-0a51ac1f7882.jpg" ,Taylor Swift
 https://streaming.exclusive.radio/er/taylorswift/icecast.audio
 #EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/6b8adb31-5021-4e82-ad27-8f176caf9e91.jpg" ,Abba
