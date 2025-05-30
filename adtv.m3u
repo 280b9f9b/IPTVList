@@ -2371,17 +2371,24 @@ https://d3ugbz7t7lf3ux.cloudfront.net/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Xumo" ,stories-by-amc
+https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Xumo" ,ion-plus
+https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Xumo" ,barney-and-friends
+https://3fe55aac.wurl.com/out/v1/15a8d7cdb8f94287a06d321ab3aabe4f/playlist.m3u8
+#EXTINF:-1 group-title="Xumo" ,ninja-kidz-tv
+https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xumo" ,pocket-watch-game-on
+https://pocketwatch-xumo.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Xumo" ,true-history-channel
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
 
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Xumo" ,cnn-originals
+https://amg01918-cnnus-amg01918c2-xumo-us-6436.playouts.now.amagi.tv/playlist.m3u8
 
 
 
