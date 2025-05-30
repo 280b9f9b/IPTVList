@@ -2350,6 +2350,39 @@ https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Xumo" ,ion-mystery
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Xumo" ,court-tv
+https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xumo" ,investigation
+https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xumo" ,ion
+https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xumo" ,law-and-crime
+https://cdn.lawandcrime.net/rewind/playlist.m3u8
+#EXTINF:-1 group-title="Xumo" ,reelz-famous-and-infamous
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Xumo" ,tv-one-crime-and-justice-fast-channel
+https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Xumo" ,midsomer-murders
+https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xumo" ,court-tv-legendary-trials
+https://scripps-ctvlegendary-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Xumo" ,cinelife
+https://d3ugbz7t7lf3ux.cloudfront.net/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
