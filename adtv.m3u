@@ -2818,6 +2818,19 @@ https://linear-627.frequency.stream/mt/brightcove/627/hls/master/playlist.m3u8
 https://linear-891.frequency.stream/mt/brightcove/891/hls/master/playlist.m3u8
 
 
+#EXTINF:-1 group-title="streamlock" ,streamlock
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+#EXTINF:-1 group-title="streamlock" ,streamlock
+https://5cf4a2c2512a2.streamlock.net/8164/8164/playlist.m3u8
+#EXTINF:-1 group-title="streamlock" ,streamlock
+https://5cf4a2c2512a2.streamlock.net/8172/8172/playlist.m3u8
+#EXTINF:-1 group-title="streamlock" ,streamlock
+https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
+#EXTINF:-1 group-title="streamlock" ,streamlock
+https://5cf4a2c2512a2.streamlock.net/8182/8182/playlist.m3u8
+#EXTINF:-1 group-title="streamlock" ,streamlock
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+
 
 
 
