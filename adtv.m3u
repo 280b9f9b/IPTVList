@@ -2607,10 +2607,7 @@ https://linear-930.frequency.stream/mt/plex/930/hls/master/playlist.m3u8
 https://linear-1006.frequency.stream/mt/plex/1006/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,The Bold and the Beautiful
 https://linear-1033.frequency.stream/mt/plex/1033/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Revry
-https://linear-5.frequency.stream/mt/plex/5/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Revry
-https://linear-43.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
+
 
 
 
@@ -2787,10 +2784,20 @@ https://linear-82.frequency.stream/mt/plex/82/hls/master/playlist.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="Revry" ,Revry Her
+https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Revry" ,Revry News
+https://linear-44.frequency.stream/mt/brightcove/44/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Revry" ,Revry Latinx
+https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Revry" ,Revry Brasil
+https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Revry" ,Revry 2
+https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Revry" ,Revry 2
+https://linear-5.frequency.stream/mt/plex/5/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Revry" ,Revry 3
+https://linear-43.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
 
 
 
