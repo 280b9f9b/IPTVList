@@ -2540,8 +2540,7 @@ https://linear-1033.frequency.stream/mt/plex/1033/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="PLEX butaca tv" ,PLEX
-https://linear-645.frequency.stream/mt/plex/645/hls/master/playlist.m3u8
+
 
 
 
@@ -2732,6 +2731,7 @@ https://linear-1009.frequency.stream/mt/plex/1009/hls/master/playlist.m3u8
 https://linear-1068.frequency.stream/mt/plex/1068/hls/master/playlist.m3u8
 
 
-
+#EXTINF:-1 group-title="PLEX" ,butaca tv
+https://linear-645.frequency.stream/mt/plex/645/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-82.frequency.stream/mt/plex/82/hls/master/playlist.m3u8
