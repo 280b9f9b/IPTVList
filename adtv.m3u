@@ -3069,7 +3069,38 @@ https://linear-1026.frequency.stream/mt/studio/1026/hls/master/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-64.frequency.stream/mt/vix/64/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-80.frequency.stream/mt/vix/80/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-82.frequency.stream/mt/vix/82/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-91.frequency.stream/mt/vix/91/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-138.frequency.stream/mt/vix/138/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-164.frequency.stream/mt/vix/164/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-178.frequency.stream/mt/vix/178/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-179.frequency.stream/mt/vix/179/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-186.frequency.stream/mt/vix/186/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-225.frequency.stream/mt/vix/225/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-227.frequency.stream/mt/vix/227/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-235.frequency.stream/mt/vix/235/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-255.frequency.stream/mt/vix/255/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-458.frequency.stream/mt/vix/458/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-627.frequency.stream/mt/vix/627/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="vix" ,vix
+https://linear-891.frequency.stream/mt/vix/891/hls/master/playlist.m3u8
 
 
 
