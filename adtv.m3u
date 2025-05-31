@@ -2802,6 +2802,28 @@ https://linear-43.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Brightcove" ,Brightcove
+https://linear-64.frequency.stream/mt/brightcove/64/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Brightcove" ,Brightcove
+https://linear-80.frequency.stream/mt/brightcove/80/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Brightcove" ,Brightcove
+https://linear-82.frequency.stream/mt/brightcove/82/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Brightcove" ,Brightcove
+https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Brightcove" ,Brightcove
+https://linear-225.frequency.stream/mt/brightcove/225/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Brightcove" ,Brightcove
+https://linear-235.frequency.stream/mt/brightcove/235/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Brightcove" ,Brightcove
+https://linear-627.frequency.stream/mt/brightcove/627/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Brightcove" ,Brightcove
+https://linear-891.frequency.stream/mt/brightcove/891/hls/master/playlist.m3u8
+
+
+
+
+
+
 
 
 
