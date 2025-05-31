@@ -3106,7 +3106,24 @@ https://linear-891.frequency.stream/mt/vix/891/hls/master/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="stream" ,stream
+https://linear-91.frequency.stream/91/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="stream" ,stream
+https://linear-138.frequency.stream/138/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="stream" ,stream
+https://linear-164.frequency.stream/164/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="stream" ,stream
+https://linear-178.frequency.stream/178/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="stream" ,stream
+https://linear-179.frequency.stream/179/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="stream" ,stream
+https://linear-186.frequency.stream/186/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="stream" ,stream
+https://linear-225.frequency.stream/225/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="stream" ,stream
+https://linear-227.frequency.stream/227/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="stream" ,stream
+https://linear-583.frequency.stream/583/hls/master/playlist.m3u8
 
 
 
