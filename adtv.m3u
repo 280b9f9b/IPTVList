@@ -2490,6 +2490,45 @@ https://linear-426.frequency.stream/mt/plex/426/hls/master/playlist.m3u8
 https://linear-291.frequency.stream/mt/plex/291/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,Journy
 https://linear-252.frequency.stream/mt/plex/252/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,PursuitUP
+https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,REELZ Famous & Infamous
+https://linear-190.frequency.stream/mt/plex/190/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,True History
+https://linear-188.frequency.stream/mt/plex/188/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,RevryNews
+https://linear-44.frequency.stream/mt/plex/44/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,ALF
+https://linear-729.frequency.stream/mt/plex/729/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,Farscape
+https://linear-731.frequency.stream/mt/plex/731/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,Non-Stop '90s
+https://linear-744.frequency.stream/mt/plex/744/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,National Lampoon
+https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,Wild West TV
+https://linear-799.frequency.stream/mt/plex/799/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,BET x Tyler Perry Drama
+https://linear-866.frequency.stream/mt/plex/866/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,BET x Tyler Perry Comedy
+https://linear-867.frequency.stream/mt/plex/867/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,UFC
+https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,Dove
+https://linear-896.frequency.stream/mt/plex/896/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,Midnight Pulp
+https://linear-897.frequency.stream/mt/plex/897/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,RetroCrush
+https://linear-899.frequency.stream/mt/plex/899/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,AsianCrush
+https://linear-900.frequency.stream/mt/plex/900/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,Comedy Dynamics
+https://linear-903.frequency.stream/mt/plex/903/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,Hunter
+https://linear-914.frequency.stream/mt/plex/914/hls/master/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="PLEX" ,PLEX
@@ -2537,14 +2576,11 @@ https://linear-235.frequency.stream/mt/plex/235/hls/master/playlist.m3u8
 https://linear-227.frequency.stream/mt/plex/227/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-225.frequency.stream/mt/plex/225/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-200.frequency.stream/mt/plex/200/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-190.frequency.stream/mt/plex/190/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-188.frequency.stream/mt/plex/188/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-186.frequency.stream/mt/plex/186/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
@@ -2609,8 +2645,7 @@ https://linear-93.frequency.stream/mt/plex/93/hls/master/playlist.m3u8
 https://linear-92.frequency.stream/mt/plex/92/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-91.frequency.stream/mt/plex/91/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-82.frequency.stream/mt/plex/82/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-80.frequency.stream/mt/plex/80/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
@@ -2619,8 +2654,7 @@ https://linear-64.frequency.stream/mt/plex/64/hls/master/playlist.m3u8
 https://linear-59.frequency.stream/mt/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-44.frequency.stream/mt/plex/44/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-43.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
@@ -2637,24 +2671,19 @@ https://linear-10.frequency.stream/mt/plex/10/hls/master/playlist.m3u8
 https://linear-5.frequency.stream/mt/plex/5/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-729.frequency.stream/mt/plex/729/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-730.frequency.stream/mt/plex/730/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-731.frequency.stream/mt/plex/731/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-732.frequency.stream/mt/plex/732/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-744.frequency.stream/mt/plex/744/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-770.frequency.stream/mt/plex/770/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-799.frequency.stream/mt/plex/799/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
@@ -2667,32 +2696,23 @@ https://linear-857.frequency.stream/mt/plex/857/hls/master/playlist.m3u8
 https://linear-859.frequency.stream/mt/plex/859/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-861.frequency.stream/mt/plex/861/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-866.frequency.stream/mt/plex/866/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-867.frequency.stream/mt/plex/867/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-874.frequency.stream/mt/plex/874/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-888.frequency.stream/mt/plex/888/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-891.frequency.stream/mt/plex/891/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-896.frequency.stream/mt/plex/896/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-897.frequency.stream/mt/plex/897/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-899.frequency.stream/mt/plex/899/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-900.frequency.stream/mt/plex/900/hls/master/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-901.frequency.stream/mt/plex/901/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-903.frequency.stream/mt/plex/903/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-914.frequency.stream/mt/plex/914/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-915.frequency.stream/mt/plex/915/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
@@ -2710,3 +2730,5 @@ https://linear-1068.frequency.stream/mt/plex/1068/hls/master/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="PLEX" ,PLEX
+https://linear-82.frequency.stream/mt/plex/82/hls/master/playlist.m3u8
