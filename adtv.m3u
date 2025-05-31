@@ -2530,7 +2530,8 @@ https://linear-914.frequency.stream/mt/plex/914/hls/master/playlist.m3u8
 https://linear-649.frequency.stream/mt/plex/649/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,21 Jump Street
 https://linear-915.frequency.stream/mt/plex/915/hls/master/playlist.m3u8
-
+#EXTINF:-1 group-title="PLEX" ,FLOU Detonación
+https://linear-930.frequency.stream/mt/plex/930/hls/master/playlist.m3u8
 
 
 
@@ -2717,8 +2718,7 @@ https://linear-901.frequency.stream/mt/plex/901/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-918.frequency.stream/mt/plex/918/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-930.frequency.stream/mt/plex/930/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-1006.frequency.stream/mt/plex/1006/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
