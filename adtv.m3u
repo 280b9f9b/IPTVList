@@ -703,161 +703,173 @@ https://linear-200.frequency.stream/mt/plex/200/hls/master/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Romanza+ Africa.png" ,Romanza+ Africa
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Romanza+ Africa.png" ,Romanza+ Africa
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/TVI África.png" ,TVI África
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/TVI África.png" ,TVI África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO Family
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="New EPG" tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO Pop
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="New EPG" tvg-name="HBO Pop" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/HBO.png" ,HBO Pop
 http://181.176.153.106:8090/play/a0qc
-#EXTINF:-1 group-title="Movies" tvg-id="ParamountMovieChannel.us" tvg-name="Paramount Movie Channel (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Paramount.png" ,Paramount Movie Channel (US)
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="ParamountMovieChannel.us" tvg-name="Paramount Movie Channel (US)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Paramount.png" ,Paramount Movie Channel (US)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Paramount Movie Channel | (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Paramount.png" ,Paramount Movie Channel
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="Paramount Movie Channel" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Paramount.png" ,Paramount Movie Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Starz Encore Classic | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz Encore
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="Starz Encore" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Starz.png" ,Starz Encore
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="ClassicMoviesChannel.us" tvg-name="Classic Movies Channel (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Classic
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="ClassicMoviesChannel.us" tvg-name="Classic Movies Channel (US)" tvg-logo="InsertLogoHere" ,Classic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
-#EXTINF:-1 group-title="Movies" tvg-id="EPG N/A" tvg-name="Cowboy Movie Channel | (STIRЯ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,Cowboy
+
+
+
+
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="EPG N/A" tvg-name="Cowboy Movie Channel | (STIRЯ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,Cowboy
 https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Movie Favorites By Lifetime (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Favorites
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="Movie Favorites By Lifetime (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Favorites
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32f13eb-8395-4e23-87b8-0bd6e7d05f16
-#EXTINF:-1 group-title="Movies" tvg-id="MoviesforGamers.us" tvg-name="Movies for Gamers (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Movies for Gamers
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="MoviesforGamers.us" tvg-name="Movies for Gamers (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Movies for Gamers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0
-#EXTINF:-1 group-title="Movies" tvg-id="MovieSphere.us" tvg-name="MovieSphere (UK) | (Samsung) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,MovieSphere
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="MovieSphere.us" tvg-name="MovieSphere (UK) | (Samsung) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="MovieSphere by Lionsgate (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,MovieSphere
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="MovieSphere by Lionsgate (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,MovieSphere
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
-#EXTINF:-1 group-title="Movies" tvg-id="MyTimeMovieNetworkEast.us" tvg-name="MyTime Movie Network (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,MyTime
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="MyTimeMovieNetworkEast.us" tvg-name="MyTime Movie Network (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)" tvg-logo="Logo N/A" ,MyTime
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="PlutoTVCrimeMovies.us" tvg-name="PlutoTV Crime Movies (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,PlutoTV Crime
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="PlutoTVCrimeMovies.us" tvg-name="PlutoTV Crime Movies (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,PlutoTV Crime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b
-#EXTINF:-1 group-title="Movies" tvg-id="PlutoTVCultFilms.us" tvg-name="PlutoTV Cult Films (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,PlutoTV Cult
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="PlutoTVCultFilms.us" tvg-name="PlutoTV Cult Films (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,PlutoTV Cult
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2ff9f4-514d-4e8c-b1c7-b4c048053a69
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Toonami Aftermath Movies" tvg-logo="InsertLogoHere" ,Toonami
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="Toonami Aftermath Movies" tvg-logo="InsertLogoHere" ,Toonami
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="NoEPG" tvg-name="Turner Classic Movies (TCM) East | (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" ,TCM
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="Turner Classic Movies (TCM) East | (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" ,TCM
 http://143.244.60.30/TCM/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="AMC East (American Movie Classics) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,AMC East
+
+
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="AMC East (American Movie Classics) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,AMC East
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="New EPG" tvg-name="AMC+ | (Ƭ⫯ⲍƬ⋎)" tvg-logo="New Logo" ,AMC+
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="New EPG" tvg-name="AMC+ | (Ƭ⫯ⲍƬ⋎)" tvg-logo="New Logo" ,AMC+
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="BET Jams | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,BET Jams
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="BET Jams | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,BET Jams
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="CMT (Country Music Television) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,CMT
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="CMT (Country Music Television) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Comedy Central (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Comedy Central
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="Comedy Central (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Comedy Central
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc03faa5-401f-4a68-9972-153b1f336cac
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Comedy Central | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Comedy Central
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="Comedy Central | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="Comet | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Comet
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="Comet | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,Comet
 http://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="New EPG" tvg-name="Horror | (Yidio.com) (Ƭ⫯ⲍƬ⋎)" tvg-logo="New Logo" ,Horror
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="New EPG" tvg-name="Horror | (Yidio.com) (Ƭ⫯ⲍƬ⋎)" tvg-logo="New Logo" ,Horror
 https://stitcher-yidio.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Firefox&deviceVersion=133.0&deviceId=55E88BA9-D5C9-3C64-BACE-32265DD6D370&appVersion=1&deviceDNT=0&deviceModel=web&embedPartner=yidio.com&sid=36e7f30751b4eecd6baa8051b5bdfce7
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="MTV2 || (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,MTV2
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="MTV2 || (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,MTV2
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="Much.Music.ca" tvg-name="MUCH | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" ,MUCH
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="Much.Music.ca" tvg-name="MUCH | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" ,MUCH
 http://fl1.moveonjoy.com/MUCH/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="StartTVNetwork.us" tvg-name="StartTV | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" ,StartTV
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="StartTVNetwork.us" tvg-name="StartTV | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" ,StartTV
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TBS (TurnerBroadcastingSystem) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TBS
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="TBS (TurnerBroadcastingSystem) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TBS | (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TBS
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="TBS | (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TBS
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-id="NoEPG" tvg-name="TCM (TurnerClassicMovies) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TCM
+#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="TCM (TurnerClassicMovies) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Auto" tvg-id="30AWeLoveCars.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" ,EN: 30A We Love Cars
+
+
+
+
+
+
+#EXTINF:-1 group-title="Auto" ,EN: 30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
-#EXTINF:-1 group-title="Auto" tvg-id="100AutoMotoTV.bg" tvg-logo="https://i.imgur.com/SZtJfOG.png" ,BG: 100% Auto Moto TV (406p) [Not 24/7]
+#EXTINF:-1 group-title="Auto" ,BG: 100% Auto Moto TV (406p) [Not 24/7]
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 group-title="Auto" tvg-id="CanalMotor.no" tvg-logo="https://i.imgur.com/nCAt3QN.png" ,NO: Canal Motor (720p)
+#EXTINF:-1 group-title="Auto" ,NO: Canal Motor (720p)
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="Auto" tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" ,ES: Garage TV Latin America
+#EXTINF:-1 group-title="Auto" ,ES: Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 group-title="Auto" tvg-id="PlutoTVCars.us" tvg-logo="https://i.imgur.com/Tm3VFmq.png" ,EN: Pluto TV Cars
+#EXTINF:-1 group-title="Auto" ,EN: Pluto TV Cars
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c12ba66eae03059cbdc77f2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac636-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f9bce8e-d9f8-4cf4-8b83-367dc559496a
-#EXTINF:-1 group-title="Auto" tvg-id="KCKSLD9.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" ,EN: Retro TV (KCKS-LD9) (480p)
+#EXTINF:-1 group-title="Auto" ,EN: Retro TV (KCKS-LD9) (480p)
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
-#EXTINF:-1 group-title="Auto" tvg-id="RPM.za" tvg-logo="https://i.imgur.com/gWJ1lN8.png" ,EN: RPM (720p)
+#EXTINF:-1 group-title="Auto" ,EN: RPM (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
-#EXTINF:-1 group-title="Auto" tvg-id="TopGear.uk" tvg-logo="https://i.imgur.com/S6Su6QH.png" ,EN: Top Gear (720p)
+#EXTINF:-1 group-title="Auto" ,EN: Top Gear (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Auto" tvg-id="Choppertown.us" tvg-logo="https://i.imgur.com/U6cu5Ms.png" ,EN: Choppertown (720p)
+#EXTINF:-1 group-title="Auto" ,EN: Choppertown (720p)
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Auto" tvg-id="FunRoads.us" tvg-logo="https://i.imgur.com/2Q6TENm.png" ,EN: Fun Roads (404p)
+#EXTINF:-1 group-title="Auto" ,EN: Fun Roads (404p)
 http://104.143.4.5:2080/funroads.m3u8
 
 
 
-#EXTINF:-1 group-title="Documentary" tvg-id="AsharqDocumentary.sa" tvg-logo="https://yt3.googleusercontent.com/AFUZ79or1rvrFKbfaMDdoJ1n_814lANCdUOdH0mdGRmcYfIfDH4cfTWwyUkHwie2I2xJPlaTJg=s512-c-k-c0x00ffffff-no-rj" ,AR: Asharq Documentary (1080p)
+
+#EXTINF:-1 group-title="Documentaries" ,AR: Asharq Documentary (1080p)
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="BritBoxMysteries.us" tvg-logo="https://i.imgur.com/PJdzoLN.png" ,EN: BritBox Mysteries
+#EXTINF:-1 group-title="Documentaries"  ,EN: BritBox Mysteries
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f5d389985a0c0007357304/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7df7400e-1d21-4d2c-9534-db1c6d847a42
-#EXTINF:-1 group-title="Documentary" tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" ,EN: CGTN Documentary (1080p)
+#EXTINF:-1 group-title="Documentaries" ,EN: CGTN Documentary (1080p)
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="ClickTVChile.cl" tvg-logo="https://i.imgur.com/H0XNbMS.png" ,ES: Click TV (Coronel) (720p)
+#EXTINF:-1 group-title="Documentaries" ,ES: Click TV (Coronel) (720p)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="CourtTV.us" tvg-logo="https://i.imgur.com/qkfe3o9.png" ,EN: Court TV (720p)
+#EXTINF:-1 group-title="Documentaries" ,EN: Court TV (720p)
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="CT2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/512px-%C4%8CT2_logo_2012.svg.png" ,CS: ČT 2
+#EXTINF:-1 group-title="Documentaries" ,CS: ČT 2
 http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="DallasCowboysCheerleaders.us" tvg-logo="https://i.imgur.com/73HlRCg.png" ,EN: Dallas Cowboys Cheerleaders
+#EXTINF:-1 group-title="Documentaries" ,EN: Dallas Cowboys Cheerleaders
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c40-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=92a113fc-f35c-4160-9c63-27cd8537a39f
-#EXTINF:-1 group-title="Documentary" tvg-id="Dateline247.us" tvg-logo="https://i.imgur.com/8mAJuut.png" ,EN: Dateline 24/7
+#EXTINF:-1 group-title="Documentaries" ,EN: Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="Dokusat.de" tvg-logo="https://i.imgur.com/GadfTwF.png" ,DE: Dokusat (1080p)
+#EXTINF:-1 group-title="Documentaries" ,DE: Dokusat (1080p)
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="Ecovision.do" tvg-logo="https://imgur.com/a/pUlIJZX.png" ,ES: Ecovisión (720p)
+
+
+
+
+#EXTINF:-1 group-title="Documentaries" ,ES: Ecovisión (720p)
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="InkMaster.us" tvg-logo="https://i.imgur.com/DiBojYh.png" ,EN: Ink Master
+#EXTINF:-1 group-title="Documentaries" ,EN: Ink Master
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60807fd5db701400078219c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ebedec3d-689a-4150-a2fd-4e2e34eb982c
-#EXTINF:-1 group-title="Documentary" tvg-id="La2.es" tvg-logo="https://i.imgur.com/3NwzqoB.png" ,ES: La 2 (1080p)
+#EXTINF:-1 group-title="Documentaries" ,ES: La 2 (1080p)
 http://185.189.225.150:85/TV2/index.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="La2Canarias.es" tvg-logo="https://i.imgur.com/iwDi3ND.png" ,ES: La 2 Canarias (720p)
+#EXTINF:-1 group-title="Documentaries" ,ES: La 2 Canarias (720p)
 https://ztnr.rtve.es/ztnr/5468585.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/512px-Logo_TVE-2.svg.png" ,ES: La 2 Catalunya (720p)
+#EXTINF:-1 group-title="Documentaries" ,ES: La 2 Catalunya (720p)
 https://ztnr.rtve.es/ztnr/3987218.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="LawCrime.us" tvg-logo="https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj" ,EN: Law & Crime (720p)
+#EXTINF:-1 group-title="Documentaries" ,EN: Law & Crime (720p)
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="N24Doku.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/512px-N24Doku.svg.png" ,DE: N24 Doku
+#EXTINF:-1 group-title="Documentaries" ,DE: N24 Doku
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b55-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39199e43-689e-4f83-9f74-b89605373bf0
-#EXTINF:-1 group-title="Documentary" tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" ,AR/EN: National Geographic Abu Dhabi (1080p)
+#EXTINF:-1 group-title="Documentaries" ,AR/EN: National Geographic Abu Dhabi (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="PlutoTVAnimals.us" tvg-logo="https://i.imgur.com/N00seOn.png" ,EN: Pluto TV Animals
+#EXTINF:-1 group-title="Documentaries" ,EN: Pluto TV Animals
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac633-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ec05d93-5fee-4979-91ea-f6de241d3f06
-#EXTINF:-1 group-title="Documentary" tvg-id="ForensicFiles.us" tvg-logo="https://i.imgur.com/V5vvuLK.png" ,ES: Pluto TV Forensic Files en ESP (720p)
+#EXTINF:-1 group-title="Documentaries" ,ES: Pluto TV Forensic Files en ESP (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e94cd036cc69d0007e8a1ba&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=933&terminate=false&userId=
-#EXTINF:-1 group-title="Documentary" tvg-id="PlutoTVHistory.us" tvg-logo="https://i.imgur.com/XkQD5kM.png" ,EN: Pluto TV History
+#EXTINF:-1 group-title="Documentaries" ,EN: Pluto TV History
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed48-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b0c9a3d-9786-4dee-8eea-1dfcbea2ee1b
-#EXTINF:-1 group-title="Documentary" tvg-id="PlutoTVParanormal.us" tvg-logo="https://i.imgur.com/ApN6nfw.png" ,EN: Pluto TV Paranormal
+#EXTINF:-1 group-title="Documentaries" ,EN: Pluto TV Paranormal
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1455-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a6d0c5d3-d3a3-4e4b-acd3-5b277ebb8723
-#EXTINF:-1 group-title="Documentary" tvg-id="Reelz.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" ,EN: Reelz
+#EXTINF:-1 group-title="Documentaries" ,EN: Reelz
 https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="SpikePlutoTV.us" tvg-logo="https://i.imgur.com/woY8Ecb.png" ,EN: Spike Pluto TV
+
+
+#EXTINF:-1 group-title="Documentaries" ,EN: Spike Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb098-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7817c7c9-18cd-4d07-835d-350e94a68d2b
-#EXTINF:-1 group-title="Documentary" tvg-id="TeenMom.us" tvg-logo="https://i.imgur.com/8o3ClCV.png" ,EN: Teen Mom
+#EXTINF:-1 group-title="Documentaries" ,EN: Teen Mom
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6127e12ed140e900077e7b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=773b4ab9-534b-435a-904e-6819ef8dfb5e
-#EXTINF:-1 group-title="Documentary" tvg-id="AsharqDiscovery.sa" tvg-logo="https://i.imgur.com/Czxi7yk.png" ,AR/EN: Asharq Discovery (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="Documentaries" ,AR/EN: Asharq Discovery (1080p) [Geo-blocked]
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="30ALoomeredTV.us" tvg-logo="https://cbs12.com/resources/media/0c1ecad8-fb09-4bb2-beaa-fc561dfe624a-small21x9_LoomerStill.jpg?1603419052801" ,EN: 30A Loomered TV
+#EXTINF:-1 group-title="Documentaries" ,EN: 30A Loomered TV
 https://30a-tv.com/loomer.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="NovaTVAgrotour.br" tvg-logo="https://i.imgur.com/cgN2hfm.png" ,PT: Nova TV Agrotour (360p)
+#EXTINF:-1 group-title="Documentaries" ,PT: Nova TV Agrotour (360p)
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-id="GZT.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/320px-GZT_logo.svg.png" ,TR: GZT (1080p)
+#EXTINF:-1 group-title="Documentaries" ,TR: GZT (1080p)
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 
