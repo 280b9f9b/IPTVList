@@ -2759,6 +2759,8 @@ https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 https://linear-276.frequency.stream/mt/plex/276/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports & Fitness",Swerve Combat
 https://linear-253.frequency.stream/mt/plex/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sci-Fi & Fantasy",Unidentified
+https://linear-150.frequency.stream/mt/plex/150/hls/master/playlist.m3u8
 
 
 
@@ -2804,8 +2806,7 @@ https://linear-179.frequency.stream/mt/plex/179/hls/master/playlist.m3u8
 https://linear-178.frequency.stream/mt/plex/178/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-164.frequency.stream/mt/plex/164/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-150.frequency.stream/mt/plex/150/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-138.frequency.stream/mt/plex/138/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
