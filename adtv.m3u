@@ -2771,6 +2771,28 @@ https://linear-59.frequency.stream/mt/plex/59/hls/master/playlist.m3u8
 https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Comedy",Always Funny
 https://linear-12.frequency.stream/mt/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Horror & Thriller",Scream Factory TV
+https://linear-730.frequency.stream/mt/plex/730/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Comedy",Trailer Park Boys: The SwearNet Show
+https://linear-732.frequency.stream/mt/plex/732/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV Shows & Drama",CW Forever
+https://linear-850.frequency.stream/mt/plex/850/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Horror & Thriller",GREAT! mystery
+https://linear-861.frequency.stream/mt/plex/861/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sci-Fi & Fantasy",Alien Nation by DUST
+https://linear-888.frequency.stream/mt/plex/888/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Travel & Lifestyle",GoPro
+https://linear-891.frequency.stream/mt/plex/891/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Kids & Family",Yu-Gi-Oh!
+https://linear-901.frequency.stream/mt/plex/901/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV Shows & Drama",Animation+
+https://linear-918.frequency.stream/mt/plex/918/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Reality & Talk Shows",Cut
+https://linear-1009.frequency.stream/mt/plex/1009/hls/master/playlist.m3u8
+
+
+
+
 
 
 
@@ -2829,38 +2851,29 @@ https://linear-64.frequency.stream/mt/plex/64/hls/master/playlist.m3u8
 https://linear-11.frequency.stream/mt/plex/11/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-10.frequency.stream/mt/plex/10/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-730.frequency.stream/mt/plex/730/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-732.frequency.stream/mt/plex/732/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-770.frequency.stream/mt/plex/770/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-850.frequency.stream/mt/plex/850/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-851.frequency.stream/mt/plex/851/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-857.frequency.stream/mt/plex/857/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-859.frequency.stream/mt/plex/859/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-861.frequency.stream/mt/plex/861/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-874.frequency.stream/mt/plex/874/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-888.frequency.stream/mt/plex/888/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-891.frequency.stream/mt/plex/891/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-901.frequency.stream/mt/plex/901/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-918.frequency.stream/mt/plex/918/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-1009.frequency.stream/mt/plex/1009/hls/master/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-1068.frequency.stream/mt/plex/1068/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,butaca tv
@@ -2875,12 +2888,11 @@ https://linear-82.frequency.stream/mt/plex/82/hls/master/playlist.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 group-title="Brightcove" ,Brightcove
+#EXTINF:-1 group-title="Military & War",The Team House
 https://linear-64.frequency.stream/mt/brightcove/64/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Travel & Lifestyle",GoPro
+https://linear-891.frequency.stream/mt/brightcove/891/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Brightcove" ,Brightcove
 https://linear-80.frequency.stream/mt/brightcove/80/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Brightcove" ,Brightcove
@@ -2891,22 +2903,23 @@ https://linear-225.frequency.stream/mt/brightcove/225/hls/master/playlist.m3u8
 https://linear-235.frequency.stream/mt/brightcove/235/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Brightcove" ,Brightcove
 https://linear-627.frequency.stream/mt/brightcove/627/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Brightcove" ,Brightcove
-https://linear-891.frequency.stream/mt/brightcove/891/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 group-title="streamlock" ,streamlock
+
+#EXTINF:-1 group-title="Cultural & World",TV Brasil
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
-#EXTINF:-1 group-title="streamlock" ,streamlock
+#EXTINF:-1 group-title="Cultural & World",Limón TV
 https://5cf4a2c2512a2.streamlock.net/8164/8164/playlist.m3u8
+#EXTINF:-1 group-title="Cultural & World",TV Brasil
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+
 #EXTINF:-1 group-title="streamlock" ,streamlock
 https://5cf4a2c2512a2.streamlock.net/8172/8172/playlist.m3u8
 #EXTINF:-1 group-title="streamlock" ,streamlock
 https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
 #EXTINF:-1 group-title="streamlock" ,streamlock
 https://5cf4a2c2512a2.streamlock.net/8182/8182/playlist.m3u8
-#EXTINF:-1 group-title="streamlock" ,streamlock
-https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+
 
 
 
