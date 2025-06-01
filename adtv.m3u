@@ -741,7 +741,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2ff9f4-514d-4e8c-b1c7-b4c048053a69
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="Toonami Aftermath Movies" tvg-logo="InsertLogoHere" ,Toonami
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="Turner Classic Movies (TCM) East | (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png" ,TCM
+#EXTINF:-1 group-title="Movies & Entertainment" ,TCM
 http://143.244.60.30/TCM/index.m3u8
 
 
