@@ -2765,7 +2765,8 @@ https://linear-124.frequency.stream/mt/plex/124/hls/master/playlist.m3u8
 https://linear-200.frequency.stream/mt/plex/200/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local 28
 https://linear-98.frequency.stream/mt/plex/98/hls/master/playlist.m3u8
-
+#EXTINF:-1 group-title="Action & Adventure",Hi-YAH!
+https://linear-59.frequency.stream/mt/plex/59/hls/master/playlist.m3u8
 
 
 
@@ -2819,8 +2820,7 @@ https://linear-91.frequency.stream/mt/plex/91/hls/master/playlist.m3u8
 https://linear-80.frequency.stream/mt/plex/80/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-64.frequency.stream/mt/plex/64/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-59.frequency.stream/mt/plex/59/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
