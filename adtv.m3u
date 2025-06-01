@@ -778,33 +778,32 @@ http://143.244.60.30/TBS/index.m3u8
 http://fl1.moveonjoy.com/TCM/index.m3u8
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Auto" ,EN: 30A We Love Cars
+#EXTINF:-1 group-title="Auto & Motor" ,EN: 30A We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8
-#EXTINF:-1 group-title="Auto" ,BG: 100% Auto Moto TV (406p) [Not 24/7]
+#EXTINF:-1 group-title="Auto & Motor" ,BG: 100% Auto Moto TV (406p) [Not 24/7]
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 group-title="Auto" ,NO: Canal Motor (720p)
+#EXTINF:-1 group-title="Auto & Motor" ,NO: Canal Motor (720p)
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="Auto" ,ES: Garage TV Latin America
+#EXTINF:-1 group-title="Auto & Motor" ,ES: Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 group-title="Auto" ,EN: Pluto TV Cars
+#EXTINF:-1 group-title="Auto & Motor" ,EN: Pluto TV Cars
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c12ba66eae03059cbdc77f2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac636-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f9bce8e-d9f8-4cf4-8b83-367dc559496a
-#EXTINF:-1 group-title="Auto" ,EN: Retro TV (KCKS-LD9) (480p)
+#EXTINF:-1 group-title="Auto & Motor" ,EN: Retro TV (KCKS-LD9) (480p)
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
-#EXTINF:-1 group-title="Auto" ,EN: RPM (720p)
+#EXTINF:-1 group-title="Auto & Motor" ,EN: RPM (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
-#EXTINF:-1 group-title="Auto" ,EN: Top Gear (720p)
+#EXTINF:-1 group-title="Auto & Motor" ,EN: Top Gear (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Auto" ,EN: Choppertown (720p)
+#EXTINF:-1 group-title="Auto & Motor" ,EN: Choppertown (720p)
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Auto" ,EN: Fun Roads (404p)
+#EXTINF:-1 group-title="Auto & Motor" ,EN: Fun Roads (404p)
 http://104.143.4.5:2080/funroads.m3u8
+
+
+
+
+
+
 
 
 
@@ -827,10 +826,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 #EXTINF:-1 group-title="Documentaries" ,DE: Dokusat (1080p)
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-
-
-
-
 #EXTINF:-1 group-title="Documentaries" ,ES: Ecovisión (720p)
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1 group-title="Documentaries" ,EN: Ink Master
@@ -857,8 +852,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1455-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a6d0c5d3-d3a3-4e4b-acd3-5b277ebb8723
 #EXTINF:-1 group-title="Documentaries" ,EN: Reelz
 https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
-
-
 #EXTINF:-1 group-title="Documentaries" ,EN: Spike Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb098-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7817c7c9-18cd-4d07-835d-350e94a68d2b
 #EXTINF:-1 group-title="Documentaries" ,EN: Teen Mom
@@ -873,82 +866,87 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 
-
-
-#EXTINF:-1 group-title="Lifestyle" ,EN: 30A Luxe Life Discovered
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: 30A Luxe Life Discovered
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,RO: Antena Monden (720p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,RO: Antena Monden (720p)
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,HI: Ayush TV (360p) [Not 24/7]
+#EXTINF:-1 group-title="Travel & Lifestyle" ,HI: Ayush TV (360p) [Not 24/7]
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,EN: BBC Home & Garden
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: BBC Home & Garden
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
-#EXTINF:-1 group-title="Lifestyle" ,EN: Better Health TV (480p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Better Health TV (480p)
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,EN: Biz TV (1080p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Biz TV (1080p)
 https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,RO: CaTine (720p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,RO: CaTine (720p)
 https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,EN: Cats 24/7
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Cats 24/7
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1d9d30b-52fa-4979-a2d6-5066af724ab6
-#EXTINF:-1 group-title="Lifestyle" ,EN: CineLife
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: CineLife
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,FR: Fashion TV UHD (2160p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,FR: Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,CS/SK: FashionTV Czech&Slovak (450p) [Not 24/7]
+#EXTINF:-1 group-title="Travel & Lifestyle" ,CS/SK: FashionTV Czech&Slovak (450p) [Not 24/7]
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,TR: Fortuna TV
+#EXTINF:-1 group-title="Travel & Lifestyle" ,TR: Fortuna TV
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,EN: Global Fashion Channel (1080p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Global Fashion Channel (1080p)
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,FR: Guide Love TV (720p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,FR: Guide Love TV (720p)
 https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,FR: HANDICAP TV France
+#EXTINF:-1 group-title="Travel & Lifestyle" ,FR: HANDICAP TV France
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,EN: Hobby Maker (720p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Hobby Maker (720p)
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,EN: Just Vogue TV (1080p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Just Vogue TV (1080p)
 https://ip100.radyotelekomtv.com:3873/stream/play.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,KO: KBS Life (480p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,KO: KBS Life (480p)
 http://mytv.dothome.co.kr/ch/catv/5.php
-#EXTINF:-1 group-title="Lifestyle" ,EN: Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p)
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,EN: Localish (720p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Localish (720p)
 https://apollo.production-public.tubi.io/live/ac-localish.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,ES: Logos TV Salud (720p) [Not 24/7]
+#EXTINF:-1 group-title="Travel & Lifestyle" ,ES: Logos TV Salud (720p) [Not 24/7]
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,EN: Marco Polo TV
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Marco Polo TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004cf398020f00084ca8bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84adb624-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c670d03b-8683-44b1-822a-72919a68ae4d
-#EXTINF:-1 group-title="Lifestyle" ,RO: MediCOOL TV (720p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,RO: MediCOOL TV (720p)
 https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,ES: Nova (Spain) (576p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,ES: Nova (Spain) (576p)
 http://185.189.225.150:85/nova/index.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,ES: Plous TV (1080p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,ES: Plous TV (1080p)
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,EN: Pluto TV Home
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Pluto TV Home
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6022bd17849c620007f43ae0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0db981e3-cabf-4589-ae4e-5696db28f9ea
-#EXTINF:-1 group-title="Lifestyle" ,DE: QS24.tv (1080p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,DE: QS24.tv (1080p)
 https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,EN: Revry 2
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Revry 2
 https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,PT: Revry Brasil
+#EXTINF:-1 group-title="Travel & Lifestyle" ,PT: Revry Brasil
 https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,EN: Revry Queer (720p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Revry Queer (720p)
 https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,FR: SOS Docteur TV (480p) [Not 24/7]
+#EXTINF:-1 group-title="Travel & Lifestyle" ,FR: SOS Docteur TV (480p) [Not 24/7]
 https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,EN: Superyacht TV (1080p)
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Superyacht TV (1080p)
 https://sy.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,EN: The Jamie Oliver Channel
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: The Jamie Oliver Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab9df3d48f40008868091/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c35404c-1695-499c-9f13-965f00e7ea9b
-#EXTINF:-1 group-title="Lifestyle" ,FR: TV5Monde Style (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="Travel & Lifestyle" ,FR: TV5Monde Style (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,RU: ЖИВИ!
+#EXTINF:-1 group-title="Travel & Lifestyle" ,RU: ЖИВИ!
 http://31.148.48.15/Zhivi/index.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,RU: НТВ Стиль
+#EXTINF:-1 group-title="Travel & Lifestyle" ,RU: НТВ Стиль
 https://cdn.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" ,EN: Fashion Finds
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Fashion Finds
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="News & Politics", 2GB Sydney (1080p)
@@ -2175,28 +2173,30 @@ http://play.1list.vip/movie/andrecyrineu/obb546cadil/214536.mp4
 
 
 
-#EXTINF:-1 group-title="India Today" ,India Today
+#EXTINF:-1 group-title="News & Politics" ,India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 group-title="India Today" ,Aaj Tak HD
+#EXTINF:-1 group-title="News & Politics" ,Aaj Tak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
-#EXTINF:-1 group-title="India Today" ,GNT
+#EXTINF:-1 group-title="News & Politics" ,GNT
 https://feeds.intoday.in/gnt/api/master.m3u8
 
 
 
 
-#EXTINF:-1 group-title="NDTV" ,24x7
+
+#EXTINF:-1 group-title="News & Politics" ,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 group-title="NDTV" ,India
+#EXTINF:-1 group-title="News & Politics" ,NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
-#EXTINF:-1 group-title="NDTV" ,Profit
+#EXTINF:-1 group-title="News & Politics" ,NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_1.m3u8
-#EXTINF:-1 group-title="NDTV" ,Marathi
+#EXTINF:-1 group-title="News & Politics" ,NDTV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_1.m3u8
-#EXTINF:-1 group-title="NDTV" ,MPCG
+#EXTINF:-1 group-title="News & Politics" ,NDTV MPCG
 https://ndtvregional.akamaized.net/hls/live/2102726/ndtvmpcg/chunklist_1.m3u8
-#EXTINF:-1 group-title="NDTV" ,Rajasthan
+#EXTINF:-1 group-title="News & Politics" ,NDTV Rajasthan
 https://ndtvregional.akamaized.net/hls/live/2102726/ndtvraj/chunklist_1.m3u8
+
 
 
 
@@ -2231,19 +2231,21 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 
 
 
-#EXTINF:-1 group-title="Zattoo" ,1+1
+#EXTINF:-1 group-title="News & Politics" ,1+1
 https://live20.bozztv.com/trn03/gin-1plus1/index.m3u8
-#EXTINF:-1 group-title="Zattoo" ,Freedom
+#EXTINF:-1 group-title="News & Politics" ,Freedom
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 
 
 
-#EXTINF:-1 group-title="CNBC" ,TV18
+
+#EXTINF:-1 group-title="News & Politics" ,CNBC TV18
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 group-title="CNBC" ,Awaaz
+#EXTINF:-1 group-title="News & Politics" ,CNBC Awaaz
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 group-title="CNBC" ,Bazaar
+#EXTINF:-1 group-title="News & Politics" ,CNBC Bazaar
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8
+
 
 
 
@@ -2655,105 +2657,110 @@ https://drive.uber.radio/uber/forkidzwakeandshake/icecast.audio
 
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="PLEX" ,BET x Tyler Perry Comedy
+#EXTINF:-1 group-title="Comedy" ,BET x Tyler Perry Comedy
 https://linear-867.frequency.stream/mt/plex/867/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,ion-mystery
+#EXTINF:-1 group-title="Horror & Thriller" ,ion-mystery
 https://scripps-ionmystery-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Miramax Movie Channel
+#EXTINF:-1 group-title="Movies & Entertainment" ,Miramax Movie Channel
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,National Lampoon
+#EXTINF:-1 group-title="Comedy" ,National Lampoon
 https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Miramax Movie Channel
-https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Plex24
+#EXTINF:-1 group-title="Movies & Entertainment" ,Plex24
 https://plex-ono-3-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,IFC Films Picks
+#EXTINF:-1 group-title="Movies & Entertainment" ,IFC Films Picks
 https://amc-ifc-films-picks-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Maverick Black Cinema
+#EXTINF:-1 group-title="Movies & Entertainment" ,Maverick Black Cinema
 https://maverick-maverick-black-cinema-2-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Runtime
+#EXTINF:-1 group-title="Movies & Entertainment" ,Runtime
 https://run-rt-us.otteravision.com/out/v1/336b14e0a931466f99386ae576d30a57/index.m3u8
-#EXTINF:-1 group-title="PLEX" ,Samuel Goldwyn Channel
+#EXTINF:-1 group-title="Movies & Entertainment" ,Samuel Goldwyn Channel
 https://samuelgoldwyn-films-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Spark TV Light & Love
+#EXTINF:-1 group-title="Faith & Religion" ,Spark TV Light & Love
 https://candlelightmedia-sparklightlove-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Documentary+
+#EXTINF:-1 group-title="Documentaries" ,Documentary+
 https://linear-859.frequency.stream/dist/plex/859/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Samuel Goldwyn Classics
+#EXTINF:-1 group-title="Movies & Entertainment" ,Samuel Goldwyn Classics
 https://samuelgoldwyn-classics-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,RCM
+#EXTINF:-1 group-title="Movies & Entertainment" ,RCM
 https://amg01076-amg01076c11-plex-us-4783.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,The Black Effect
+#EXTINF:-1 group-title="TV Shows & Drama" ,The Black Effect
 https://mansa-mansamix-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Oro TV
+#EXTINF:-1 group-title="Movies & Entertainment" ,Oro TV
 https://linear-651.frequency.stream/mt/plex/651/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Judge Faith
+#EXTINF:-1 group-title="Reality & Talk Shows" ,Judge Faith
 https://linear-650.frequency.stream/mt/plex/650/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Court Sports Network
+#EXTINF:-1 group-title="Sports & Fitness" ,Court Sports Network
 https://linear-627.frequency.stream/mt/plex/627/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,TV One Crime & Justice
+#EXTINF:-1 group-title="Crime & Mystery" ,TV One Crime & Justice
 https://linear-593.frequency.stream/mt/plex/593/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Real Disaster Channel
+#EXTINF:-1 group-title="Documentaries" ,Real Disaster Channel
 https://linear-475.frequency.stream/mt/plex/475/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,At Home with Family Handyman
+#EXTINF:-1 group-title="Home & Design" ,At Home with Family Handyman
 https://linear-458.frequency.stream/mt/plex/458/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PokerGO
+#EXTINF:-1 group-title="Sports & Fitness" ,PokerGO
 https://linear-426.frequency.stream/mt/plex/426/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Journy
+#EXTINF:-1 group-title="Travel & Lifestyle" ,Journy
 https://linear-291.frequency.stream/mt/plex/291/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Journy
+#EXTINF:-1 group-title="Travel & Lifestyle" ,Journy
 https://linear-252.frequency.stream/mt/plex/252/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PursuitUP
+#EXTINF:-1 group-title="Nature & Wildlife" ,PursuitUP
 https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,REELZ Famous & Infamous
+#EXTINF:-1 group-title="Documentaries" ,REELZ Famous & Infamous
 https://linear-190.frequency.stream/mt/plex/190/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,True History
+#EXTINF:-1 group-title="History & Science" ,True History
 https://linear-188.frequency.stream/mt/plex/188/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,RevryNews
+#EXTINF:-1 group-title="News & Politics" ,RevryNews
 https://linear-44.frequency.stream/mt/plex/44/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,ALF
+#EXTINF:-1 group-title="TV Shows & Drama" ,ALF
 https://linear-729.frequency.stream/mt/plex/729/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Farscape
+#EXTINF:-1 group-title="Sci-Fi & Fantasy" ,Farscape
 https://linear-731.frequency.stream/mt/plex/731/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Non-Stop '90s
+#EXTINF:-1 group-title="Music & Radio" ,Non-Stop '90s
 https://linear-744.frequency.stream/mt/plex/744/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,National Lampoon
+#EXTINF:-1 group-title="Comedy" ,National Lampoon
 https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Wild West TV
+#EXTINF:-1 group-title="Westerns & Country" ,Wild West TV
 https://linear-799.frequency.stream/mt/plex/799/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,BET x Tyler Perry Drama
+#EXTINF:-1 group-title="TV Shows & Drama" ,BET x Tyler Perry Drama
 https://linear-866.frequency.stream/mt/plex/866/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,BET x Tyler Perry Comedy
+#EXTINF:-1 group-title="Comedy" ,BET x Tyler Perry Comedy
 https://linear-867.frequency.stream/mt/plex/867/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,UFC
+#EXTINF:-1 group-title="Sports & Fitness" ,UFC
 https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Dove
+#EXTINF:-1 group-title="Faith & Religion" ,Dove
 https://linear-896.frequency.stream/mt/plex/896/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Midnight Pulp
+#EXTINF:-1 group-title="Horror & Thriller" ,Midnight Pulp
 https://linear-897.frequency.stream/mt/plex/897/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,RetroCrush
+#EXTINF:-1 group-title="Anime" ,RetroCrush
 https://linear-899.frequency.stream/mt/plex/899/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,AsianCrush
+#EXTINF:-1 group-title="Cultural & World" ,AsianCrush
 https://linear-900.frequency.stream/mt/plex/900/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Comedy Dynamics
+#EXTINF:-1 group-title="Comedy" ,Comedy Dynamics
 https://linear-903.frequency.stream/mt/plex/903/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Hunter
+#EXTINF:-1 group-title="Action & Adventure" ,Hunter
 https://linear-914.frequency.stream/mt/plex/914/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,Saborear TV
+#EXTINF:-1 group-title="Food & Cooking" ,Saborear TV
 https://linear-649.frequency.stream/mt/plex/649/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,21 Jump Street
+#EXTINF:-1 group-title="TV Shows & Drama" ,21 Jump Street
 https://linear-915.frequency.stream/mt/plex/915/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,FLOU Detonación
+#EXTINF:-1 group-title="Music & Radio" ,FLOU Detonación
 https://linear-930.frequency.stream/mt/plex/930/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PGA TOUR
+#EXTINF:-1 group-title="Sports & Fitness" ,PGA TOUR
 https://linear-1006.frequency.stream/mt/plex/1006/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,The Bold and the Beautiful
+#EXTINF:-1 group-title="TV Shows & Drama" ,The Bold and the Beautiful
 https://linear-1033.frequency.stream/mt/plex/1033/hls/master/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
