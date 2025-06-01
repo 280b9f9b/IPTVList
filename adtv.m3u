@@ -407,6 +407,47 @@ https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/in
 
 
 
+#EXTINF:-1 group-title="TV Shows & Drama", Revry Her
+https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News & Politics", Revry News
+https://linear-44.frequency.stream/mt/brightcove/44/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cultural & World", Revry Latinx
+https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cultural & World", Revry Brasil
+https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV Shows & Drama", Revry 2
+https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV Shows & Drama", Revry 2
+https://linear-5.frequency.stream/mt/plex/5/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV Shows & Drama", Revry 3
+https://linear-43.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="News" tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alarabiya FM.png" ,Alarabiya FM
 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="76735" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Arabic.png" ,Al Jazeera
@@ -2789,20 +2830,7 @@ https://linear-82.frequency.stream/mt/plex/82/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="TV Shows & Drama", Revry Her
-https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics", Revry News
-https://linear-44.frequency.stream/mt/brightcove/44/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Cultural & World", Revry Latinx
-https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Cultural & World", Revry Brasil
-https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama", Revry 2
-https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama", Revry 2
-https://linear-5.frequency.stream/mt/plex/5/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama", Revry 3
-https://linear-43.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
+
 
 
 
