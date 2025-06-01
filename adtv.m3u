@@ -2749,14 +2749,10 @@ https://linear-930.frequency.stream/mt/plex/930/hls/master/playlist.m3u8
 https://linear-1006.frequency.stream/mt/plex/1006/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV Shows & Drama" ,The Bold and the Beautiful
 https://linear-1033.frequency.stream/mt/plex/1033/hls/master/playlist.m3u8
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Documentaries",SurvivorNet TV (SNTV)
+https://linear-502.frequency.stream/mt/plex/502/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Documentaries",SurvivorNet TV (SNTV)
+https://linear-496.frequency.stream/mt/plex/496/hls/master/playlist.m3u8
 
 
 
@@ -2778,10 +2774,8 @@ https://linear-542.frequency.stream/mt/plex/542/hls/master/playlist.m3u8
 https://linear-541.frequency.stream/mt/plex/541/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-504.frequency.stream/mt/plex/504/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-502.frequency.stream/mt/plex/502/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-496.frequency.stream/mt/plex/496/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
