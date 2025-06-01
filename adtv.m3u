@@ -2928,30 +2928,34 @@ https://5cf4a2c2512a2.streamlock.net/8182/8182/playlist.m3u8
 
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-33.frequency.stream/mt/studio/33/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="studio" ,Very Local
 https://linear-36.frequency.stream/mt/studio/36/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,studio
 https://linear-91.frequency.stream/mt/studio/91/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-92.frequency.stream/mt/studio/92/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="studio" ,Very Local
 https://linear-93.frequency.stream/mt/studio/93/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",KETV 7
 https://linear-94.frequency.stream/mt/studio/94/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="studio" ,Very Local
 https://linear-95.frequency.stream/mt/studio/95/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="studio" ,Very Local
 https://linear-96.frequency.stream/mt/studio/96/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-97.frequency.stream/mt/studio/97/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="studio" ,Very Local
 https://linear-98.frequency.stream/mt/studio/98/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-99.frequency.stream/mt/studio/99/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="studio" ,Very Local
 https://linear-100.frequency.stream/mt/studio/100/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="News & Politics",WCVB Channel 5 Boston
 https://linear-102.frequency.stream/mt/studio/102/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-103.frequency.stream/mt/studio/103/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local
@@ -2966,7 +2970,7 @@ https://linear-108.frequency.stream/mt/studio/108/hls/master/playlist.m3u8
 https://linear-109.frequency.stream/mt/studio/109/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-110.frequency.stream/mt/studio/110/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="studio" ,Very Local
 https://linear-111.frequency.stream/mt/studio/111/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-112.frequency.stream/mt/studio/112/hls/master/playlist.m3u8
@@ -2976,9 +2980,9 @@ https://linear-113.frequency.stream/mt/studio/113/hls/master/playlist.m3u8
 https://linear-114.frequency.stream/mt/studio/114/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-115.frequency.stream/mt/studio/115/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="studio" ,Very Local
 https://linear-116.frequency.stream/mt/studio/116/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="studio" ,Very Local
 https://linear-117.frequency.stream/mt/studio/117/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-124.frequency.stream/mt/studio/124/hls/master/playlist.m3u8
@@ -3026,76 +3030,106 @@ https://linear-377.frequency.stream/mt/studio/377/hls/master/playlist.m3u8
 https://linear-378.frequency.stream/mt/studio/378/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,studio
 https://linear-379.frequency.stream/mt/studio/379/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="Sports & Fitness",Red Bull
 https://linear-582.frequency.stream/mt/studio/582/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="Sports & Fitness",Red Bull
 https://linear-641.frequency.stream/mt/studio/641/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,studio
 https://linear-643.frequency.stream/mt/studio/643/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="Sports & Fitness",Red Bull
 https://linear-644.frequency.stream/mt/studio/644/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="Sports & Fitness",Red Bull
 https://linear-680.frequency.stream/mt/studio/680/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="News & Politics",ABC7
 https://linear-681.frequency.stream/mt/studio/681/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",Fox45
 https://linear-688.frequency.stream/mt/studio/688/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",ABC6
 https://linear-689.frequency.stream/mt/studio/689/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",ABC22
 https://linear-690.frequency.stream/mt/studio/690/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+
+#EXTINF:-1 group-title="News & Politics",Local 12 WKRC-TV
 https://linear-691.frequency.stream/mt/studio/691/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",WPEC CBS 12
 https://linear-692.frequency.stream/mt/studio/692/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",WSBT 22
 https://linear-693.frequency.stream/mt/studio/693/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",NBC10
 https://linear-694.frequency.stream/mt/studio/694/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",ABC13
 https://linear-695.frequency.stream/mt/studio/695/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",ABC15
 https://linear-696.frequency.stream/mt/studio/696/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",CBS21
 https://linear-697.frequency.stream/mt/studio/697/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+
+#EXTINF:-1 group-title="News & Politics",NBC 6
 https://linear-698.frequency.stream/mt/studio/698/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",WTOV9
 https://linear-699.frequency.stream/mt/studio/699/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",ABC4
 https://linear-700.frequency.stream/mt/studio/700/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",CBS 3
 https://linear-701.frequency.stream/mt/studio/701/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",FOX 11
 https://linear-702.frequency.stream/mt/studio/702/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",NBC4
 https://linear-703.frequency.stream/mt/studio/703/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",CBS AUSTIN
 https://linear-704.frequency.stream/mt/studio/704/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",FOX 25
 https://linear-705.frequency.stream/mt/studio/705/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",CBS 4
 https://linear-706.frequency.stream/mt/studio/706/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",CBS 2
 https://linear-707.frequency.stream/mt/studio/707/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",NBC3
 https://linear-708.frequency.stream/mt/studio/708/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",KOMO NEWS abc 4
 https://linear-709.frequency.stream/mt/studio/709/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",ABC2
 https://linear-710.frequency.stream/mt/studio/710/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+
+#EXTINF:-1 group-title="News & Politics",FOX 26
 https://linear-711.frequency.stream/mt/studio/711/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="studio" ,studio
 https://linear-721.frequency.stream/mt/studio/721/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,studio
 https://linear-749.frequency.stream/mt/studio/749/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="Horror & Thriller",Sony One Thriller TV
 https://linear-755.frequency.stream/mt/studio/755/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="studio" ,studio
 https://linear-890.frequency.stream/mt/studio/890/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="Faith & Religion",DOVE
 https://linear-896.frequency.stream/mt/studio/896/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="studio" ,studio
 https://linear-903.frequency.stream/mt/studio/903/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,studio
