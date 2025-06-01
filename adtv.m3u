@@ -766,9 +766,9 @@ http://fl3.moveonjoy.com/COMET/index.m3u8
 https://stitcher-yidio.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Firefox&deviceVersion=133.0&deviceId=55E88BA9-D5C9-3C64-BACE-32265DD6D370&appVersion=1&deviceDNT=0&deviceModel=web&embedPartner=yidio.com&sid=36e7f30751b4eecd6baa8051b5bdfce7
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="MTV2 || (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,MTV2
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="Much.Music.ca" tvg-name="MUCH | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" ,MUCH
+#EXTINF:-1 group-title="Movies & Entertainment" ,MUCH
 http://fl1.moveonjoy.com/MUCH/index.m3u8
-#EXTINF:-1 group-title="Movies & Entertainment" tvg-id="StartTVNetwork.us" tvg-name="StartTV | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" ,StartTV
+#EXTINF:-1 group-title="Movies & Entertainment" ,StartTV
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-id="NoEPG" tvg-name="TBS (TurnerBroadcastingSystem) | (MOJ) (Ƭ⫯ⲍƬ⋎)" tvg-logo="InsertLogoHere" ,TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8
