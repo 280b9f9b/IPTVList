@@ -9,7 +9,7 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/ind
 #EXTINF:-1 group-title="Culture" tvg-logo="" website="https://adtv.ae" tvg-id="BaynounahTV.ae" tvg-name="Baynounah TV",Baynounah TV
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/baynounah/HLS/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="" website="https://www.skynewsarabia.com" tvg-id="SkyNewsArabia.ae" tvg-name="Sky News Arabia",Sky News Arabia
+#EXTINF:-1 group-title="News" tvg-logo="" website="https://www.skynewsarabia.com" tvg-id="SkyNewsArabia.ae" tvg-name="Sky News Arabia",SkyNewsArabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="" website="https://adtv.ae" tvg-id="NatGeoAbuDhabi.ae" tvg-name="National Geographic Abu Dhabi",NG Abu Dhabi
@@ -51,5 +51,5 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/kadak_fm/HLS/index.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="" website="https://adtv.ae" tvg-id="ClassicFM.ae" tvg-name="Classic FM",Classic FM 
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/classic_fm/HLS/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="" website="https://www.skynewsarabia.com" tvg-id="SkyNewsArabiaRadio.ae" tvg-name="Sky News Arabia Radio",SNA Radio
+#EXTINF:-1 group-title="News" tvg-logo="" website="https://www.skynewsarabia.com" tvg-id="SkyNewsArabiaRadio.ae" tvg-name="Sky News Arabia Radio",SkyNewsArabia Radio
 https://radio.skynewsarabia.com/stream/radio/skynewsarabia
