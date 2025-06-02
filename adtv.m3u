@@ -40,9 +40,8 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/classic_fm/HLS/index.m3
 #EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sky News Arabia.png" ,Sky News Arabia FM
 https://radio.skynewsarabia.com/stream/radio/skynewsarabia
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="" website="https://adtv.ae/en",MBC 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="" website="https://adtv.ae/en",Abu Dhabi TV
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-
 
 
 #EXTINF:-1 group-title="Dubai" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Dubai TV.png" ,Dubai TV
