@@ -2785,7 +2785,7 @@ https://linear-12.frequency.stream/mt/plex/12/hls/master/playlist.m3u8
 https://linear-730.frequency.stream/mt/plex/730/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Comedy",Trailer Park Boys: The SwearNet Show
 https://linear-732.frequency.stream/mt/plex/732/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama",CW Forever
+#EXTINF:-1 group-title="TV Shows & Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CW Forever.png" ,CW Forever
 https://linear-850.frequency.stream/mt/plex/850/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Horror & Thriller",GREAT! mystery
 https://linear-861.frequency.stream/mt/plex/861/hls/master/playlist.m3u8
