@@ -4444,6 +4444,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 
 
+#EXTINF:-1 group-title="CW",CW Forever
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8
+#EXTINF:-1 group-title="CW",CW Gold
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwgold-nondrmhlstsv2-cw/playlist.m3u8
+#EXTINF:-1 group-title="CW",Penn & Teller: Fool Us
+https://amg01312-cw-amg01312c1-cw-us-1753.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-cwpennandteller-cwus/playlist.m3u8
 
 
 
