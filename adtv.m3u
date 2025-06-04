@@ -52,7 +52,7 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/kadak_fm/HLS/index.m3u8
 #EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Classic FM.png" website="https://adtv.ae" tvg-id="ClassicFM.ae" tvg-name="Classic FM",Classic FM
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/classic_fm/HLS/index.m3u8
 
-#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/SkyNewsArabia Radio.png" website="https://www.skynewsarabia.com" tvg-id="SkyNewsArabiaRadio.ae" tvg-name="Sky News Arabia Radio",SkyNewsArabia Radio
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/SkyNewsArabia.png" website="https://www.skynewsarabia.com" tvg-id="SkyNewsArabiaRadio.ae" tvg-name="Sky News Arabia Radio",SkyNewsArabia Radio
 https://radio.skynewsarabia.com/stream/radio/skynewsarabia
 
 
