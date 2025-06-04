@@ -422,22 +422,21 @@ https://shls-live-ak.akamaized.net/out/v1/cf05f1dbbeae4878bbc4a5919cef3391/index
 https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
 
 
-#EXTINF:-1 group-title="TV Shows & Drama", Revry
-https://linear-43.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Revry",Revry
+https://linear-43.frequency.stream/mt/24i/43/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Revry",Revry 2
+https://linear-5.frequency.stream/mt/24i/5/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Revry",Revry Her
+https://linear-73.frequency.stream/mt/24i/73/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Revry",Revry Brasil
+https://linear-181.frequency.stream/mt/24i/181/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Revry",Revry Latinx
+https://linear-142.frequency.stream/mt/24i/142/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Revry",Revry News
+https://linear-44.frequency.stream/mt/24i/44/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Shows & Drama", Revry Her
-https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics", Revry News
-https://linear-44.frequency.stream/mt/brightcove/44/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Cultural & World", Revry Latinx
-https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Cultural & World", Revry Brasil
-https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama", Revry 2
-https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Shows & Drama", Revry 2
-https://linear-5.frequency.stream/mt/plex/5/hls/master/playlist.m3u8
+
 
 
 
@@ -959,10 +958,7 @@ https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6022bd17849c620007f43ae0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0db981e3-cabf-4589-ae4e-5696db28f9ea
 #EXTINF:-1 group-title="Travel & Lifestyle" ,DE: QS24.tv (1080p)
 https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Revry 2
-https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Travel & Lifestyle" ,PT: Revry Brasil
-https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Revry Queer (720p)
 https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Travel & Lifestyle" ,FR: SOS Docteur TV (480p) [Not 24/7]
@@ -2783,7 +2779,10 @@ https://linear-901.frequency.stream/mt/plex/901/hls/master/playlist.m3u8
 https://linear-918.frequency.stream/mt/plex/918/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Reality & Talk Shows",Cut
 https://linear-1009.frequency.stream/mt/plex/1009/hls/master/playlist.m3u8
-
+#EXTINF:-1 group-title="TV Shows & Drama", Revry
+https://linear-43.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV Shows & Drama", Revry 2
+https://linear-5.frequency.stream/mt/plex/5/hls/master/playlist.m3u8
 
 
 
@@ -2886,7 +2885,6 @@ https://linear-82.frequency.stream/mt/plex/82/hls/master/playlist.m3u8
 https://linear-64.frequency.stream/mt/brightcove/64/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Travel & Lifestyle",GoPro
 https://linear-891.frequency.stream/mt/brightcove/891/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="Brightcove" ,Brightcove
 https://linear-80.frequency.stream/mt/brightcove/80/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Brightcove" ,Brightcove
@@ -2897,6 +2895,20 @@ https://linear-225.frequency.stream/mt/brightcove/225/hls/master/playlist.m3u8
 https://linear-235.frequency.stream/mt/brightcove/235/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Brightcove" ,Brightcove
 https://linear-627.frequency.stream/mt/brightcove/627/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV Shows & Drama", Revry Her
+https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News & Politics", Revry News
+https://linear-44.frequency.stream/mt/brightcove/44/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cultural & World", Revry Latinx
+https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Cultural & World", Revry Brasil
+https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="TV Shows & Drama", Revry 2
+https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Revry 2
+https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Travel & Lifestyle" ,PT: Revry Brasil
+https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
 
 
 
