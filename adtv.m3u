@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
 
 
-#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi TV.png" website="https://adtv.ae" tvg-id="404812" tvg-name="Abu Dhabi TV",Abu Dhabi TV
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi TV.png" website="https://adtv.ae" tvg-id="AbuDhabiTV.ae" tvg-name="Abu Dhabi TV",Abu Dhabi TV
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 
 #EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Emarat TV.png" website="https://adtv.ae" tvg-id="EmaratTV.ae" tvg-name="Al Emarat TV",Al Emarat TV
