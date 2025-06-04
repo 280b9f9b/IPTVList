@@ -2191,8 +2191,6 @@ https://cnbc-live.akamaized.net/cnbc/master.m3u8
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Medi 1 TV Arabic.png" ,Medi 1 TV Arabic
 https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Tanasuh TV.png" ,Tanasuh TV
-https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TRT Arabi.png" ,TRT Arabi
 http://185.234.111.229:8000/play/a002
 #EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Mayadeen.png" ,Al Mayadeen
