@@ -4,7 +4,7 @@
 #EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi TV.png" website="https://adtv.ae" tvg-id="AbuDhabiTV.ae" tvg-name="Abu Dhabi TV",Abu Dhabi TV
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 
-#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Emirates TV.png" website="https://adtv.ae" tvg-id="EmiratesTV.ae" tvg-name="Emirates Channel",Emirates TV
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Emarat TV.png" website="https://adtv.ae" tvg-id="AlEmaratTV.ae" tvg-name="Al Emarat TV",Al Emarat TV
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 
 #EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Baynounah TV.png" website="https://adtv.ae" tvg-id="BaynounahTV.ae" tvg-name="Baynounah TV",Baynounah TV
@@ -16,7 +16,7 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/NG Abu Dhabi.png" website="https://adtv.ae" tvg-id="NatGeoAbuDhabi.ae" tvg-name="National Geographic Abu Dhabi",NG Abu Dhabi
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 
-#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Majid TV.png" website="https://adtv.ae" tvg-id="MajidTV.ae" tvg-name="Majid Channel",Majid TV
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Majid TV.png" website="https://adtv.ae" tvg-id="MajidTV.ae" tvg-name="Majid TV",Majid TV
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 
 #EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi Sports 1.png" website="https://adtv.ae" tvg-id="ADSports1.ae" tvg-name="Abu Dhabi Sports 1",Abu Dhabi Sports 1
