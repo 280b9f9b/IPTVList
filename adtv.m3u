@@ -941,8 +941,6 @@ https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Hobby Maker (720p)
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
-#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Just Vogue TV (1080p)
-https://ip100.radyotelekomtv.com:3873/stream/play.m3u8
 #EXTINF:-1 group-title="Travel & Lifestyle" ,KO: KBS Life (480p)
 http://mytv.dothome.co.kr/ch/catv/5.php
 #EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p)
