@@ -1642,8 +1642,6 @@ https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
 #EXTINF:-1 group-title="News & Politics" ,TV Sim São Mateus (720p)
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics" ,TV SUD (576p)
-https://stream.leetweb.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 #EXTINF:-1 group-title="News & Politics" ,TV-Nord (1080p)
 https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
 #EXTINF:-1 group-title="News & Politics" ,TVC News (576p)
