@@ -2593,16 +2593,30 @@ https://drive.uber.radio/uber/forkidzwakeandshake/icecast.audio
 
 
 
-#EXTINF:-1 group-title="Plex" ,Featured: BET x Tyler Perry Comedy
-https://linear-867.frequency.stream/mt/plex/867/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Featured: Ion Mystery
-https://scripps-ionmystery-1-us.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Plex" ,Featured: The Bold and the Beautiful
 https://linear-1033.frequency.stream/mt/plex/1033/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Featured: Miramax Movie Channel
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Featured: National Lampoon
 https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Plex" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CW Forever.png" ,Hit TV: CW Forever
+https://linear-850.frequency.stream/mt/plex/850/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Hit TV: BET x Tyler Perry Drama
+https://linear-866.frequency.stream/mt/plex/866/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Plex" ,Drama TV: Ion Mystery
+https://scripps-ionmystery-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Plex" ,True Crime: TV One Crime & Justice
+https://linear-593.frequency.stream/mt/plex/593/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Plex" ,Comedy: BET x Tyler Perry Comedy
+https://linear-867.frequency.stream/mt/plex/867/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Comedy: National Lampoon
+https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Movies & Entertainment" ,Plex24
@@ -2631,8 +2645,7 @@ https://linear-651.frequency.stream/mt/plex/651/hls/master/playlist.m3u8
 https://linear-650.frequency.stream/mt/plex/650/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports & Fitness" ,Court Sports Network
 https://linear-627.frequency.stream/mt/plex/627/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Crime & Mystery" ,TV One Crime & Justice
-https://linear-593.frequency.stream/mt/plex/593/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Documentaries" ,Real Disaster Channel
 https://linear-475.frequency.stream/mt/plex/475/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Home & Design" ,At Home with Family Handyman
@@ -2657,12 +2670,10 @@ https://linear-729.frequency.stream/mt/plex/729/hls/master/playlist.m3u8
 https://linear-731.frequency.stream/mt/plex/731/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Music & Radio" ,Non-Stop '90s
 https://linear-744.frequency.stream/mt/plex/744/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" ,National Lampoon
-https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Westerns & Country" ,Wild West TV
 https://linear-799.frequency.stream/mt/plex/799/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama" ,BET x Tyler Perry Drama
-https://linear-866.frequency.stream/mt/plex/866/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Sports & Fitness" ,UFC
 https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
@@ -2766,8 +2777,7 @@ https://linear-12.frequency.stream/mt/plex/12/hls/master/playlist.m3u8
 https://linear-730.frequency.stream/mt/plex/730/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Comedy",Trailer Park Boys: The SwearNet Show
 https://linear-732.frequency.stream/mt/plex/732/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CW Forever.png" ,CW Forever
-https://linear-850.frequency.stream/mt/plex/850/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Horror & Thriller",GREAT! mystery
 https://linear-861.frequency.stream/mt/plex/861/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sci-Fi & Fantasy",Alien Nation by DUST
