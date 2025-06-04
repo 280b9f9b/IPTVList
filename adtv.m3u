@@ -4444,12 +4444,14 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 
 
-#EXTINF:-1 group-title="CW",CW Forever
+#EXTINF:-1 group-title="CW" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CW Forever.png" ,CW Forever
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8
-#EXTINF:-1 group-title="CW",CW Gold
+#EXTINF:-1 group-title="CW" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CW Gold.png" ,CW Gold
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwgold-nondrmhlstsv2-cw/playlist.m3u8
-#EXTINF:-1 group-title="CW",Penn & Teller: Fool Us
-https://amg01312-cw-amg01312c1-cw-us-1753.playouts.now.amagi.tv/playlist/amg01312-nexstarmediagroupcw-cwpennandteller-cwus/playlist.m3u8
+#EXTINF:-1 group-title="CW" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Midsomer Murders.png" ,Midsomer Murders
+https://all3media-midsomer-1-us.thecw.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="CW" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The BLK Effect.png" ,The BLK Effect
+https://mansa-mansamix-1-us.thecw.wurl.tv/playlist.m3u8
 
 
 
