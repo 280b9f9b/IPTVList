@@ -2593,15 +2593,18 @@ https://drive.uber.radio/uber/forkidzwakeandshake/icecast.audio
 
 
 
-
-#EXTINF:-1 group-title="Comedy" ,BET x Tyler Perry Comedy
+#EXTINF:-1 group-title="Plex" ,Featured: BET x Tyler Perry Comedy
 https://linear-867.frequency.stream/mt/plex/867/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Horror & Thriller" ,ion-mystery
+#EXTINF:-1 group-title="Plex" ,Featured: Ion Mystery
 https://scripps-ionmystery-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Entertainment" ,Miramax Movie Channel
+#EXTINF:-1 group-title="Plex" ,Featured: The Bold and the Beautiful
+https://linear-1033.frequency.stream/mt/plex/1033/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Featured: Miramax Movie Channel
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" ,National Lampoon
+#EXTINF:-1 group-title="Plex" ,Featured: National Lampoon
 https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Movies & Entertainment" ,Plex24
 https://plex-ono-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Entertainment" ,IFC Films Picks
@@ -2660,8 +2663,7 @@ https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
 https://linear-799.frequency.stream/mt/plex/799/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV Shows & Drama" ,BET x Tyler Perry Drama
 https://linear-866.frequency.stream/mt/plex/866/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" ,BET x Tyler Perry Comedy
-https://linear-867.frequency.stream/mt/plex/867/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports & Fitness" ,UFC
 https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Faith & Religion" ,Dove
@@ -2684,8 +2686,7 @@ https://linear-915.frequency.stream/mt/plex/915/hls/master/playlist.m3u8
 https://linear-930.frequency.stream/mt/plex/930/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports & Fitness" ,PGA TOUR
 https://linear-1006.frequency.stream/mt/plex/1006/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama" ,The Bold and the Beautiful
-https://linear-1033.frequency.stream/mt/plex/1033/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Documentaries",SurvivorNet TV (SNTV)
 https://linear-502.frequency.stream/mt/plex/502/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Documentaries",SurvivorNet TV (SNTV)
