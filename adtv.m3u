@@ -98,6 +98,11 @@ https://n0d.radiojar.com/shcthrfbsxquv
 https://streams.radio.co/sce558c2e6/listen
 
 
+
+
+
+
+
 #EXTINF:-1 group-title="NEmirates" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah TV.png" ,Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEmirates" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah 2.png" ,Sharjah 2
@@ -126,6 +131,9 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 https://s2.radio.co/s770fa24b6/listen
 #EXTINF:-1 group-title="NEmirates" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dafrah TV.png" ,Al Dafrah TV
 https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
+
+
+
 
 
 
@@ -209,26 +217,29 @@ https://kwtkrdota.cdn.mangomolo.com/k2rdo/k2rdo.stream_aac/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Sham Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/JordanTV.png" ,JordanTV
+
+
+
+#EXTINF:-1 group-title="S-Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/JordanTV.png" ,JordanTV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
-#EXTINF:-1 group-title="Sham Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AL MAMLAKA.png" ,AL MAMLAKA
+#EXTINF:-1 group-title="S-Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AL MAMLAKA.png" ,AL MAMLAKA
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
-#EXTINF:-1 group-title="Sham Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AMMAN TV.png" ,AMMAN TV
+#EXTINF:-1 group-title="S-Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AMMAN TV.png" ,AMMAN TV
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 group-title="Sham Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Roya TV.png" ,Roya TV
+#EXTINF:-1 group-title="S-Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Roya TV.png" ,Roya TV
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1 group-title="Sham Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Musawa HD.png" ,Musawa HD
+#EXTINF:-1 group-title="S-Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Musawa HD.png" ,Musawa HD
 https://pbc.furrera.ps/musawahd/index.m3u8
 
 
 
-#EXTINF:-1 group-title="NAfrica Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Masar TV.png" ,Al Masar TV
+
+
+
+#EXTINF:-1 group-title="A-Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Masar TV.png" ,Al Masar TV
 https://starmenajo.com/hls/almasar/index.m3u8
-#EXTINF:-1 group-title="NAfrica Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Libya Al Wataniya.png" ,Libya Al Wataniya
+#EXTINF:-1 group-title="A-Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Libya Al Wataniya.png" ,Libya Al Wataniya
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
-
-
-
 
 
 
@@ -412,6 +423,8 @@ https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/in
 
 
 
+
+
 #EXTINF:-1 group-title="TV Shows & Drama", Revry Her
 https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="News & Politics", Revry News
@@ -426,6 +439,7 @@ https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
 https://linear-5.frequency.stream/mt/plex/5/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV Shows & Drama", Revry 3
 https://linear-43.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
+
 
 
 
@@ -538,59 +552,6 @@ https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/2236f15f642
 
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="News & Politics" tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alarabiya FM.png" ,Alarabiya FM
-https://fm.alarabiya.net/fm/myStream/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-id="76735" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Arabic.png" ,Al Jazeera
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 group-title="Documentaries" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Documentary.png" ,Al Jazeera Documentary
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Mubasher.png" ,Al Jazeera Mubasher
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera English.png" ,Al Jazeera English
-https://live-hls-web-aje.getaj.net/alternative/AJE/01.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-id="(no tvg-id)" tvg-name="BBC Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/BBC Arabic.png" ,BBC Arabic
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/DW Arabic.png" ,DW Arabic
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/RT Arabic.png" ,RT Arabic
-https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bloomberg Quicktake.png" ,Quicktake
-https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby TV.png" ,Alaraby TV
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby TV.png" ,Bloomberg TV EMEA Live Event
-https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CGTN Arabic.png" ,CGTN Arabic
-https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CNBC Arabiya.png" ,CNBC Arabiya
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/France 24 Arabic.png" ,France 24 Arabic
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Medi 1 TV Arabic.png" ,Medi 1 TV Arabic
-https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Tanasuh TV.png" ,Tanasuh TV
-https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TRT Arabi.png" ,TRT Arabi
-http://185.234.111.229:8000/play/a002
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Mayadeen.png" ,Al Mayadeen
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Elsharq TV.png" ,Elsharq TV
-https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Mekameleen TV.png" ,Mekameleen TV
-https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-
-
-
-
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Cinema.png" ,Rotana Cinema
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 group-title="Music & Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Rotana Radio Jordan Studio.png" ,Rotana Radio Jordan Studio
@@ -603,17 +564,145 @@ rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
 
 
 
-#EXTINF:-1 group-title="Music & Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Aghani Aghani TV.png" ,Aghani Aghani TV
-https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
-#EXTINF:-1 group-title="Music & Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Arabica TV.png" ,Arabica TV
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 group-title="Music & Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC Royale.png" ,PMC Royale
-https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music & Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/NogoumFMTV.png" ,NogoumFMTV
-https://nogoumtv.nrpstream.com/hls/stream.m3u8
-#EXTINF:-1 group-title="Music & Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV Hits.png" ,MTV Hits
-http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Family.png" ,Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Cinema.png" ,Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana One.png" ,Persiana One
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Korea.png" ,Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Rap.png" ,Persiana Rap
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Iranian.png" ,Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Comedy.png" ,Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana.png" ,Persiana
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Science.png" ,Persiana Science
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Latino.png" ,Persiana Latino
+https://latinohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Junior.png" ,Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Sonnati.png" ,Persiana Sonnati
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Nostalgia.png" ,Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana 4Kurd HD.png" ,Persiana 4Kurd HD
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Turkiye.png" ,Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Two.png" ,Persiana Two
+https://twohls.persiana.live/hls/stream.m3u8
+
+
+
+
+#EXTINF:-1 group-title="ZS: Primal" ,Primal: Tales of Savagery (2019)
+http://play.1list.vip/movie/andrecyrineu/obb546cadil/214536.mp4
+
+
+
+#EXTINF:-1 group-title="News & Politics" ,India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 group-title="News & Politics" ,Aaj Tak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
+#EXTINF:-1 group-title="News & Politics" ,GNT
+https://feeds.intoday.in/gnt/api/master.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="News & Politics" ,NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 group-title="News & Politics" ,NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+#EXTINF:-1 group-title="News & Politics" ,NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_1.m3u8
+#EXTINF:-1 group-title="News & Politics" ,NDTV Marathi
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_1.m3u8
+#EXTINF:-1 group-title="News & Politics" ,NDTV MPCG
+https://ndtvregional.akamaized.net/hls/live/2102726/ndtvmpcg/chunklist_1.m3u8
+#EXTINF:-1 group-title="News & Politics" ,NDTV Rajasthan
+https://ndtvregional.akamaized.net/hls/live/2102726/ndtvraj/chunklist_1.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Zee" ,Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+#EXTINF:-1 group-title="Zee" ,Zee 2
+https://d2i4me5ac6ausm.cloudfront.net/index_5.m3u8
+#EXTINF:-1 group-title="Zee" ,Zee 3
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+#EXTINF:-1 group-title="Zee" ,Zee 4
+https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
+#EXTINF:-1 group-title="Zee" ,Zee 5
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+#EXTINF:-1 group-title="Zee" ,Zee 6
+https://duw35ict5q7th.cloudfront.net/index_3.m3u8
+#EXTINF:-1 group-title="Zee" ,Zee 7
+https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
+#EXTINF:-1 group-title="Zee" ,Zee 8
+https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
+#EXTINF:-1 group-title="Zee" ,Zee 9
+https://d1ek9hdbw9xxcw.cloudfront.net/index_4.m3u8
+#EXTINF:-1 group-title="Zee" ,Zee 10
+https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
+#EXTINF:-1 group-title="Zee" ,Zee 11
+https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
+#EXTINF:-1 group-title="Zee" ,Zee 13
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="News & Politics" ,1+1
+https://live20.bozztv.com/trn03/gin-1plus1/index.m3u8
+#EXTINF:-1 group-title="News & Politics" ,Freedom
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+
+
+
+
+#EXTINF:-1 group-title="News & Politics" ,CNBC TV18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="News & Politics" ,CNBC Awaaz
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="News & Politics" ,CNBC Bazaar
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8
 
 
 
@@ -640,14 +729,16 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Music & Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Aghani Aghani TV.png" ,Aghani Aghani TV
+https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+#EXTINF:-1 group-title="Music & Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Arabica TV.png" ,Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 group-title="Music & Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC Royale.png" ,PMC Royale
+https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Music & Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/NogoumFMTV.png" ,NogoumFMTV
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Music & Radio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/MTV Hits.png" ,MTV Hits
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
 
 
@@ -2082,132 +2173,46 @@ https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Family.png" ,Persiana Family
-https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Cinema.png" ,Persiana Cinema
-https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana One.png" ,Persiana One
-https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Korea.png" ,Persiana Korea
-https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Rap.png" ,Persiana Rap
-https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Iranian.png" ,Persiana Iranian
-https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Comedy.png" ,Persiana Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana.png" ,Persiana
-https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Science.png" ,Persiana Science
-https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Latino.png" ,Persiana Latino
-https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Junior.png" ,Persiana Junior
-https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Sonnati.png" ,Persiana Sonnati
-https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Nostalgia.png" ,Persiana Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana 4Kurd HD.png" ,Persiana 4Kurd HD
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Turkiye.png" ,Persiana Turkiye
-https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Two.png" ,Persiana Two
-https://twohls.persiana.live/hls/stream.m3u8
-
-
-
-
-#EXTINF:-1 group-title="ZS: Primal" ,Primal: Tales of Savagery (2019)
-http://play.1list.vip/movie/andrecyrineu/obb546cadil/214536.mp4
-
-
-
-#EXTINF:-1 group-title="News & Politics" ,India Today
-https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 group-title="News & Politics" ,Aaj Tak HD
-https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
-#EXTINF:-1 group-title="News & Politics" ,GNT
-https://feeds.intoday.in/gnt/api/master.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="News & Politics" ,NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 group-title="News & Politics" ,NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
-#EXTINF:-1 group-title="News & Politics" ,NDTV Profit
-https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_1.m3u8
-#EXTINF:-1 group-title="News & Politics" ,NDTV Marathi
-https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_1.m3u8
-#EXTINF:-1 group-title="News & Politics" ,NDTV MPCG
-https://ndtvregional.akamaized.net/hls/live/2102726/ndtvmpcg/chunklist_1.m3u8
-#EXTINF:-1 group-title="News & Politics" ,NDTV Rajasthan
-https://ndtvregional.akamaized.net/hls/live/2102726/ndtvraj/chunklist_1.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Zee" ,Zee News
-https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
-#EXTINF:-1 group-title="Zee" ,Zee 2
-https://d2i4me5ac6ausm.cloudfront.net/index_5.m3u8
-#EXTINF:-1 group-title="Zee" ,Zee 3
-https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
-#EXTINF:-1 group-title="Zee" ,Zee 4
-https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
-#EXTINF:-1 group-title="Zee" ,Zee 5
-https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-#EXTINF:-1 group-title="Zee" ,Zee 6
-https://duw35ict5q7th.cloudfront.net/index_3.m3u8
-#EXTINF:-1 group-title="Zee" ,Zee 7
-https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
-#EXTINF:-1 group-title="Zee" ,Zee 8
-https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
-#EXTINF:-1 group-title="Zee" ,Zee 9
-https://d1ek9hdbw9xxcw.cloudfront.net/index_4.m3u8
-#EXTINF:-1 group-title="Zee" ,Zee 10
-https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
-#EXTINF:-1 group-title="Zee" ,Zee 11
-https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
-#EXTINF:-1 group-title="Zee" ,Zee 13
-https://dwby15d04agvq.cloudfront.net/index_5.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="News & Politics" ,1+1
-https://live20.bozztv.com/trn03/gin-1plus1/index.m3u8
-#EXTINF:-1 group-title="News & Politics" ,Freedom
-https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-
-
-
-
-#EXTINF:-1 group-title="News & Politics" ,CNBC TV18
-https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 group-title="News & Politics" ,CNBC Awaaz
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 group-title="News & Politics" ,CNBC Bazaar
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="News & Politics" tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alarabiya FM.png" ,Alarabiya FM
+https://fm.alarabiya.net/fm/myStream/playlist.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-id="76735" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Arabic.png" ,Al Jazeera
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Documentary.png" ,Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Mubasher.png" ,Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera English.png" ,Al Jazeera English
+https://live-hls-web-aje.getaj.net/alternative/AJE/01.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-id="(no tvg-id)" tvg-name="BBC Arabic" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/BBC Arabic.png" ,BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/DW Arabic.png" ,DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/RT Arabic.png" ,RT Arabic
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bloomberg Quicktake.png" ,Quicktake
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby TV.png" ,Alaraby TV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alaraby TV.png" ,Bloomberg TV EMEA Live Event
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CGTN Arabic.png" ,CGTN Arabic
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CNBC Arabiya.png" ,CNBC Arabiya
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/France 24 Arabic.png" ,France 24 Arabic
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Medi 1 TV Arabic.png" ,Medi 1 TV Arabic
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Tanasuh TV.png" ,Tanasuh TV
+https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TRT Arabi.png" ,TRT Arabi
+http://185.234.111.229:8000/play/a002
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Mayadeen.png" ,Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Elsharq TV.png" ,Elsharq TV
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 group-title="News & Politics" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Mekameleen TV.png" ,Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 
 
 
