@@ -1,7 +1,59 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
 
 
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20TV.png" website="https://adtv.ae" tvg-id="AbuDhabiTV.ae" tvg-name="Abu Dhabi TV",Abu Dhabi TV
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Al%20Emarat.png" website="https://adtv.ae" tvg-id="EmiratesTV.ae" tvg-name="Emirates Channel",Emirates TV
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Baynounah.png" website="https://adtv.ae" tvg-id="BaynounahTV.ae" tvg-name="Baynounah TV",Baynounah TV
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/baynounah/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://www.skynewsarabia.com/asset/1643203809/17.8/assets/img/live-stream/live-bg-main.png" website="https://www.skynewsarabia.com" tvg-id="SkyNewsArabia.ae" tvg-name="Sky News Arabia",SkyNewsArabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20NAT%20Geo.png" website="https://adtv.ae" tvg-id="NatGeoAbuDhabi.ae" tvg-name="National Geographic Abu Dhabi",NG Abu Dhabi
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Majid%20TV.png" website="https://adtv.ae" tvg-id="MajidTV.ae" tvg-name="Majid Channel",Majid TV
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png" website="https://adtv.ae" tvg-id="ADSports1.ae" tvg-name="Abu Dhabi Sports 1",Abu Dhabi Sports 1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%202.png" website="https://adtv.ae" tvg-id="ADSports2.ae" tvg-name="Abu Dhabi Sports 2",Abu Dhabi Sports 2
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20YAS%20TV.png" website="https://adtv.ae" tvg-id="YasTV.ae" tvg-name="YAS Sports",YAS Sports
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20FM.png" website="https://adtv.ae" tvg-id="AbuDhabiFM.ae" tvg-name="Abu Dhabi FM",Abu Dhabi FM 
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/abu_dhabi_fm/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Emarat%20FM.png" website="https://adtv.ae" tvg-id="EmaratFM.ae" tvg-name="Emarat FM",Emarat FM 
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/emarat_fm/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Quran%20FM.png" website="https://adtv.ae" tvg-id="QuranKareemFM.ae" tvg-name="Quraan Kareem FM",Quraan Kareem FM 
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/quran_kareem/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Star%20FM.png" website="https://adtv.ae" tvg-id="StarFM.ae" tvg-name="Star FM",Star FM 
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/star_fm/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Radio1.png" website="https://adtv.ae" tvg-id="Radio1FM.ae" tvg-name="Radio 1 FM",Radio 1 FM 
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Radio1/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Radio%202.png" website="https://adtv.ae" tvg-id="Radio2FM.ae" tvg-name="Radio 2 FM",Radio 2 FM 
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/radio_2/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Kadak%20FM.png" website="https://adtv.ae" tvg-id="KadakFM.ae" tvg-name="Kadak FM",Kadak FM 
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/kadak_fm/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Classic%20FM.png" website="https://adtv.ae" tvg-id="ClassicFM.ae" tvg-name="Classic FM",Classic FM 
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/classic_fm/HLS/index.m3u8
+
+#EXTINF:-1 group-title="Abu Dhabi" tvg-logo="https://www.skynewsarabia.com/asset/1643203809/17.8/assets/img/live-stream/live-bg-main.png" website="https://www.skynewsarabia.com" tvg-id="SkyNewsArabiaRadio.ae" tvg-name="Sky News Arabia Radio",SkyNewsArabia Radio
+https://radio.skynewsarabia.com/stream/radio/skynewsarabia
 
 #EXTINF:-1 group-title="Abu Dhabi" tvg-id="404812" tvg-name="Abu Dhabi TV" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi.png" ,Abu Dhabi TV
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
