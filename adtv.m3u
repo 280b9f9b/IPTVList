@@ -143,6 +143,7 @@ http://185.105.4.106:1935/live/radio-96-5/playlist.m3u8
 http://185.105.4.106:1935/live/radio-102-3/playlist.m3u8
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Holy Quran 106.1.png" ,Holy Quran 106.1
 http://185.105.4.106:1935/live/radio-106-1/playlist.m3u8
+
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman.png" ,Oman
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Sport.png" ,Oman Sport
@@ -151,6 +152,9 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Mubasher.png" ,Oman Mubasher
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Istiqama TV.png" ,Faith & Religion: Al Istiqama TV
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV.png" ,Qatar TV
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV 2.png" ,Qatar TV 2
@@ -165,6 +169,7 @@ https://18703.live.streamtheworld.com/SAM03AAC389_SC
 https://streaming.radio.co/sec5a4b9e1/listen
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Inta FM 103.7.png" ,Inta FM 103.7
 https://s4.radio.co/s907eaefbe/listen
+
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV 1.png" ,KTV 1
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/index.m3u8
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV 2.png" ,KTV 2
@@ -199,6 +204,7 @@ https://kwtkrdota.cdn.mangomolo.com/olrdo/olrdo.stream_aac/index.m3u8
 https://kwtkrdota.cdn.mangomolo.com/eardo/eardo.stream_aac/index.m3u8
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kuwait Radio Two 97.5.png" ,Kuwait Radio Two 97.5
 https://kwtkrdota.cdn.mangomolo.com/k2rdo/k2rdo.stream_aac/index.m3u8
+
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Atfal & Mawaheb TV.png" ,Kids & Family: Atfal & Mawaheb TV
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 
@@ -1487,8 +1493,7 @@ https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/m
 
 
 
-#EXTINF:-1 group-title="Faith & Religion" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Istiqama TV.png" ,Al Istiqama TV
-https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+
 #EXTINF:-1 group-title="Faith & Religion" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Huda TV.png" ,Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 group-title="Faith & Religion" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" ,Makkah TV
