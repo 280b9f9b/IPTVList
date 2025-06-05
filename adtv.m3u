@@ -1422,56 +1422,63 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 
 #EXTM3U https://www.indiatoday.in/livetv
-#EXTINF:-1 group-title="भारतीय" ,News & Politics: India Today
+#EXTINF:-1 group-title="भारतीय" ,English News: India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News & Politics: Aaj Tak HD
+#EXTINF:-1 group-title="भारतीय" ,Hindi News: Aaj Tak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News & Politics: GNT
+#EXTINF:-1 group-title="भारतीय" ,Hindi News: GNT
 https://feeds.intoday.in/gnt/api/master.m3u8
 
 
 #EXTM3U https://www.ndtv.com/livetv-ndtv24x7
-#EXTINF:-1 group-title="भारतीय" ,News: NDTV 24x7
+#EXTINF:-1 group-title="भारतीय" ,English News: NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: NDTV India
+#EXTINF:-1 group-title="भारतीय" ,Hindi News: NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: NDTV Profit
+#EXTINF:-1 group-title="भारतीय" ,Business News: NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_1.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: NDTV Marathi
+#EXTINF:-1 group-title="भारतीय" ,Regional News: NDTV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_1.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: NDTV MPCG
+#EXTINF:-1 group-title="भारतीय" ,Regional News: NDTV MPCG
 https://ndtvregional.akamaized.net/hls/live/2102726/ndtvmpcg/chunklist_1.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: NDTV Rajasthan
+#EXTINF:-1 group-title="भारतीय" ,Regional News: NDTV Rajasthan
 https://ndtvregional.akamaized.net/hls/live/2102726/ndtvraj/chunklist_1.m3u8
 
 
 #EXTM3U https://zeenews.india.com/live-tv
-#EXTINF:-1 group-title="भारतीय" ,News: Zee News (Hindi National News)
+#EXTINF:-1 group-title="भारतीय" ,News & Politics: Zee News (Hindi National News)
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: Zee 24 Kalak (Gujarati News)
+#EXTINF:-1 group-title="भारतीय" ,Regional News: Zee 24 Kalak (Gujarati News)
 https://d2i4me5ac6ausm.cloudfront.net/index_5.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: Zee 24 Taas (Marathi News)
+#EXTINF:-1 group-title="भारतीय" ,Regional News: Zee 24 Taas (Marathi News)
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: Zee Hindustan (Hindi News)
+#EXTINF:-1 group-title="भारतीय" ,News & Politics: Zee Hindustan (Hindi News)
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: Zee 24 Ghanta (Bengali News)
+#EXTINF:-1 group-title="भारतीय" ,Regional News: Zee 24 Ghanta (Bengali News)
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: Zee Uttar Pradesh Uttarakhand (Regional Hindi News)
+#EXTINF:-1 group-title="भारतीय" ,Regional News: Zee Uttar Pradesh Uttarakhand (Regional Hindi News)
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: Zee Salaam (Hindi Islamic Channel)
+#EXTINF:-1 group-title="भारतीय" ,Islamic & Religious: Zee Salaam (Hindi Islamic Channel)
 https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: Zee Punjab Haryana Himachal (Regional Hindi News)
+#EXTINF:-1 group-title="भारतीय" ,Regional News: Zee Punjab Haryana Himachal (Regional Hindi News)
 https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: Zee Madhya Pradesh Chhattisgarh (Regional Hindi News)
+#EXTINF:-1 group-title="भारतीय" ,Regional News: Zee Madhya Pradesh Chhattisgarh (Regional Hindi News)
 https://d1ek9hdbw9xxcw.cloudfront.net/index_4.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: Zee Bihar Jharkhand (Regional Hindi News)
+#EXTINF:-1 group-title="भारतीय" ,Regional News: Zee Bihar Jharkhand (Regional Hindi News)
 https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: Zee Rajasthan (Regional Hindi News)
+#EXTINF:-1 group-title="भारतीय" ,Regional News: Zee Rajasthan (Regional Hindi News)
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
-#EXTINF:-1 group-title="भारतीय" ,News: Zee Business (Hindi Business News)
+#EXTINF:-1 group-title="भारतीय" ,Business News: Zee Business (Hindi Business News)
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 
 
+#EXTM3U https://www.cnbctv18.com/live-tv/
+#EXTINF:-1 group-title="भारतीय" ,Business News: CNBC TV18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="भारतीय" ,Business News: CNBC Awaaz
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="भारतीय" ,Business News: CNBC Bazaar
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8
 
 
 
@@ -1485,12 +1492,6 @@ https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 
 
 
-#EXTINF:-1 group-title="News & Politics" ,CNBC TV18
-https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 group-title="News & Politics" ,CNBC Awaaz
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 group-title="News & Politics" ,CNBC Bazaar
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8
 
 
 
