@@ -422,125 +422,145 @@ https://shls-live-ak.akamaized.net/out/v1/cf05f1dbbeae4878bbc4a5919cef3391/index
 https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
 
 
-#EXTINF:-1 group-title="Revry",Revry
+#EXTINF:-1 group-title="Extra One",Revry
 https://linear-43.frequency.stream/mt/24i/43/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Revry",Revry 2
+#EXTINF:-1 group-title="Extra One",Revry 2
 https://linear-5.frequency.stream/mt/24i/5/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Revry",Revry Her
+#EXTINF:-1 group-title="Extra One",Revry Her
 https://linear-73.frequency.stream/mt/24i/73/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Revry",Revry Brasil
+#EXTINF:-1 group-title="Extra One",Revry Brasil
 https://linear-181.frequency.stream/mt/24i/181/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Revry",Revry Latinx
+#EXTINF:-1 group-title="Extra One",Revry Latinx
 https://linear-142.frequency.stream/mt/24i/142/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Revry",Revry News
+#EXTINF:-1 group-title="Extra One",Revry News
 https://linear-44.frequency.stream/mt/24i/44/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="Extra One" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CW Forever.png" ,CW Forever
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8
+#EXTINF:-1 group-title="Extra One" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CW Gold.png" ,CW Gold
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwgold-nondrmhlstsv2-cw/playlist.m3u8
+#EXTINF:-1 group-title="Extra One" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Midsomer Murders.png" ,Midsomer Murders
+https://all3media-midsomer-1-us.thecw.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Extra One" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The BLK Effect.png" ,The BLK Effect
+https://mansa-mansamix-1-us.thecw.wurl.tv/playlist.m3u8
 
 
 
 
-
-
-#EXTINF:-1 group-title="News & Politics", BBC News
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-#EXTINF:-1 group-title="Comedy", Portlandia
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951301/hls/playlist.m3u8?ads.xumo_channelId=99951301
-#EXTINF:-1 group-title="Horror & Thriller", Scares by Shudder
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349
-#EXTINF:-1 group-title="Reality & Talk Shows", All Reality We TV
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951376/hls/playlist.m3u8?ads.xumo_channelId=99951376
-#EXTINF:-1 group-title="Horror & Thriller", AMC Thrillers
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?ads.xumo_channelId=99951377
-#EXTINF:-1 group-title="Movies & Entertainment", MovieSphere by Lionsgate
-https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Action & Adventure", Hi-Yah!
-https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Nature & Wildlife", WildEarth
-https://wildearth-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Action & Adventure", Top Gear
-https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama", The Walking Dead Universe
-https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sci-Fi & Fantasy", Classic Doctor Who
-https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sci-Fi & Fantasy", Alien Nation by Dust
-https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Home & Design", property-and-reno
+#EXTM3U https://play.xumo.com/
+#EXTINF:-1 group-title="XUMOPLAY",Home & Design: property-and-reno
 https://linear-476.frequency.stream/dist/xumo/476/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Home & Design", homeful
+#EXTINF:-1 group-title="XUMOPLAY",Home & Design: homeful
 https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Home & Design", at-home-with-family-handyman
+#EXTINF:-1 group-title="XUMOPLAY",Home & Design: at-home-with-family-handyman
 https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Home & Design", gardening-with-monty-don
+#EXTINF:-1 group-title="XUMOPLAY",Home & Design: gardening-with-monty-don
 https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Educational & Learning", craftsytv
+#EXTINF:-1 group-title="XUMOPLAY",Home & Design: craftsytv
 https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Horror & Thriller", ion-mystery
-https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Reality & Talk Shows", court-tv
-https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Horror & Thriller", investigation
-https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama", ion
-https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Reality & Talk Shows", law-and-crime
-https://cdn.lawandcrime.net/rewind/playlist.m3u8
-#EXTINF:-1 group-title="Reality & Talk Shows", reelz-famous-and-infamous
-https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Reality & Talk Shows", tv-one-crime-and-justice-fast-channel
-https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama", midsomer-murders
-https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Reality & Talk Shows", court-tv-legendary-trials
-https://scripps-ctvlegendary-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Entertainment", cinelife
-https://d3ugbz7t7lf3ux.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama", stories-by-amc
-https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama", ion-plus
-https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kids & Family", barney-and-friends
-https://3fe55aac.wurl.com/out/v1/15a8d7cdb8f94287a06d321ab3aabe4f/playlist.m3u8
-#EXTINF:-1 group-title="Kids & Family", ninja-kidz-tv
-https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kids & Family", pocket-watch-game-on
-https://pocketwatch-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="History & Science", true-history-channel
-https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Documentaries", cnn-originals
-https://amg01918-cnnus-amg01918c2-xumo-us-6436.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Reality & Talk Shows", all-weddings-we-tv
-https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Reality & Talk Shows", confess-by-nosey
-https://nosey-confessbynosey-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Reality & Talk Shows", dr-phil
-https://6c2b4d4c.wurl.com/out/v1/d5229dfd8c4e449cb1349ae8f0d4a6e3/playlist.m3u8
-#EXTINF:-1 group-title="Reality & Talk Shows", nosey
-https://a347a83b.wurl.com/out/v1/8e53411815a4476c8ce414c2f778edc4/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Entertainment", rig-tv
-https://buzzr-rigtv-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentaries", real-disaster-channel
+
+#EXTINF:-1 group-title="XUMOPLAY",Reality TV: real-disaster-channel
 https://linear-475.frequency.stream/dist/xumo/475/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Documentaries", antiques-roadshow-uk
+#EXTINF:-1 group-title="XUMOPLAY",Reality TV: all-weddings-we-tv
+https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Reality TV: confess-by-nosey
+https://nosey-confessbynosey-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Reality TV: dr-phil
+https://6c2b4d4c.wurl.com/out/v1/d5229dfd8c4e449cb1349ae8f0d4a6e3/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Reality TV: nosey
+https://a347a83b.wurl.com/out/v1/8e53411815a4476c8ce414c2f778edc4/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Reality TV: rig-tv
+https://buzzr-rigtv-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Reality TV: All Reality We TV
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951376/hls/playlist.m3u8?ads.xumo_channelId=99951376
+
+#EXTINF:-1 group-title="XUMOPLAY",Movies: cinelife
+https://d3ugbz7t7lf3ux.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Movies: Hi-Yah!
+https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Movies: MovieSphere by Lionsgate
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="XUMOPLAY",Action & Drama: stories-by-amc
+https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Action & Drama: ion-plus
+https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Action & Drama: ion
+https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="XUMOPLAY",Horror & Sci-Fi: Scares by Shudder
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349
+#EXTINF:-1 group-title="XUMOPLAY",Horror & Sci-Fi: AMC Thrillers
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?ads.xumo_channelId=99951377
+#EXTINF:-1 group-title="XUMOPLAY",Horror & Sci-Fi: The Walking Dead Universe
+https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Horror & Sci-Fi: Alien Nation by Dust
+https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Horror & Sci-Fi: Classic Doctor Who
+https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="XUMOPLAY",Travel & Lifestyle: antiques-roadshow-uk
 https://bbc-antiquesroadshowuk-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentaries", pbs-antiques-roadshow
+#EXTINF:-1 group-title="XUMOPLAY",Travel & Lifestyle: pbs-antiques-roadshow
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music & Radio", iheartradio-hip-hop-beats
+
+#EXTINF:-1 group-title="XUMOPLAY",Animals & Nature: WildEarth
+https://wildearth-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="XUMOPLAY",History & Learning: true-history-channel
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",History & Learning: cnn-originals
+https://amg01918-cnnus-amg01918c2-xumo-us-6436.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="XUMOPLAY",Kids: barney-and-friends
+https://3fe55aac.wurl.com/out/v1/15a8d7cdb8f94287a06d321ab3aabe4f/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Kids: ninja-kidz-tv
+https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Kids: pocket-watch-game-on
+https://pocketwatch-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="XUMOPLAY",Music & Radio: iheartradio-hip-hop-beats
 https://iheart-iheartthebeat-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music & Radio", iheartcountry
+#EXTINF:-1 group-title="XUMOPLAY",Music & Radio: iheartcountry
 https://iheart-iheartcountry-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music & Radio", iheart-alternative-radio
+#EXTINF:-1 group-title="XUMOPLAY",Music & Radio: iheart-alternative-radio
 https://iheart-iheartaltradio-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music & Radio", iheart90s
+#EXTINF:-1 group-title="XUMOPLAY",Music & Radio: iheart90s
 https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama", bounce-xl
+
+#EXTINF:-1 group-title="XUMOPLAY",Comedy: bounce-xl
 https://scripps-bouncexl-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Comedy", laff-more
+#EXTINF:-1 group-title="XUMOPLAY",Comedy: laff-more
 https://scripps-laffmore-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Comedy", comedy-dynamics
+#EXTINF:-1 group-title="XUMOPLAY",Comedy: comedy-dynamics
 https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy", witz-comedy-tv
+#EXTINF:-1 group-title="XUMOPLAY",Comedy: witz-comedy-tv
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/2236f15f64224d0f9864ab6dd0dd9862/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Comedy: Portlandia
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951301/hls/playlist.m3u8?ads.xumo_channelId=99951301
+
+#EXTINF:-1 group-title="XUMOPLAY",Automotive: Top Gear
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+
+#EXTINF:-1 group-title="XUMOPLAY",Crime TV: court-tv
+https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Crime TV: reelz-famous-and-infamous
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Crime TV: investigation
+https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Crime TV: law-and-crime
+https://cdn.lawandcrime.net/rewind/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Crime TV: tv-one-crime-and-justice-fast-channel
+https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Crime TV: midsomer-murders
+https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Crime TV: court-tv-legendary-trials
+https://scripps-ctvlegendary-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="XUMOPLAY",Crime TV: ion-mystery
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="XUMOPLAY",News: BBC News
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 
 
 
@@ -4465,14 +4485,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 
 
-#EXTINF:-1 group-title="CW" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CW Forever.png" ,CW Forever
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwforever-nondrmhlstsv2-cw/playlist.m3u8
-#EXTINF:-1 group-title="CW" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CW Gold.png" ,CW Gold
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-cwgold-nondrmhlstsv2-cw/playlist.m3u8
-#EXTINF:-1 group-title="CW" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Midsomer Murders.png" ,Midsomer Murders
-https://all3media-midsomer-1-us.thecw.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CW" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/The BLK Effect.png" ,The BLK Effect
-https://mansa-mansamix-1-us.thecw.wurl.tv/playlist.m3u8
+
 
 
 
