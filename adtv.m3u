@@ -1482,12 +1482,7 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m
 #EXTINF:-1 group-title="भारतीय" ,Business News: CNBC Bazaar
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8
 
-
-
-
-
-
-#EXTINF:-1 group-title="TV Shows & Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/REFLET-TV.png" ,REFLET-TV
+#EXTINF:-1 group-title="South Africa Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/REFLET-TV.png" ,General: REFLET-TV
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
 
 
