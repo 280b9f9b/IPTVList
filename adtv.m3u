@@ -609,35 +609,35 @@ rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
 #EXTM3U https://www.persianagroup.tv/
 #EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-family.jpg" ,Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Cinema.png" ,Persiana Cinema
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-cinema.jpg" ,Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana One.png" ,Persiana One
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-one.jpg" ,Persiana One
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Korea.png" ,Persiana Korea
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-korea.jpg" ,Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Rap.png" ,Persiana Rap
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-rap.jpg" ,Persiana Rap
 https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Iranian.png" ,Persiana Iranian
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-iranian.jpg" ,Persiana Iranian
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Comedy.png" ,Persiana Comedy
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-comedy.jpg" ,Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana.png" ,Persiana
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana.jpg" ,Persiana
 https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Science.png" ,Persiana Science
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-science.jpg" ,Persiana Science
 https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Latino.png" ,Persiana Latino
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-latino.jpg" ,Persiana Latino
 https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Junior.png" ,Persiana Junior
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-junior.jpg" ,Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Sonnati.png" ,Persiana Sonnati
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sonnati.jpg" ,Persiana Sonnati
 https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Nostalgia.png" ,Persiana Nostalgia
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-nostalgia.jpg" ,Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana 4Kurd HD.png" ,Persiana 4Kurd HD
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-4kurdhd.jpg" ,Persiana 4Kurd HD
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Turkiye.png" ,Persiana Turkiye
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-turkiye.jpg" ,Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Two.png" ,Persiana Two
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-two.jpg" ,Persiana Two
 https://twohls.persiana.live/hls/stream.m3u8
 
 
