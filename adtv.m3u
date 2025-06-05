@@ -3594,7 +3594,8 @@ https://linear-1009.frequency.stream/mt/plex/1009/hls/master/playlist.m3u8
 https://linear-43.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex", Revry 2
 https://linear-5.frequency.stream/mt/plex/5/hls/master/playlist.m3u8
-
+#EXTINF:-1 group-title="Plex" ,Classic TV: The Ed Sullivan Show
+https://linear-598.frequency.stream/mt/plex/598/hls/master/playlist.m3u8
 
 
 
@@ -3605,8 +3606,7 @@ https://linear-5.frequency.stream/mt/plex/5/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-624.frequency.stream/mt/plex/624/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-598.frequency.stream/mt/plex/598/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-542.frequency.stream/mt/plex/542/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
