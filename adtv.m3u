@@ -152,8 +152,6 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Mubasher.png" ,Oman Mubasher
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Istiqama TV.png" ,Faith & Religion: Al Istiqama TV
-https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV.png" ,Qatar TV
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
@@ -205,10 +203,13 @@ https://kwtkrdota.cdn.mangomolo.com/eardo/eardo.stream_aac/index.m3u8
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kuwait Radio Two 97.5.png" ,Kuwait Radio Two 97.5
 https://kwtkrdota.cdn.mangomolo.com/k2rdo/k2rdo.stream_aac/index.m3u8
 
-#EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Atfal & Mawaheb TV.png" ,Kids & Family: Atfal & Mawaheb TV
-https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" ,Faith & Religion: Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Atfal & Mawaheb TV.png" ,Kids & Family: Atfal & Mawaheb TV
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Istiqama TV.png" ,Faith & Religion: Al Istiqama TV
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
 
 #EXTM3U https://www.jrtv.gov.jo/
@@ -3391,7 +3392,7 @@ https://drive.uber.radio/uber/forkidzwakeandshake/icecast.audio
 
 
 
-
+#EXTM3U https://www.plex.tv/
 #EXTINF:-1 group-title="Plex" ,Featured: The Bold and the Beautiful
 https://linear-1033.frequency.stream/mt/plex/1033/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Featured: Miramax Movie Channel
@@ -3417,96 +3418,97 @@ https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Movies & Entertainment" ,Plex24
+#EXTINF:-1 group-title="Movies & Entertainment" ,Movies: Plex24
 https://plex-ono-3-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Entertainment" ,IFC Films Picks
+#EXTINF:-1 group-title="Movies & Entertainment" ,Movies: IFC Films Picks
 https://amc-ifc-films-picks-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Entertainment" ,Maverick Black Cinema
+
+#EXTINF:-1 group-title="Movies & Entertainment" ,Movies: Maverick Black Cinema
 https://maverick-maverick-black-cinema-2-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Entertainment" ,Runtime
+#EXTINF:-1 group-title="Movies & Entertainment" ,Movies: Runtime
 https://run-rt-us.otteravision.com/out/v1/336b14e0a931466f99386ae576d30a57/index.m3u8
-#EXTINF:-1 group-title="Movies & Entertainment" ,Samuel Goldwyn Channel
+#EXTINF:-1 group-title="Movies & Entertainment" ,Movies: Samuel Goldwyn Channel
 https://samuelgoldwyn-films-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Faith & Religion" ,Spark TV Light & Love
+#EXTINF:-1 group-title="Faith & Religion" ,Movies: Spark TV Light & Love
 https://candlelightmedia-sparklightlove-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentaries" ,Documentary+
+#EXTINF:-1 group-title="Documentaries" ,Movies: Documentary+
 https://linear-859.frequency.stream/dist/plex/859/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Entertainment" ,Samuel Goldwyn Classics
+#EXTINF:-1 group-title="Movies & Entertainment" ,Movies: Samuel Goldwyn Classics
 https://samuelgoldwyn-classics-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Entertainment" ,RCM
+#EXTINF:-1 group-title="Movies & Entertainment" ,Movies: RCM
 https://amg01076-amg01076c11-plex-us-4783.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama" ,The Black Effect
+#EXTINF:-1 group-title="TV Shows & Drama" ,Movies: The Black Effect
 https://mansa-mansamix-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Entertainment" ,Oro TV
+#EXTINF:-1 group-title="Movies & Entertainment" ,En Español: Oro TV
 https://linear-651.frequency.stream/mt/plex/651/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Reality & Talk Shows" ,Judge Faith
+#EXTINF:-1 group-title="Reality & Talk Shows" ,Daytime TV: Judge Faith
 https://linear-650.frequency.stream/mt/plex/650/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Sports & Fitness" ,Court Sports Network
+#EXTINF:-1 group-title="Sports & Fitness" ,Sports: Court Sports Network
 https://linear-627.frequency.stream/mt/plex/627/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentaries" ,Real Disaster Channel
+#EXTINF:-1 group-title="Documentaries" ,Daytime TV: Real Disaster Channel
 https://linear-475.frequency.stream/mt/plex/475/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Home & Design" ,At Home with Family Handyman
+#EXTINF:-1 group-title="Home & Design" ,Food & Home: At Home with Family Handyman
 https://linear-458.frequency.stream/mt/plex/458/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Sports & Fitness" ,PokerGO
+#EXTINF:-1 group-title="Sports & Fitness" ,Sports: PokerGO
 https://linear-426.frequency.stream/mt/plex/426/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Travel & Lifestyle" ,Journy
+#EXTINF:-1 group-title="Travel & Lifestyle" ,Nature & Travel: Journy
 https://linear-291.frequency.stream/mt/plex/291/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Travel & Lifestyle" ,Journy
+#EXTINF:-1 group-title="Travel & Lifestyle" ,Nature & Travel: Journy
 https://linear-252.frequency.stream/mt/plex/252/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Nature & Wildlife" ,PursuitUP
+#EXTINF:-1 group-title="Nature & Wildlife" ,Sports: PursuitUP
 https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Documentaries" ,REELZ Famous & Infamous
+#EXTINF:-1 group-title="Documentaries" ,Daytime TV: REELZ Famous & Infamous
 https://linear-190.frequency.stream/mt/plex/190/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="History & Science" ,True History
+#EXTINF:-1 group-title="History & Science" ,History & Science: True History
 https://linear-188.frequency.stream/mt/plex/188/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics" ,RevryNews
+#EXTINF:-1 group-title="News & Politics" ,News: RevryNews
 https://linear-44.frequency.stream/mt/plex/44/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama" ,ALF
+#EXTINF:-1 group-title="TV Shows & Drama" ,Classic TV: ALF
 https://linear-729.frequency.stream/mt/plex/729/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Sci-Fi & Fantasy" ,Farscape
+#EXTINF:-1 group-title="Sci-Fi & Fantasy" ,Sci-Fi & Action: Farscape
 https://linear-731.frequency.stream/mt/plex/731/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Music & Radio" ,Non-Stop '90s
+#EXTINF:-1 group-title="Music & Radio" ,Classic TV: Non-Stop '90s
 https://linear-744.frequency.stream/mt/plex/744/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Westerns & Country" ,Wild West TV
+#EXTINF:-1 group-title="Westerns & Country" ,Classic TV: Wild West TV
 https://linear-799.frequency.stream/mt/plex/799/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Sports & Fitness" ,UFC
+#EXTINF:-1 group-title="Sports & Fitness" ,Sports: UFC
 https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Faith & Religion" ,Dove
+#EXTINF:-1 group-title="Faith & Religion" ,Movies: Dove
 https://linear-896.frequency.stream/mt/plex/896/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Horror & Thriller" ,Midnight Pulp
+#EXTINF:-1 group-title="Horror & Thriller" ,Sci-Fi & Action: Midnight Pulp
 https://linear-897.frequency.stream/mt/plex/897/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Anime" ,RetroCrush
+#EXTINF:-1 group-title="Anime" ,Anime+: RetroCrush
 https://linear-899.frequency.stream/mt/plex/899/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Cultural & World" ,AsianCrush
+#EXTINF:-1 group-title="Cultural & World" ,Anime+: AsianCrush
 https://linear-900.frequency.stream/mt/plex/900/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" ,Comedy Dynamics
+#EXTINF:-1 group-title="Comedy" ,Comedy: Comedy Dynamics
 https://linear-903.frequency.stream/mt/plex/903/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Action & Adventure" ,Hunter
+#EXTINF:-1 group-title="Action & Adventure" ,Classic TV: Hunter
 https://linear-914.frequency.stream/mt/plex/914/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Food & Cooking" ,Saborear TV
+#EXTINF:-1 group-title="Food & Cooking" ,En Español: Saborear TV
 https://linear-649.frequency.stream/mt/plex/649/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama" ,21 Jump Street
+#EXTINF:-1 group-title="TV Shows & Drama" ,Classic TV: 21 Jump Street
 https://linear-915.frequency.stream/mt/plex/915/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Music & Radio" ,FLOU Detonación
+#EXTINF:-1 group-title="Music & Radio" ,En Español: FLOU Detonación
 https://linear-930.frequency.stream/mt/plex/930/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Sports & Fitness" ,PGA TOUR
+#EXTINF:-1 group-title="Sports & Fitness" ,Sports: PGA TOUR
 https://linear-1006.frequency.stream/mt/plex/1006/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentaries",SurvivorNet TV (SNTV)
 https://linear-502.frequency.stream/mt/plex/502/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Documentaries",SurvivorNet TV (SNTV)
 https://linear-496.frequency.stream/mt/plex/496/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Educational & Learning",CraftsyTV
+#EXTINF:-1 group-title="Educational & Learning",Food & Home: CraftsyTV
 https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Entertainment",BlackPix
 https://linear-276.frequency.stream/mt/plex/276/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Sports & Fitness",Swerve Combat
+#EXTINF:-1 group-title="Sports & Fitness",Sports: Swerve Combat
 https://linear-253.frequency.stream/mt/plex/253/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Sci-Fi & Fantasy",Unidentified
+#EXTINF:-1 group-title="Sci-Fi & Fantasy",History & Science: Unidentified
 https://linear-150.frequency.stream/mt/plex/150/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Very Local" ,Very Local 01
@@ -3567,18 +3569,18 @@ https://linear-200.frequency.stream/mt/plex/200/hls/master/playlist.m3u8
 https://linear-98.frequency.stream/mt/plex/98/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Action & Adventure",Hi-YAH!
 https://linear-59.frequency.stream/mt/plex/59/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" ,Always Funny en Español
+#EXTINF:-1 group-title="Comedy" ,En Español: Always Funny en Español
 https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy",Always Funny
+#EXTINF:-1 group-title="Comedy",Comedy: Always Funny
 https://linear-12.frequency.stream/mt/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Horror & Thriller",Scream Factory TV
 https://linear-730.frequency.stream/mt/plex/730/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy",Trailer Park Boys: The SwearNet Show
+#EXTINF:-1 group-title="Comedy",Comedy: Trailer Park Boys: The SwearNet Show
 https://linear-732.frequency.stream/mt/plex/732/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Horror & Thriller",GREAT! mystery
 https://linear-861.frequency.stream/mt/plex/861/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Sci-Fi & Fantasy",Alien Nation by DUST
+#EXTINF:-1 group-title="Sci-Fi & Fantasy",History & Science: Alien Nation by DUST
 https://linear-888.frequency.stream/mt/plex/888/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Travel & Lifestyle",GoPro
 https://linear-891.frequency.stream/mt/plex/891/hls/master/playlist.m3u8
@@ -3588,7 +3590,7 @@ https://linear-901.frequency.stream/mt/plex/901/hls/master/playlist.m3u8
 https://linear-918.frequency.stream/mt/plex/918/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Reality & Talk Shows",Cut
 https://linear-1009.frequency.stream/mt/plex/1009/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama", Revry
+#EXTINF:-1 group-title="TV Shows & Drama",Lifestyle: Revry
 https://linear-43.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV Shows & Drama", Revry 2
 https://linear-5.frequency.stream/mt/plex/5/hls/master/playlist.m3u8
