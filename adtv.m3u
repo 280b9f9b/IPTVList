@@ -606,8 +606,8 @@ rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
 
 
 
-
-#EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Family.png" ,Persiana Family
+#EXTM3U https://www.persianagroup.tv/
+#EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-family.jpg" ,Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Persiana" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Persiana Cinema.png" ,Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
