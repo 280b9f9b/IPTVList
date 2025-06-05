@@ -199,6 +199,8 @@ https://kwtkrdota.cdn.mangomolo.com/olrdo/olrdo.stream_aac/index.m3u8
 https://kwtkrdota.cdn.mangomolo.com/eardo/eardo.stream_aac/index.m3u8
 #EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kuwait Radio Two 97.5.png" ,Kuwait Radio Two 97.5
 https://kwtkrdota.cdn.mangomolo.com/k2rdo/k2rdo.stream_aac/index.m3u8
+#EXTINF:-1 group-title="GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Atfal & Mawaheb TV.png" ,Kids & Family: Atfal & Mawaheb TV
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 
 
 #EXTM3U https://www.jrtv.gov.jo/
@@ -1484,8 +1486,7 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.
 
 
 
-#EXTINF:-1 group-title="Kids & Family" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Atfal & Mawaheb TV.png" ,Atfal & Mawaheb TV
-https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
 #EXTINF:-1 group-title="TV Shows & Drama" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/REFLET-TV.png" ,REFLET-TV
 https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
 
