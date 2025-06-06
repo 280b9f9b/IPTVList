@@ -4858,6 +4858,9 @@ https://linear-866.frequency.stream/mt/plex/866/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Plex",Lifestyle: Revry
 https://linear-43.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,Lifestyle: Choppertown
+https://linear-11.frequency.stream/mt/plex/11/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Plex" ,Food & Home: At Home with Family Handyman
 https://linear-458.frequency.stream/mt/plex/458/hls/master/playlist.m3u8
@@ -5180,8 +5183,7 @@ https://linear-91.frequency.stream/mt/plex/91/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-11.frequency.stream/mt/plex/11/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-10.frequency.stream/mt/plex/10/hls/master/playlist.m3u8
 
