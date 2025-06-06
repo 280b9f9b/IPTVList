@@ -3475,9 +3475,12 @@ https://linear-867.frequency.stream/mt/plex/867/hls/master/playlist.m3u8
 https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Comedy: Comedy Dynamics
 https://linear-903.frequency.stream/mt/plex/903/hls/master/playlist.m3u8
-
-
-
+#EXTINF:-1 group-title="Comedy" ,En Español: Always Funny en Español
+https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Comedy",Comedy: Always Funny
+https://linear-12.frequency.stream/mt/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Comedy",Comedy: Trailer Park Boys: The SwearNet Show
+https://linear-732.frequency.stream/mt/plex/732/hls/master/playlist.m3u8
 
 
 
@@ -3635,16 +3638,15 @@ https://linear-124.frequency.stream/mt/plex/124/hls/master/playlist.m3u8
 https://linear-200.frequency.stream/mt/plex/200/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local 28
 https://linear-98.frequency.stream/mt/plex/98/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Action & Adventure",Hi-YAH!
 https://linear-59.frequency.stream/mt/plex/59/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" ,En Español: Always Funny en Español
-https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy",Comedy: Always Funny
-https://linear-12.frequency.stream/mt/plex/12/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Horror & Thriller",Scream Factory TV
 https://linear-730.frequency.stream/mt/plex/730/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy",Comedy: Trailer Park Boys: The SwearNet Show
-https://linear-732.frequency.stream/mt/plex/732/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Plex",GREAT! mystery
 https://linear-861.frequency.stream/mt/plex/861/hls/master/playlist.m3u8
