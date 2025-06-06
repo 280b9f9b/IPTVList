@@ -3688,9 +3688,9 @@ https://linear-82.frequency.stream/mt/plex/82/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Military & War",The Team House
+#EXTINF:-1 group-title="Brightcove",The Team House
 https://linear-64.frequency.stream/mt/brightcove/64/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Travel & Lifestyle",GoPro
+#EXTINF:-1 group-title="Brightcove",GoPro
 https://linear-891.frequency.stream/mt/brightcove/891/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Brightcove" ,Brightcove
 https://linear-80.frequency.stream/mt/brightcove/80/hls/master/playlist.m3u8
@@ -3704,28 +3704,28 @@ https://linear-225.frequency.stream/mt/brightcove/225/hls/master/playlist.m3u8
 https://linear-235.frequency.stream/mt/brightcove/235/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Brightcove" ,Brightcove
 https://linear-627.frequency.stream/mt/brightcove/627/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama", Revry Her
+#EXTINF:-1 group-title="Brightcove", Revry Her
 https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics", Revry News
+#EXTINF:-1 group-title="Brightcove", Revry News
 https://linear-44.frequency.stream/mt/brightcove/44/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Cultural & World", Revry Latinx
+#EXTINF:-1 group-title="Brightcove", Revry Latinx
 https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Cultural & World", Revry Brasil
+#EXTINF:-1 group-title="Brightcove", Revry Brasil
 https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV Shows & Drama", Revry 2
+#EXTINF:-1 group-title="Brightcove", Revry 2
 https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Travel & Lifestyle" ,EN: Revry 2
+#EXTINF:-1 group-title="Brightcove" ,EN: Revry 2
 https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Travel & Lifestyle" ,PT: Revry Brasil
+#EXTINF:-1 group-title="Brightcove" ,PT: Revry Brasil
 https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Cultural & World",TV Brasil
+#EXTINF:-1 group-title="streamlock",TV Brasil
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
-#EXTINF:-1 group-title="Cultural & World",Limón TV
+#EXTINF:-1 group-title="streamlock",Limón TV
 https://5cf4a2c2512a2.streamlock.net/8164/8164/playlist.m3u8
-#EXTINF:-1 group-title="Cultural & World",TV Brasil
+#EXTINF:-1 group-title="streamlock",TV Brasil
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 
 #EXTINF:-1 group-title="streamlock" ,streamlock
