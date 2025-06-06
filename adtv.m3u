@@ -5584,7 +5584,7 @@ https://linear-178.frequency.stream/178/hls/master/playlist.m3u8
 https://linear-179.frequency.stream/179/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="stream" ,stream
 https://linear-186.frequency.stream/186/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="stream" ,stream
+#EXTINF:-1 group-title="stream" ,Very Local
 https://linear-225.frequency.stream/225/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="stream" ,stream
 https://linear-227.frequency.stream/227/hls/master/playlist.m3u8
