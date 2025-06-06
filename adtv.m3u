@@ -536,7 +536,7 @@ https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
 https://scripps-bouncexl-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="XUMOPLAY",Comedy: laff-more
 https://scripps-laffmore-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Comedy: comedy-dynamics
+#EXTINF:-1 group-title="XUMOPLAY",Comedy: Comedy Dynamics
 https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="XUMOPLAY",Comedy: witz-comedy-tv
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/2236f15f64224d0f9864ab6dd0dd9862/playlist.m3u8
@@ -4016,7 +4016,7 @@ https://linear-890.frequency.stream/mt/studio/890/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Faith & Religion",DOVE
 https://linear-896.frequency.stream/mt/studio/896/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="studio" ,studio
+#EXTINF:-1 group-title="studio" ,Comedy Dynamics
 https://linear-903.frequency.stream/mt/studio/903/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,studio
 https://linear-932.frequency.stream/mt/studio/932/hls/master/playlist.m3u8
