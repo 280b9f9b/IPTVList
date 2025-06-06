@@ -5184,8 +5184,7 @@ https://linear-10.frequency.stream/mt/plex/10/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist.m3u8
 
