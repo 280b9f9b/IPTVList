@@ -4721,7 +4721,7 @@ https://streaming.positivity.radio/pr/zen/icecast.audio
 
 
 
-#EXTINF:-1 group-title="YouRadio Easy" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/78df16eb-7998-49e5-aed9-1bed50ea267a.png" ,Easy Instrumentals
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/78df16eb-7998-49e5-aed9-1bed50ea267a.png" ,Easy: Instrumentals
 https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
 
 
@@ -4729,13 +4729,13 @@ https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
 
 
 
-#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Trending.png" ,TikTok Trending
+#EXTINF:-1 group-title="YouRadio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Trending.png" ,TikTok: Trending
 https://2.mystreaming.net/er-app/tiktoktrending/icecast.audio
-#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok 2023 Viral.png" ,TikTok 2023 Viral
+#EXTINF:-1 group-title="YouRadio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok 2023 Viral.png" ,TikTok: 2023 Viral
 https://drive.uber.radio/uber/tt2023/icecast.audio
-#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Hits.png" ,TikTok Hits
+#EXTINF:-1 group-title="YouRadio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Hits.png" ,TikTok: Hits
 https://drive.uber.radio/uber/tthits/icecast.audio
-#EXTINF:-1 group-title="YouRadio TikTok" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Throwbacks.png" ,TikTok Throwbacks
+#EXTINF:-1 group-title="YouRadio" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/TikTok Throwbacks.png" ,TikTok: Throwbacks
 https://drive.uber.radio/uber/ttthrowbacks/icecast.audio
 
 
@@ -4746,57 +4746,57 @@ https://drive.uber.radio/uber/ttthrowbacks/icecast.audio
 
 
 
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/5b6bd9ad-c854-4a86-81a5-6d925a610ed8.png" ,Blues
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/5b6bd9ad-c854-4a86-81a5-6d925a610ed8.png" ,The Best Of: Blues
 https://drive.uber.radio/uber/starboxblues/icecast.audio
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/407bff50-41d0-41c5-b2f8-f671c48db482.png" ,Christmas Pop
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/407bff50-41d0-41c5-b2f8-f671c48db482.png" ,The Best Of: Christmas Pop
 https://streaming.exclusive.radio/er/christmaspop/icecast.audio
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8545b0f4-3555-457f-9e73-fd7f20b962a6.png" ,Easy
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/8545b0f4-3555-457f-9e73-fd7f20b962a6.png" ,The Best Of: Easy
 https://drive.uber.radio/uber/starboxeasy/icecast.audio
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ae02f548-9221-480f-8c1b-e10bdea95e72.png" ,Hollywood & Broadway Musicals
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ae02f548-9221-480f-8c1b-e10bdea95e72.png" ,The Best Of: Hollywood & Broadway Musicals
 https://streaming.exclusive.radio/er/hollywoodandbroadway/icecast.audio
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/af750036-7f6a-4ee3-b6f4-f08d9760bee5.png" ,Indie
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/af750036-7f6a-4ee3-b6f4-f08d9760bee5.png" ,The Best Of: Indie
 https://drive.uber.radio/uber/starboxindie/icecast.audio
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/734ef06b-79d9-4348-b359-61989c6170da.png" ,Northern Soul
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/734ef06b-79d9-4348-b359-61989c6170da.png" ,The Best Of: Northern Soul
 https://drive.uber.radio/uber/starboxnorthernsoul/icecast.audio
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/d469c3c0-a121-482f-a11c-b5a51b9479f0.png" ,Party
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/d469c3c0-a121-482f-a11c-b5a51b9479f0.png" ,The Best Of: Party
 https://streaming.exclusive.radio/er/party/icecast.audio
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3ce09af3-fcc8-4bd2-a243-37f50057a036.png" ,Reggae
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3ce09af3-fcc8-4bd2-a243-37f50057a036.png" ,The Best Of: Reggae
 https://drive.uber.radio/uber/starboxreggae/icecast.audio
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a94d952a-e26f-4a84-87aa-ba8695d0f22d.png" ,RnB
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a94d952a-e26f-4a84-87aa-ba8695d0f22d.png" ,The Best Of: RnB
 https://drive.uber.radio/uber/starboxrnb/icecast.audio
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3a07ada7-380c-4270-9a93-4fe58d1a0adb.png" ,Rock
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3a07ada7-380c-4270-9a93-4fe58d1a0adb.png" ,The Best Of: Rock
 https://drive.uber.radio/uber/starboxrock/icecast.audio
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/883dc078-4a20-40da-89d3-f5faaaafc379.png" ,Rock N Roll
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/883dc078-4a20-40da-89d3-f5faaaafc379.png" ,The Best Of: Rock N Roll
 https://streaming.exclusive.radio/er/rocknrollparty/icecast.audio
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/94a58f73-9dac-4f38-a580-47736aca5f79.png" ,Soul
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/94a58f73-9dac-4f38-a580-47736aca5f79.png" ,The Best Of: Soul
 https://drive.uber.radio/uber/starboxsoul/icecast.audio
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/db2b1ec3-ebe2-48cc-99e0-893a4fe6ddad.png" ,Glastonbury 25
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/db2b1ec3-ebe2-48cc-99e0-893a4fe6ddad.png" ,The Best Of: Glastonbury 25
 https://nl4.mystreaming.net/uber-app/festivals/icecast.audio
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/2246fc5b-77cc-4a39-accf-da36aed57859.png" ,Todays Hits
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/2246fc5b-77cc-4a39-accf-da36aed57859.png" ,The Best Of: Todays Hits
 https://streaming.exclusive.radio/er/chart/icecast.audio
-#EXTINF:-1 group-title="YouRadio The Best Of" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a8fc7978-44f0-49ad-8685-631c0b66a9d8.png" ,Protest Songs
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a8fc7978-44f0-49ad-8685-631c0b66a9d8.png" ,The Best Of: Protest Songs
 https://2.mystreaming.net/uber-app/wake/icecast.audio
 
 
 
-#EXTINF:-1 group-title="YouRadio Just Jazz Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/bb2cdb60-0d19-4b86-9cd0-7677c656d07a.png" ,Al Jarreau
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/bb2cdb60-0d19-4b86-9cd0-7677c656d07a.png" ,Just Jazz Radio: Al Jarreau
 https://drive.uber.radio/uber/jjraljarreau/icecast.audio
 
 
 
-#EXTINF:-1 group-title="YouRadio Rock The World" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a7a81dd1-fdb2-441b-aabd-bfaacd611d94.png" ,Alt Rock
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a7a81dd1-fdb2-441b-aabd-bfaacd611d94.png" ,Rock The World: Alt Rock
 https://drive.uber.radio/uber/rtwalt/icecast.audio
 
 
-#EXTINF:-1 group-title="YouRadio World Music Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/53f05ae5-1fff-488d-a565-4644c4e47251.png" ,Afrobeats
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/53f05ae5-1fff-488d-a565-4644c4e47251.png" ,World Music Radio: Afrobeats
 https://streaming.exclusive.radio/er/afrobeats/icecast.audio
-#EXTINF:-1 group-title="YouRadio World Music Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f23b1bdf-1e89-4e36-9f7c-7754ce0b85b7.png" ,Bollywood
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f23b1bdf-1e89-4e36-9f7c-7754ce0b85b7.png" ,World Music Radio: Bollywood
 https://streaming.exclusive.radio/er/bollywood/icecast.audio
-#EXTINF:-1 group-title="YouRadio World Music Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/1255643b-b591-41bf-8e5f-8e865469ebd1.png" ,Italy
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/1255643b-b591-41bf-8e5f-8e865469ebd1.png" ,World Music Radio: Italy
 https://streaming.exclusive.radio/er/italy/icecast.audio
-#EXTINF:-1 group-title="YouRadio World Music Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/0a263cf7-3218-496e-9bce-c60d479c126f.png" ,J Pop
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/0a263cf7-3218-496e-9bce-c60d479c126f.png" ,World Music Radio: J Pop
 https://streaming.exclusive.radio/er/jpop/icecast.audio
-#EXTINF:-1 group-title="YouRadio World Music Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3887123d-86ee-4036-bda6-0baa6df25a80.png" ,K Pop
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/3887123d-86ee-4036-bda6-0baa6df25a80.png" ,World Music Radio: K Pop
 https://streaming.exclusive.radio/er/kpop/icecast.audio
 
 
@@ -4805,33 +4805,33 @@ https://streaming.exclusive.radio/er/kpop/icecast.audio
 
 
 
-#EXTINF:-1 group-title="YouRadio For Kids" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/076cbdc6-dd16-4670-b951-f7dc0829e101.png" ,Bathtime Fun
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/076cbdc6-dd16-4670-b951-f7dc0829e101.png" ,For Kids: Bathtime Fun
 https://drive.uber.radio/uber/forkidzbathtimefun/icecast.audio
-#EXTINF:-1 group-title="YouRadio For Kids" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/e2c80f9e-b422-444e-9494-442a368c02d0.png" ,Bedtime Stories
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/e2c80f9e-b422-444e-9494-442a368c02d0.png" ,For Kids: Bedtime Stories
 https://drive.uber.radio/uber/forkidzbedtimestories/icecast.audio
-#EXTINF:-1 group-title="YouRadio For Kids" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ff6e172d-33f3-4d10-afc6-511560755030.png" ,Calm
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ff6e172d-33f3-4d10-afc6-511560755030.png" ,For Kids: Calm
 https://drive.uber.radio/uber/forkidzcalm/icecast.audio
-#EXTINF:-1 group-title="YouRadio For Kids" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/aab7a70c-5820-44bf-b703-ee66bfc8c178.png" ,Classical
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/aab7a70c-5820-44bf-b703-ee66bfc8c178.png" ,For Kids: Classical
 https://drive.uber.radio/uber/forkidzclassical/icecast.audio
-#EXTINF:-1 group-title="YouRadio For Kids" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/de3eea6a-65ea-4bba-9aa9-63bc1b1395eb.png" ,Dance Party
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/de3eea6a-65ea-4bba-9aa9-63bc1b1395eb.png" ,For Kids: Dance Party
 https://drive.uber.radio/uber/forkidzdanceparty/icecast.audio
-#EXTINF:-1 group-title="YouRadio For Kids" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/608e35de-d0f3-45c8-87b6-069228f9c38a.png" ,Kidz Bop
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/608e35de-d0f3-45c8-87b6-069228f9c38a.png" ,For Kids: Kidz Bop
 https://drive.uber.radio/uber/forkidzkidzbop/icecast.audio
-#EXTINF:-1 group-title="YouRadio For Kids" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/733a213f-3d1a-46cc-8d74-67a15161bde1.png" ,Lullabies
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/733a213f-3d1a-46cc-8d74-67a15161bde1.png" ,For Kids: Lullabies
 https://drive.uber.radio/uber/forkidzlullabys/icecast.audio
-#EXTINF:-1 group-title="YouRadio For Kids" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/2ee3b425-643a-4ce9-b889-70d84ccd09f7.png" ,Movie Soundtracks
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/2ee3b425-643a-4ce9-b889-70d84ccd09f7.png" ,For Kids: Movie Soundtracks
 https://drive.uber.radio/uber/forkidzmoviesoundtracks/icecast.audio
-#EXTINF:-1 group-title="YouRadio For Kids" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/69244c45-4ba7-490b-ab02-d98b58a9170e.png" ,Nursery Rhymes
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/69244c45-4ba7-490b-ab02-d98b58a9170e.png" ,For Kids: Nursery Rhymes
 https://drive.uber.radio/uber/forkidznurseryrhymes/icecast.audio
-#EXTINF:-1 group-title="YouRadio For Kids" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/b5c698d3-9f0f-4dda-ae6a-fce2fe383936.png" ,Pinkfong
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/b5c698d3-9f0f-4dda-ae6a-fce2fe383936.png" ,For Kids: Pinkfong
 https://drive.uber.radio/uber/forkidzpinkfong/icecast.audio
-#EXTINF:-1 group-title="YouRadio For Kids" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/dc86db87-68e6-4672-abdc-62fcae828439.png" ,Pop Kids
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/dc86db87-68e6-4672-abdc-62fcae828439.png" ,For Kids: Pop Kids
 https://drive.uber.radio/uber/forkidzpophits/icecast.audio
-#EXTINF:-1 group-title="YouRadio For Kids" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ef984a5a-2cfa-4c08-b77f-eb18fbfad1f3.png" ,Sleep Kids
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/ef984a5a-2cfa-4c08-b77f-eb18fbfad1f3.png" ,For Kids: Sleep Kids
 https://drive.uber.radio/uber/forkidzsleep/icecast.audio
-#EXTINF:-1 group-title="YouRadio For Kids" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/db1df1d4-3e0e-44eb-9a01-24e70ec0ed8b.png" ,Toddler Tunes
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/db1df1d4-3e0e-44eb-9a01-24e70ec0ed8b.png" ,For Kids: Toddler Tunes
 https://drive.uber.radio/uber/forkidztoddlertunes/icecast.audio
-#EXTINF:-1 group-title="YouRadio For Kids" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a6c0ace4-c7c6-4724-b821-27b9dd21bc87.png" ,Wake & Shake
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/a6c0ace4-c7c6-4724-b821-27b9dd21bc87.png" ,For Kids: Wake & Shake
 https://drive.uber.radio/uber/forkidzwakeandshake/icecast.audio
 
 
