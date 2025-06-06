@@ -92,33 +92,33 @@ https://streams.radio.co/sce558c2e6/listen
 
 
 #EXTM3U https://www.sba.net.ae/ https://www.fujairahtv.ae/ https://www.ajmantv.com/
-#EXTINF:-1 group-title="Al Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah TV.png" ,Sharjah TV
+#EXTINF:-1 group-title="Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah TV.png" ,Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Al Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah 2.png" ,Sharjah 2
+#EXTINF:-1 group-title="Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah 2.png" ,Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Al Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah Sports TV.png" ,Shj Sports TV
+#EXTINF:-1 group-title="Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah Sports TV.png" ,Shj Sports TV
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 group-title="Al Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Sharqiya Min Kabla.png" ,Al Sharqiya
+#EXTINF:-1 group-title="Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Sharqiya Min Kabla.png" ,Al Sharqiya
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Al Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Wousta TV.png" ,Al Wousta TV
+#EXTINF:-1 group-title="Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Wousta TV.png" ,Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Al Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah Quran.png" ,Sharjah Quran
+#EXTINF:-1 group-title="Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah Quran.png" ,Sharjah Quran
 https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
-#EXTINF:-1 group-title="Al Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah FM.png" ,Sharjah FM
+#EXTINF:-1 group-title="Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sharjah FM.png" ,Sharjah FM
 https://l3.itworkscdn.net/smcradiolive/smcradiolive/icecast.audio
-#EXTINF:-1 group-title="Al Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah TV.png" ,Fujairah TV
+#EXTINF:-1 group-title="Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah TV.png" ,Fujairah TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/fujairahpublish/fujairah_source/chunks.m3u8
-#EXTINF:-1 group-title="Al Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah FM.png" ,Fujairah FM
+#EXTINF:-1 group-title="Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fujairah FM.png" ,Fujairah FM
 https://live.kwikmotion.com/fujairahradiolive/fujairahradio/chunks.m3u8
-#EXTINF:-1 group-title="Al Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Vibe FM.png" ,Vibe FM
+#EXTINF:-1 group-title="Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Vibe FM.png" ,Vibe FM
 https://live.kwikmotion.com/fujairahviberadiolive/fujairahviberadio/chunks.m3u8
-#EXTINF:-1 group-title="Al Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zayed Radio For Quraan.png" ,Zayed Radio
+#EXTINF:-1 group-title="Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Zayed Radio For Quraan.png" ,Zayed Radio
 https://live.kwikmotion.com/fujairahquranradiolive/fujairahquranradio/chunks.m3u8
-#EXTINF:-1 group-title="Al Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ajman TV.png" ,Ajman TV
+#EXTINF:-1 group-title="Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Ajman TV.png" ,Ajman TV
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1 group-title="Al Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Rabia FM.png" ,Al Rabia FM
+#EXTINF:-1 group-title="Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Rabia FM.png" ,Al Rabia FM
 https://s2.radio.co/s770fa24b6/listen
-#EXTINF:-1 group-title="Al Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dafrah TV.png" ,Al Dafrah TV
+#EXTINF:-1 group-title="Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dafrah TV.png" ,Al Dafrah TV
 https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
 
 
