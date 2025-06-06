@@ -2012,6 +2012,920 @@ https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="IPTVorg" tvg-id="RakutenTVFamilyMovies.es@Switzerland" ,Movies: Rakuten TV Family Switzerland (720p)
 https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
 
+#EXTINF:-1 group-title="IPTVorg" tvg-id="1KZNTV.za" ,Entertainment: 1KZN TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TshwaneTV.za" ,Entertainment: Tshwane TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="2x2.ru" ,Entertainment: 2x2
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="4UTV.tr" ,Entertainment: 4U TV (720p)
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="5AABTV.ca" ,Entertainment: 5AAB TV (720p) [Not 24/7]
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="5Plus.mm" ,Entertainment: 5 Plus (480p)
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="6ter.fr" ,Entertainment: 6ter
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short_cenc10_6ter_hd_index.mpd
+#EXTINF:-1 group-title="IPTVorg" tvg-id="78TV.bg" ,Entertainment: 7/8 TV (1080p)
+https://ms4.sedemosmi.tv/live/M3E5ajhtdjJkaXBscmZubmUxMmh1cjN1bjZrbm5wZW8/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="8TV.my" ,Entertainment: 8TV
+https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+#EXTINF:-1 group-title="IPTVorg" tvg-id="9Gem.au@Sydney" ,Entertainment: 9Gem (720p) [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="13E.cl" ,Entertainment: 13 Entretención (720p)
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="13Realities.cl" ,Entertainment: 13 Realities (1080p)
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="30ASidewalks.us" ,Entertainment: 30A Sidewalks (720p)
+https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="30ATelevisionChannel.us" ,Entertainment: 30A Television Channel
+https://30a-tv.com/feeds/masters/30atv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="312TV.kg" ,Entertainment: 312 ТВ (406p)
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="504TV.hn" ,Entertainment: 504 TV (720p)
+https://mediacp.us:8081/504tvhn/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OPA.cr@SD" ,Entertainment: ¡OPA! (1080i) [Geo-blocked]
+https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AE.us@East" ,Entertainment: A&E East (720p)
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AathavanTV.uk" ,Entertainment: Aathavan TV (720p) [Not 24/7]
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABCTVPlus.au@Sydney" ,Entertainment: ABC TV Plus (720p)
+https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KCKSLD3.us" ,Entertainment: Ace TV (KCKS-LD3) (480p)
+https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ACSNetwork.pr" ,Entertainment: ACS Network (480p)
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AfroLandTV.us" ,Entertainment: AfroLandTV (1080p)
+https://alt-al.otteravision.com/alt/al/al.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AguacateTV.ve" ,Entertainment: Aguacate TV (1080p)
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AhupaVisualRadio.rw@SD" ,Entertainment: Ahupa Visual Radio
+https://tv.btnrwanda.com:3349/live/ahupalive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlfoldTV.hu" ,Entertainment: Alföld TV (1080p)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Amantesdelromance.us" ,Entertainment: Amantes del romance
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268072-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68743968-8695-4725-b7a7-5a4926c380d1
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AmarinTV.th" ,Entertainment: Amarin TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AbsoluteRealitybyWETV.us" ,Entertainment: AMC Absolute Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AMCenEspanol.us" ,Entertainment: AMC en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268073-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6f5fd68-d238-461a-85d9-c326f4f63ae9
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ANCTelevision.co" ,Entertainment: ANC Televisión (480p) [Not 24/7]
+https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AnixePlus.de" ,Entertainment: Anixe + (360p)
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AnixeHDSerie.de" ,Entertainment: Anixe HD Serie (360p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AnjanTV.in" ,Entertainment: Anjan (1080p) [Not 24/7]
+https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ANT1.gr" ,Entertainment: ANT1 (1080p) [Geo-blocked]
+http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ANT1Cyprus.cy" ,Entertainment: ANT1 Cyprus (1080p)
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AntaresTelevision.pe" ,Entertainment: Antares Televisión (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AntennaTV.us" ,Entertainment: Antenna TV
+https://fl3.moveonjoy.com/Antenna_TV/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ApnaPunjabTV.ca" ,Entertainment: Apna Punjab TV (720p)
+https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Apple68TV.us" ,Entertainment: Apple68 TV (1080p)
+http://doxatv.flashmediacast.com:1935/doxatv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="arte.fr" ,Entertainment: Arte (720p) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AsianTV.bd" ,Entertainment: Asian TV (720p)
+https://mtlivestream.site/asian/ytlive/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Aspire.us" ,Entertainment: Aspire
+https://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AstroVinmeen.my@SD" ,Entertainment: Astro Vinmeen
+https://live20.bozztv.com/akamaissh101/ssh101/sungo544/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AztecaInternacional.mx" ,Entertainment: Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BPlusTV.rw" ,Entertainment: B+ TV (480p)
+https://tv.btnrwanda.com:3432/live/bpluslive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BalkanRadioSalzburg.at" ,Entertainment: Balkan Radio Salzburg (480p)
+https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BBCAmerica.us" ,Entertainment: BBC America
+https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BDCTV.br" ,Entertainment: BDC TV (576p)
+https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BedayaTV.sa" ,Entertainment: Bedaya TV (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Bellavision.do" ,Entertainment: Bellavisión (1080p)
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BestofDrPhil.us" ,Entertainment: Best of Dr. Phil
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f760bbdf090700075d7bfe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ffa3ab8-f961-4798-abdc-ca98d4ae0e8c
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BestofTheDrewBarrymoreShow.us@SD" ,Entertainment: Best of The Drew Barrymore Show
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6310cbee5a8ad300070fdb7c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a40-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=223866bd-0f1f-4f33-9986-65de6978421c
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BETClassicsPlutoTV.us@France" ,Entertainment: BET CLASSICS Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f90-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f90dc5f8-5a4a-4bbd-bb99-e092a9625269
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BETHer.us@East" ,Entertainment: BET Her East
+https://fl3.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BETPlutoTV.us" ,Entertainment: BET Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e4dfe90-0228-4bbb-b7cd-1e422a0e7cbb
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Blaze.uk" ,Entertainment: Blaze (576p) [Geo-blocked]
+https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BonceTV.cw" ,Entertainment: Bonce TV (480p) [Not 24/7]
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BounceXL.us" ,Entertainment: Bounce XL
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c190f5a2-d746-452a-adf6-37d9268e59ae
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BritishDrama.us" ,Entertainment: British Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=efb81bc4-4de2-410c-bd56-c59e9a06a232
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BTV.ug" ,Entertainment: BTV (480p)
+https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BuenaTV.pr" ,Entertainment: Buena TV (1080p)
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Buzzr.us" ,Entertainment: Buzzr
+https://fl3.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IxchiguanEstereoTV.gt" ,Entertainment: Canal 9 Ixchiguán (720p)
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Canal11.ni" ,Entertainment: Canal 11 (1080p)
+https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Canal14Codazzi.co" ,Entertainment: Canal 14 Codazzi (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8056/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Canal15DTP.hn" ,Entertainment: Canal 15 DTP (352p)
+https://s.emisoras.tv:8081/dtp/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CanelaTV.us" ,Entertainment: CanelaTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Carac1.ch" ,Entertainment: Carac 1 (1080p)
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Carac2.ch" ,Entertainment: Carac 2 (1080p)
+https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Carac3.ch" ,Entertainment: Carac 3 (1080p)
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Carac4.ch" ,Entertainment: Carac 4 (1080p)
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CaribbeanWorldChannel.us" ,Entertainment: Caribbean World Channel
+https://vse2-eu-all7.secdn.net/tvsw4-chorigin/play/prod-1e7b0eabb35d4d0a9138f377fd013d96/chunklist_sess835370874.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CarthagePlus.tn@SD" ,Entertainment: Carthage+
+https://live20.bozztv.com/gin-36bay3/ga-carthageplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CeeJayTV.gh" ,Entertainment: CeeJay TV (480p) [Not 24/7]
+https://asiakwa.com/ceejaytv/index.fmp4.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CGEntertainment.it" ,Entertainment: CG Entertainment
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ChandelTV.tg" ,Entertainment: Chandel TV (720p)
+https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Channel82.bm@SD" ,Entertainment: Channel 82
+https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_bq9clxfbupwg.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Channel200.nz" ,Entertainment: Channel 200 (540p)
+https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Che.ru@SD" ,Entertainment: Che!
+https://vs6.cdn.mrf.tvime.ru/che/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ChromaTV.br" ,Entertainment: Chroma TV (480p)
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CibaenaTV.do" ,Entertainment: Cibaeña TV (720p)
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Circle.us" ,Entertainment: Circle [Geo-blocked]
+https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CiudadesdelOcioTV.es" ,Entertainment: Ciudades Del Ocio TV (720p)
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ClaroVisionTV.do" ,Entertainment: Claro Visión TV (720p)
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="COCOTV.do" ,Entertainment: COCO TV (720p)
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ColosalTV.cr" ,Entertainment: Colosal TV (720p) [Not 24/7]
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Comet.us" ,Entertainment: Comet (720p)
+https://fl3.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CoziTV.us" ,Entertainment: Cozi TV
+https://fl3.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CrimePlusInvestigation.us" ,Entertainment: Crime + Investigation (720p)
+https://tvpass.org/live/CrimePlusInvestigation/hd
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CrimePlusInvestigationAsia.sg" ,Entertainment: Crime + Investigation Asia HD (720p) [Geo-blocked]
+https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DDMalayalam.in" ,Entertainment: DD Malayalam
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Decades.us@SD" ,Entertainment: Decades
+https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DemandAfrica.us" ,Entertainment: Demand Africa
+https://demandafrica-xumo-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DesiChannel.in" ,Entertainment: Desi Channel (720p)
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DigiOne.id" ,Entertainment: DigiOne (720p) [Geo-blocked]
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MarkizaDoma.sk" ,Entertainment: Doma (1080p)
+http://88.212.7.11/live/test_doma_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DreamTV.mn" ,Entertainment: Dream TV (720p)
+https://cdn3.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="E4.uk" ,Entertainment: E4
+https://x.canlitvapp.com/u-e4/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="E24.in" ,Entertainment: E 24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_
+#EXTINF:-1 group-title="IPTVorg" tvg-id="E.us@East" ,Entertainment: E! East
+https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EDNTV.hn" ,Entertainment: EDN TV (1080p) [Not 24/7]
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EETTV.in" ,Entertainment: EET TV (1080p) [Not 24/7]
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="El75TV.do" ,Entertainment: El 75 (720p)
+https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ElHormiguero.es" ,Entertainment: El Hormiguero (1080p)
+https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ElRey.us" ,Entertainment: El Rey
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
+#EXTINF:-1 group-title="IPTVorg" tvg-id="eldoTV.lu" ,Entertainment: eldo.TV (1080p)
+https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ElectricNow.us" ,Entertainment: Electric Now (1080p) [Not 24/7]
+https://elec-en.otteravision.com/elec/en/elec_en.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ElyTV.br" ,Entertainment: ElyTV (360p)
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ERT3.gr" ,Entertainment: ERT3
+http://88.99.254.101/ert3/mono.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EsanTV.th" ,Entertainment: Esan TV (720p)
+https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EstrellaTV.us" ,Entertainment: Estrella TV (1080p)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ETVPlus.ee" ,Entertainment: ETV+ (720p)
+https://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EuroStar.tr" ,Entertainment: EuroStar (576p)
+http://185.234.111.229:8000/play/a01h
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EVITV.cd" ,Entertainment: EVI TV (720p)
+https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ExOnTheBeach.us@Italy" ,Entertainment: Ex On The Beach Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940ebad67fd900072382db/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ExpressEntertainment.pk" ,Entertainment: Express Entertainment (1080p)
+https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ExtacyTV.gr@SD" ,Entertainment: Extacy TV
+https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FactoriadeFiccion.es" ,Entertainment: Factoria de Ficcion (1080p)
+http://185.189.225.150:85/fdf/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FEVATV.ca" ,Entertainment: Feva TV (1080p)
+https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FideleTV.us" ,Entertainment: Fidele TV (480p)
+https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FidoTV.us" ,Entertainment: Fido TV (1080p)
+https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FORTTV.ug@SD" ,Entertainment: FORT TV (480p)
+https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FortuneTV.mm" ,Entertainment: FORTUNE TV (720p)
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FreebieTV.us" ,Entertainment: Freebie TV (720p) [Not 24/7]
+https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Friday.ru" ,Entertainment: Friday!
+https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FujairahTV.ae" ,Entertainment: Fujairah TV (720p)
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Fuse.us@East" ,Entertainment: Fuse East (720p)
+https://fl3.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FX1.ir" ,Entertainment: FX1 Farsi (720p)
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FX2.fr" ,Entertainment: FX2 Farsi
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FX.us@East" ,Entertainment: FX East
+https://fl5.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FXX.us@East" ,Entertainment: FXX East
+https://fl3.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GalaxiATeVe.do" ,Entertainment: Galaxia TV (360p)
+https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GameShowCentral.us@SD" ,Entertainment: Game Show Central
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90e8cb05d2b0007f10a61/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06d7c73f-91e9-44c5-868e-5336253a1d67
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GameShowNetwork.us@East" ,Entertainment: Game Show Network East (720p) [Not 24/7]
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GeoKahani.pk" ,Entertainment: Geo Kahani (360p)
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GeordieShore.us@Italy" ,Entertainment: Geordie Shore Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20d60/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GETtv.do" ,Entertainment: GET TV (720p)
+https://cnn.livestreaminggroup.info:3050/live/gettvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GetTV.us" ,Entertainment: GetTV (480p)
+https://fl3.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GhOneTV.gh@SD" ,Entertainment: Gh One TV
+https://g2qd3exjy7an-hls-live.5centscdn.com/ghonetv/ghanaweb.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GiTelevision.do" ,Entertainment: Gi Television (720p)
+https://ssh101.bozztv.com/ssh101/rctvhd103/chunks.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GirasolTV.hn" ,Entertainment: Girasol TV (720p)
+https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Girovisual.cl" ,Entertainment: Girovisual (720p)
+https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GlobalWorldTV.us" ,Entertainment: GlobalWorldTV (720p)
+https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GoldTV.it" ,Entertainment: Gold TV (576p)
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GoldTVSat.it" ,Entertainment: Gold TV Sat (576p)
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GolyaTV.hu" ,Entertainment: Gólya TV (480p) [Geo-blocked]
+https://stream.streaming4u.hu/GolyaTV/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GoodIdeaTV.th" ,Entertainment: Good Idea TV (720p) [Not 24/7]
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Grit.us" ,Entertainment: Grit
+https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GritXtra.us" ,Entertainment: Grit Xtra (1080p)
+https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GuaroTV.ve" ,Entertainment: Guaro TV (1080p)
+https://streamtv.intervenhosting.net:3592/live/guarotvbqtolive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HauntTV.us" ,Entertainment: Haunt TV
+https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Heartland.us@Web" ,Entertainment: Heartland
+https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HiYAH.us" ,Entertainment: Hi-YAH! (1080p)
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HiruTV.lk" ,Entertainment: Hiru TV (360p) [Not 24/7]
+https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HispaniaTV.pa" ,Entertainment: Hispania TV
+https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HTVLive.do" ,Entertainment: HTV Live (1080p)
+https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HumTV.pk@SD" ,Entertainment: Hum TV
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IGN.us@Italy" ,Entertainment: IGN Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608015ea48a6e800076f0f2f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IlBancodeiPugni.us@Italy" ,Entertainment: Il Banco dei Pugni Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ImpactNetwork.us" ,Entertainment: Impact Network
+http://51.75.94.167/impact/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ImpactoTelevision.pe" ,Entertainment: Impacto Televisión (360p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="India.ru" ,Entertainment: India
+http://31.148.48.15/Zee_TV_Russia/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IndoOzTV.au" ,Entertainment: Indo Oz TV (720p)
+https://stream.e2is.in/hls/indoztv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IndonesianaTV.id" ,Entertainment: Indonesiana.TV (720p)
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="INSP.us" ,Entertainment: INSP
+https://fl3.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="InterTV.ve" ,Entertainment: interTV (1080p)
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IONPlus.us@East" ,Entertainment: ION Plus East (720p)
+https://fl3.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IONTV.us@East" ,Entertainment: ION TV East
+https://fl3.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IslandLuckTV.bs@SD" ,Entertainment: Island Luck TV
+https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ITN.lk" ,Entertainment: ITN (1080p)
+https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_aabd3d003af211efadcf7986aa245789/rewind-3600.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVITN.ir" ,Entertainment: ITN [Not 24/7]
+https://ca-rt.onetv.app:8443/ITN/index-0.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ITV3.uk" ,Entertainment: ITV3
+https://x.canlitvapp.com/u-itv3/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="iTVHD.kh" ,Entertainment: iTV HD
+http://43.252.18.195:5080/live/streams/itv.khmeretv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="JameJamTV1.ir" ,Entertainment: JameJam
+https://lenz.splus.ir/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="JameJamTV3.ir" ,Entertainment: JameJam3
+https://ncdn.telewebion.com/jjtv3/live/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Jim.fi" ,Entertainment: Jim (720p)
+https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KContentbyCJENM.us" ,Entertainment: K-Content by CJ ENM
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176ff3ba00900000763710f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=783bd025-4cbc-40c4-a742-b70d428fd035
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KalaignarMurasu.in" ,Entertainment: Kalaignar Murasu (576p) [Not 24/7]
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Kanal7.tr" ,Entertainment: Kanal 7 (1080p) [Not 24/7]
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Kanal7Avrupa.tr" ,Entertainment: Kanal 7 Avrupa (720p) [Not 24/7]
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KBS2TV.kr" ,Entertainment: KBS 2TV [Not 24/7]
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KBSDrama.kr" ,Entertainment: KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KBSJoy.kr" ,Entertainment: KBS Joy (480p)
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KBSStory.kr" ,Entertainment: KBS Story (480p)
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KC2.rw" ,Entertainment: KC2 (720p) [Not 24/7]
+http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KCLTV.in" ,Entertainment: KCL TV (720p)
+https://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KCWEDT1.us" ,Entertainment: KCWE-DT1 (720p)
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KFMBDT2.us" ,Entertainment: KFMB-DT2 (720p)
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Kidz.es" ,Entertainment: Kidz Atresmedia (720p) [Geo-blocked]
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KingsviewTV.ng" ,Entertainment: Kingsview TV (1080p)
+https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KMBCDT2.us" ,Entertainment: KMBC-DT2 (720p)
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KMCIDT2.us" ,Entertainment: KMCI-DT1 (720p)
+https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KMIZDT2.us" ,Entertainment: KMIZ-DT2 (720p)
+https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KMIZDT3.us" ,Entertainment: KMIZ-DT3 (720p)
+https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KOMUDT3.us" ,Entertainment: KOMU-DT3 (720p)
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KPXEDT1.us" ,Entertainment: KPXE-DT1 (720p)
+https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KRCGDT2.us" ,Entertainment: KRCG-DT2 (720p)
+https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KSATDT2.us" ,Entertainment: KSAT-DT2 (720p)
+https://fl3.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KSHBDT2.us" ,Entertainment: KSHB-DT2 (720p)
+https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KTIVDT6.us" ,Entertainment: KTIV-DT6
+http://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KTVODT3.us" ,Entertainment: KTVO-DT3 (720p)
+https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KurdMaxShow.iq" ,Entertainment: KurdMax Show (720p)
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KurdMaxSorani.iq" ,Entertainment: KurdMax Sorani (1080p)
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Kurdsat.iq" ,Entertainment: Kurdsat HD
+https://kurdsat.akamaized.net/hls/kurdsat.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KVVBLD1.us" ,Entertainment: KVVB-TV 33 Victor Valley (1080p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KYOUDT4.us" ,Entertainment: KYOU-DT4 (720p)
+https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KYOUDT5.us" ,Entertainment: KYOU-DT5 (720p)
+https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LaSexta.es" ,Entertainment: La Sexta (720p)
+http://185.189.225.150:85/LaSexta/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LaTele.pe" ,Entertainment: La Tele
+https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LaUne.be" ,Entertainment: La Une (1080p)
+http://41.205.93.154/LA-UNE/mpegts
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LatacungaTV.ec" ,Entertainment: LatacungaTV (720p)
+https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LATV.us" ,Entertainment: LATV [Geo-blocked]
+https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LemarTV.af@SD" ,Entertainment: Lemar TV
+https://live20.bozztv.com/dvrfl05/gin-lemar/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Lifetime.us@East" ,Entertainment: Lifetime East
+https://fl3.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LightChannel.hu" ,Entertainment: Light Channel (720p)
+http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Liv.fi" ,Entertainment: Liv (720p)
+https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Loading.br" ,Entertainment: Loading (720p)
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Logo.us@East" ,Entertainment: Logo East (720p)
+https://tvpass.org/live/LogoEast/hd
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LogoPlutoTV.us" ,Entertainment: Logo Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df156d8e-abc9-4542-8940-17058c09347c
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LoneStar.us@Poland" ,Entertainment: Lone Star (720p)
+https://6b88cde9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0xvbmVTdGFyX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LoneStar.us" ,Entertainment: Lone Star (1080p)
+https://lonestar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MagicPowerRadio.nl" ,Entertainment: Magic PowerRadio (288p) [Not 24/7]
+https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MagnavisionTV.uk" ,Entertainment: Magna Vision (1080p)
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MandraTV.in" ,Entertainment: Mandra TV
+http://192.99.2.28/mandra_hls/mandra.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MarkizaKlasik.sk" ,Entertainment: Markiza Klasik (1080p)
+https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MarkizaKrimi.sk" ,Entertainment: Markiza Krimi (1080p)
+https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MasTalk.ve" ,Entertainment: Más Talk (1080p)
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Max2U.id" ,Entertainment: Max2U (720p)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MaxivisionTV.gt" ,Entertainment: Maxivisión TV (720p)
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MazhavilManorama.in" ,Entertainment: Mazhavil Manorama (396p)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MBC4.ae" ,Entertainment: MBC 4 (1080p)
+https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MBCDrama.ae" ,Entertainment: MBC Drama KSA (1080p)
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MCTV.de" ,Entertainment: MC TV (720p)
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MDATelevision.ve" ,Entertainment: MDA Televisión (720p)
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Mega.es" ,Entertainment: Mega (Spain) (576p)
+http://185.189.225.150:85/mega/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MetaVersusCR.cr" ,Entertainment: MetaVersus CR (480p)
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MetroTV.ar" ,Entertainment: Metro TV (720p)
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MetroTV.hn" ,Entertainment: Metro TV (720p)
+https://s.emisoras.tv:8081/metrotv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MeTV.us" ,Entertainment: MeTV
+https://fl3.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="meWATCHLIVE1.sg" ,Entertainment: meWATCH LIVE 1 (1080p)
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MHZ.ca" ,Entertainment: MHZ
+https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MarutamTV.in" ,Entertainment: MNTV (1080p)
+https://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MonaraTV.lk" ,Entertainment: Monara TV (720p) [Not 24/7]
+https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MonseTeve.ec" ,Entertainment: Monse Teve (720p) [Not 24/7]
+https://cp.panelchs.com:1936/jczwykvkpm/jczwykvkpm/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MoreTVDrama.us" ,Entertainment: More TV Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1dbd4b6-a07d-4f52-b7b5-f1c84ee32628
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MRTVEntertainment.mm" ,Entertainment: MRTV Entertainment (480p)
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTV2.us@East" ,Entertainment: MTV2 (720p)
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTV.fr" ,Entertainment: MTV (1080p)
+http://213.246.39.14:8070/MTV/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTVAva.fi" ,Entertainment: MTV Ava (720p)
+https://live-fi.tvkaista.net/ava/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTV.us@East" ,Entertainment: MTV East
+https://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTVenEspanol.us" ,Entertainment: MTV en Español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTV.in" ,Entertainment: MTV HD
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTVPlutoTV.us" ,Entertainment: MTV Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTVPlutoTV.us@Austria" ,Entertainment: MTV Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1eea50-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d91aa96f-4975-4e0e-ae56-4a7f2e2383b7
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTVPlutoTV.us@Germany" ,Entertainment: MTV Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0445-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46816ea6-8434-4e99-9589-496d1e6cd098
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTVRidiculousness.us@Austria" ,Entertainment: MTV Ridiculousness
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f9847fd513250000728a9a5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1eea52-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f7637460-bb95-4ce8-9c82-0af6b2f51601
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTVRidiculousness.us@Canada" ,Entertainment: MTV Ridiculousness
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f9cccf110545000837912e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f01-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b283a70f-16b8-4034-abe0-9c8171462c83
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTVRidiculousness.us@Germany" ,Entertainment: MTV Ridiculousness
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f9847fd513250000728a9a5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae0447-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb5d0b-2c4f-4b1b-8610-d3689603c938
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTVU.us" ,Entertainment: MTVU
+https://fl3.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MundoParanormal.us@SD" ,Entertainment: Mundo Paranormal
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7e541b5d-5f75-4470-916b-52c849de9cff
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MVLaoTV.la" ,Entertainment: MV Lao TV
+https://edge2a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MyTV.kh" ,Entertainment: My TV
+http://43.252.18.195:5080/live/streams/mytv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MysteryTV.us@UK" ,Entertainment: Mystery TV (1080p) [Geo-blocked]
+https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KCWXDT1.us" ,Entertainment: myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MyTVplus.de" ,Entertainment: MyTVplus (Dresden) (576p)
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NamayeshTV.ir" ,Entertainment: Namayesh
+https://lenz.splus.ir/PLTV/88888888/224/3221226148/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Nasim.ir@SD" ,Entertainment: Nasim
+https://live20.bozztv.com/dvrfl05/gin-irib5/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NBCLX.us" ,Entertainment: NBCLX
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NegahTV.ir" ,Entertainment: Negah TV (720p)
+https://iptv.negahtv.com/negahtv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NeiMonggolTVCultureEntertainmentChannel.cn" ,Entertainment: Nei Monggol TV Culture Entertainment Channel
+http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Neox.es" ,Entertainment: Neox (576p)
+http://185.189.225.150:85/neox/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NetmaxTV.gr" ,Entertainment: Netmax TV (720p)
+https://live.netmaxtv.com:1936/live/live/chunklist_w1671867540.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NewSignal.it" ,Entertainment: NewSignal (1080p)
+https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NHTV.kr" ,Entertainment: NHTV (720p)
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NingTV.la" ,Entertainment: Ning TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NitidaTV.do" ,Entertainment: Nitida TV
+https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NosPais.cw" ,Entertainment: Nos Païs (720p) [Not 24/7]
+https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NoseyEscandalos.us" ,Entertainment: Nosey Escándalos
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492ee6375a3900079a158c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7813-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0a5ee5c0-cf2f-4c9d-994a-521b3191de6e
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NOWTV.tr" ,Entertainment: NOW TV
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NRK3.no" ,Entertainment: NRK 3 [Geo-blocked]
+https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NWMagazine.tg" ,Entertainment: NW Magazine (576p)
+https://hls.newworldtv.com/nw-magazine/video/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Olelo55.us" ,Entertainment: Olelo Community Media Channel 55 (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RadioOmegaTV.hn" ,Entertainment: Omega TV (720p) [Not 24/7]
+https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OneTV.in" ,Entertainment: One TV (720p)
+http://137.59.86.218:1935/live/onetv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OTV.gh@SD" ,Entertainment: OTV
+https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OXIRTV.ir" ,Entertainment: OXIR TV (720p)
+https://hls.oxir.live/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Oxygen.us@East" ,Entertainment: Oxygen East
+https://fl3.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PancTVPeru.pe" ,Entertainment: Panc TV Peru (1080p)
+https://panel.host-live.com:19360/20000/20000.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PassionNovelas.ci" ,Entertainment: Passion Novelas
+https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PeopleAreAwesome.us" ,Entertainment: People are Awesome
+https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PeretzInternational.ru@SD" ,Entertainment: Peretz International
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PersianaTurkiye.fr" ,Entertainment: Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PetClubTV.hk" ,Entertainment: Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlayTelevision.ar" ,Entertainment: Play Television (720p)
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlayMediosDigital.gt" ,Entertainment: PlayMedios Digital (1080p)
+https://rpn3.bozztv.com/ssh101/ssh101/playmedios/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVAnimales.us@Spain" ,Entertainment: Pluto TV Animales (288p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVAnime.us@Austria" ,Entertainment: Pluto TV Anime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f5f82-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95e1f29c-bf6d-41bb-9fce-486049aaae5d
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVAnime.us@Germany" ,Entertainment: Pluto TV Anime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7970-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=042724a5-f12e-43ab-9538-dac62e47d082
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVAnime.us@Italy" ,Entertainment: Pluto TV Anime Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVBritishTV.us" ,Entertainment: Pluto TV British TV (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b68a18823ecb93393cba2f1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=154&terminate=false&userId=
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVCourtroom.us@SD" ,Entertainment: Pluto TV Courtroom
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e927ebc2db99000787c00a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d25-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3681bac2-c906-4f96-a6ce-650e92a5ab2d
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ElConquistadordelFin.us" ,Entertainment: Pluto TV El Conquistador del Fin (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVGameShows.us" ,Entertainment: Pluto TV Game Shows
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6036e7c385749f00075dbd3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed47-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33f00d08-5ecc-4756-847e-6afcf19395bc
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTV.br" ,Entertainment: Pluto TV MTV (Brazil) (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVReality.us" ,Entertainment: Pluto TV Reality
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8bf0b06d2d855ee15115e3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1458-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fd4b606c-bae5-4281-8fa3-b78c6e293fbe
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVReality.us@France" ,Entertainment: Pluto TV Reality
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6092544e7639460007d4835e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97ed3328-d359-49d3-914f-a68568384f64
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVReality.us@Italy" ,Entertainment: Pluto TV Reality Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e700a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVRetro.us@Brazil" ,Entertainment: Pluto TV Retrô (684p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVSoaps.us" ,Entertainment: Pluto TV Soaps
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/610c5f80f71f660007a2ad8e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b62-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f656c0a1-c079-422d-bf20-8261f8a473af
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVSuspense.us" ,Entertainment: Pluto TV Suspense
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f15e281b0b8840007324b55/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ce8925c1-262f-446f-9053-ee725639eda6
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PopstarTV.us" ,Entertainment: Popstar! TV (1080p) [Not 24/7]
+https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PowerMaxRadioTV.ar" ,Entertainment: Power Max Radio TV (720p)
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PrimeCanadaTV.ca" ,Entertainment: Prime Canada TV (720p) [Not 24/7]
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PulaTV.do" ,Entertainment: Pula TV (720p)
+https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RadioContinu.nl" ,Entertainment: Radio Continu TV (720p)
+https://streaming05.stream.delivery/radiocontinu/live/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RadiowaCzworka.pl" ,Entertainment: Radio Czwórka (1080p)
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RadioYaucanaTV.pr" ,Entertainment: Radio Yaucana TV (720p)
+https://stmvideo6.livecastv.com/rytv2015/rytv2015/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RadioToppers.nl" ,Entertainment: RadioToppers (720p)
+https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RanTVIsrael.il" ,Entertainment: Ran TV Israel (720p)
+https://streaminglive.co.il:3730/live/raniamranilive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RCNMas.co" ,Entertainment: RCN Más (1080p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KCKSLD5.us" ,Entertainment: Real America's Voice (KCKS-LD5) (480p) [Not 24/7]
+https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RedeNGT.br" ,Entertainment: Rede NGT (1080p)
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RevryLatinX.us" ,Entertainment: Revry LatinX
+https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RISETV.gr" ,Entertainment: Rise TV (240p)
+http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ROTVValencia.es" ,Entertainment: ROTV Valencia (720p)
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RoyalTimeTelevision.us" ,Entertainment: Royal Time Television (1080p)
+https://tixbolt.com/royaltv/index.fmp4.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RSVHonduras.hn@SD" ,Entertainment: RSV Honduras
+https://live20.bozztv.com/dvrfl03/hondu/hondu-rsvhonduras/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RTS2.sn" ,Entertainment: RTS 2 (720p)
+http://69.64.57.208/rts2/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RTVNaranjal.ec" ,Entertainment: RTV Naranjal (720p)
+https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SADATV.in" ,Entertainment: Sada TV (1080p) [Not 24/7]
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Salto1.nl" ,Entertainment: Salto 1 (720p)
+https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MaLive.nl" ,Entertainment: Salto MaLive (1080p)
+https://live.salto.nl/hls/malive_high.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SanaTV.in" ,Entertainment: Sana TV (576p) [Not 24/7]
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SASTV.gt" ,Entertainment: SAS TV (720p)
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SenalPositivaTV.ec" ,Entertainment: Señal Positiva TV (1080p)
+https://eu1.servers10.com:8081/8108/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SETTV2.us" ,Entertainment: SET TV 2 (1080p)
+https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Shabakeh7.us" ,Entertainment: Shabakeh 7 (576p)
+https://t.northtelecom.org/Shabakeh.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KCKSLD10.us" ,Entertainment: Shop LC (KCKS-LD10) (480p) [Not 24/7]
+https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ShowMax.tr" ,Entertainment: Show Max
+https://canlitvulusal.xyz/live/showmax/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SimclarTV.gt" ,Entertainment: Simclar TV (720p)
+https://s.emisoras.tv:8081/simclartv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SolTV.gq" ,Entertainment: SolTV (720p)
+https://stream.solmediaeg.com/soltv/soltv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SonyEntertainmentTelevision.in@SD" ,Entertainment: Sony Entertainment Television (720p)
+https://tv.bdixtv24.com/toffee/live.php?id=2bec2112b890&e=.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SonySAB.in@SD" ,Entertainment: Sony SAB (720p)
+https://tv.bdixtv24.com/toffee/live.php?id=b7167fe646a4&e=.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SooriyanTV.ca" ,Entertainment: Sooriyan TV
+https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="STEuropeChannel.it" ,Entertainment: ST Europe Channel (720p)
+https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="StarChannel.gr" ,Entertainment: Star Channel (720p)
+http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="StarChannelInternational.gr" ,Entertainment: STAR International (720p)
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="StoriesbyAMC.us" ,Entertainment: Stories by AMC
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Super7FM.do" ,Entertainment: Super7FM (720p)
+https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TalkinLiveClassicsTV.us" ,Entertainment: Talkin Live Classics TV (480p)
+https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TBD.us" ,Entertainment: TBD (1080p)
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TDMEntertainment.mo" ,Entertainment: TDM Entertainment Ch. 95 (720p)
+https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TeleBoston.us" ,Entertainment: Tele Boston (480p)
+https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TeleMIX.us" ,Entertainment: TeleMIX (720p)
+https://haititivi.com/haiti/telemix1/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TelemundoCorpusChristi.us" ,Entertainment: Telemundo Corpus Christi
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Telerayo.hn" ,Entertainment: Telerayo (1080p)
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TF1.fr" ,Entertainment: TF1 (720p) [Geo-blocked]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ThanthiOne.in" ,Entertainment: Thanthi One (1080p)
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KTLADT1.us" ,Entertainment: The CW Los Angeles CA (KTLA-DT1) (720p) [Not 24/7]
+http://trn03.tulix.tv/teleup-N8qwnqgUq2/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ThePriceIsRightTheBarkerEra.us@SD" ,Entertainment: The Price is Right
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c2214c2a7f2200089a0c4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c507a-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c93e6330-dc43-4864-ad74-9144287f8bbd
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ThisisBulgariaHD.bg" ,Entertainment: This is Bulgaria HD (1080p)
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Timeline.us" ,Entertainment: Timeline
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TinTV.us" ,Entertainment: Tin TV (720p) [Not 24/7]
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TMZ.us" ,Entertainment: TMZ (720p)
+https://apollo.production-public.tubi.io/live/ac-tmz.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TNT4International.ru@SD" ,Entertainment: TNT4 International
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TNTInternational.ru@SD" ,Entertainment: TNT International
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TR24Television.cm" ,Entertainment: TR24 (720p)
+https://stream.it-innov.com/tr24/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TV6.dz" ,Entertainment: TV6 (1080p)
+https://tgn.bozztv.com/dvrfl05/ga-algeria6/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TV84.us" ,Entertainment: TV84 (480p)
+https://cdn20.liveonlineservices.com/hls/tv84.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVArberia5.xk" ,Entertainment: TV Arbëria 5 (700p)
+https://ssh101.bozztv.com/ssh101/rtvarberia5/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVBoqueirao.br" ,Entertainment: TV Boqueirão (720p)
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVCentro272HD.hn" ,Entertainment: TV Centro 27.2 HD (720p)
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVCNAgitos.br" ,Entertainment: TV CN Agitos (360p)
+https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVCuruca.br" ,Entertainment: TV Curuça (360p)
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVERA.mk" ,Entertainment: TV ERA [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVGrandeNatal.br" ,Entertainment: TV Grande Natal (1080p)
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVNova.hr" ,Entertainment: TV Nova (720p)
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVVicosa.br" ,Entertainment: TV Viçosa (480p)
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVVitoria.mz" ,Entertainment: TV Vitória (720p)
+https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TV3.ru" ,Entertainment: TV-3
+https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVBSAsia.tw" ,Entertainment: TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVCARiB.sx" ,Entertainment: TVCARiB (720p) [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVCARiBLatino.sx" ,Entertainment: TVCARiB Latino (720p) [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVIReality.pt" ,Entertainment: TVI Reality (720p) [Not 24/7]
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVJ.jm" ,Entertainment: TVJ (720p)
+https://rjr-tvj-geo.akamaized.net/hls/live/2041530/TVJ_GEO/1/streamPlaylist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVMax.pa" ,Entertainment: TVMAX (720p)
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TvoeTV.ru" ,Entertainment: Tvoe TV HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVSFlashbackNetwork.us" ,Entertainment: TVS Flashback Network (360p)
+https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVSVintageNetwork.us" ,Entertainment: TVS Vintage Network (360p)
+https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="UMATV.br" ,Entertainment: UMA TV (1080p)
+https://acesso.ecast.site:3011/live/umatvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="UniversTV.es" ,Entertainment: Univers TV (720p)
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="VatiLao.la" ,Entertainment: Vati Lao TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="VBMediaTV.mx" ,Entertainment: VB Media TV (1080p)
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Velicham.in" ,Entertainment: Velicham (360p) [Not 24/7]
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="VisionNDV.do" ,Entertainment: VisionNDV TV
+https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KanalDDrama.tr@SD" ,Entertainment: Vive Kanal D Drama (1080p)
+https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="VIVOTV.uy" ,Entertainment: VIVO TV (1080p)
+https://stream.vivotv.uy/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ViXParejas.mx" ,Entertainment: ViX Parejas (1080p)
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="W9.fr@SD" ,Entertainment: W9
+https://live20.bozztv.com/dvrfl06/astv/astv-w9tv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="W14DKD3.us@SD" ,Entertainment: W14DK-D3 (1280p)
+https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KCKSLD6.us" ,Entertainment: WeatherNation (KCKS-LD6) (480p) [Not 24/7]
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Wipeout.us@Canada" ,Entertainment: Wipeout
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92a6f087606000767eae2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e96-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b45ce7a5-d6f7-4e7a-b14e-762d2646c053
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WipeoutXtra.us" ,Entertainment: Wipeout Xtra (720p)
+https://apollo.production-public.tubi.io/live/ac-wipeout-xtra.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WRUADT1.pr" ,Entertainment: WRUA-DT1 (Tiva TV) (720p)
+https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WTVCanal20.ni" ,Entertainment: WTV Canal 20 (1080p)
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WWONTVChannel48.us" ,Entertainment: WWON TV CH 48
+https://tv2.fastcast4u.com:3943/stream/play.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="XploreTV.us" ,Entertainment: Xplore
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="XPTV2.es" ,Entertainment: XPTV2 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Yaquelaveritequicompte.us@France" ,Entertainment: Y'a que la vérité qui compte
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/612e044c970e6f00083bcf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2371cf64-2e91-492c-9f0c-c88a7f973944
+#EXTINF:-1 group-title="IPTVorg" tvg-id="YoungHollywood.us" ,Entertainment: Young Hollywood [Geo-blocked]
+https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="YourTimeTV.ir" ,Entertainment: YourTime TV (720p) [Not 24/7]
+https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="YoutooAmerica.us" ,Entertainment: Youtoo America (1080p)
+https://thegateway.app/YouToo/CueTones/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ZAZ.mx" ,Entertainment: ZAZ
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ZeeOne.de" ,Entertainment: Zee One
+https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LanetTV.ua" ,Entertainment: Ланет.TV (486p)
+https://kiev1-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTV.ru" ,Entertainment: МТВ (Волгоград) (720p) [Not 24/7]
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Poehali.ru" ,Entertainment: Поехали!
+http://31.148.48.15/Poehali/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Ratnik.ru" ,Entertainment: Ратник (1080p) [Geo-blocked]
+https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="U.ru" ,Entertainment: Ю
+https://cdn-01.bonus-tv.ru/u/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GeniusGoGoGo.tw" ,Entertainment: 天才衝衝衝 (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="9Go.au@Sydney" ,Entertainment: 9Go! (720p) [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="30AGeorgiaHollywoodReview.us" ,Entertainment: 30A Georgia Hollywood Review TV
+https://30a-tv.com/gh.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EntertainmentTonight.us" ,Entertainment: Entertainment Tonight (720p)
+https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HollyWire.us" ,Entertainment: HollyWire (720p)
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PSN.mx@SD" ,Entertainment: PSN
+https://srspsn.live/live/livestream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVZoom.br" ,Entertainment: TV Zoom (720p)
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="VerginaTV.gr" ,Entertainment: Vergina TV (1080p)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginachannel.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlternaTV.ar" ,Entertainment: Alterna TV (720p)
+https://alternatv.ar/stream/hls/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AmericaTeVe.pr" ,Entertainment: América TeVé (1080p)
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MCN6MainChannel.us" ,Entertainment: MCN6 (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AtresplayerClasicos.es" ,Entertainment: Atresplayer Clasicos (1080p)
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BEATTV.nl" ,Entertainment: BE@TTV (1080p)
+https://tv.beatfm.nl/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GOTV.py" ,Entertainment: GO TV (720p)
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NagoTV.us" ,Entertainment: Nago TV (240p)
+https://lakay.online/public/nagotv/index.fmp4.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RadioCarnavalTV.es" ,Entertainment: Radio Carnaval TV (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SomosTopoPointTV.do" ,Entertainment: Somos Topo Point TV (1080p) [Not 24/7]
+https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ChileChannel.cl" ,Entertainment: Chile Channel (720p)
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DongNaiTV2.vn" ,Entertainment: Đồng Nai 2 (576p) [Not 24/7]
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ITVDeportes.mx" ,Entertainment: ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RightNowTV.us" ,Entertainment: RightNow TV (720p)
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EstrellaGames.us" ,Entertainment: Estrella Games (1080p)
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SowetoTV.za" ,Entertainment: Soweto TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Flooxer.es" ,Entertainment: Flooxer (1080p)
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ZeeAlwan.ae" ,Entertainment: Zee Alwan (720p) [Geo-blocked]
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HTV3.vn" ,Entertainment: HTV3 (576p) [Geo-blocked]
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Kanade.cl" ,Entertainment: Kanade (1080p)
+https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ManasTV.kg@SD" ,Entertainment: Manas TV (1080p)
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PanarmenianTV.us" ,Entertainment: Panarmenian TV
+https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Pro100TV.ru" ,Entertainment: Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Ramez.sa" ,Entertainment: Ramez (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TheNest.us" ,Entertainment: The Nest
+https://content.uplynk.com/channel/b468fd41b60840579668c42c096a4103.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TopGear.uk@SD" ,Entertainment: Top Gear
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c109735dc1660008a4a2dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b215b51-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=55fb26fd-5dba-40cd-a0b1-8de7d0f78acb
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TopGearenEspanol.us@SD" ,Entertainment: Top Gear en Espanol (720p)
+https://bbc-topgearenespanol-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVA7Plus.br" ,Entertainment: TV A7 Plus (1080p)
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVParaense.br" ,Entertainment: TV Paraense (720p)
+https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+
+
 
 
 
