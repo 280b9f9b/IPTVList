@@ -5229,7 +5229,7 @@ https://linear-82.frequency.stream/mt/brightcove/82/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Zs: Brightcove" ,Very Local
 https://linear-225.frequency.stream/mt/brightcove/225/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Zs: Brightcove" ,Brightcove
+#EXTINF:-1 group-title="Zs: Brightcove" ,CL Live
 https://linear-235.frequency.stream/mt/brightcove/235/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Zs: Brightcove" ,Brightcove
 https://linear-627.frequency.stream/mt/brightcove/627/hls/master/playlist.m3u8
