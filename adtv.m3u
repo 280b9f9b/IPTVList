@@ -2655,11 +2655,11 @@ https://linear-200.frequency.stream/mt/plex/200/hls/master/playlist.m3u8
 https://linear-98.frequency.stream/mt/plex/98/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Action & Adventure",Hi-YAH!
+#EXTINF:-1 group-title="plex",Hi-YAH!
 https://linear-59.frequency.stream/mt/plex/59/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Horror & Thriller",Scream Factory TV
+#EXTINF:-1 group-title="plex",Scream Factory TV
 https://linear-730.frequency.stream/mt/plex/730/hls/master/playlist.m3u8
 
 
