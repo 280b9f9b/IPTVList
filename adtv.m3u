@@ -3379,7 +3379,1076 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 #EXTINF:-1 group-title="IPTVorg" tvg-id="TheNest.us" ,Documentary: The Nest
 https://content.uplynk.com/channel/b468fd41b60840579668c42c096a4103.m3u8
 
-
+#EXTINF:-1 group-title="IPTVorg" tvg-id="2GB.au" ,News: 2GB Sydney (1080p)
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="324.es" ,News: 3/24 (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="3AW.au" ,News: 3AW Melbourne (1080p)
+https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="4DmasNoticiasTV.py" ,News: 4DmásNoticias TV (1080p) [Not 24/7]
+https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="6PR.au" ,News: 6PR Perth (1080p)
+https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="13SiamThai.th" ,News: 13 Siam Thai (1080p)
+https://live.x2.co.th/live/13livetv-th.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="24KZ.kz" ,News: 24KZ
+https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Channel24.ua" ,News: 24 Канал (1080p)
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="30AGeorgiaHollywoodReview.us" ,News: 30A Georgia Hollywood Review TV
+https://30a-tv.com/gh.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="30ALionelNation.us" ,News: 30A Lionel Nation TV
+https://30a-tv.com/ln.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="30ALoomeredTV.us" ,News: 30A Loomered TV
+https://30a-tv.com/loomer.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="92NewsHD.pk" ,News: 92 News HD (720p)
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="100NEWS.ua" ,News: 100% News (576p)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="101tvMalaga.es" ,News: 101tv Málaga (1080p)
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="360.tr" ,News: 360 (1080p)
+http://185.234.111.229:8000/play/a05a
+#EXTINF:-1 group-title="IPTVorg" tvg-id="360News.ru" ,News: 360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="24.sk" ,News: :24 (1080p)
+http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="A2CNN.al" ,News: A2 CNN (720p)
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ANews.tr" ,News: A News (1080p)
+http://185.234.111.229:8000/play/a01k
+#EXTINF:-1 group-title="IPTVorg" tvg-id="APara.tr" ,News: A Para (1080p)
+http://185.234.111.229:8000/play/a01l
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AnadoluAgency.tr" ,News: AA Live (720p) [Not 24/7]
+https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AajTak.in" ,News: Aaj Tak (404p)
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KGODT1247News.us" ,News: ABC 7 Bay Area and San Francisco News (KGO-DT1) (720p)
+https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KABCDT1247News.us" ,News: ABC 7 Los Angeles CA (KABC-TV) (720p)
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WMTWDT1.us" ,News: ABC 8 Portland ME (WMTW) (720p)
+https://apollo.production-public.tubi.io/live/ac-wmtw.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WAPTDT1.us" ,News: ABC 16 Jackson MS (WAPT) (720p)
+https://apollo.production-public.tubi.io/live/ac-wapt.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WJCLDT1.us" ,News: ABC 22 Savannah GA (WJCL) (720p)
+https://apollo.production-public.tubi.io/live/ac-wjcl.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WPBFDT1.us" ,News: ABC 25 West Palm Beach FL (WPBF) (720p)
+https://apollo.production-public.tubi.io/live/ac-wpbf.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KFSNDT1247News.us" ,News: ABC 30 Fresno and Central Valley News (KFSN-DT1) (720p)
+https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABCNews.au" ,News: ABC News
+https://c.mjh.nz/abc-news.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABCNewsLive.us" ,News: ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABCNews.al" ,News: ABC News (1080i)
+http://77.83.120.135:8001/play/a00c
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABCNewsLive1.us" ,News: ABC News Live 1 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABCNewsLive2.us" ,News: ABC News Live 2 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABCNewsLive3.us" ,News: ABC News Live 3 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABCNewsLive4.us" ,News: ABC News Live 4 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABCNewsLive5.us" ,News: ABC News Live 5 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABCNewsLive6.us" ,News: ABC News Live 6 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABCNewsLive7.us" ,News: ABC News Live 7 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABCNewsLive8.us" ,News: ABC News Live 8 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABCNewsLive9.us" ,News: ABC News Live 9 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABCNewsLive10.us" ,News: ABC News Live 10 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WABCDT1247News.us" ,News: ABC News New York NY (WABC-TV) (720p)
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABPGanga.in" ,News: ABP Ganga (1080p)
+https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABPMajha.in" ,News: ABP Majha (720p)
+https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABPNews.in" ,News: ABP News (720p)
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ABPSanjha.in" ,News: ABP Sanjha (720p)
+https://d316coox0if60r.cloudfront.net/out/v1/7723f2221c3449c3910aaa8f91592bf0/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KCKSLD4.us" ,News: Action (KCKS-LD4) (480p)
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ADN40.mx" ,News: ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Adnkronos.it" ,News: Adnkronos (720p)
+https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AfghanistanInternational.uk" ,News: Afghanistan International (720p)
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Africa24.fr" ,News: Africa 24 (540p)
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Africa24English.fr" ,News: Africa 24 English (1080p)
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AgendaAlDiaTV.co" ,News: Agenda Al Día TV (720p)
+https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AikNews.pk@SD" ,News: Aik News
+https://video.primexsports.com/pnn/live/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AJNetNews.in" ,News: AJ Net News [Not 24/7]
+http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AkitTV.tr" ,News: Akit TV (1080p)
+http://185.234.111.229:8000/play/a05m
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AL24News.dz" ,News: AL24 News (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Alarabiya.ae" ,News: Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlHadath.sa" ,News: Al Arabiya Al Hadath (1080p) [Not 24/7]
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlArabyTV2.qa" ,News: Al Araby TV 2 (1080p)
+https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlArabyTV.qa" ,News: Al Araby TV (1080p)
+https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlEkhbariya.sa" ,News: Al Ekhbariya (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlEshraqTV.iq" ,News: Al Eshraq TV
+http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlEtejah.iq" ,News: Al Etejah TV
+http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlGhadPlus.eg" ,News: Al Ghad Plus
+https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlGhadTV.eg" ,News: Al Ghad TV (1080p)
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlIraqiaNews.iq" ,News: Al Iraqia News (720p)
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlJanoubTV.iq" ,News: Al Janoub TV
+http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlJazeera.qa" ,News: Al Jazeera (1080p)
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlJazeeraBalkans.ba" ,News: Al Jazeera Balkans (1080p)
+https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlJazeeraDocumentary.qa" ,News: Al Jazeera Documentary (1080p) [Geo-blocked]
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlJazeera.qa@English" ,News: Al Jazeera English (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlJazeeraMubasher24.qa" ,News: Al Jazeera Mubasher 24 (1080p)
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlJazeeraMubasher.qa" ,News: Al Jazeera Mubasher (1080p)
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlJazeeraMubasherBroadcast2.qa" ,News: Al Jazeera Mubasher Broadcast 2 (1080p)
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlMamlakaTV.jo" ,News: Al Mamlaka TV (1080p)
+https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlManar.lb" ,News: Al Manar (576p) [Not 24/7]
+https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlMasarTV.ly" ,News: Al Masar TV (576p)
+https://starmenajo.com/hls/almasar/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlMashhad.ae" ,News: Al Mashhad (1080p)
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlMasirah.ye" ,News: Al Masirah (720p) [Not 24/7]
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlMasirahMubacher.ye" ,News: Al Masirah Mubacher (642p) [Not 24/7]
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlMayadeenTV.lb" ,News: Al Mayadeen (576p)
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlNujabaTV.iq" ,News: Al Nujaba
+http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlQaheraNews.eg" ,News: Al Qahera News (1080p) [Not 24/7]
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlSabah.kw" ,News: Al Sabah (720p)
+https://ffs1.gulfsat.com/Al-Sabah-TV/index.fmp4.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlYaumTV.ae" ,News: Al Yaum TV (1080p)
+https://iko-live.akamaized.net/AlyuamTV/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlSharqiyaNews.iq" ,News: Al-Sharqiya News (1080p)
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlarabiyaPortrait.ae" ,News: Alarabiya Portrait (720p)
+https://live.alarabiya.net/alarabiapublish/arabiav.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlephNews.ro" ,News: Aleph News (720p)
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlertTV.gr" ,News: Alert (576p) [Not 24/7]
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlhaqeqaAldawlia.jo" ,News: Alhaqeqa Aldawlia (1080p)
+https://ghaasiflu.online/alhqeqa/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Alhurra.us" ,News: Alhurra (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlhurraIraq.us" ,News: Alhurra Iraq (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AlmahriahTV.tr" ,News: Almahriah TV (576p)
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AltaghierTV.jo" ,News: Altaghier TV (1080p)
+https://194788.global.ssl.fastly.net/63c63697632705047ffda2da/live_d33349a0962a11ed907dd9e556777b63/rewind-14400.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ALWifakNewsTV.lb" ,News: ALWifak News TV (720p)
+http://alwifaklive.info:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AmericasVoice.us" ,News: America's Voice (720p)
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AmericasVoiceNews.us" ,News: America's Voice News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268075-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c9b5079-e879-44e3-aa61-766a233fb604
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AmuTV.us@SD" ,News: Amu TV
+https://fl1002.bozztv.com/gin-amutv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AMXNoticias.mx" ,News: AMX Noticias (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ANNNews.in" ,News: ANN News (720p)
+https://cdn.ottlive.co.in/annnews/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Antena3CNN.ro" ,News: Antena 3 CNN
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Antena21.do" ,News: Antena 21 (480p) [Not 24/7] [Geo-blocked]
+https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="APATv.az@SD" ,News: APA Tv
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="APN.in" ,News: APN (576p)
+https://cdn.smartstream.video/smartstream-us/apnnews/apnnews/chunks.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ARB24.az" ,News: ARB 24
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ArirangTV.kr" ,News: Arirang TV (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ArirangUN.kr" ,News: Arirang TV UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AriseNews.uk@SD" ,News: Arise News
+https://live20.bozztv.com/dvrfl06/astv/astv-arise/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AsharqNews.sa" ,News: Asharq News (1080p)
+https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AsharqNewsPortrait.sa" ,News: Asharq News Portrait (1280p)
+https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AsharqRadio.sa" ,News: Asharq Radio (1080p)
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AsianetNews.in" ,News: Asianet News (360p)
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AsianetNewsKannada.in" ,News: Asianet News Kannada (360p) [Not 24/7]
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AsianetNewsTamil.in" ,News: Asianet News Tamil (360p) [Not 24/7]
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AstraTV.gr" ,News: Astra TV (480p) [Not 24/7]
+https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AstroAwani.my" ,News: Astro Awani (720p)
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="News1.th" ,News: ASTV News 1 (720p) [Not 24/7]
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AtacamaNoticias.cl" ,News: Atacama Noticias (720p) [Not 24/7]
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ATNNews.af" ,News: ATN News (720p) [Not 24/7]
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ATVPlus.pe" ,News: ATV+
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AzerbaijanNewsTV.se" ,News: Azerbaijan News TV (720p) [Not 24/7]
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BakuTV.az" ,News: Baku TV (720p)
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BBCArabic.uk" ,News: BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BBCNews.uk" ,News: BBC News (720p)
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BBCNews.uk@NorthAmerica" ,News: BBC News (North America) (1080p)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BBCPersian.uk" ,News: BBC Persian (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BCI24News.gr" ,News: BCI 24 News (720p)
+https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BEKNews.us" ,News: BEK TV News (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BeninWebTV.bj" ,News: Bénin Web TV (720p)
+https://stream.beninwebtv.bj/2/live/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BeritaSatuEnglish.id@SD" ,News: BeritaSatu English
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BFMBusiness.fr" ,News: BFM Business (576p)
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BFMLyon.fr" ,News: BFM Lyon (576p)
+https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BFMTV.fr" ,News: BFM TV (576p)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BharatSamacharTV.in" ,News: Bharat Samachar TV (360p)
+https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BinhPhuocTV1.vn" ,News: Binh Phuoc TV 1 (720p)
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BlackNewsChannel.us" ,News: Black News Channel (720p)
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BlazeLive.us" ,News: Blaze Live
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=70bd007d-e40d-4b1d-9a2b-bdc5dfd3741f
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Boston25Now.us" ,News: Boston 25
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b62b3982d0d000755a2be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f6390858-5ff7-40b8-83c2-2d2baded2800
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BrianTV.la" ,News: Brian TV (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BTV.id" ,News: BTV (720p)
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BTVNews.kh" ,News: BTV News (720p)
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BtvNews.in" ,News: BTV News (720p) [Not 24/7]
+https://vidcdn.vidgyor.com/btv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BurkinaInfoTV.bf" ,News: Burkina Info TV (540p)
+http://69.64.57.208/burkinainfo/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ASTV.tr" ,News: Bursa AS TV (900p)
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BXInform.us" ,News: BX Inform (1080p)
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="C9N.py" ,News: C9N
+https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CanTV.tr" ,News: Can TV (720p)
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Canal1MarMenorTorrePacheco.es" ,News: Canal 1 Mar Menor-Torre Pacheco (1080p)
+https://directo.tuwebtv.es/canal1.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Canal4.ni" ,News: Canal 4 (480p) [Not 24/7]
+http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="24Horas.es" ,News: Canal 24 Horas (720p)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Canal33Tijuana.mx" ,News: Canal 33 Tijuana (720p)
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Canal38.br" ,News: Canal 38 (720p)
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CanalE.ar" ,News: Canal E (720p)
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CanalI.ve" ,News: Canal I (720p)
+https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CanalPyC.co@SD" ,News: Canal PyC
+https://edge.teveo.net/live/AeAAAgAkAANqA1IAyADIUDAAAAGAAAAAAmg02rRAIAByAAAA/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CatamarcaTV.ar" ,News: Catamarca TV (720p)
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CausaComunTV.py" ,News: Causa Común TV (614p)
+https://cageu.bozztv.com/ssh101/ssh101/causacomuntv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBCNewsNetwork.ca" ,News: CBC News Network (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBCTV8.bb" ,News: CBC TV8 (1080p) [Not 24/7]
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WLKYDT1.us" ,News: CBS 32 Louisville KY (WLKY) (720p)
+https://apollo.production-public.tubi.io/live/ac-wlky.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBSNews247.us" ,News: CBS News 24/7
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBSNewsBaltimore.us" ,News: CBS News Baltimore (720p)
+https://cbsnews.akamaized.net/hls/live/2099390/cbsnbal_11/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBSNewsBayArea.us" ,News: CBS News Bay Area (720p)
+https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBSNewsBoston.us" ,News: CBS News Boston (720p)
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBSNewsChicago.us" ,News: CBS News Chicago (720p)
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBSNewsColorado.us" ,News: CBS News Colorado (720p)
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBSNewsDetroit.us" ,News: CBS News Detroit (720p)
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBSNewsLosAngeles.us" ,News: CBS News Los Angeles (720p)
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBSNewsMiami.us" ,News: CBS News Miami (720p)
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBSNewsMinnesota.us" ,News: CBS News Minnesota (720p)
+https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBSNewsNewYork.us" ,News: CBS News New York (720p)
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBSNewsPhilly.us" ,News: CBS News Philadelphia (720p)
+https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBSNewsPittsburgh.us" ,News: CBS News Pittsburgh (720p)
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBSNewsSacramento.us" ,News: CBS News Sacramento (720p)
+https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CCTVPlus1.cn" ,News: CCTV+ 1 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CCTVPlus2.cn" ,News: CCTV+ 2 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CCTV13.cn" ,News: CCTV-13新闻 (1080p)
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CDNews.in" ,News: CD News (576p)
+https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CDNN23.ni" ,News: CDNN 23 (1080p) [Not 24/7]
+https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CGTN.cn" ,News: CGTN (1080p)
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CGTNArabic.cn" ,News: CGTN Arabic (1080p) [Not 24/7]
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CGTNSpanish.cn" ,News: CGTN Español (1080p)
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CGTNFrench.cn" ,News: CGTN Français (1080p) [Not 24/7]
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CGTNRussian.cn" ,News: CGTN Русский (1080p)
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Channel8.iq" ,News: Channel 8 Kurdish (720p)
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ChannelY.ca@SD" ,News: Channel Y (720p) [Not 24/7]
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Channels24.ng@SD" ,News: Channels 24
+https://live20.bozztv.com/dvrfl06/astv/astv-channel24africa/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CheddarNews.us" ,News: Cheddar News (1080p)
+https://cheddar-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ChekadTV.af" ,News: Chekad TV (720p)
+https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Cherniveckiypromin.ua" ,News: Cherniveckiy promin (720p)
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CholusatSur36.hn" ,News: Cholusat Sur 36 (214p) [Not 24/7]
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CitricoTV.do" ,News: Cítrico TV (240p)
+https://rdn.essastream.com:3996/live/citricotvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CityNewsHD.pk" ,News: City News HD (1080p)
+http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CityNewsCalgary.ca" ,News: CityNews Calgary (720p)
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CityNewsToronto.ca" ,News: CityNews Toronto (720p)
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CityNewsVancouver.ca" ,News: CityNews Vancouver (720p)
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CNA.al" ,News: CNA (1080p)
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CNAInternational.sg" ,News: CNA International (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CNC.kh@SD" ,News: CNC
+http://43.252.18.195:5080/live/streams/cnctv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CNews.fr" ,News: CNews (1080p) [Geo-blocked]
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Conecta2TV.pe" ,News: Conecta2TV (720p) [Not 24/7]
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Contivision.cl" ,News: Contivision (720p)
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CordobaTV.es" ,News: Córdoba TV [Not 24/7]
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CorfuChannel.gr@SD" ,News: Corfu Channel (576p) [Not 24/7]
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CosmosTv.ar@SD" ,News: Cosmos TV (720p)
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CT24.cz" ,News: ČT24 (1080p)
+http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CTVNewsChannel.ca" ,News: CTV (720p)
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DabangaTV.sd" ,News: Dabanga TV (1080p)
+https://hls.dabangasudan.org/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DDNews.in" ,News: DD News (1080p)
+https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DehaTV.tr" ,News: Deha TV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DHA.tr" ,News: DHA (720p) [Not 24/7]
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DiTV.se" ,News: Di TV (1080p)
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DidgahTV.us" ,News: Didgah TV (576p)
+https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DighvijayNews24x7.in" ,News: Dighvijay (240p) [Not 24/7]
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DijlahTV.iq" ,News: Dijlah TV (1080p)
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DimTV.tr" ,News: DİM TV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DongNaiTV1.vn" ,News: Đồng Nai 1 (360p) [Not 24/7]
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DottoTV.ro" ,News: Dotto TV (720p)
+https://dotto.edvr.ro/live/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DumskayaTV.ua" ,News: Dumskaya TV (720p)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DunyaNews.pk" ,News: Dunya News (INT Feed) (720p) [Not 24/7]
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DunyaNewsUK.uk" ,News: Dunya News (UK Feed) (720p) [Not 24/7]
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DW.de@Arabic" ,News: DW Arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DW.de@English" ,News: DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DW.de@Espanol" ,News: DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DY365.in" ,News: DY 365 (360p)
+https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EACNewsTV.kh@SD" ,News: EAC News TV
+https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EagleNews.mn" ,News: Eagle News HD (720p)
+https://cdn2.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EagleOneNews.us@SD" ,News: Eagle One News (576p)
+https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EchoroukNews.dz@SD" ,News: Echorouk News
+https://live20.bozztv.com/gin-36bay3/ga-echorouknews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Eemland1.nl" ,News: Eemland 1 (720p)
+https://streamingserver02.omroepnuenen.nl/spakenburg/spakenburglive_720p/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EgnatiaTV.gr" ,News: Egnatia TV (576p)
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EkusheyTV.bd" ,News: Ekushey TV (480p)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ElConfidencialTV.es" ,News: El Confidencial TV (1080p)
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ElPaisTV.es" ,News: EL PAÍS TV (1080p)
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ElSegundoMedia.us" ,News: El Segundo Media (360p)
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/elsegundo/G0014_002/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EnnaharTV.dz@SD" ,News: Ennahar TV
+https://live20.bozztv.com/gin-36bay3/ga-ennahartv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EntertainmentTonight.us" ,News: Entertainment Tonight (720p)
+https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EspaceTV.gn" ,News: Espace TV (1080p)
+https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ESPNews.us" ,News: ESPNews (720p)
+https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EstrellaNews.us" ,News: Estrella News (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EtnaEspressoChannel.it" ,News: Etna Espresso Channel (720p)
+https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ETV.mn" ,News: ETV (720p)
+https://cdn3.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="eTvMarche.it" ,News: èTv Marche (720p)
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="eTvRete7.it" ,News: èTv Rete 7 (720p)
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="etvNewsSport.za" ,News: ETVN (720p)
+https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EuronewsFrench.fr@SD" ,News: Euronews
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35bcaf1ff4a00078af0a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90bc590c-c00a-4ff4-b9e2-ad20ea686992
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EuronewsGerman.fr@SD" ,News: Euronews
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d8ac5-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0d21e0b-3cc9-4c67-81b6-e33e50a7d888
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Euronews.pl" ,News: Euronews (720p)
+https://euronews-live-pol-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiNDgyYjMzYzEtYmYwYi00NTIzLThlMGMtZGZmY2ZkNjYyMGU1IiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ%3D%3D/26235/euronews-pl.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EuronewsAlbania.al" ,News: Euronews Albania
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EuronewsEnglish.fr" ,News: Euronews English (720p)
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EuronewsGeorgia.ge@SD" ,News: Euronews Georgia
+http://dvrfl05.bozztv.com/gin-euronewsgeorgia/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="EuronewsPortuguese.fr" ,News: Euronews Português (1080p)
+https://euronews-live-por-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/eyJzdGlkIjoiOWE0ZWZmNzItMmE0ZC00NmFjLWIzZjgtNzJiNjIzODU3N2I5IiwibWt0IjoicHQiLCJjaCI6NjU3MiwicHRmIjo1fQ==/26035/euronews-pt.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ExpressenTV.se" ,News: Expressen TV (1080p)
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FalestinonaChannel.lb" ,News: Falestinona Channel (576p)
+https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FaxNews.al" ,News: Fax News (576i)
+http://77.83.120.135:8001/play/FaxNews
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FebruaryChannel.ly" ,News: February Channel (1080p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FinansTurkTV.tr" ,News: Finans Turk TV (720p)
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FirstIndiaNews.in" ,News: First India News (360p) [Not 24/7]
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FORMediaTV.gr" ,News: FORMedia TV (1080p)
+https://svs.itworkscdn.net/formediatvlive/formediatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Formula.ge" ,News: Formula (1080p)
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Foro.mx" ,News: Foro TV (1080p)
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WJBKDT1.us" ,News: FOX 2 Detroit MI (WJBK) (720p)
+https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WAGADT1.us" ,News: FOX 5 Atlanta GA (WAGA-TV) (720p)
+https://apollo.production-public.tubi.io/live/ac-waga.m3u8
+#EXTINF:-1 group-title="IPTVorg" ,News: like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FoxNewsRadio.us" ,News: Fox News Radio (720p)
+https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="France24.fr@Arabic" ,News: France 24 Arabic (1080p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="France24.fr@English" ,News: France 24 English (1080p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="France24.fr@Spanish" ,News: France 24 Español (1080p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="France24.fr@French" ,News: France 24 French (1080p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FreeSpeechTV.us" ,News: Free Speech TV (720p)
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FREEDOM.ua" ,News: Freedom (FREEДOM) (UATV) (720p)
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FreshNews.kh" ,News: Fresh News (720p)
+https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GalaxyTV.ng" ,News: Galaxy TV (576p)
+https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GaliKurdistan.iq" ,News: Gali Kurdistan (720p) [Not 24/7]
+https://live.bradosti.net/live/GaliKurdistan_playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GBNews.uk" ,News: GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KBPXLD5.us" ,News: Geb Tv (KBPX LD5) (1080p)
+https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GeoNews.pk" ,News: Geo News (576p)
+https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GeoTez.pk" ,News: Geo Tez (576p)
+https://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GeopolisTV.cd" ,News: Géopolis TV (240p)
+https://tnt-television.com/Geopolis_tv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GiornaleRadioTV.it" ,News: Giornale Radio TV (720p)
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GIT.ua" ,News: GIT (720p)
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GlobalNews.tw" ,News: Global News (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GlobalPunjab.in" ,News: Global Punjab (1080p)
+https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Goa365.in" ,News: Goa365 (720p)
+https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GuardianTalkRadio.bs" ,News: Guardian Talk Radio (1080p)
+https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GugbangTV.kr" ,News: Gugbang TV (1080p) [Not 24/7]
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GulistanNews.in" ,News: Gulistan News (720p)
+https://live.gulistannews.in/hls/gul.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GuneyTVTarsus.tr" ,News: Guney TV Tarsus (720p)
+https://live.artidijitalmedya.com/artidijital_guneytv/guneytv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GuneydoguTV.tr" ,News: Guneydogu TV (720p)
+https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Haber61TV.tr" ,News: Haber61 TV (720p) [Not 24/7]
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HaberturkTV.tr" ,News: Habertürk TV (1080p)
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HalkTV.tr" ,News: Halk TV (1080p)
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HamdardTV.ca" ,News: Hamdard TV (1080p)
+https://tv.hamdardtv.com/hamdard/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HermanasMirabalTV.do" ,News: Hermanas Mirabal TV (720p) [Not 24/7]
+https://cnn.essastream.com:3091/live/hmtvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HighNews.in" ,News: High News (480p)
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HindiKhabar.in" ,News: Hindi Khabar (720p)
+https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HLNLive.be" ,News: HLN Live (720p)
+https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HollyWire.us" ,News: HollyWire (720p)
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HTV9.vn" ,News: HTV9 (576p)
+http://125hvt.ddns.net:21585/htv9/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HumraazTV.us" ,News: Humraaz TV [Not 24/7]
+https://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="i24NEWSArabic.il" ,News: I24 News Arabic (720p)
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="i24NEWSEnglishWorld.il" ,News: I24 News English (720p)
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="i24NEWSFrench.il" ,News: I24 News French (720p)
+https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IUAtv.ua" ,News: I-UA.tv (1080p)
+https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IBC24.in" ,News: IBC 24 (720p)
+https://livetv.ibc24.in/livestream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IciRDI.ca" ,News: ICI RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IndiaNews.in" ,News: India News (576p) [Not 24/7]
+https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IndiaNewsHaryana.in" ,News: India News Haryana (576p)
+https://livetv.newsx.com/itv/itvnetwork2/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IndiaNewsMadhyaPradeshChhattisgarh.in" ,News: India News Madhya Pradesh/Chhattisgarh (576p)
+https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IndiaNewsPunjabHimachal.in" ,News: India News Punjab/Himachal (576p)
+https://livetv.newsx.com/itv/itvnetwork8/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IndiaNewsRajasthan.in" ,News: India News Rajasthan (576p)
+https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IndiaNewsUttarPradesh.in" ,News: India News Uttar Pradesh (576p)
+https://livetv.newsx.com/itv/itvnetwork3/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IndiaToday.in" ,News: India Today (720p) [Not 24/7]
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IndywoodTV.in" ,News: Indywood TV (720p)
+https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="INews.iq" ,News: iNEWS TV (1080p)
+https://live.i-news.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="InformatiaTV.ro@SD" ,News: Informatia TV
+https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="InfoWars.us" ,News: InfoWars Network (1080p)
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="INH24x7.in" ,News: INH 24x7 (360p)
+https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IranInternational.uk" ,News: Iran International (1080p)
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IranPress.ir" ,News: Iran Press (480p) [Not 24/7]
+https://ip2stream.iranpress.com/hls/ip2.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IRINN2.ir" ,News: IRIB2
+https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IRINN.ir@SD" ,News: IRINN
+https://live20.bozztv.com/dvrfl05/gin-irinn/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IsraelParsTV.il" ,News: Israel Pars TV (540p)
+https://live.pars-israel.com/iptv/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="IT3.ua" ,News: IT-3 (720p)
+http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="JanamTV.in" ,News: Janam TV (720p)
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="JantaTV.in" ,News: Janta TV (360p) [Not 24/7]
+https://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="JK24x7News.in" ,News: JK 24x7 News (720p)
+https://live.gulistannews.in/hls/jk.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="JKN18.th" ,News: JKN 18 (1080p)
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="JovemPanNews.br" ,News: Jovem Pan News (JP News) (1080p) [Not 24/7]
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="JoyNews.gh" ,News: Joy News
+http://69.64.57.208/joynews/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KNewsIndia.in" ,News: K News India (1080p)
+https://knews.livebox.co.in/youtubehls/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KabloInfo.tr" ,News: Kablo Info (1080p)
+http://185.234.111.229:8000/play/a01g
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Kanal10.xk" ,News: Kanal 10 (1080i)
+http://77.83.120.135:8001/play/a165
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KanalS.tr" ,News: Kanal S (720p)
+https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KhabrainAbhiTak.in" ,News: Khabrain Abhi Tak (480p) [Not 24/7]
+https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KibrisGencTV.cy" ,News: Kibris Genç TV (720p) [Not 24/7]
+https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Kohavision.xk" ,News: Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KolalnasTV.ps@SD" ,News: Kolalnas TV
+https://htvint.mada.ps/kolalnas/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KTV.kr" ,News: Korea TV (1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KTRKDT1247News.us" ,News: KTRK TV ABC 13 News (720p)
+https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KTV2.kw" ,News: KTV 2 (1080p)
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KTVNews.kw" ,News: KTV News (1080p)
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Kurdistan24.iq" ,News: Kurdistan 24 (720p)
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KurdsatNews.iq" ,News: Kurdsat News (1080p)
+https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LaCNews24.it" ,News: LaC News 24 (720p)
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LahoreNews.pk" ,News: Lahore News (720p) [Not 24/7]
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LCI.fr" ,News: LCI (720p)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LCN.ca" ,News: LCN [Geo-blocked]
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LemanBleu.ch" ,News: Léman Bleu (1080p)
+http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LencaTV.hn" ,News: Lenca Television Canal 40 (720p) [Not 24/7]
+https://lencatelevision.com/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LifeTV.tr" ,News: Life TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LikeTV.pe" ,News: Like TV
+https://live-evg1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LingkarTV.id" ,News: Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LiveNOWfromFOX.us@SD" ,News: LiveNOW from FOX (720p)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LivingIndiaNews.in" ,News: Living India News (360p)
+https://livelegitpro.in/hls14/livingindia/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LN24.be" ,News: LN24
+https://live-ln24.digiteka.com/1911668011/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LN24SA.za" ,News: LN24SA (1080p)
+https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LolweTV.ke" ,News: Lolwe TV (576p) [Not 24/7]
+https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="M95TelevisionMarbella.es" ,News: M95 Televisión Marbella (1080p) [Not 24/7]
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Makan33.il" ,News: Makan 33 (1080p)
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MarioPintoTV.ec" ,News: Mario Pinto TV (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8028/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MayaTV.hn" ,News: Maya TV (480p) [Not 24/7]
+https://media.streambrothers.com:19360/8356/8356.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Medi1TVAfrique.ma" ,News: Medi 1 TV Afrique (1080p) [Not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Medi1TVArabic.ma" ,News: Medi 1 TV Arabic (1080p) [Not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Medi1TVMaghreb.ma" ,News: Medi 1 TV Maghreb (1080p) [Not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MegaTV.py" ,News: Mega TV (720p) [Not 24/7]
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MekameleenTV.tr" ,News: Mekameleen TV (1080p)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MerejaTV.et" ,News: Mereja TV (1080p) [Not 24/7]
+https://rumble.com/live-hls-dvr/4c14o3/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MetroGlobeNetwork.id" ,News: Metro Globe Network (1080p) [Not 24/7]
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MihanTV.ir" ,News: Mihan TV (720p)
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MilenioTelevision.mx" ,News: Milenio Television
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MinformoTV.it" ,News: Minformo TV (720p)
+https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MiracleChannel.se" ,News: Miracle Channel (576p)
+https://miracle.stream.boxigy.com/hls/miracle1.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MirameTV.es" ,News: Mírame TV (360p) [Not 24/7]
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MirrorNow.in" ,News: Mirror Now (720p)
+https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MoonTV.in" ,News: Moon TV (720p)
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MSNBC.us" ,News: MSNBC (720p)
+http://41.205.93.154/MSNBC/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MTVUutiset.fi" ,News: MTV Uutiset (720p)
+https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NabaaTV.lb" ,News: Nabaa TV (720p) [Not 24/7]
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NablusTV.ps" ,News: Nablus TV (720p) [Not 24/7]
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NationTV.th" ,News: Nation TV
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WESHDT1.us" ,News: NBC 2 Orlando FL (WESH) (720p)
+https://apollo.production-public.tubi.io/live/ac-wesh.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WPTZDT1.us" ,News: NBC 5 Plattsburgh NY (WPTZ) (720p)
+https://apollo.production-public.tubi.io/live/ac-wptz.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WGALDT1.us" ,News: NBC 8 Lancaster PA (WGAL) (720p)
+https://apollo.production-public.tubi.io/live/ac-wgal.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WXIIDT1.us" ,News: NBC 12 Winston-Salem NC (WXII) (720p)
+https://apollo.production-public.tubi.io/live/ac-wxii.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NBCNewsNOW.us" ,News: NBC News NOW
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NCTV.cl" ,News: NCTV (1080p)
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NDTV24x7.in" ,News: NDTV 24X7 (480p) [Not 24/7]
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NDTVIndia.in" ,News: NDTV India (480p) [Not 24/7]
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NeiMonggolTVNewsChannel.cn" ,News: Nei Monggol TV News Channel
+http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NembyNoticiasHD.py" ,News: Ñemby Noticias HD (720p)
+https://rpn3.bozztv.com/ssh101/ssh101/streaminghd/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="News12NewYork.us" ,News: News 12 New York
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5103-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c438c5e4-4d4e-4037-8b44-c6782c44b796
+#EXTINF:-1 group-title="IPTVorg" tvg-id="News24.al" ,News: News 24 (392p) [Not 24/7]
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="News24.in" ,News: News 24 (720p)
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NewsCentral.ng@SD" ,News: News Central
+https://wf.newscentral.ng:8443/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NewsNation.us@East" ,News: News Nation (720p)
+https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Newsmax2.us" ,News: Newsmax 2 (720p)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NewsmaxTV.us" ,News: Newsmax TV (720p)
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NewsNet.us" ,News: NewsNet (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KCKSLD2.us" ,News: NewsNet (KCKS-LD2) (480p) [Not 24/7]
+https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Newsy.us" ,News: Newsy (1080p)
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NH.nl" ,News: NH Niews (1080p)
+https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NHKWorldJapan.jp" ,News: NHK World-Japan (720p)
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NKTV24x7.in" ,News: NK TV 24x7 (720p)
+https://rtmp.smartstream.video/nktvlive/nktvlive/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NPlus.mx" ,News: NMás (1080p)
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NPlusMedia.mx" ,News: NMás Media (1080p)
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NNVeracruz.mx" ,News: NNVeracruz (640p)
+https://s.emisoras.tv:8081/nnveracruz/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NoraTV.tr" ,News: Nora TV (1080p)
+https://live.artidijitalmedya.com/artidijital_noratv/noratv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NorteInformativoTV.cr" ,News: Norte Informativo TV (240p)
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Noticias16.do" ,News: Noticias 16
+https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Noticiero90Minutos.co" ,News: Noticiero 90 Minutos (720p) [Not 24/7]
+https://cdns.livewave.co:8081/90minutoslive/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NotiUnoTV.pr" ,News: NotiUno TV (854p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NRTTV.iq" ,News: NRT TV (720p) [Not 24/7]
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NuevoMundoTV.gt" ,News: Nuevo Mundo TV (720p)
+https://tvlatina.live:1936/8008/8008/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NWInfo2.tg" ,News: NW Info 2 EN (576p)
+https://hls.newworldtv.com/nw-info-2/video/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NWInfo.tg" ,News: NW Info FR (576p)
+https://hls.newworldtv.com/nw-info/video/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OANEncore.us" ,News: OAN Encore (720p) [Geo-blocked]
+https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OANPlus.us" ,News: OANPlus (1080p)
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ObieqtiviTV.ge@SD" ,News: Obieqtivi TV
+https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ObservatorNews.ro" ,News: Observator News (720p)
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OlayTurkTV.tr" ,News: Olay Türk TV Kayseri (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OmanTVMubashir.om" ,News: Oman Mubashir (1080p)
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OnE.eg" ,News: On E (1080p)
+https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Onda15TV.es" ,News: Onda 15 TV (224p)
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OndaValenciaTV.es" ,News: Onda Valencia (720p)
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OnlineTVNusantara.id" ,News: Online TV Nusantara (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OraNews.al" ,News: Ora News (720p)
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OrbitaTV.sv" ,News: Órbita TV (720p)
+https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OviedoPressTV.py" ,News: Oviedo Press TV (480p) [Not 24/7]
+https://ssh101.bozztv.com/ssh101/oviedotv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PalestineAlYawm.lb" ,News: Palestine Al Yawm (720p)
+https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PalestineToday.ps" ,News: Palestine Today (480p) [Geo-blocked]
+https://live.paltodaytv.com/paltv/live/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PalitraNews.ge" ,News: Palitra News (480p) [Not 24/7]
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PanoramaTV.al" ,News: Panorama TV (720p) [Not 24/7]
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PayamTV.iq" ,News: Payam TV (720p) [Not 24/7]
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PayvandTV.us" ,News: Payvand TV (720p) [Not 24/7]
+https://bozztv.com/cus01/ucur1/Payvand/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PBO.pe" ,News: PBO
+https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PershiyXTVMedia.ua" ,News: Pershiy XTV Media (576p)
+https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PIKTV.bg" ,News: PIK TV (720p)
+https://s.piktv.bg/l/live/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlenaTV.br" ,News: Plena TV (720p)
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PloiestiTV.ro" ,News: Ploiesti TV (1080p)
+https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVNews.us" ,News: Pluto TV News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1454-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40ed281a-4df6-4951-8bc0-abfa19c88be3
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PolsatNews.pl" ,News: Polsat News (720p) [Geo-blocked]
+http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PolsatNewsPolityka.pl" ,News: Polsat News Polityka (1080p) [Geo-blocked]
+https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PrathamKhabar24x7.in" ,News: Pratham Khabar 24x7 (576p)
+https://livelegitpro.in/hls2/newstime/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PrensaLatinaTV.cu" ,News: Prensa Latina TV (1080p)
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PrensaEc.ec" ,News: PrensaEc (720p) [Not 24/7]
+https://ssh101-fl.bozztv.com/ssh101/prensaec/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PressTV.ir" ,News: Press TV
+https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PressTVFrench.ir" ,News: Press TV French (1080p)
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PROTVNews.ro" ,News: Pro TV News (1080p)
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ProfitNews.ro" ,News: Profit News (404p)
+https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PrudentMedia.in" ,News: Prudent Media (1080p)
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PSMNews.mv" ,News: PSM News
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PSN.mx@SD" ,News: PSN
+https://srspsn.live/live/livestream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PTV.ua" ,News: PTV (720p)
+https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PublicSnTV.sn" ,News: PublicSn TV (720p)
+https://goccn.cloud/hls/publictv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PuranoticiaTV.cl" ,News: Puranoticia TV (720p)
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="QTV1.cn" ,News: QTV-1
+http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RaajjeTV.mv" ,News: Raajje TV (480p)
+https://stream.raajje.mv/live/rtv_live/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RadioAncon.pa" ,News: Radio Ancón (720p)
+https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RadioFardaTV.us@SD" ,News: Radio Farda TV
+https://live20.bozztv.com/gin-36bay3/gp-radiofarda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RadioIslaTV.pr" ,News: Radio Isla TV (720p)
+https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RadioItaliaAnni60TV.it" ,News: Radio Italia Anni 60 TV (720p)
+https://tvd-ria60.fluid.stream/Anni60TV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RadioTelePlanetCompas.ht" ,News: Radio Tele Planet Compas (720p) [Not 24/7]
+https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RaiNews24.it" ,News: Rai News 24 (720p)
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RajNewsMalayalam.in" ,News: Raj News Malayalam
+https://rajnewsmalayalam.ylivestream.com/rajnewsmalayalam/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RCVTV.hn" ,News: RCV TV (712p)
+https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RDN.do" ,News: RDN (720p)
+https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RDXGoa.in" ,News: RDX Goa (720p)
+https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RealNewsKerala.in" ,News: Real News Kerala (1080p) [Not 24/7]
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RecordNews.br" ,News: Record News (720p)
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RCR.pe" ,News: Red de Comunicación Regional (RCR) (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RedseatTheFirst.us" ,News: Redseat The First (720p)
+https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RelevantTV.il" ,News: Relevant TV (1080p)
+https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ReportTV.al" ,News: Report TV (720p)
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ReporterTV.in" ,News: Reporter TV (396p)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/reporter_nim_https/050522/reporter/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ReutersTV.us@SD" ,News: Reuters
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KCKSLD7.us" ,News: Rev'n (KCKS-LD7) (480p)
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RealitateaTV.md" ,News: Rlive TV (406p)
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RSelvaTV.pe" ,News: RSelvaTV
+https://live.obslivestream.com/selvatv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RTArabic.ru" ,News: RT Arabic (1080p) [Geo-blocked]
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RTDE.de" ,News: RT DE (1080p) [Not 24/7]
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RTFrance.fr" ,News: RT France (1080p) [Geo-blocked]
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RTMASEAN.my" ,News: RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RTSH24.al" ,News: RTSH 24 (1080i)
+http://77.83.120.135:8001/play/RTSH24
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RTU.ec" ,News: RTU (1080p) [Not 24/7]
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RudawTV.iq" ,News: Rudaw TV (1080p)
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RT.ru" ,News: Russia Today
+https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SABCLehae.za@SD" ,News: SABC Lehae [Geo-blocked]
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SABCNews.za" ,News: SABC News (720p) [Geo-blocked]
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SadhnaPlusNews.in" ,News: Sadhna Plus News (720p)
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SamayKolkata.in" ,News: Samay Kolkata (720p)
+https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SaraouniaTV.ne@SD" ,News: Saraounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SCCurrents.us" ,News: SC Currents
+https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ScrippsNews.us" ,News: Scripps News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ShamsTV.iq" ,News: Shams TV (1080p)
+https://stream.shams.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SICNoticias.pt" ,News: SIC Notícias (1080p)
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SK1.ua" ,News: SK 1 (720p)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SkyNewsArabia.ae" ,News: Sky News Arabia (1080p) [Not 24/7]
+https://stream.skynewsarabia.com/ott/ott.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SkyNewsArabiaVertical.ae" ,News: Sky News Arabia (Portrait) (1280p) [Not 24/7]
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SkyNewsExtra1.au" ,News: Sky News Extra 1 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SkyNewsExtra2.au" ,News: Sky News Extra 2 (540p) [Not 24/7]
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SkyNewsExtra3.au" ,News: Sky News Extra 3 (1080p)
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SNNTV.ir" ,News: SNN TV (720p) [Not 24/7]
+https://live2.snn.ir/hls/snn.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Sochi24.ru" ,News: Sochi 24 HD
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="StartTV.gr" ,News: Start TV (480p)
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SterkTV.be" ,News: Stêrk TV (1080p)
+https://muzkurd.com/sterktv/sterk/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="STZTV.br" ,News: STZ TV (720p)
+https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SuchTV.pk@SD" ,News: Such TV
+https://video.primexsports.com/suchnews/live/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SudarshanNews.in" ,News: Sudarshan News (720p)
+https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SuperExpressTV.pl" ,News: Super Express TV (1080i)
+https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Syri.al" ,News: Syri (720p) [Not 24/7]
+https://stream.syritv.al/SyriTV/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SyriaTV.sy@SD" ,News: Syria TV (1080p)
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TCM10HD.br" ,News: TCM 10 HD (1080p)
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TDMInformation.mo" ,News: TDM Info. Macau (720p) [Not 24/7]
+https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TelepaceNews.it" ,News: Telepace News (720p)
+https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TelesurEnglish.ve" ,News: TeleSUR English (1080p) [Not 24/7]
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TelevisiondelEste.do" ,News: Televisión del Este (720p)
+https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TempoAfricTV.us" ,News: Tempo Afric TV (720p)
+https://streamspace.live/hls/tempoafrictv/livestream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TGRTHaber.tr" ,News: TGRT Haber (720p)
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ThanthiTV.in" ,News: Thanthi TV (396p)
+https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TheFirstTV.us" ,News: The First TV (1080p)
+https://thefirst-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TheWallStreetJournalLive.us" ,News: The Wall Street Journal Live (720p)
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TheYoungTurks.us" ,News: The Young Turks (1080p) [Geo-blocked]
+https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TimeVisionNews.in" ,News: Time Vision News (720p)
+http://rtmp.logichost.in:1935/timevision/timevision/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TimesBrasil.br" ,News: Times Brasil (1080p)
+https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TimesNow.in" ,News: Times Now (480p) [Geo-blocked]
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TimesNowNavbharat.in" ,News: Times Now Navbharat [Geo-blocked]
+https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TODAYAllDay.us" ,News: TODAY All Day
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b9a9385-79d0-48ba-8524-7334c82add93
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TOLOnews.af" ,News: Tolo News (720p)
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TopNews.th" ,News: Top News (720p)
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TopStoriesbyNewsy.us" ,News: Top Stories by Newsy (720p)
+https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TPANoticias.ao@SD" ,News: TPA Noticias
+https://live20.bozztv.com/dvrfl06/astv/astv-tpaint/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TRA2.do" ,News: TRA 2 (576p)
+https://203677.global.ssl.fastly.net/64b98ca5465883a424fe1c82/live_dabf38f04a9d11ee8eeb577c693b7d74/index.m3u8
 
 
 
