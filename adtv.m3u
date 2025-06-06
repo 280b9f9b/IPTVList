@@ -1521,6 +1521,164 @@ https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/m
 
 
 #EXTM3U https://github.com/iptv-org/iptv Lifestyle Movies Entertainment Travel Auto Documentaries News
+
+#EXTINF:-1 group-title="IPTVorg" tvg-id="9Life.au@Sydney" ,Lifestyle: 9Life (720p) [Geo-blocked]
+https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="13P.cl" ,Lifestyle: 13 Prime (720p)
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="30ALuxeLifeDiscovered.us" ,Lifestyle: 30A Luxe Life Discovered
+https://30a-tv.com/feeds/vidaa/luxelife.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AntenaMonden.ro" ,Lifestyle: Antena Monden (720p)
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AntiquesRoadTrip.us" ,Lifestyle: Antiques Road Trip (1080p) [Geo-blocked]
+https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AyushTV.in" ,Lifestyle: Ayush TV (360p) [Not 24/7]
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BBCHomeGarden.us" ,Lifestyle: BBC Home & Garden
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BBCTravel.us@Austria" ,Lifestyle: BBC Travel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca064-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb58bd-609a-4a2f-9905-c2bb4ea0def1
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BBCTravel.us@Germany" ,Lifestyle: BBC Travel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5694-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c128a45-6314-4183-a002-254731ea91a6
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BetterHealthTV.us" ,Lifestyle: Better Health TV (480p)
+https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BizTV.us" ,Lifestyle: Biz TV (1080p)
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BiznetLifestyle.id" ,Lifestyle: Biznet Lifestyle (480p)
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Bridezillas.us@UK" ,Lifestyle: Bridezillas
+https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CardioTVSRC.ro" ,Lifestyle: Cardio TV SRC (720p)
+https://5947cbf6e693a.streamlock.net/live/play2/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CaTine.ro" ,Lifestyle: CaTine (720p)
+https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Cats247.us" ,Lifestyle: Cats 24/7
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1d9d30b-52fa-4979-a2d6-5066af724ab6
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CBCSofra.eg" ,Lifestyle: CBC Sofra (1080p)
+https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CineLife.us" ,Lifestyle: CineLife
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CleoTV.us" ,Lifestyle: Cleo TV (720p)
+https://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Diva.za" ,Lifestyle: Diva (720p)
+https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DoctorLive.in" ,Lifestyle: Doctor Live (720p)
+https://5a1178b42cc03.streamlock.net/8250/8250/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DomashnieZhivotnye.ru" ,Lifestyle: Domashnie Zhivotnye
+http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DomashniyInternational.ru@SD" ,Lifestyle: Domashniy International
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FashionTVParis.fr" ,Lifestyle: Fashion TV Paris (144p)
+https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FashionTVPG16.fr" ,Lifestyle: Fashion TV PG16 (144p)
+https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FashionTVUHD.fr" ,Lifestyle: Fashion TV UHD (2160p)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FashionTVEurope.fr" ,Lifestyle: FashionTV Europe (1080p)
+https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FortunaTV.tr" ,Lifestyle: Fortuna TV
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FYI.us@East" ,Lifestyle: FYI East
+https://fl3.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GlobalFashionChannel.us" ,Lifestyle: Global Fashion Channel (1080p)
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GuideLoveTV.ci" ,Lifestyle: Guide Love TV (720p)
+https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HANDICAPTV.fr" ,Lifestyle: HANDICAP TV France
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HobbyMaker.uk" ,Lifestyle: Hobby Maker (720p)
+https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KappaTV.in" ,Lifestyle: Kappa TV (360p)
+https://idvd.multitvsolution.com/idvo/kappatv.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KBSLife.kr" ,Lifestyle: KBS Life (480p)
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SmartLifeStyleTV.us" ,Lifestyle: Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p)
+https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Localish.us" ,Lifestyle: Localish (720p)
+https://apollo.production-public.tubi.io/live/ac-localish.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LogosTVSalud.es" ,Lifestyle: Logos TV Salud (720p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MaraoTV.ge@SD" ,Lifestyle: Marao TV
+https://live20.bozztv.com/dvrfl05/gin-marao/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MarcoPoloTV.de@SD" ,Lifestyle: Marco Polo TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65004cf398020f00084ca8bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e4e14-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86370235-72a6-4e96-963e-db24b49333fb
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MediCOOLTV.ro" ,Lifestyle: MediCOOL TV (720p)
+https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MonteCarloDigitalTelevision.fr" ,Lifestyle: Monte Carlo Digital Television (1080p)
+https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MuratorTV.pl" ,Lifestyle: Murator TV (1080i)
+https://s-pl-01.mediatool.tv/playout/mupl-abr/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Nova.es" ,Lifestyle: Nova (Spain) (576p)
+http://185.189.225.150:85/nova/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OtkritiymirZdorove.ru" ,Lifestyle: Otkritiy mir. Zdorove
+https://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlousTV.ve" ,Lifestyle: Plous TV (1080p)
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVCucina.us@Italy" ,Lifestyle: Pluto TV Cucina Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6261868633a2890007e87885/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVCuisine.us@France" ,Lifestyle: Pluto TV Cuisine
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055175-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d65e7814-007f-4b37-ac42-189f2577bbff
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVFood.us@Austria" ,Lifestyle: Pluto TV Food
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f8694-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=84eca92a-b9f7-4788-9295-f3ac89ca3948
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVFood.us@Germany" ,Lifestyle: Pluto TV Food
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7979-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6afece0b-4e3f-4de4-935d-3288b6200e01
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVFood.us@US" ,Lifestyle: Pluto TV Food
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed46-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f50f5a35-cd22-4046-9c5b-355b6f701720
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVHome.us" ,Lifestyle: Pluto TV Home
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6022bd17849c620007f43ae0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0db981e3-cabf-4589-ae4e-5696db28f9ea
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVHome.us@Austria" ,Lifestyle: Pluto TV Home
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1fada0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede1cd55-a9ba-4c6b-b9b8-13f955d178da
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVHome.us@Germany" ,Lifestyle: Pluto TV Home
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aea082-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=98a9fe20-9187-429d-b9ac-8042d3142022
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PoradnikZdrowieTV.pl" ,Lifestyle: Poradnik Zdrowie TV (1080i)
+https://s-pl-01.mediatool.tv/playout/pzpl-abr/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="QS24tv.ch" ,Lifestyle: QS24.tv (1080p)
+https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="QTV2.cn" ,Lifestyle: QTV-2
+http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Revry2.us" ,Lifestyle: Revry 2
+https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Revry.us" ,Lifestyle: Revry (720p) [Not 24/7]
+https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RevryBrasil.us" ,Lifestyle: Revry Brasil
+https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RevryNews.us@SD" ,Lifestyle: Revry News (720p)
+https://dcb264a4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5TmV3c19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RevryQueer.us" ,Lifestyle: Revry Queer (720p)
+https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SOSDocteurTV.tg" ,Lifestyle: SOS Docteur TV (480p) [Not 24/7]
+https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SuperyachtTV.mc" ,Lifestyle: Superyacht TV (1080p)
+https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TheBeachChannel.us" ,Lifestyle: The Beach Channel
+https://cf-live29e5f8c.lwcdn.com/live/fallback/014dc067-4922-4168-bdcd-5278589269ed/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TheDesignNetwork.us@SD" ,Lifestyle: The Design Network (1080p)
+https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TheJamieOliverChannel.us" ,Lifestyle: The Jamie Oliver Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab9df3d48f40008868091/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c25c5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c35404c-1695-499c-9f13-965f00e7ea9b
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TV5MondeStyle.fr" ,Lifestyle: TV5Monde Style (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVKesehatan.id" ,Lifestyle: TV Kesehatan (1080p)
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Zhivi.ru" ,Lifestyle: ЖИВИ!
+http://31.148.48.15/Zhivi/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="NTVStyle.ru" ,Lifestyle: НТВ Стиль
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="HunanWomensChannel.cn@SD" ,Lifestyle: 长沙女性 [Geo-blocked]
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="10Bold.au@Sydney" ,Lifestyle: 10 Bold Adelaide (1080p)
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="apartTV.lu" ,Lifestyle: apart TV (1080p)
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CanalSaude.br" ,Lifestyle: Canal Saúde (720p) [Not 24/7]
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FashionFinds.us" ,Lifestyle: Fashion Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="QTV6.cn" ,Lifestyle: QTV-6
+http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="WomanTV.tr" ,Lifestyle: Woman TV (1080p)
+https://embedlp.becdn.net/womantv.m3u8
+
 #EXTINF:-1 group-title="IPTVorg" tvg-id="8madridTV.es" ,Movies: 8madrid TV (720p)
 http://185.189.225.150:85/8madrid/index.m3u8
 #EXTINF:-1 group-title="IPTVorg" tvg-id="24HourFreeMovies.us" ,Movies: 24 Hour Free Movies (720p)
