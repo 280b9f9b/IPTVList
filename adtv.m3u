@@ -5373,17 +5373,25 @@ https://linear-377.frequency.stream/mt/studio/377/hls/master/playlist.m3u8
 https://linear-378.frequency.stream/mt/studio/378/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,studio
 https://linear-379.frequency.stream/mt/studio/379/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio",Red Bull
-https://linear-582.frequency.stream/mt/studio/582/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="studio",Red Bull
+#EXTINF:-1 group-title="studio",Sports: Red Bull
+https://linear-582.frequency.stream/mt/studio/582/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="studio",Sports: Red Bull
 https://linear-641.frequency.stream/mt/studio/641/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="studio",Sports: Red Bull
+https://linear-644.frequency.stream/mt/studio/644/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="studio",Sports: Red Bull
+https://linear-680.frequency.stream/mt/studio/680/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="studio" ,Sports: Red Bull
+https://linear-932.frequency.stream/mt/studio/932/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="studio" ,Sports: Red Bull
+https://linear-957.frequency.stream/mt/studio/957/hls/master/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="studio" ,studio
 https://linear-643.frequency.stream/mt/studio/643/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio",Red Bull
-https://linear-644.frequency.stream/mt/studio/644/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio",Red Bull
-https://linear-680.frequency.stream/mt/studio/680/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="studio",ABC7
 https://linear-681.frequency.stream/mt/studio/681/hls/master/playlist.m3u8
 
@@ -5475,12 +5483,11 @@ https://linear-896.frequency.stream/mt/studio/896/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="studio" ,Comedy: Comedy Dynamics
 https://linear-903.frequency.stream/mt/studio/903/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,Red Bull
-https://linear-932.frequency.stream/mt/studio/932/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 group-title="studio" ,studio
 https://linear-956.frequency.stream/mt/studio/956/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,Red Bull
-https://linear-957.frequency.stream/mt/studio/957/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="studio" ,studio
 https://linear-980.frequency.stream/mt/studio/980/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,studio
