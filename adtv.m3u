@@ -5081,7 +5081,7 @@ https://linear-105.frequency.stream/mt/plex/105/hls/master/playlist.m3u8
 https://linear-106.frequency.stream/mt/plex/106/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local: Cincinnati OH
 https://linear-107.frequency.stream/mt/plex/107/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Very Local" ,Very Local 16
+#EXTINF:-1 group-title="Very Local" ,Very Local: New Orleans LA
 https://linear-108.frequency.stream/mt/plex/108/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local: Louisville KY
 https://linear-109.frequency.stream/mt/plex/109/hls/master/playlist.m3u8
