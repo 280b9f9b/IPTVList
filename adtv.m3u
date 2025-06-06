@@ -2491,9 +2491,7 @@ https://linear-867.frequency.stream/mt/plex/867/hls/master/playlist.m3u8
 https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Comedy: Comedy Dynamics
 https://linear-903.frequency.stream/mt/plex/903/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy" ,En Español: Always Funny en Español
-https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Comedy",Comedy: Always Funny
+#EXTINF:-1 group-title="Plex",Comedy: Always Funny
 https://linear-12.frequency.stream/mt/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Comedy",Comedy: Trailer Park Boys: The SwearNet Show
 https://linear-732.frequency.stream/mt/plex/732/hls/master/playlist.m3u8
@@ -2525,7 +2523,8 @@ https://linear-651.frequency.stream/mt/plex/651/hls/master/playlist.m3u8
 https://linear-649.frequency.stream/mt/plex/649/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,En Español: FLOU Detonación
 https://linear-930.frequency.stream/mt/plex/930/hls/master/playlist.m3u8
-
+#EXTINF:-1 group-title="Plex" ,En Español: Always Funny en Español
+https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Plex" ,Sports: Court Sports Network
 https://linear-627.frequency.stream/mt/plex/627/hls/master/playlist.m3u8
