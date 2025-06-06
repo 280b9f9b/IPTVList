@@ -5065,7 +5065,7 @@ https://linear-94.frequency.stream/mt/plex/94/hls/master/playlist.m3u8
 https://linear-95.frequency.stream/mt/plex/95/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local 07
 https://linear-96.frequency.stream/mt/plex/96/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Very Local" ,Very Local: Albuquerque, NM
+#EXTINF:-1 group-title="Very Local" ,Very Local: Albuquerque NM
 https://linear-97.frequency.stream/mt/plex/97/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local 09
 https://linear-99.frequency.stream/mt/plex/99/hls/master/playlist.m3u8
@@ -5075,7 +5075,7 @@ https://linear-100.frequency.stream/mt/plex/100/hls/master/playlist.m3u8
 https://linear-102.frequency.stream/mt/plex/102/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local 12
 https://linear-103.frequency.stream/mt/plex/103/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Very Local" ,Very Local 13
+#EXTINF:-1 group-title="Very Local" ,Very Local: Baltimore MD
 https://linear-105.frequency.stream/mt/plex/105/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local 14
 https://linear-106.frequency.stream/mt/plex/106/hls/master/playlist.m3u8
@@ -5296,7 +5296,7 @@ https://linear-98.frequency.stream/mt/studio/98/hls/master/playlist.m3u8
 https://linear-99.frequency.stream/mt/studio/99/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-100.frequency.stream/mt/studio/100/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Very Local",Very Local: Boston, MA
+#EXTINF:-1 group-title="Very Local",Very Local: Boston MA
 https://linear-102.frequency.stream/mt/studio/102/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="studio" ,Very Local
