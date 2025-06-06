@@ -4980,7 +4980,8 @@ https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
 https://linear-1006.frequency.stream/mt/plex/1006/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex",Sports: Swerve Combat
 https://linear-253.frequency.stream/mt/plex/253/hls/master/playlist.m3u8
-
+#EXTINF:-1 group-title="PLEX" ,Sports: Wired2Fish
+https://linear-80.frequency.stream/mt/plex/80/hls/master/playlist.m3u8
 
 
 
@@ -5167,8 +5168,7 @@ https://linear-138.frequency.stream/mt/plex/138/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-91.frequency.stream/mt/plex/91/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-80.frequency.stream/mt/plex/80/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-64.frequency.stream/mt/plex/64/hls/master/playlist.m3u8
 
