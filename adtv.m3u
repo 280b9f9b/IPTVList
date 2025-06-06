@@ -3083,6 +3083,84 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 #EXTINF:-1 group-title="IPTVorg" tvg-id="TVParaense.br" ,Entertainment: TV Paraense (720p)
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 
+#EXTINF:-1 group-title="IPTVorg" tvg-id="AnytimeTV.za" ,Travel: Anytime TV (1080p)
+https://tv.anytimemedia.co.za:3673/hybrid/play.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ArubaTV.aw" ,Travel: Aruba.TV (1080p)
+https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BamBarBiaTV.ua" ,Travel: BamBarBia TV (720p) [Not 24/7]
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BeachTVFloridaAlabama.us" ,Travel: Beach TV Florida & Alabama (720p)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BeachTVKeyWestFloridaKeys.us" ,Travel: Beach TV Key West & Florida Keys (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BeachTVMyrtleBeachTheGrandStrand.us" ,Travel: Beach TV Myrtle Beach & The Grand Strand (720p)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="BeachTVPanamaCity.us" ,Travel: Beach TV Panama City (720p)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CaribbeanTravelingNetwork.do" ,Travel: Caribbean Traveling Network (486p)
+https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="DiscoverPakistan.pk" ,Travel: Discover Pakistan (1080p)
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Go2Travel.us" ,Travel: Go2Travel (1080p)
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GoUSATV.us" ,Travel: Go USA
+https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="GoTraveler.us" ,Travel: GoTraveler (720p) [Geo-blocked]
+https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Journy.us" ,Travel: Journy (720p)
+https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="LoveinVenice.it" ,Travel: Love in Venice (480p)
+https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MaahTV.my" ,Travel: Maah TV (720p) [Not 24/7]
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="MaldivesTV.mv" ,Travel: Maldives TV (608p)
+https://live.maldivestv.mv/hls/stream/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="KNOVCD1.us" ,Travel: NOTV New Orleans TV (720p)
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="OEPMTV.do@SD" ,Travel: Oepm TV (720p)
+https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PalmBeachesTV.us" ,Travel: Palm Beaches TV (720p)
+https://live.feed.thepalmbeaches.tv/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVAnimaux.us@France" ,Travel: Pluto TV Animaux
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=754cd30f-6a34-42d3-9e06-63128a8e07e3
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVHistoire.us@France" ,Travel: Pluto TV Histoire
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e771e2f5f180007002224/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7663e8d-062c-4293-9b93-a2bd07b5cb20
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PlutoTVTravel.us" ,Travel: Pluto TV Travel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b69-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=285c5e14-2bb7-45ce-b0e7-4869bb438d35
+#EXTINF:-1 group-title="IPTVorg" tvg-id="RTGTV.ru" ,Travel: RTG TV
+http://194.143.148.28:8080/RTG_HD/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="SchladmingDachsteinTV.at" ,Travel: Schladming-Dachstein TV (720p)
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Teleputeshestviya.ru" ,Travel: Teleputeshestviya
+http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Teletur.do" ,Travel: Teletur (1080p)
+https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TravelAdventuresWithJeffSwan.us" ,Travel: Travel Adventures with Jeff Swan (1080p)
+https://app.viloud.tv/hls/channel/0d984388834adac967a4ec4e69bc8271.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TravelTV.bg" ,Travel: Travel TV (576p)
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Travelxp.in" ,Travel: Travelxp (720p)
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="Travelxp.in@Netherlands" ,Travel: Travelxp Netherlands
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVParanaTurismo.br" ,Travel: TV Paraná Turismo (720p) [Not 24/7]
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVSayohi.tj" ,Travel: TV Sayohi (1080p)
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="TVSTravelNetwork.us" ,Travel: TVS Travel Network (720p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="ChileChannel.cl" ,Travel: Chile Channel (720p)
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="CostaRicaChannel.cr" ,Travel: Costa Rica Channel (720p)
+https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="FunRoads.us" ,Travel: Fun Roads (404p)
+http://104.143.4.5:2080/funroads.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PeerTVAltoAdige.it" ,Travel: Peer TV Alto Adige (1280p)
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PeerTVSouthTyrol.it" ,Travel: Peer TV South Tyrol (1280p)
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 group-title="IPTVorg" tvg-id="PeerTVSudtirol.it" ,Travel: Peer TV Südtirol (1080p)
+https://iptv.peer.biz/live/peertv.m3u8
 
 
 
