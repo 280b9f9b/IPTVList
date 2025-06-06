@@ -3393,36 +3393,36 @@ https://drive.uber.radio/uber/forkidzwakeandshake/icecast.audio
 
 
 #EXTM3U https://www.plex.tv/
-#EXTINF:-1 group-title="Plex" ,Daytime TV: The Bold and the Beautiful
-https://linear-1033.frequency.stream/mt/plex/1033/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Movies: Miramax Movie Channel
-https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Comedy: National Lampoon
-https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="Plex" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CW Forever.png" ,Hit TV: CW Forever
 https://linear-850.frequency.stream/mt/plex/850/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Hit TV: BET x Tyler Perry Drama
 https://linear-866.frequency.stream/mt/plex/866/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Plex" ,Drama TV: Ion Mystery
-https://scripps-ionmystery-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Plex",Lifestyle: Revry
+https://linear-43.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Plex" ,True Crime: TV One Crime & Justice
-https://linear-593.frequency.stream/mt/plex/593/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Food & Home: At Home with Family Handyman
+https://linear-458.frequency.stream/mt/plex/458/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex",Food & Home: CraftsyTV
+https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Plex" ,Comedy: BET x Tyler Perry Comedy
-https://linear-867.frequency.stream/mt/plex/867/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Comedy: National Lampoon
-https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Daytime TV: The Bold and the Beautiful
+https://linear-1033.frequency.stream/mt/plex/1033/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Daytime TV: Judge Faith
+https://linear-650.frequency.stream/mt/plex/650/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Daytime TV: Real Disaster Channel
+https://linear-475.frequency.stream/mt/plex/475/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Daytime TV: REELZ Famous & Infamous
+https://linear-190.frequency.stream/mt/plex/190/hls/master/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Plex" ,Movies: Miramax Movie Channel
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Movies: Plex24
 https://plex-ono-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Movies: IFC Films Picks
 https://amc-ifc-films-picks-1-us.plex.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="Plex" ,Movies: Maverick Black Cinema
 https://maverick-maverick-black-cinema-2-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Movies: Runtime
@@ -3439,77 +3439,145 @@ https://samuelgoldwyn-classics-1-us.plex.wurl.tv/playlist.m3u8
 https://amg01076-amg01076c11-plex-us-4783.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Movies: The Black Effect
 https://mansa-mansamix-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,En Español: Oro TV
-https://linear-651.frequency.stream/mt/plex/651/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Daytime TV: Judge Faith
-https://linear-650.frequency.stream/mt/plex/650/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Sports: Court Sports Network
-https://linear-627.frequency.stream/mt/plex/627/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Movies: Dove
+https://linear-896.frequency.stream/mt/plex/896/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Plex" ,Daytime TV: Real Disaster Channel
-https://linear-475.frequency.stream/mt/plex/475/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Food & Home: At Home with Family Handyman
-https://linear-458.frequency.stream/mt/plex/458/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Sports: PokerGO
-https://linear-426.frequency.stream/mt/plex/426/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Sci-Fi & Action: Farscape
+https://linear-731.frequency.stream/mt/plex/731/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Sci-Fi & Action: Midnight Pulp
+https://linear-897.frequency.stream/mt/plex/897/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Plex" ,Nature & Travel: Journy
 https://linear-291.frequency.stream/mt/plex/291/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Nature & Travel: Journy
 https://linear-252.frequency.stream/mt/plex/252/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Sports: PursuitUP
-https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Daytime TV: REELZ Famous & Infamous
-https://linear-190.frequency.stream/mt/plex/190/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Plex" ,History & Science: True History
 https://linear-188.frequency.stream/mt/plex/188/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,News: RevryNews
-https://linear-44.frequency.stream/mt/plex/44/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Classic TV: ALF
-https://linear-729.frequency.stream/mt/plex/729/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Sci-Fi & Action: Farscape
-https://linear-731.frequency.stream/mt/plex/731/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Classic TV: Non-Stop '90s
-https://linear-744.frequency.stream/mt/plex/744/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex",History & Science: Unidentified
+https://linear-150.frequency.stream/mt/plex/150/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex",History & Science: Alien Nation by DUST
+https://linear-888.frequency.stream/mt/plex/888/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Plex" ,Classic TV: Wild West TV
-https://linear-799.frequency.stream/mt/plex/799/hls/master/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Plex" ,Sports: UFC
-https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Movies: Dove
-https://linear-896.frequency.stream/mt/plex/896/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Sci-Fi & Action: Midnight Pulp
-https://linear-897.frequency.stream/mt/plex/897/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Anime+: RetroCrush
 https://linear-899.frequency.stream/mt/plex/899/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Anime+: AsianCrush
 https://linear-900.frequency.stream/mt/plex/900/hls/master/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Plex" ,Comedy: National Lampoon
+https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Comedy: BET x Tyler Perry Comedy
+https://linear-867.frequency.stream/mt/plex/867/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Comedy: National Lampoon
+https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Comedy: Comedy Dynamics
 https://linear-903.frequency.stream/mt/plex/903/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Classic TV: Hunter
-https://linear-914.frequency.stream/mt/plex/914/hls/master/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Plex" ,Drama TV: Ion Mystery
+https://scripps-ionmystery-1-us.plex.wurl.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Plex" ,True Crime: TV One Crime & Justice
+https://linear-593.frequency.stream/mt/plex/593/hls/master/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Plex" ,En Español: Oro TV
+https://linear-651.frequency.stream/mt/plex/651/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,En Español: Saborear TV
 https://linear-649.frequency.stream/mt/plex/649/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Classic TV: 21 Jump Street
-https://linear-915.frequency.stream/mt/plex/915/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,En Español: FLOU Detonación
 https://linear-930.frequency.stream/mt/plex/930/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Plex" ,Sports: Court Sports Network
+https://linear-627.frequency.stream/mt/plex/627/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Sports: PokerGO
+https://linear-426.frequency.stream/mt/plex/426/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Sports: PursuitUP
+https://linear-205.frequency.stream/mt/plex/205/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Sports: UFC
+https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Sports: PGA TOUR
 https://linear-1006.frequency.stream/mt/plex/1006/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex",Sports: Swerve Combat
+https://linear-253.frequency.stream/mt/plex/253/hls/master/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Plex" ,News: RevryNews
+https://linear-44.frequency.stream/mt/plex/44/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Plex" ,Classic TV: ALF
+https://linear-729.frequency.stream/mt/plex/729/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Classic TV: Non-Stop '90s
+https://linear-744.frequency.stream/mt/plex/744/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Classic TV: Wild West TV
+https://linear-799.frequency.stream/mt/plex/799/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Classic TV: Hunter
+https://linear-914.frequency.stream/mt/plex/914/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Classic TV: 21 Jump Street
+https://linear-915.frequency.stream/mt/plex/915/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,Classic TV: The Ed Sullivan Show
+https://linear-598.frequency.stream/mt/plex/598/hls/master/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Plex",SurvivorNet TV (SNTV)
 https://linear-502.frequency.stream/mt/plex/502/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex",SurvivorNet TV (SNTV)
 https://linear-496.frequency.stream/mt/plex/496/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex",Food & Home: CraftsyTV
-https://linear-492.frequency.stream/mt/plex/492/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Plex",BlackPix
 https://linear-276.frequency.stream/mt/plex/276/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex",Sports: Swerve Combat
-https://linear-253.frequency.stream/mt/plex/253/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex",History & Science: Unidentified
-https://linear-150.frequency.stream/mt/plex/150/hls/master/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Very Local" ,Very Local 01
 https://linear-33.frequency.stream/mt/plex/33/hls/master/playlist.m3u8
@@ -3580,8 +3648,7 @@ https://linear-732.frequency.stream/mt/plex/732/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Plex",GREAT! mystery
 https://linear-861.frequency.stream/mt/plex/861/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex",History & Science: Alien Nation by DUST
-https://linear-888.frequency.stream/mt/plex/888/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Plex",GoPro
 https://linear-891.frequency.stream/mt/plex/891/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex",Yu-Gi-Oh!
@@ -3590,12 +3657,10 @@ https://linear-901.frequency.stream/mt/plex/901/hls/master/playlist.m3u8
 https://linear-918.frequency.stream/mt/plex/918/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex",Cut
 https://linear-1009.frequency.stream/mt/plex/1009/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex",Lifestyle: Revry
-https://linear-43.frequency.stream/mt/plex/43/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Plex", Revry 2
 https://linear-5.frequency.stream/mt/plex/5/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,Classic TV: The Ed Sullivan Show
-https://linear-598.frequency.stream/mt/plex/598/hls/master/playlist.m3u8
+
 
 
 
