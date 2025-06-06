@@ -4465,19 +4465,19 @@ https://203677.global.ssl.fastly.net/64b98ca5465883a424fe1c82/live_dabf38f04a9d1
 
 
 
-#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/912eafc8-6659-4a5f-b09a-0a51ac1f7882.jpg" ,Taylor Swift
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/912eafc8-6659-4a5f-b09a-0a51ac1f7882.jpg" ,Exclusive Radio: Taylor Swift
 https://streaming.exclusive.radio/er/taylorswift/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/6b8adb31-5021-4e82-ad27-8f176caf9e91.jpg" ,Abba
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/6b8adb31-5021-4e82-ad27-8f176caf9e91.jpg" ,Exclusive Radio: Abba
 http://streaming.exclusive.radio/er/abba/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f045db74-8996-498a-a3a9-c0c677ece874.jpg" ,Adele
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/f045db74-8996-498a-a3a9-c0c677ece874.jpg" ,Exclusive Radio: Adele
 https://streaming.exclusive.radio/er/adele/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/101f1e99-f931-44ec-a161-b251e14f3c42.png" ,50's
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/101f1e99-f931-44ec-a161-b251e14f3c42.png" ,Exclusive Radio: 50's
 https://drive.uber.radio/uber/lr1950s/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/52ddf955-862e-47b2-877d-c92150169970.png" ,Alabama
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/52ddf955-862e-47b2-877d-c92150169970.png" ,Exclusive Radio: Alabama
 https://drive.uber.radio/uber/cmralabama/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/6dae4965-500b-4a2a-b7fd-a114a1b284a7.jpg" ,Bon Jovi
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/6dae4965-500b-4a2a-b7fd-a114a1b284a7.jpg" ,Exclusive Radio: Bon Jovi
 https://streaming.exclusive.radio/er/bonjovi/icecast.audio
-#EXTINF:-1 group-title="YouRadio Exclusive Radio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/70c018e8-5324-443f-bad5-17fbd9135666.png" ,Sunanda Sharma
+#EXTINF:-1 group-title="YouRadio" tvg-id="youradio" tvg-logo="https://manager.uber.radio/static/uploads/station/70c018e8-5324-443f-bad5-17fbd9135666.png" ,Exclusive Radio: Sunanda Sharma
 https://drive.uber.radio/uber/bollywoodsunandasharma/icecast.audio
 
 
