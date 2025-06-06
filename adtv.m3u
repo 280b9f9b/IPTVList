@@ -607,8 +607,6 @@ https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Persiana" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-two.jpg" ,Persiana Two
 https://twohls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Persian" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC Royale.png" ,Music: PMC Royale
-https://rohls.pmc.live/hls/stream.m3u8
 
 #EXTM3U https://pluto.tv/
 #EXTINF:0 channel-id="cars-1" channel-number="0" tvg-logo="https://images.pluto.tv/channels/5c12ba66eae03059cbdc77f2/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5c12ba66eae03059cbdc77f2/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Pluto TV Cars" tvc-guide-description="Hit the road with Pluto TV Cars. This is the channel for those driven by a passion for classic cars and modern motors. It’s for the car lovers who will never forget the first time they adjusted their rear-view mirrors and looked out at the open road." group-title="Pluto TV",Reality: Pluto TV Cars
@@ -1443,6 +1441,11 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f778a052360b30007fa5e32/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d539830-eca6-11ee-bb0e-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9e73709-547c-4381-97a3-520b1b719af1&userId=&serverSideAds=true
 #EXTINF:0 channel-id="nosey-2" channel-number="1890" tvg-logo="https://images.pluto.tv/channels/5f7788ab8777280007781296/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5f7788ab8777280007781296/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Nosey 2" tvc-guide-description="Watch Jerry Springer, Maury Povich, Steve Wilkos, Blind Date, and more on Nosey, your one stop shop for your favorite shows." group-title="Pluto TV",Pluto TV: Nosey 2
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7788ab8777280007781296/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53ed3a-eca6-11ee-8b97-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4a12996a-b4fa-4fb7-81ea-da54cc57a701&userId=&serverSideAds=true
+
+
+
+#EXTINF:-1 group-title="فارسی" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/PMC Royale.png" ,Music: PMC Royale
+https://rohls.pmc.live/hls/stream.m3u8
 
 
 #EXTM3U https://www.indiatoday.in/livetv
