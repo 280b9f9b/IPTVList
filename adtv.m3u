@@ -4917,6 +4917,9 @@ https://linear-150.frequency.stream/mt/plex/150/hls/master/playlist.m3u8
 https://linear-888.frequency.stream/mt/plex/888/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,History & Science: Unidentified
 https://linear-267.frequency.stream/mt/plex/267/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,History & Science: Military Times
+https://linear-64.frequency.stream/mt/plex/64/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Plex" ,Anime+: RetroCrush
 https://linear-899.frequency.stream/mt/plex/899/hls/master/playlist.m3u8
@@ -5169,8 +5172,7 @@ https://linear-138.frequency.stream/mt/plex/138/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-91.frequency.stream/mt/plex/91/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-64.frequency.stream/mt/plex/64/hls/master/playlist.m3u8
+
 
 
 
