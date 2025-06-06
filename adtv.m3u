@@ -4851,6 +4851,8 @@ https://drive.uber.radio/uber/forkidzwakeandshake/icecast.audio
 #EXTM3U https://www.plex.tv/
 #EXTINF:-1 group-title="Plex" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/CW Forever.png" ,Hit TV: CW Forever
 https://linear-850.frequency.stream/mt/plex/850/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="PLEX" ,Hit TV: CW Gold
+https://linear-851.frequency.stream/mt/plex/851/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Hit TV: BET x Tyler Perry Drama
 https://linear-866.frequency.stream/mt/plex/866/hls/master/playlist.m3u8
 
@@ -5188,8 +5190,7 @@ https://linear-10.frequency.stream/mt/plex/10/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-842.frequency.stream/mt/plex/842/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-851.frequency.stream/mt/plex/851/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-857.frequency.stream/mt/plex/857/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
