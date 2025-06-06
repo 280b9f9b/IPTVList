@@ -5386,7 +5386,8 @@ https://linear-680.frequency.stream/mt/studio/680/hls/master/playlist.m3u8
 https://linear-932.frequency.stream/mt/studio/932/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Sports: Red Bull
 https://linear-957.frequency.stream/mt/studio/957/hls/master/playlist.m3u8
-
+#EXTINF:-1 group-title="studio" ,Sports: Red Bull
+https://linear-1026.frequency.stream/mt/studio/1026/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 group-title="studio" ,studio
@@ -5538,8 +5539,7 @@ https://linear-1002.frequency.stream/mt/studio/1002/hls/master/playlist.m3u8
 https://linear-1003.frequency.stream/mt/studio/1003/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-1014.frequency.stream/mt/studio/1014/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,studio
-https://linear-1026.frequency.stream/mt/studio/1026/hls/master/playlist.m3u8
+
 
 
 
