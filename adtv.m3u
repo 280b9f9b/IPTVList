@@ -5537,7 +5537,7 @@ https://linear-1001.frequency.stream/mt/studio/1001/hls/master/playlist.m3u8
 https://linear-1002.frequency.stream/mt/studio/1002/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,studio
 https://linear-1003.frequency.stream/mt/studio/1003/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,Very Local
+#EXTINF:-1 group-title="studio" ,Very Local: Fort Myers FL
 https://linear-1014.frequency.stream/mt/studio/1014/hls/master/playlist.m3u8
 
 
