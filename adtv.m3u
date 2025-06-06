@@ -4919,7 +4919,8 @@ https://linear-888.frequency.stream/mt/plex/888/hls/master/playlist.m3u8
 https://linear-267.frequency.stream/mt/plex/267/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,History & Science: Military Times
 https://linear-64.frequency.stream/mt/plex/64/hls/master/playlist.m3u8
-
+#EXTINF:-1 group-title="PLEX" ,History & Science: StarTalk Sportiverse
+https://linear-770.frequency.stream/mt/plex/770/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Plex" ,Anime+: RetroCrush
 https://linear-899.frequency.stream/mt/plex/899/hls/master/playlist.m3u8
@@ -5182,8 +5183,7 @@ https://linear-11.frequency.stream/mt/plex/11/hls/master/playlist.m3u8
 https://linear-10.frequency.stream/mt/plex/10/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 group-title="PLEX" ,PLEX
-https://linear-770.frequency.stream/mt/plex/770/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="PLEX" ,PLEX
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="PLEX" ,PLEX
