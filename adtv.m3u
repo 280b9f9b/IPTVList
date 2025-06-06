@@ -3767,7 +3767,9 @@ https://linear-891.frequency.stream/mt/brightcove/891/hls/master/playlist.m3u8
 https://linear-80.frequency.stream/mt/brightcove/80/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Brightcove" ,Brightcove
 https://linear-82.frequency.stream/mt/brightcove/82/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Brightcove" ,Brightcove
+
+
+#EXTINF:-1 group-title="Brightcove" ,Very Local
 https://linear-225.frequency.stream/mt/brightcove/225/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Brightcove" ,Brightcove
 https://linear-235.frequency.stream/mt/brightcove/235/hls/master/playlist.m3u8
@@ -3821,7 +3823,7 @@ https://linear-92.frequency.stream/mt/studio/92/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-93.frequency.stream/mt/studio/93/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="News & Politics",KETV 7
+#EXTINF:-1 group-title="Very Local",Very Local
 https://linear-94.frequency.stream/mt/studio/94/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="studio" ,Very Local
@@ -3837,7 +3839,7 @@ https://linear-98.frequency.stream/mt/studio/98/hls/master/playlist.m3u8
 https://linear-99.frequency.stream/mt/studio/99/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-100.frequency.stream/mt/studio/100/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="News & Politics",WCVB Channel 5 Boston
+#EXTINF:-1 group-title="Very Local",Very Local
 https://linear-102.frequency.stream/mt/studio/102/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="studio" ,Very Local
