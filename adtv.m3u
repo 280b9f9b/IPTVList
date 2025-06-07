@@ -5277,7 +5277,7 @@ https://linear-36.frequency.stream/mt/studio/36/hls/master/playlist.m3u8
 https://linear-91.frequency.stream/mt/studio/91/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local: Sacramento CA
 https://linear-92.frequency.stream/mt/studio/92/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,Very Local
+#EXTINF:-1 group-title="studio" ,Very Local: Des Moines IA
 https://linear-93.frequency.stream/mt/studio/93/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Very Local",Very Local
