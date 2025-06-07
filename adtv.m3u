@@ -5053,6 +5053,8 @@ https://linear-276.frequency.stream/mt/plex/276/hls/master/playlist.m3u8
 
 
 ..................
+#EXTINF:-1 group-title="Very Local" ,Very Local: Best of Very Local
+https://linear-124.frequency.stream/mt/plex/124/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local: Albuquerque NM
 https://linear-97.frequency.stream/mt/plex/97/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local: Albuquerque NM
@@ -5097,13 +5099,19 @@ https://linear-96.frequency.stream/mt/plex/96/hls/master/playlist.m3u8
 https://linear-96.frequency.stream/mt/studio/96/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local: Louisville KY
 https://linear-109.frequency.stream/mt/plex/109/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="studio" ,Very Local: Louisville KY
+https://linear-109.frequency.stream/mt/studio/109/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Very Local" ,Very Local: Milwaukee WI
 https://linear-106.frequency.stream/mt/plex/106/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="studio" ,Very Local: Milwaukee WI
+https://linear-106.frequency.stream/mt/studio/106/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local: Monterey CA
 https://linear-99.frequency.stream/mt/plex/99/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local: New Orleans LA
 https://linear-108.frequency.stream/mt/plex/108/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="studio" ,Very Local: New Orleans LA
+https://linear-108.frequency.stream/mt/studio/108/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local: Oklahoma City OK
 https://linear-98.frequency.stream/mt/plex/98/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local: Oklahoma City OK
@@ -5131,6 +5139,8 @@ https://linear-92.frequency.stream/mt/studio/92/hls/master/playlist.m3u8
 https://linear-112.frequency.stream/mt/plex/112/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local: Savannah GA
 https://linear-112.frequency.stream/mt/studio/112/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Very Local" ,Very Local: Savannah GA
+https://linear-200.frequency.stream/mt/plex/200/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Very Local" ,Very Local: West Palm Beach FL
 https://linear-114.frequency.stream/mt/plex/114/hls/master/playlist.m3u8
@@ -5138,6 +5148,10 @@ https://linear-114.frequency.stream/mt/plex/114/hls/master/playlist.m3u8
 https://linear-114.frequency.stream/mt/studio/114/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local: Winston-Salem NC
 https://linear-117.frequency.stream/mt/plex/117/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="studio" ,Very Local: Winston-Salem NC
+https://linear-200.frequency.stream/mt/studio/200/hls/master/playlist.m3u8
+
+
 
 
 
@@ -5161,10 +5175,8 @@ https://linear-111.frequency.stream/mt/plex/111/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Very Local" ,Very Local: Best of Very Local
-https://linear-124.frequency.stream/mt/plex/124/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Very Local" ,Very Local 27
-https://linear-200.frequency.stream/mt/plex/200/hls/master/playlist.m3u8
+
+
 
 
 
@@ -5326,8 +5338,6 @@ https://5cf4a2c2512a2.streamlock.net/8182/8182/playlist.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-33.frequency.stream/mt/studio/33/hls/master/playlist.m3u8
 
@@ -5345,14 +5355,10 @@ https://linear-99.frequency.stream/mt/studio/99/hls/master/playlist.m3u8
 https://linear-103.frequency.stream/mt/studio/103/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-105.frequency.stream/mt/studio/105/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,Very Local
-https://linear-106.frequency.stream/mt/studio/106/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-107.frequency.stream/mt/studio/107/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,Very Local
-https://linear-108.frequency.stream/mt/studio/108/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,Very Local
-https://linear-109.frequency.stream/mt/studio/109/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-111.frequency.stream/mt/studio/111/hls/master/playlist.m3u8
@@ -5374,8 +5380,7 @@ https://linear-178.frequency.stream/mt/studio/178/hls/master/playlist.m3u8
 https://linear-179.frequency.stream/mt/studio/179/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,studio
 https://linear-186.frequency.stream/mt/studio/186/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,Very Local
-https://linear-200.frequency.stream/mt/studio/200/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-225.frequency.stream/mt/studio/225/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,studio
