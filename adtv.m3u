@@ -5728,7 +5728,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/p
 https://assets.myco.io/encoded-videos/abdulmoiz6699858375-BPLS000MOV000002_-_Action_Jasmine-1692867124047/video_1.m3u8
 
 #EXTINF:-1 group-title="myco" ,MixONE
-https://ml-pull-hwc.myco.io/MixONE/hls/MixONE_H264-1080p.m3u8
+curl -I https://ml-pull-hwc.myco.io/…/MixONE_H264-1080p.m3u8
 
 
 
