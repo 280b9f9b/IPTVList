@@ -5696,5 +5696,32 @@ https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="distrotv" ,trace-urban
 https://d3b13j525hja2q.cloudfront.net/23073/Urban_Asia/encrypted/4/prog_index.m3u8
+#EXTINF:-1 group-title="distrotv" ,outside-tv
+https://outsidetvplus-distro.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
