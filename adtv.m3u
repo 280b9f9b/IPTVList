@@ -5704,11 +5704,14 @@ https://outsidetvplus-distro.amagi.tv/playlist.m3u8
 https://d3ga89vuymmjw2.cloudfront.net/scheduler/scheduleMaster/440/variant/22100089/playlist.m3u8
 
 
+#EXTINF:-1 group-title="distrotv" ,euronews
+https://dkshlpp7ugzua.cloudfront.net/live/eds/euronews-en/25014/index.m3u8
 
+#EXTINF:-1 group-title="distrotv" ,trace-latina
+https://d3b13j525hja2q.cloudfront.net/23073/Latina/encrypted/4/prog_index.m3u8
 
-
-
-
+#EXTINF:-1 group-title="distrotv" ,mtrspt1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 
 
 
