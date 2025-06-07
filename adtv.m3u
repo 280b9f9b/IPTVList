@@ -5724,11 +5724,47 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/p
 
 
 #EXTM3U https://myco.io/
-#EXTINF:-1 group-title="myco" ,Action Jasmine
+#EXTINF:-1 group-title="myco" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM1OGFjMDItNDk1My00OTQ1LTkwNDAtOTk4ZDRiYjQwYzg5XkEyXkFqcGc@._V1_.jpg" ,Action Jasmine
 https://assets.myco.io/encoded-videos/abdulmoiz6699858375-BPLS000MOV000002_-_Action_Jasmine-1692867124047/video_1.m3u8
+#EXTINF:-1 group-title="myco" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjAxNzNmZWUtMjExZi00ZGQ5LWIzMTgtOWQ2MjJmZTc1NzY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" ,Pandora
+https://assets.myco.io/migrated-2022-11/6357a16cc2dee1599d65587647101667215537/master.m3u8
+
 
 #EXTINF:-1 group-title="myco" ,MixONE
 curl -I https://ml-pull-hwc.myco.io/…/MixONE_H264-1080p.m3u8
+
+#EXTINF:-1 group-title="myco" ,CGTN Documentary
+https://global.cgtn.cicc.media.caton.cloud/hls/1670382828346272610/1670382828346272610.m3u8?vkey=3BCD01A2FDB8912E1A29BCA5A71D1DC34A4FD877090F1A22BFF5EA0CC5687D22
+
+#EXTINF:-1 group-title="myco" ,Aaj Entertainment
+https://myco.telflex.net:8088/AAJENT_FHD/video.m3u8?token=DOpWIYzDozqJs3
+
+
+#EXTINF:-1 group-title="myco" ,CGTN English
+https://global.cgtn.cicc.media.caton.cloud/hls/1669979134774893755/1669979134774893755.m3u8?vkey=3C054ED8CD5BBFD38BBD03BB73A29D24B731907D13CC245A65F54867977089C9
+#EXTINF:-1 group-title="myco" ,CGTN English
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn_myco.m3u8
+
+#EXTINF:-1 group-title="myco" ,CGTN Arabic
+https://global.cgtn.cicc.media.caton.cloud/hls/1669979134890859865/1669979134890859865.m3u8?vkey=D0B5982DB12951F58F7513292E1812ADA7015397966DDC1D48CDF27C6E52E888
+#EXTINF:-1 group-title="myco" ,CGTN Arabic
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-arabic.m3u8
+
+#EXTINF:-1 group-title="myco" ,MUN TV
+https://myco.telflex.net:8088/MUN_FHD/tracks-v1a1/mono.ts.m3u8?token=DOpWIYzDozqJs3
+#EXTINF:-1 group-title="myco" ,MUN TV
+https://myco.telflex.net:8088/MUN_FHD/video.m3u8?token=DOpWIYzDozqJs3
+
+
+
+
+
+
+
+
+
+
+
 
 
 
