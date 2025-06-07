@@ -4927,6 +4927,8 @@ https://linear-731.frequency.stream/mt/plex/731/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,Sci-Fi & Action: Midnight Pulp
 https://linear-897.frequency.stream/mt/plex/897/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="Plex" ,Chills & Thrills: Horror by ALTER
+https://linear-874.frequency.stream/mt/plex/874/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Plex" ,Nature & Travel: Journy
 https://linear-291.frequency.stream/mt/plex/291/hls/master/playlist.m3u8
@@ -5306,8 +5308,7 @@ https://linear-857.frequency.stream/mt/plex/857/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,PLEX
 https://linear-859.frequency.stream/mt/plex/859/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Plex" ,PLEX
-https://linear-874.frequency.stream/mt/plex/874/hls/master/playlist.m3u8
+
 
 
 
