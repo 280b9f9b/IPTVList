@@ -5318,7 +5318,7 @@ https://linear-859.frequency.stream/mt/plex/859/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Plex" ,PLEX
+#EXTINF:-1 group-title="Plex" ,Horror Machine
 https://linear-82.frequency.stream/mt/plex/82/hls/master/playlist.m3u8
 
 
@@ -5681,7 +5681,8 @@ http://play.1list.vip/movie/andrecyrineu/obb546cadil/214536.mp4
 
 
 
-
+#EXTINF:-1 group-title="distrotv" ,Horror Machine
+https://linear-82.frequency.stream/dist/distrotv/82/hls/master/playlist.m3u8
 
 
 
