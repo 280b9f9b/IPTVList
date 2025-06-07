@@ -4997,6 +4997,8 @@ https://linear-649.frequency.stream/mt/plex/649/hls/master/playlist.m3u8
 https://linear-930.frequency.stream/mt/plex/930/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Plex" ,En Español: Always Funny en Español
 https://linear-46.frequency.stream/mt/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Plex" ,En Español: Butaca TV
+https://linear-645.frequency.stream/mt/plex/645/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Plex" ,Sports: Court Sports Network
 https://linear-627.frequency.stream/mt/plex/627/hls/master/playlist.m3u8
@@ -5072,7 +5074,7 @@ https://linear-276.frequency.stream/mt/plex/276/hls/master/playlist.m3u8
 
 
 
-..................
+
 #EXTINF:-1 group-title="Very Local" ,Very Local: Best of Very Local
 https://linear-124.frequency.stream/mt/plex/124/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local: Best of Very Local
@@ -5315,8 +5317,7 @@ https://linear-859.frequency.stream/mt/plex/859/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Plex" ,butaca tv
-https://linear-645.frequency.stream/mt/plex/645/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Plex" ,PLEX
 https://linear-82.frequency.stream/mt/plex/82/hls/master/playlist.m3u8
 
