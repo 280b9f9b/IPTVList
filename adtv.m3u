@@ -204,23 +204,23 @@ https://kwtkrdota.cdn.mangomolo.com/eardo/eardo.stream_aac/index.m3u8
 https://kwtkrdota.cdn.mangomolo.com/k2rdo/k2rdo.stream_aac/index.m3u8
 
 
-#EXTINF:-1 group-title="Extra GCC Region" tvg-id="Alarabiya.ae" ,News: Al Arabiya
+#EXTINF:-1 group-title="GCC Region Plus" tvg-id="Alarabiya.ae" ,News: Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="Extra GCC Region" tvg-id="AlHadath.sa" ,News: Al Arabiya Al Hadath
+#EXTINF:-1 group-title="GCC Region Plus" tvg-id="AlHadath.sa" ,News: Al Arabiya Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="Extra GCC Region" tvg-id="(no tvg-id)" tvg-name="Al-Arabiya-Business" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al-Arabiya-Business.png" ,Business: AlArabiya B
+#EXTINF:-1 group-title="GCC Region Plus" tvg-id="(no tvg-id)" tvg-name="Al-Arabiya-Business" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al-Arabiya-Business.png" ,Business: AlArabiya B
 https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index_3.m3u8
-#EXTINF:-1 group-title="Extra GCC Region" tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alarabiya FM.png" ,News: Alarabiya FM
+#EXTINF:-1 group-title="GCC Region Plus" tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alarabiya FM.png" ,News: Alarabiya FM
 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Extra GCC Region" tvg-id="76735" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Arabic.png" ,News: Al Jazeera
+#EXTINF:-1 group-title="GCC Region Plus" tvg-id="76735" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Arabic.png" ,News: Al Jazeera
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 group-title="Extra GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Documentary.png" ,Documentary: Al Jazeera Documentary
+#EXTINF:-1 group-title="GCC Region Plus" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Documentary.png" ,Documentary: Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 group-title="Extra GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Mubasher.png" ,News: Al Jazeera Mubasher
+#EXTINF:-1 group-title="GCC Region Plus" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Mubasher.png" ,News: Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 group-title="Extra GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera English.png" ,News: Al Jazeera English
+#EXTINF:-1 group-title="GCC Region Plus" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera English.png" ,News: Al Jazeera English
 https://live-hls-web-aje.getaj.net/alternative/AJE/01.m3u8
-#EXTINF:-1 group-title="Extra GCC Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" ,Faith & Religion: Makkah TV
+#EXTINF:-1 group-title="GCC Region Plus" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" ,Faith & Religion: Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 
