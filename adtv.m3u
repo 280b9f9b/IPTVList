@@ -5060,6 +5060,8 @@ https://linear-97.frequency.stream/mt/plex/97/hls/master/playlist.m3u8
 https://linear-97.frequency.stream/mt/studio/97/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local: Baltimore MD
 https://linear-105.frequency.stream/mt/plex/105/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="studio" ,Very Local: Baltimore MD
+https://linear-105.frequency.stream/mt/studio/105/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local: Birmingham AL
 https://linear-116.frequency.stream/mt/plex/116/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local: Birmingham AL
@@ -5074,6 +5076,8 @@ https://linear-115.frequency.stream/mt/plex/115/hls/master/playlist.m3u8
 https://linear-115.frequency.stream/mt/studio/115/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local: Cincinnati OH
 https://linear-107.frequency.stream/mt/plex/107/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="studio" ,Very Local: Cincinnati OH
+https://linear-107.frequency.stream/mt/studio/107/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local: Des Moines IA
 https://linear-93.frequency.stream/mt/plex/93/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local: Des Moines IA
@@ -5356,11 +5360,9 @@ https://linear-91.frequency.stream/mt/studio/91/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-103.frequency.stream/mt/studio/103/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="studio" ,Very Local
-https://linear-105.frequency.stream/mt/studio/105/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="studio" ,Very Local
-https://linear-107.frequency.stream/mt/studio/107/hls/master/playlist.m3u8
+
+
 
 
 #EXTINF:-1 group-title="studio" ,Very Local
