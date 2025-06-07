@@ -5691,8 +5691,8 @@ https://linear-12.frequency.stream/dist/distrotv/12/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="distrotv" ,boxing-tv
 https://bbb-bxntv-distro.otteravision.com/bbb/bxntv/bxntv_1080p.m3u8
 
-
-
+#EXTINF:-1 group-title="distrotv" ,gusto-tv
+https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8
 
 
 
