@@ -5161,6 +5161,8 @@ https://linear-117.frequency.stream/mt/plex/117/hls/master/playlist.m3u8
 https://linear-200.frequency.stream/mt/studio/200/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Very Local" ,Very Local: Lancaster WGAL8
 https://linear-111.frequency.stream/mt/plex/111/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="studio" ,Very Local: Lancaster WGAL8
+https://linear-111.frequency.stream/mt/studio/111/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Very Local" ,Very Local
@@ -5366,8 +5368,7 @@ https://linear-91.frequency.stream/mt/studio/91/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="studio" ,Very Local
-https://linear-111.frequency.stream/mt/studio/111/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 group-title="studio" ,Very Local
 https://linear-113.frequency.stream/mt/studio/113/hls/master/playlist.m3u8
