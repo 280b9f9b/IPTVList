@@ -227,30 +227,30 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 
 #EXTM3U https://www.jrtv.gov.jo/
-#EXTINF:-1 group-title="North Arab Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/JordanTV.png" ,JordanTV
+#EXTINF:-1 group-title="Arab North Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/JordanTV.png" ,JordanTV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
-#EXTINF:-1 group-title="North Arab Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AL MAMLAKA.png" ,AL MAMLAKA
+#EXTINF:-1 group-title="Arab North Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AL MAMLAKA.png" ,AL MAMLAKA
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
-#EXTINF:-1 group-title="North Arab Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AMMAN TV.png" ,AMMAN TV
+#EXTINF:-1 group-title="Arab North Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/AMMAN TV.png" ,AMMAN TV
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 group-title="North Arab Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Roya TV.png" ,Roya TV
+#EXTINF:-1 group-title="Arab North Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Roya TV.png" ,Roya TV
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1 group-title="North Arab Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Musawa HD.png" ,Musawa HD
+#EXTINF:-1 group-title="Arab North Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Musawa HD.png" ,Musawa HD
 https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:-1 group-title="North Arab Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Aghani Aghani TV.png" ,Music & Radio: Aghani Aghani TV
+#EXTINF:-1 group-title="Arab North Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Aghani Aghani TV.png" ,Music & Radio: Aghani Aghani TV
 https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
-#EXTINF:-1 group-title="North Arab Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Arabica TV.png" ,Music & Radio: Arabica TV
+#EXTINF:-1 group-title="Arab North Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Arabica TV.png" ,Music & Radio: Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 
 #EXTM3U https://almasartv.ly/
-#EXTINF:-1 group-title="West Arab Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Masar TV.png" ,Al Masar TV
+#EXTINF:-1 group-title="Arab West Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Masar TV.png" ,Al Masar TV
 https://starmenajo.com/hls/almasar/index.m3u8
-#EXTINF:-1 group-title="West Arab Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Libya Al Wataniya.png" ,Libya Al Wataniya
+#EXTINF:-1 group-title="Arab West Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Libya Al Wataniya.png" ,Libya Al Wataniya
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
-#EXTINF:-1 group-title="West Arab Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Huda TV.png" ,Faith & Religion: Huda TV
+#EXTINF:-1 group-title="Arab West Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Huda TV.png" ,Faith & Religion: Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-#EXTINF:-1 group-title="West Arab Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/NogoumFMTV.png" ,Music & Radio: NogoumFMTV
+#EXTINF:-1 group-title="Arab West Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/NogoumFMTV.png" ,Music & Radio: NogoumFMTV
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
 
 
