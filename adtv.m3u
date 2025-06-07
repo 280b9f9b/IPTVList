@@ -5680,11 +5680,12 @@ http://play.1list.vip/movie/andrecyrineu/obb546cadil/214536.mp4
 
 
 
-
+#EXTM3U https://www.distro.tv/
 #EXTINF:-1 group-title="distrotv" ,Horror Machine
 https://linear-82.frequency.stream/dist/distrotv/82/hls/master/playlist.m3u8
 
-
+#EXTINF:-1 group-title="distrotv" ,always-funny
+https://linear-12.frequency.stream/dist/distrotv/12/hls/master/playlist.m3u8
 
 
 
