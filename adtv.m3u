@@ -5007,8 +5007,7 @@ https://linear-1068.frequency.stream/mt/plex/1068/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Plex" ,News: RevryNews
 https://linear-44.frequency.stream/mt/plex/44/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Plex" ,News: KCRA 3
-https://linear-225.frequency.stream/mt/plex/225/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Plex" ,Classic TV: ALF
 https://linear-729.frequency.stream/mt/plex/729/hls/master/playlist.m3u8
@@ -5150,25 +5149,27 @@ https://linear-114.frequency.stream/mt/studio/114/hls/master/playlist.m3u8
 https://linear-117.frequency.stream/mt/plex/117/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="studio" ,Very Local: Winston-Salem NC
 https://linear-200.frequency.stream/mt/studio/200/hls/master/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Very Local" ,Very Local: Lancaster WGAL8
 https://linear-111.frequency.stream/mt/plex/111/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Very Local" ,Very Local
+https://linear-225.frequency.stream/mt/plex/225/hls/master/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
