@@ -440,17 +440,17 @@ https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/in
 
 
 #EXTM3U https://revry.com/home
-#EXTINF:-1 group-title="Extra One",Revry
+#EXTINF:-1 group-title="Extra One" tvg-logo="https://cdn.backstage-api.com/?key=backstage-cms-production-uploads%2F64x64%2F0f7df5f0-d19e-11ef-8f78-d97d2702e67c%2Fassets%2Fimages%2F3060fd38-2e4e-4ec3-9d8a-ad839c8ac866.png",Revry
 https://linear-43.frequency.stream/mt/24i/43/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Extra One",Revry 2
+#EXTINF:-1 group-title="Extra One" tvg-logo="https://cdn.backstage-api.com/?key=backstage-cms-production-uploads%2F64x64%2F0f7df5f0-d19e-11ef-8f78-d97d2702e67c%2Fassets%2Fimages%2F3060fd38-2e4e-4ec3-9d8a-ad839c8ac866.png",,Revry 2
 https://linear-5.frequency.stream/mt/24i/5/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Extra One",Revry Her
+#EXTINF:-1 group-title="Extra One" tvg-logo="https://cdn.backstage-api.com/?key=backstage-cms-production-uploads%2F64x64%2F0f7df5f0-d19e-11ef-8f78-d97d2702e67c%2Fassets%2Fimages%2F73d42d27-d29d-40f9-887d-ad51275ec7c0.jpg",Revry Her
 https://linear-73.frequency.stream/mt/24i/73/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Extra One",Revry Brasil
+#EXTINF:-1 group-title="Extra One" tvg-logo="https://cdn.backstage-api.com/?key=backstage-cms-production-uploads%2F64x64%2F0f7df5f0-d19e-11ef-8f78-d97d2702e67c%2Fassets%2Fimages%2F5c4e55e5-b69d-4222-83df-4db5c5c40d51.jpg",,Revry Brasil
 https://linear-181.frequency.stream/mt/24i/181/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Extra One",Revry Latinx
+#EXTINF:-1 group-title="Extra One" tvg-logo="https://cdn.backstage-api.com/?key=backstage-cms-production-uploads%2F64x64%2F0f7df5f0-d19e-11ef-8f78-d97d2702e67c%2Fassets%2Fimages%2F6e166ad5-03ed-493d-8ecb-aee40ce4bbac.jpg",,Revry Latinx
 https://linear-142.frequency.stream/mt/24i/142/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Extra One",Revry News
+#EXTINF:-1 group-title="Extra One" tvg-logo="https://cdn.backstage-api.com/?key=backstage-cms-production-uploads%2F64x64%2F0f7df5f0-d19e-11ef-8f78-d97d2702e67c%2Fassets%2Fimages%2F083e4637-ca98-4121-9dca-364078e7447e.jpg",,Revry News
 https://linear-44.frequency.stream/mt/24i/44/hls/master/playlist.m3u8
 
 
