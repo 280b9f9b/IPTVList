@@ -522,7 +522,7 @@ https://bbc-antiquesroadshowuk-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951206/240x240.webp?type=color_onBlack" ,Travel & Lifestyle: PBS Antiques Roadshow
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="XUMOPLAY",Animals & Nature: WildEarth
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991628/240x240.webp?type=color_onBlack" ,Animals & Nature: WildEarth
 https://wildearth-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="XUMOPLAY",History & Learning: true-history-channel
