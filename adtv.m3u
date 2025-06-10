@@ -477,15 +477,15 @@ https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951210/240x240.webp?type=color_onBlack" ,Home & Design: CraftsyTV
 https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="XUMOPLAY",Reality TV: real-disaster-channel
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951262/240x240.webp?type=color_onBlack" ,Reality TV: Real Disaster Channel
 https://linear-475.frequency.stream/dist/xumo/475/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Reality TV: all-weddings-we-tv
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991625/240x240.webp?type=color_onBlack" ,Reality TV: All Weddings We TV
 https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Reality TV: confess-by-nosey
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991388/240x240.webp?type=color_onBlack" ,Reality TV: Confess by Nosey
 https://nosey-confessbynosey-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Reality TV: dr-phil
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951370/240x240.webp?type=color_onBlack" ,Reality TV: Dr. Phil
 https://6c2b4d4c.wurl.com/out/v1/d5229dfd8c4e449cb1349ae8f0d4a6e3/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Reality TV: nosey
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991366/240x240.webp?type=color_onBlack" ,Reality TV: Nosey
 https://a347a83b.wurl.com/out/v1/8e53411815a4476c8ce414c2f778edc4/playlist.m3u8
 #EXTINF:-1 group-title="XUMOPLAY",Reality TV: rig-tv
 https://buzzr-rigtv-xumo.amagi.tv/playlist.m3u8
