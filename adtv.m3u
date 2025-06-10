@@ -525,59 +525,59 @@ https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991628/240x240.webp?type=color_onBlack" ,Animals & Nature: WildEarth
 https://wildearth-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="XUMOPLAY",History & Learning: true-history-channel
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991650/240x240.webp?type=color_onBlack" ,History & Learning: True History Channel
 https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",History & Learning: cnn-originals
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951387/240x240.webp?type=color_onBlack" ,History & Learning: CNN Originals
 https://amg01918-cnnus-amg01918c2-xumo-us-6436.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="XUMOPLAY",Kids: barney-and-friends
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951300/240x240.webp?type=color_onBlack" ,Kids: Barney and Friends
 https://3fe55aac.wurl.com/out/v1/15a8d7cdb8f94287a06d321ab3aabe4f/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Kids: ninja-kidz-tv
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951229/240x240.webp?type=color_onBlack" ,Kids: Ninja Kidz TV
 https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Kids: pocket-watch-game-on
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991326/240x240.webp?type=color_onBlack" ,Kids: pocket.watch Game-On
 https://pocketwatch-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="XUMOPLAY",Music & Radio: iheartradio-hip-hop-beats
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9995103/240x240.webp?type=color_onBlack" ,Music & Radio: iHeartRadio Hip Hop Beats
 https://iheart-iheartthebeat-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Music & Radio: iheartcountry
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9995102/240x240.webp?type=color_onBlack" ,Music & Radio: iHeartCountry
 https://iheart-iheartcountry-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Music & Radio: iheart-alternative-radio
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9995101/240x240.webp?type=color_onBlack" ,Music & Radio: iHeart Alternative Radio
 https://iheart-iheartaltradio-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Music & Radio: iheart90s
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9995100/240x240.webp?type=color_onBlack" ,Music & Radio: iheart90s
 https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="XUMOPLAY",Comedy: bounce-xl
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999613/240x240.webp?type=color_onBlack" ,Comedy: Bounce XL
 https://scripps-bouncexl-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Comedy: laff-more
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951232/240x240.webp?type=color_onBlack" ,Comedy: Laff More
 https://scripps-laffmore-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Comedy: Comedy Dynamics
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991190/240x240.webp?type=color_onBlack" ,Comedy: Comedy Dynamics
 https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Comedy: witz-comedy-tv
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951403/240x240.webp?type=color_onBlack" ,Comedy: WITZ Comedy TV
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/2236f15f64224d0f9864ab6dd0dd9862/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Comedy: Portlandia
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951301/240x240.webp?type=color_onBlack" ,Comedy: Portlandia
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951301/hls/playlist.m3u8?ads.xumo_channelId=99951301
 
-#EXTINF:-1 group-title="XUMOPLAY",Automotive: Top Gear
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951249/240x240.webp?type=color_onBlack" ,Automotive: Top Gear
 https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
 
-#EXTINF:-1 group-title="XUMOPLAY",Crime TV: court-tv
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: court-tv
 https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Crime TV: reelz-famous-and-infamous
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: reelz-famous-and-infamous
 https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Crime TV: investigation
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: investigation
 https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Crime TV: law-and-crime
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: law-and-crime
 https://cdn.lawandcrime.net/rewind/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Crime TV: tv-one-crime-and-justice-fast-channel
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: tv-one-crime-and-justice-fast-channel
 https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Crime TV: midsomer-murders
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: midsomer-murders
 https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Crime TV: court-tv-legendary-trials
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: court-tv-legendary-trials
 https://scripps-ctvlegendary-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Crime TV: ion-mystery
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: ion-mystery
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="XUMOPLAY",News: BBC News
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,News: BBC News
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 
 
