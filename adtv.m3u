@@ -560,24 +560,24 @@ https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951301/hls/playlist.m3u8?ads.xumo_
 #EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951249/240x240.webp?type=color_onBlack" ,Automotive: Top Gear
 https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
 
-#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: court-tv
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991713/240x240.webp?type=color_onBlack" ,Crime TV: Court TV
 https://scripps-courttv-2-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: reelz-famous-and-infamous
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991368/240x240.webp?type=color_onBlack" ,Crime TV: REELZ Famous & Infamous
 https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: investigation
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951285/240x240.webp?type=color_onBlack" ,Crime TV: Investigation
 https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: law-and-crime
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991320/240x240.webp?type=color_onBlack" ,Crime TV: Law&Crime
 https://cdn.lawandcrime.net/rewind/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: tv-one-crime-and-justice-fast-channel
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951299/240x240.webp?type=color_onBlack" ,Crime TV: TV One CRIME & JUSTICE FAST CHANNEL
 https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: midsomer-murders
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991698/240x240.webp?type=color_onBlack" ,Crime TV: Midsomer Murders
 https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: court-tv-legendary-trials
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951233/240x240.webp?type=color_onBlack" ,Crime TV: Court TV Legendary Trials
 https://scripps-ctvlegendary-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,Crime TV: ion-mystery
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951157/240x240.webp?type=color_onBlack" ,Crime TV: ION Mystery
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/9999x9999/240x240.webp?type=color_onBlack" ,News: BBC News
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951298/240x240.webp?type=color_onBlack" ,News: BBC News
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 
 
