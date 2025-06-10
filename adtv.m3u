@@ -517,9 +517,9 @@ https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951248/240x240.webp?type=color_onBlack" ,Horror & Sci-Fi: Classic Doctor Who
 https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="XUMOPLAY",Travel & Lifestyle: antiques-roadshow-uk
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991783/240x240.webp?type=color_onBlack" ,Travel & Lifestyle: Antiques Roadshow UK
 https://bbc-antiquesroadshowuk-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Travel & Lifestyle: pbs-antiques-roadshow
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951206/240x240.webp?type=color_onBlack" ,Travel & Lifestyle: PBS Antiques Roadshow
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="XUMOPLAY",Animals & Nature: WildEarth
