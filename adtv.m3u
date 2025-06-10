@@ -506,15 +506,15 @@ https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951158/240x240.webp?type=color_onBlack" ,Action & Drama: ION
 https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="XUMOPLAY",Horror & Sci-Fi: Scares by Shudder
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951349/240x240.webp?type=color_onBlack" ,Horror & Sci-Fi: Scares by Shudder
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349
-#EXTINF:-1 group-title="XUMOPLAY",Horror & Sci-Fi: AMC Thrillers
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/240x240.webp?type=color_onBlack" ,Horror & Sci-Fi: AMC Thrillers
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?ads.xumo_channelId=99951377
-#EXTINF:-1 group-title="XUMOPLAY",Horror & Sci-Fi: The Walking Dead Universe
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991623/240x240.webp?type=color_onBlack" ,Horror & Sci-Fi: The Walking Dead Universe
 https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Horror & Sci-Fi: Alien Nation by Dust
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99991292/240x240.webp?type=color_onBlack" ,Horror & Sci-Fi: Alien Nation by Dust
 https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="XUMOPLAY",Horror & Sci-Fi: Classic Doctor Who
+#EXTINF:-1 group-title="XUMOPLAY" tvg-logo="https://image.xumo.com/v1/channels/channel/99951248/240x240.webp?type=color_onBlack" ,Horror & Sci-Fi: Classic Doctor Who
 https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="XUMOPLAY",Travel & Lifestyle: antiques-roadshow-uk
