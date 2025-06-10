@@ -6555,3 +6555,18 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951361/hls/live.m3u8?ads.xumo_chann
 https://dbrb49pjoymg4.cloudfront.net/10001/99951362/hls/live.m3u8?ads.xumo_channelId=99951362&ads._fw_ifa_type=&ads._fw_did=308a1cd9-8cab-46df-863f-dca6bf892e0b&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ALLCITYSportsPHLYSports&ads.csid=xumo_web_ALLCITYSportsPHLYSports_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4126&ads.xumo_contentName=ALLCITYSportsPHLYSports&ads.xumo_providerId=4126&ads.xumo_providerName=ALLCITYSportsPHLYSports&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951362&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-id="99951363" tvg-name="PHNX Sports" tvg-logo="https://image.xumo.com/v1/channels/channel/99951363/168x168.png?type=color_onBlack" group-title="Local News",PHNX Sports
 https://dbrb49pjoymg4.cloudfront.net/10001/99951363/hls/live.m3u8?ads.xumo_channelId=99951363&ads._fw_ifa_type=&ads._fw_did=e96618c1-c288-4db3-b5ac-83a09512eeb9&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ALLCITYSportsPHNXSports&ads.csid=xumo_web_ALLCITYSportsPHNXSports_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4127&ads.xumo_contentName=ALLCITYSportsPHNXSports&ads.xumo_providerId=4127&ads.xumo_providerName=ALLCITYSportsPHNXSports&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951363&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
+
+
+#EXTM3U https://lgchannels.com/
+#EXTINF:-1 group-title="LG Channels" ,TV & Movies: TCL Romance
+https://lg-thebeverlyhillbillies-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTM3U https://tubitv.com/
+#EXTINF:-1 group-title="tubitv" ,Horror: FilmRise Horror
+https://aegis-cloudfront-1.tubi.video/477539bc-b3b5-4640-9af4-ba13d5f34b65/index.m3u8
+
+
+
+
+
