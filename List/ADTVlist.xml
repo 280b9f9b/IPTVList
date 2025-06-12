@@ -6,13 +6,13 @@
   
 
 
-<channel id="CA1400004AE">
-    <display-name>CTV News</display-name>
+<channel id="AbuDhabiChannel">
+    <display-name>Abu Dhabi TV</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400004AE_20250523T231810SQUARE.png"/>
   </channel>
   
 
-<programme channel="CA1400004AE" start="20250611190000 +0000" stop="20250611200000 +0000">
+<programme channel="AbuDhabiChannel" start="20250611190000 +0000" stop="20250611200000 +0000">
     <title>W5</title>
     <sub-title>W5: Where's Dylan?</sub-title>
     <desc>A boy's disappearance leads to a community turning on his parents.</desc>
@@ -23,7 +23,7 @@
   </programme>
   
 
-<programme channel="CA1400004AE" start="20250611200000 +0000" stop="20250611203000 +0000">
+<programme channel="AbuDhabiChannel" start="20250611200000 +0000" stop="20250611203000 +0000">
     <title>CTV National News with Omar Sachedina</title>
     <sub-title>CTV National News for Tuesday, June 10, 2025</sub-title>
     <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
@@ -34,7 +34,7 @@
   </programme>
   
 
-<programme channel="CA1400004AE" start="20250611203000 +0000" stop="20250611210000 +0000">
+<programme channel="AbuDhabiChannel" start="20250611203000 +0000" stop="20250611210000 +0000">
     <title>CTV News</title>
     <sub-title>Your Canada</sub-title>
     <desc>CTV News: Your Canada</desc>
@@ -45,7 +45,7 @@
   </programme>
   
 
-<programme channel="CA1400004AE" start="20250611210000 +0000" stop="20250611220000 +0000">
+<programme channel="AbuDhabiChannel" start="20250611210000 +0000" stop="20250611220000 +0000">
     <title>Power Play</title>
     <desc>Power Play</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_541197153_0_20240430T075428071Z_68.png"/>
@@ -55,7 +55,7 @@
   </programme>
   
 
-<programme channel="CA1400004AE" start="20250611220000 +0000" stop="20250611223000 +0000">
+<programme channel="AbuDhabiChannel" start="20250611220000 +0000" stop="20250611223000 +0000">
     <title>CTV National News with Omar Sachedina</title>
     <sub-title>CTV National News for Tuesday, June 10, 2025</sub-title>
     <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
@@ -66,7 +66,7 @@
   </programme>
   
 
-<programme channel="CA1400004AE" start="20250611223000 +0000" stop="20250611230000 +0000">
+<programme channel="AbuDhabiChannel" start="20250611223000 +0000" stop="20250611230000 +0000">
     <title>CTV News</title>
     <sub-title>Across Canada</sub-title>
     <desc>CTV News: Across Canada</desc>
@@ -77,7 +77,7 @@
   </programme>
   
 
-<programme channel="CA1400004AE" start="20250611230000 +0000" stop="20250612000000 +0000">
+<programme channel="AbuDhabiChannel" start="20250611230000 +0000" stop="20250612000000 +0000">
     <title>W5</title>
     <sub-title>W5: Where's Dylan?</sub-title>
     <desc>A boy's disappearance leads to a community turning on his parents.</desc>
@@ -88,7 +88,7 @@
   </programme>
   
 
-<programme channel="CA1400004AE" start="20250612000000 +0000" stop="20250612003000 +0000">
+<programme channel="AbuDhabiChannel" start="20250612000000 +0000" stop="20250612003000 +0000">
     <title>CTV National News with Omar Sachedina</title>
     <sub-title>CTV National News for Tuesday, June 10, 2025</sub-title>
     <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
@@ -99,7 +99,7 @@
   </programme>
   
 
-<programme channel="CA1400004AE" start="20250612003000 +0000" stop="20250612010000 +0000">
+<programme channel="AbuDhabiChannel" start="20250612003000 +0000" stop="20250612010000 +0000">
     <title>CTV News</title>
     <sub-title>Your Canada</sub-title>
     <desc>CTV News: Your Canada</desc>
@@ -110,7 +110,7 @@
   </programme>
   
 
-<programme channel="CA1400004AE" start="20250612010000 +0000" stop="20250612020000 +0000">
+<programme channel="AbuDhabiChannel" start="20250612010000 +0000" stop="20250612020000 +0000">
     <title>Power Play</title>
     <desc>Power Play</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_541197153_0_20240430T075428071Z_68.png"/>
@@ -120,55 +120,55 @@
   </programme>
   
 
-<channel id="CABC2300009KD">
-    <display-name>CBC News</display-name>
+<channel id="EmiratesChannel">
+    <display-name>Emirates TV</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20250121T094932SQUARE.png"/>
   </channel>
   
 
-<programme channel="CABC2300009KD" start="20250611163000 +0000" stop="20250611200000 +0000">
+<programme channel="EmiratesChannel" start="20250611163000 +0000" stop="20250611200000 +0000">
     <title>Today's Top Stories</title>
     <desc>What's happening across Canada and around the world.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_549952184_0_20241029T142625607Z_36_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg"/>
   </programme>
   
 
-<programme channel="CABC2300009KD" start="20250611200000 +0000" stop="20250611203000 +0000">
+<programme channel="EmiratesChannel" start="20250611200000 +0000" stop="20250611203000 +0000">
     <title>About That</title>
     <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg"/>
   </programme>
   
 
-<programme channel="CABC2300009KD" start="20250611203000 +0000" stop="20250611230000 +0000">
+<programme channel="EmiratesChannel" start="20250611203000 +0000" stop="20250611230000 +0000">
     <title>Today's Top Stories</title>
     <desc>What's happening across Canada and around the world.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_549952184_0_20241029T142625607Z_36_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg"/>
   </programme>
   
 
-<programme channel="CABC2300009KD" start="20250611230000 +0000" stop="20250611233000 +0000">
+<programme channel="EmiratesChannel" start="20250611230000 +0000" stop="20250611233000 +0000">
     <title>About That</title>
     <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg"/>
   </programme>
   
 
-<programme channel="CABC2300009KD" start="20250611233000 +0000" stop="20250612000000 +0000">
+<programme channel="EmiratesChannel" start="20250611233000 +0000" stop="20250612000000 +0000">
     <title>Today's Top Stories</title>
     <desc>What's happening across Canada and around the world.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_549952184_0_20241029T142625607Z_36_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg"/>
   </programme>
   
 
-<programme channel="CABC2300009KD" start="20250612000000 +0000" stop="20250612010000 +0000">
+<programme channel="EmiratesChannel" start="20250612000000 +0000" stop="20250612010000 +0000">
     <title>Today's Top Stories</title>
     <desc>What's happening across Canada and around the world.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_549952184_0_20241029T142625607Z_36_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg"/>
   </programme>
   
 
-<programme channel="CABC2300009KD" start="20250612010000 +0000" stop="20250612020000 +0000">
+<programme channel="EmiratesChannel" start="20250612010000 +0000" stop="20250612020000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1286199217_0_20250507T082847233Z_60_imageprocessorclient-tvplus-linear-b76dd9bbb-wf66n.jpeg"/>
