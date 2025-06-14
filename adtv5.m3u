@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20TV.png" tvg-id="AbuDhabiTV.ae" tvg-name="Abu Dhabi TV",Abu Dhabi TV
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Emarat TV.png" tvg-id="EmaratTV.ae" tvg-name="Al Emarat TV",Al Emarat TV
+#EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Al%20Emarat.png" tvg-id="EmaratTV.ae" tvg-name="Al Emarat TV",Al Emarat TV
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 #EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Baynounah TV.png" tvg-id="BaynounahTV.ae" tvg-name="Baynounah TV",Baynounah TV
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/baynounah/HLS/index.m3u8
