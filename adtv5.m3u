@@ -11,7 +11,7 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/baynounah/HLS/index.m3u
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20NAT%20Geo.png" tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="National Geographic Abu Dhabi",NG Abu Dhabi
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Majid TV.png" tvg-id="Majid.ae" tvg-name="Majid TV",Majid TV
+#EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Majid%20TV.png" tvg-id="Majid.ae" tvg-name="Majid TV",Majid TV
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi Sports 1.png" tvg-id="AbuDhabiSports1.ae" tvg-name="Abu Dhabi Sports 1",Abu Dhabi Sports 1
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
