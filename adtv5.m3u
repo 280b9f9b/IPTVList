@@ -25,7 +25,7 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/abu_dhabi_fm/HLS/index.
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/emarat_fm/HLS/index.m3u8
 #EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Quraan Kareem FM.png" tvg-id="QuranKareemFM.ae" tvg-name="Quraan Kareem FM",Quraan Kareem FM
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/quran_kareem/HLS/index.m3u8
-#EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Star FM.png" tvg-id="StarFM.ae" tvg-name="Star FM",Star FM
+#EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Star%20FM.png" tvg-id="StarFM.ae" tvg-name="Star FM",Star FM
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/star_fm/HLS/index.m3u8
 #EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Radio 1 FM.png" tvg-id="Radio1FM.ae" tvg-name="Radio 1 FM",Radio 1 FM
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Radio1/HLS/index.m3u8
