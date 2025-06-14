@@ -19,7 +19,7 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20YAS%20TV.png" tvg-id="YASSports.ae" tvg-name="YAS Sports",YAS Sports
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
-#EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Abu Dhabi FM.png" tvg-id="AbuDhabiFM.ae" tvg-name="Abu Dhabi FM",Abu Dhabi FM
+#EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20FM.png" tvg-id="AbuDhabiFM.ae" tvg-name="Abu Dhabi FM",Abu Dhabi FM
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/abu_dhabi_fm/HLS/index.m3u8
 #EXTINF:-1 group-title="#Abu Dhabi" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Emarat FM.png" tvg-id="EmaratFM.ae" tvg-name="Emarat FM",Emarat FM
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/emarat_fm/HLS/index.m3u8
