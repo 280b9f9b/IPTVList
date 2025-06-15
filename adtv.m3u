@@ -128,7 +128,7 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index_3.m3u8
 #EXTINF:-1 group-title="Arab: East Region" tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alarabiya FM.png" ,Alarabiya FM
 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" ,Faith & Religion: Makkah TV
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" ,Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain TV.png" ,Bahrain TV
