@@ -115,6 +115,17 @@ https://s2.radio.co/s770fa24b6/listen
 #EXTINF:-1 group-title="#Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dafrah TV.png" ,Al Dafrah TV
 https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
 
+#EXTINF:-1 group-title="Arab: East Region" tvg-id="Alarabiya.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Al%20Arabiya.png",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-id="AlHadath.sa" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Al%20Hadath.png",Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-id="(no tvg-id)" tvg-name="Al-Arabiya-Business" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al-Arabiya-Business.png" ,AlArabiya Business
+https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index_3.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alarabiya FM.png" ,Alarabiya FM
+https://fm.alarabiya.net/fm/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" ,Faith & Religion: Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain TV.png" ,Bahrain TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Bahrain International.png" ,Bahrain International
@@ -167,23 +178,20 @@ https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/li
 https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://qna.org.qa/media/1aaphrlf/al-kass-two-hd-light-300x186.png" ,Al Kass Sports 2
 https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://qna.org.qa/media/chrnt0eo/qna_aljazeera_mubasher.jpg" ,Al Jazeera Mubasher
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Mubasher.png" ,Al Jazeera Mubasher
 https://streamer1.qna.org.qa/148133841_live/148133841_296.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://qna.org.qa/media/2wrgml3b/qna_aljazeera-logo.png" ,Al Jazeera
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Arabic.png" ,Al Jazeera
 https://streamer1.qna.org.qa/148133697_live/148133697_63.sdp/chunklist.m3u8
-
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Fame FM Qatar.png" ,Fame FM Qatar
-https://18703.live.streamtheworld.com/SAM03AAC389_SC
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera English.png" ,News: Al Jazeera English
+https://live-hls-web-aje.getaj.net/alternative/AJE/01.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Documentary.png" ,Documentary: Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://isteam.wsimg.com/ip/8a248651-0613-4fb8-aebf-6058984201ef/Fame-FM-Qatar_Version-1.png" ,Fame FM Qatar
+https://18093.live.streamtheworld.com/SAM03AAC389.aac
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Sout Al-Khaleej 100.8 FM.png" ,Sout AlKhalej 100.8 FM
-https://streaming.radio.co/sec5a4b9e1/listen
+https://live.kwikmotion.com/qmcslkrradiolive/slkrradio/chunks.m3u8
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Inta FM 103.7.png" ,Inta FM 103.7
 https://s4.radio.co/s907eaefbe/listen
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/KTV 1.png" ,Kuwait 1 TV
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/index.m3u8
@@ -220,24 +228,7 @@ https://kwtkrdota.cdn.mangomolo.com/eardo/eardo.stream_aac/index.m3u8
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Kuwait Radio Two 97.5.png" ,Kuwait Radio Two 97.5
 https://kwtkrdota.cdn.mangomolo.com/k2rdo/k2rdo.stream_aac/index.m3u8
 
-#EXTINF:-1 group-title="Arab: East Region" tvg-id="Alarabiya.ae" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Al%20Arabiya.png",News: Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-id="AlHadath.sa" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/refs/heads/main/TVChannels/Al%20Hadath.png",News: Al Arabiya Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-id="(no tvg-id)" tvg-name="Al-Arabiya-Business" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al-Arabiya-Business.png" ,Business: AlArabiya Business
-https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index_3.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-id="(no tvg-id)" tvg-name="Alarabiya FM" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Alarabiya FM.png" ,News: Alarabiya FM
-https://fm.alarabiya.net/fm/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-id="76735" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Arabic.png" ,News: Al Jazeera
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Documentary.png" ,Documentary: Al Jazeera Documentary
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera Mubasher.png" ,News: Al Jazeera Mubasher
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Jazeera English.png" ,News: Al Jazeera English
-https://live-hls-web-aje.getaj.net/alternative/AJE/01.m3u8
-#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Makkah TV.png" ,Faith & Religion: Makkah TV
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Arab: North Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/JordanTV.png" ,JordanTV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
