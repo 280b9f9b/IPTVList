@@ -144,6 +144,16 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Oman Mubasher.png" ,Oman Mubasher
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/168/614dc365f2.png" ,Public radio
+https://partwota.cdn.mgmlcdn.com/omanrdoorg/omanrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/168/61483a4cad.png" ,Youth Radio
+https://partwota.cdn.mgmlcdn.com/shababrdoorg/shababrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/168/61483a75c5.png" ,Holy Quran Radio
+https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/168/61483a9654.png" ,English radio
+https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/168/67272eab1f.png" ,Voice of Oman
+https://partneta.cdn.mgmlcdn.com/voa/voa.stream_aac/chunklist.m3u8
 
 #EXTINF:-1 group-title="Arab: East Region" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Qatar TV.png" ,Qatar TV
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
