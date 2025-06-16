@@ -1,14 +1,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://280b9f9b.github.io/IPTVList/">
+  <a href="https://280b9f9b.github.io/Stream/">
     <img src="https://280b9f9b.github.io/IPTV/Resource/main.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">IPTVList</h3>
+<h3 align="center">Stream</h3>
 </div>
 
-[IPTVList](https://280b9f9b.github.io/IPTVList/)
+[Stream](https://280b9f9b.github.io/Stream/)
 
    ```
    https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels.m3u
