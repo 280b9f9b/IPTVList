@@ -23,11 +23,9 @@
 <!-- GETTING STARTED -->
 ## [IPTVorg](https://github.com/iptv-org/iptv)
 
-[Main playlist](https://280b9f9b.github.io/Stream/List/IPTVorg/Main%20playlist.html) &nbsp;&nbsp; [Grouped by category](https://280b9f9b.github.io/Stream/List/IPTVorg/Grouped%20by%20category.html) &nbsp;&nbsp; [Grouped by language](https://280b9f9b.github.io/Stream/List/IPTVorg/Grouped%20by%20language.html) &nbsp;&nbsp; [Grouped by country](https://280b9f9b.github.io/Stream/List/IPTVorg/Grouped%20by%20country.html) &nbsp;&nbsp; [Grouped by region](https://280b9f9b.github.io/Stream/List/IPTVorg/Grouped%20by%20region.html)
+Collection of publicly available IPTV channels from all over the world
 
-<!-- GETTING STARTED -->
-## Grouped by Category
-[Music](https://280b9f9b.github.io/Stream/List/IPTVorg/Category/Music.html) &nbsp;&nbsp; [Movies](https://280b9f9b.github.io/Stream/List/IPTVorg/Category/Movies.html) &nbsp;&nbsp; [Series](https://280b9f9b.github.io/Stream/List/IPTVorg/Category/Series.html) &nbsp;&nbsp; [News](https://280b9f9b.github.io/Stream/List/IPTVorg/Category/News.html) &nbsp;&nbsp; [Sports](https://280b9f9b.github.io/Stream/List/IPTVorg/Category/Sports.html) &nbsp;&nbsp; [Documentary](https://280b9f9b.github.io/Stream/List/IPTVorg/Category/Documentary.html)
+[PlayList](https://280b9f9b.github.io/Stream/List/IPTVorg/Grouped%20by%20category.html) &nbsp;&nbsp; [Grouped by language](https://280b9f9b.github.io/Stream/List/IPTVorg/Grouped%20by%20language.html) &nbsp;&nbsp; [Grouped by country](https://280b9f9b.github.io/Stream/List/IPTVorg/Grouped%20by%20country.html) &nbsp;&nbsp; [Grouped by region](https://280b9f9b.github.io/Stream/List/IPTVorg/Grouped%20by%20region.html)
 
 
 ## [listen_to_raddio.net](https://github.com/junguler/listen_to_raddio.net/tree/main?tab=readme-ov-file)
