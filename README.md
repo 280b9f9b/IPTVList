@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Stream/Stream.
 
  Collection of publicly available IPTV channels from all over the world
 <br/>
-[Main PlayList.](https://280b9f9b.github.io/Stream/Extra/IPTVorg.html) ([Language](https://280b9f9b.github.io/Stream/List/IPTVorg/Grouped%20by%20language.html) &nbsp; [Country](https://280b9f9b.github.io/Stream/List/IPTVorg/Grouped%20by%20country.html))
+[Main PlayList](https://280b9f9b.github.io/Stream/Extra/IPTVorg.html) ([Language](https://280b9f9b.github.io/Stream/List/IPTVorg/Grouped%20by%20language.html) / [Country](https://280b9f9b.github.io/Stream/List/IPTVorg/Grouped%20by%20country.html))
 
 
 ## [listen_to_raddio.net](https://github.com/junguler/listen_to_raddio.net/tree/main?tab=readme-ov-file)
