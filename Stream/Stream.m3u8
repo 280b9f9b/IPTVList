@@ -114,3 +114,6 @@ https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 https://s2.radio.co/s770fa24b6/listen
 #EXTINF:-1 group-title="#Emarat" tvg-logo="https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels/Al Dafrah TV.png" ,Al Dafrah TV
 https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
+
+#EXTINF:-1 group-title="#Emarat" tvg-logo="" ,Al Dafrah TV
+https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
