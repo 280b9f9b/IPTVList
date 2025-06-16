@@ -11,7 +11,7 @@
 [Stream](https://280b9f9b.github.io/Stream/)
 
    ```
-   https://raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels.m3u
+   https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Stream/Stream.m3u8
    ```
 [IPTVList 2](https://280b9f9b.github.io/IPTVList/index2.html)
 [IPTVList 3](https://280b9f9b.github.io/IPTVList/container/index.html)
