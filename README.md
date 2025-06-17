@@ -13,7 +13,7 @@
    ```
 https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Stream/Stream.m3u8
    ```
-[Stream](https://280b9f9b.github.io/Stream/)
+[Radio](https://280b9f9b.github.io/Stream/Radio.html)
 
    ```
 https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Stream/Stream.m3u8
