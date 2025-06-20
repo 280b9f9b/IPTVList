@@ -183,7 +183,7 @@
       const player = await initShaka();
       if (!player) return;
 
-      $.get('https://raw.githubusercontent.com/280b9f9b/IPTVList/main/Stream/Stream.m3u8', function (data) {
+      $.get('https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Extra/Stream.m3u', function (data) {
         const lines = data.split('\n');
         const channels = [];
 
