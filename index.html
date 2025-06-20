@@ -1,34 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <!-- Meta Tags -->
-    <meta charset="UTF-8">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="theme-color" content="#1c1c1c" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link rel="apple-touch-icon" href="Stream/icon.png">
-    <link rel="icon" href="Stream/iconmin.png" type="image/icon type">
-    <!-- Stylesheets -->
-    <link href="https://vjs.zencdn.net/8.14.0/video-js.css" rel="stylesheet">
-    <!-- Polyfills and Libraries -->
-    <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js" crossorigin="anonymous"></script>
-    <title>Stream</title>
-    <!-- Custom Styles -->
-    
+  <meta charset="UTF-8">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#1c1c1c" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="apple-touch-icon" href="Stream/icon.png">
+  <link rel="icon" href="Stream/iconmin.png" type="image/icon type">
+
+  <link href="https://vjs.zencdn.net/8.14.0/video-js.css" rel="stylesheet">
+  <script src="https://vjs.zencdn.net/8.14.0/video.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js" crossorigin="anonymous"></script>
+
+  <title>Stream</title>
+
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
 
     body {
       font-family: Arial, sans-serif;
       background-color: #1c1c1c;
       color: #fff;
-      padding-top: 460px; /* accommodate fixed header + player */
+      padding-top: 460px;
     }
 
     header {
@@ -37,19 +30,7 @@
       left: 0;
       width: 100%;
       background-color: #1c1c1c;
-      color: #fff;
-      padding: 10px 0;
       z-index: 1000;
-    }
-
-    h4 {
-      padding: 5px;
-      margin: 0;
-      font-size: 16px;
-      color: #fff;
-      background-color: #D22B2B;
-      width: 100%;
-      text-align: center;
     }
 
     #player-wrapper {
@@ -57,7 +38,7 @@
       height: 400px;
     }
 
-    #my-player {
+    #my-video {
       width: 100%;
       height: 100%;
       background-color: #000;
@@ -109,6 +90,7 @@
       height: 100px;
       border-radius: 5%;
       background-color: #28292c;
+      transition: border 0.3s;
     }
 
     .channel-card img.selected {
@@ -117,30 +99,21 @@
 
     .channel-card h2 {
       color: white;
-      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-family: monospace;
       font-size: 12px;
-      margin: 5px 0 0;
+      margin-top: 5px;
     }
 
     .channel-card p {
       color: lightgrey;
       font-size: 10px;
-      margin: 2px 0 0;
+      margin-top: 2px;
     }
 
     @media only screen and (max-width: 600px) {
-      body {
-        padding-top: 260px;
-      }
+      body { padding-top: 260px; }
 
-      #my-player {
-        height: 200px;
-      }
-
-      #channel-container {
-        width: 100%;
-        padding: 10px;
-      }
+      #player-wrapper { height: 200px; }
 
       #controls {
         position: absolute;
@@ -151,186 +124,131 @@
         padding: 7px;
         justify-content: center;
       }
+
+      #channel-container {
+        width: 100%;
+        padding: 10px;
+      }
     }
   </style>
 </head>
 
 <body>
-    <!-- Header -->
-    <header>
-        <div id="player-wrapper">
-            <video id="my-video" class="video-js" controls playsinline preload="auto" poster="" data-setup="{}">
-                <source src="https://stream.skynewsarabia.com/hls/sna.m3u8" type="application/x-mpegURL">
-                <p class="vjs-no-js">
-                    To view this video please enable JavaScript, and consider upgrading to a
-                    web browser that
-                    <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
-                </p>
-            </video>
-        </div>
-        <div id="controls">
-            <h3 id="total-channels">...</h3>
-            &nbsp;
-            <select id="group-title-filter">
-                <option value="">All</option>
-            </select>
-            &nbsp;&nbsp;
-            <input type="text" id="search-input" placeholder="Enter a keyword">
-        </div>
-    </header>
-    <!-- The element where the channel list -->
-    <div id="channel-container">
-        <ul id="container"></ul>
+  <header>
+    <div id="player-wrapper">
+      <video id="my-video" class="video-js" controls playsinline preload="auto" data-setup="{}">
+        <source src="https://stream.skynewsarabia.com/hls/sna.m3u8" type="application/x-mpegURL">
+      </video>
     </div>
-    <!-- Scripts -->
-    <script src="https://vjs.zencdn.net/8.14.0/video.min.js"></script>
-    <script>
-	    $(document).ready(function() {
-    let channels = []; // Initialize channels array
+    <div id="controls">
+      <h3 id="total-channels">...</h3>
+      <select id="group-title-filter"><option value="">All</option></select>
+      <input type="text" id="search-input" placeholder="Enter a keyword">
+    </div>
+  </header>
 
-    // Fetch channel list via AJAX request
-    $.ajax({
+  <div id="channel-container">
+    <ul id="container"></ul>
+  </div>
 
+  <script>
+    $(document).ready(function () {
+      let channels = [];
+      const player = videojs('my-video');
+
+      // Fetch and parse the playlist
+      $.ajax({
         type: "GET",
-        url: 'https://raw.githubusercontent.com/280b9f9b/IPTVList/main/Stream/Stream.m3u8',
-        success: function(message, text, response) {
-                let str = message;
-                let array = str.split("\n");
-                channels = [];
+        url: "https://raw.githubusercontent.com/280b9f9b/IPTVList/main/Stream/Stream.m3u8",
+        success: function (data) {
+          const lines = data.split("\n");
 
-                // Parse channel list
-                array.forEach(function(line) {
-                    if (line.startsWith("#EXTINF:")) {
-                        let tvgLogo = line.match(/tvg-logo="([^"]+)"/);
-                        let groupTitle = line.match(/group-title="([^"]+)"/);
-                        if (tvgLogo && tvgLogo.length > 1) {
-                            let channel = {
-                                name: line.split(",")[1],
-                                groupTitle: groupTitle ? groupTitle[1] : "",
-                                url: "",
-                                image: tvgLogo[1]
-                            }
+          for (let i = 0; i < lines.length; i++) {
+            if (lines[i].startsWith("#EXTINF:")) {
+              const logoMatch = lines[i].match(/tvg-logo="([^"]+)"/);
+              const groupMatch = lines[i].match(/group-title="([^"]+)"/);
+              const name = lines[i].split(",")[1];
+              const url = lines[i + 1] && lines[i + 1].startsWith("http") ? lines[i + 1] : null;
 
-                            ;
-                            channels.push(channel);
-                        }
-                    } else if (line.startsWith("http")) {
-                        channels[channels.length - 1].url = line;
-                    }
+              if (logoMatch && url) {
+                channels.push({
+                  name: name,
+                  groupTitle: groupMatch ? groupMatch[1] : '',
+                  image: logoMatch[1],
+                  url: url
                 });
-
-                // Render channels initially
-                renderChannels(channels);
-
-                // Populate filter dropdown with unique group titles
-                populateFilterDropdown(channels);
-
-                // Update total channels count
-                updateTotalChannelsCount(channels);
+              }
             }
+          }
 
-            ,
-        error: function(xhr, status, error) {
-            console.error("Error fetching channel list:", error);
+          renderChannels(channels);
+          populateFilterDropdown(channels);
+          updateTotalChannelsCount(channels);
+        },
+        error: function (xhr, status, error) {
+          console.error("Error loading M3U playlist:", error);
         }
-    });
+      });
 
-    // Function to render channels
-    function renderChannels(channels) {
-        // Clear previous channels
+      function renderChannels(list) {
         $("#container").empty();
-
-        // Append channels to the container
-        channels.forEach(function(channel) {
-            let card = $("<div class='channel-card'><img src='" + channel.image + "'><h2>" + channel.name + "</h2><p>" + channel.groupTitle + "</p></div>");
-
-            $("#container").append("<li data-url='" + channel.url + "'></li>").find("li").last().append(card);
+        list.forEach(channel => {
+          const card = `
+            <li data-url="${channel.url}">
+              <div class="channel-card">
+                <img src="${channel.image}">
+                <h2>${channel.name}</h2>
+                <p>${channel.groupTitle}</p>
+              </div>
+            </li>`;
+          $("#container").append(card);
         });
-    }
+      }
 
-    // Event listener for clicking on a channel
-    $("#container").on('click', 'li', function() {
-        // Remove the class from previously selected channel image
-        $('#container li img.selected').removeClass('selected');
-        // Add the class to the clicked channel image
-        $(this).find('img').addClass('selected');
-
-
-        // Get the URL of the channel from the clicked <li> element
-        var channelUrl = $(this).data('url');
-
-        // Create a video player instance
-        var player = videojs(document.querySelector('#my-video'));
-
-        // Set the video source and type
-        player.src({
-            src: channelUrl,
-            type: 'application/x-mpegURL'
+      function populateFilterDropdown(list) {
+        const groups = [...new Set(list.map(c => c.groupTitle))];
+        groups.forEach(group => {
+          $("#group-title-filter").append(`<option value="${group}">${group}</option>`);
         });
+      }
 
-        // Start playing the video
+      function updateTotalChannelsCount(list) {
+        $("#total-channels").text(list.length);
+      }
+
+      function filterChannels(searchText, groupTitle) {
+        const filtered = channels.filter(channel =>
+          channel.name.toLowerCase().includes(searchText.toLowerCase()) &&
+          (groupTitle === "" || channel.groupTitle === groupTitle)
+        );
+        renderChannels(filtered);
+        updateTotalChannelsCount(filtered);
+      }
+
+      $("#search-input").on("input", function () {
+        const keyword = $(this).val();
+        const group = $("#group-title-filter").val();
+        filterChannels(keyword, group);
+      });
+
+      $("#group-title-filter").on("change", function () {
+        const group = $(this).val();
+        const keyword = $("#search-input").val();
+        filterChannels(keyword, group);
+      });
+
+      $("#container").on("click", "li", function () {
+        $("#container li img.selected").removeClass("selected");
+        $(this).find("img").addClass("selected");
+
+        const url = $(this).data("url");
+        const name = $(this).find("h2").text();
+
+        player.src({ src: url, type: "application/x-mpegURL" });
         player.play();
+        document.title = name;
+      });
     });
-
-    // Event listener for search input
-    $("#search-input").on('input', function() {
-        const searchText = $(this).val();
-        const groupTitle = $("#group-title-filter").val();
-        filterChannels(searchText, groupTitle);
-    });
-
-    // Event listener for filter dropdown change
-    $("#group-title-filter").on('change', function() {
-        const groupTitle = $(this).val();
-        const searchText = $("#search-input").val();
-        filterChannels(searchText, groupTitle);
-    });
-
-    // Function to populate filter dropdown with unique group titles
-    function populateFilterDropdown(channels) {
-        const uniqueGroupTitles = [...new Set(channels.map(channel => channel.groupTitle))];
-        const dropdown = $("#group-title-filter");
-
-        uniqueGroupTitles.forEach(title => {
-            dropdown.append(`<option value="${title}" >${title}</option>`);
-        });
-    }
-
-    $(document).ready(function() {
-        // Other code...
-
-        // Event listener for clicking on a channel
-        $("#container").on('click', 'li', function() {
-            // Get the name of the channel from the clicked <li> element
-            var channelName = $(this).find('h2').text();
-
-            // Update the title of the webpage to the name of the channel
-            document.title = channelName;
-
-            // Other code...
-        });
-
-        // Other code...
-    });
-
-    // Function to filter channels based on search input and group title
-    function filterChannels(searchText, groupTitle) {
-        const filteredChannels = channels.filter(channel => {
-            const nameMatch = channel.name.toLowerCase().includes(searchText.toLowerCase());
-            const groupTitleMatch = groupTitle === "" || channel.groupTitle.toLowerCase() === groupTitle.toLowerCase();
-            return nameMatch && groupTitleMatch;
-        });
-        renderChannels(filteredChannels);
-        // Update total channels count
-        updateTotalChannelsCount(filteredChannels);
-    }
-
-    // Function to update total channels count
-    function updateTotalChannelsCount(channels) {
-        document.getElementById('total-channels').textContent = `${channels.length}`;
-    }
-});
-    </script>
+  </script>
 </body>
-
 </html>
