@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8" />
-  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="theme-color" content="#1c1c1c" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <link rel="apple-touch-icon" href="Stream/icon.png">
-  <link rel="icon" href="Stream/iconmin.png" type="image/icon type">
- 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <link rel="apple-touch-icon" href="Stream/icon.png" />
+  <link rel="icon" href="Stream/iconmin.png" type="image/png" />
+
+  <title>adtv</title>
+
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
   <style>
     * {
       margin: 0;
@@ -20,7 +24,7 @@
       font-family: Arial, sans-serif;
       background-color: #1c1c1c;
       color: #fff;
-      padding-top: 460px; /* accommodate fixed header + player */
+      padding-top: 460px;
     }
 
     header {
@@ -29,19 +33,7 @@
       left: 0;
       width: 100%;
       background-color: #1c1c1c;
-      color: #fff;
-      padding: 10px 0;
       z-index: 1000;
-    }
-
-    h4 {
-      padding: 5px;
-      margin: 0;
-      font-size: 16px;
-      color: #fff;
-      background-color: #D22B2B;
-      width: 100%;
-      text-align: center;
     }
 
     #player-wrapper {
@@ -49,7 +41,7 @@
       height: 400px;
     }
 
-    #my-player {
+    video#my-video {
       width: 100%;
       height: 100%;
       background-color: #000;
@@ -109,29 +101,24 @@
 
     .channel-card h2 {
       color: white;
-      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-family: monospace;
       font-size: 12px;
-      margin: 5px 0 0;
+      margin-top: 5px;
     }
 
     .channel-card p {
       color: lightgrey;
       font-size: 10px;
-      margin: 2px 0 0;
+      margin-top: 2px;
     }
 
     @media only screen and (max-width: 600px) {
       body {
-        padding-top: 260px;
+        padding-top: 280px;
       }
 
-      #my-player {
+      #player-wrapper {
         height: 200px;
-      }
-
-      #channel-container {
-        width: 100%;
-        padding: 10px;
       }
 
       #controls {
@@ -140,27 +127,24 @@
         left: 0;
         right: 0;
         background-color: #1c1c1c;
-        padding: 7px;
         justify-content: center;
+      }
+
+      #channel-container {
+        width: 100%;
       }
     }
   </style>
-
-  <title>adtv</title>
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-  <script src="https://code.jquery.com/jquery-3.7.1.min.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
   <header>
     <div id="player-wrapper">
-      <video id="my-video" controls playsinline preload="auto" width="100%" height="400px"></video>
+      <video id="my-video" controls playsinline preload="auto"></video>
     </div>
     <div id="controls">
-      <h3 id="total-channels">...</h3>
-      <select id="group-title-filter">
-        <option value="">All</option>
-      </select>
+      <h3 id="total-channels">0</h3>
+      <select id="group-title-filter"><option value="">All</option></select>
       <input type="text" id="search-input" placeholder="Enter a keyword" />
     </div>
   </header>
@@ -171,19 +155,25 @@
 
   <script>
     const video = document.getElementById('my-video');
-    const hls = new Hls();
+    let hls = null;
     let channels = [];
 
     function playChannel(url) {
+      if (hls) {
+        hls.destroy();
+        hls = null;
+      }
+
       if (Hls.isSupported()) {
+        hls = new Hls();
         hls.loadSource(url);
         hls.attachMedia(video);
-        hls.on(Hls.Events.MANIFEST_PARSED, function () {
-          video.play();
-        });
+        hls.on(Hls.Events.MANIFEST_PARSED, () => video.play());
       } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
         video.src = url;
-        video.addEventListener('loadedmetadata', () => video.play());
+        video.addEventListener('loadedmetadata', () => video.play(), { once: true });
+      } else {
+        alert("Your browser doesn't support HLS.");
       }
     }
 
@@ -193,49 +183,72 @@
         url: 'https://raw.githubusercontent.com/280b9f9b/IPTVList/main/Stream/Stream.m3u8',
         success: function (message) {
           const lines = message.split("\n");
-          channels = [];
-          lines.forEach((line, i) => {
-            if (line.startsWith("#EXTINF:")) {
-              const tvgLogo = line.match(/tvg-logo="([^"]+)"/);
-              const groupTitle = line.match(/group-title="([^"]+)"/);
-              const name = line.split(",")[1];
-              const url = lines[i + 1]?.startsWith("http") ? lines[i + 1] : "";
-              if (tvgLogo && url) {
-                channels.push({
-                  name,
-                  groupTitle: groupTitle ? groupTitle[1] : "",
-                  url,
-                  image: tvgLogo[1]
-                });
+
+          for (let i = 0; i < lines.length; i++) {
+            if (lines[i].startsWith("#EXTINF:")) {
+              const name = lines[i].split(",")[1]?.trim();
+              const logo = (lines[i].match(/tvg-logo="([^"]+)"/) || [])[1] || '';
+              const group = (lines[i].match(/group-title="([^"]+)"/) || [])[1] || '';
+              const url = lines[i + 1]?.startsWith("http") ? lines[i + 1].trim() : '';
+
+              if (name && url) {
+                channels.push({ name, image: logo, groupTitle: group, url });
               }
             }
-          });
+          }
 
           renderChannels(channels);
           populateFilterDropdown(channels);
           updateTotalChannelsCount(channels);
         },
         error: function (xhr, status, error) {
-          console.error("Error fetching channel list:", error);
+          console.error("Failed to load channels:", error);
         }
       });
 
-      function renderChannels(channels) {
+      function renderChannels(list) {
         $('#container').empty();
-        channels.forEach(channel => {
+        list.forEach(channel => {
           const card = `
-            <div class='channel-card'>
-              <img src='${channel.image}' />
-              <h2>${channel.name}</h2>
-              <p>${channel.groupTitle}</p>
-            </div>`;
-          $('#container').append(`<li data-url='${channel.url}'>${card}</li>`);
+            <li data-url="${channel.url}">
+              <div class="channel-card">
+                <img src="${channel.image}" alt="${channel.name}" onerror="this.src='fallback.png'" />
+                <h2>${channel.name}</h2>
+                <p>${channel.groupTitle}</p>
+              </div>
+            </li>`;
+          $('#container').append(card);
         });
+      }
+
+      function populateFilterDropdown(channels) {
+        const groups = [...new Set(channels.map(c => c.groupTitle))];
+        groups.forEach(title => {
+          if (title.trim()) {
+            $('#group-title-filter').append(`<option value="${title}">${title}</option>`);
+          }
+        });
+      }
+
+      function updateTotalChannelsCount(list) {
+        $('#total-channels').text(`${list.length}`);
+      }
+
+      function filterChannels(searchText, groupTitle) {
+        const filtered = channels.filter(channel => {
+          const nameMatch = channel.name.toLowerCase().includes(searchText.toLowerCase());
+          const groupMatch = !groupTitle || channel.groupTitle.toLowerCase() === groupTitle.toLowerCase();
+          return nameMatch && groupMatch;
+        });
+
+        renderChannels(filtered);
+        updateTotalChannelsCount(filtered);
       }
 
       $('#container').on('click', 'li', function () {
         $('#container li img.selected').removeClass('selected');
         $(this).find('img').addClass('selected');
+
         const url = $(this).data('url');
         const title = $(this).find('h2').text();
         document.title = title;
@@ -243,37 +256,17 @@
       });
 
       $('#search-input').on('input', function () {
-        const search = $(this).val();
+        const text = $(this).val();
         const group = $('#group-title-filter').val();
-        filterChannels(search, group);
+        filterChannels(text, group);
       });
 
       $('#group-title-filter').on('change', function () {
         const group = $(this).val();
-        const search = $('#search-input').val();
-        filterChannels(search, group);
+        const text = $('#search-input').val();
+        filterChannels(text, group);
       });
-
-      function populateFilterDropdown(channels) {
-        const uniqueGroups = [...new Set(channels.map(c => c.groupTitle))];
-        const dropdown = $('#group-title-filter');
-        uniqueGroups.forEach(title => dropdown.append(`<option value="${title}">${title}</option>`));
-      }
-
-      function filterChannels(searchText, groupTitle) {
-        const filtered = channels.filter(channel => {
-          return channel.name.toLowerCase().includes(searchText.toLowerCase()) &&
-            (!groupTitle || channel.groupTitle.toLowerCase() === groupTitle.toLowerCase());
-        });
-        renderChannels(filtered);
-        updateTotalChannelsCount(filtered);
-      }
-
-      function updateTotalChannelsCount(list) {
-        $('#total-channels').text(`${list.length}`);
-      }
     });
   </script>
 </body>
-
 </html>
