@@ -8,7 +8,7 @@
 <h3 align="center">Stream</h3>
 </div>
 
-[Video.js](https://280b9f9b.github.io/Stream/) &nbsp;&nbsp; [Clappr](https://280b9f9b.github.io/Stream/Stream/Clappr.html) &nbsp;&nbsp; [hls.js (Vanilla JavaScript)](https://280b9f9b.github.io/Stream/Stream/hls.html)
+[Video.js](https://280b9f9b.github.io/Stream/) &nbsp;&nbsp; [Clappr](https://280b9f9b.github.io/Stream/Stream/Clappr.html) &nbsp;&nbsp; [hls.js (Vanilla JavaScript)](https://280b9f9b.github.io/Stream/Stream/hls.html) &nbsp;&nbsp; [JW Player (Commercial)](https://280b9f9b.github.io/Stream/Stream/JW%20Player.html)
 
    ```
 https://raw.githubusercontent.com/280b9f9b/Stream/refs/heads/main/Stream/Stream.m3u8
