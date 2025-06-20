@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#1c1c1c" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <link rel="apple-touch-icon" href="Stream/icon.png" />
+  <link rel="icon" href="Stream/iconmin.png" type="image/png" />
+
+  <title>adtv</title>
+
+  <!-- JW Player -->
+  <script src="https://cdn.jwplayer.com/libraries/IDzF9Zmk.js"></script>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #1c1c1c;
+      color: #fff;
+      padding-top: 460px;
+    }
+
+    header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background-color: #1c1c1c;
+      z-index: 1000;
+    }
+
+    #player-wrapper {
+      width: 100%;
+      height: 400px;
+    }
+
+    #my-jwplayer {
+      width: 100%;
+      height: 100%;
+      background-color: #000;
+    }
+
+    #controls {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 10px;
+      gap: 10px;
+      background-color: #1c1c1c;
+    }
+
+    #controls h3 {
+      font-size: 14px;
+    }
+
+    #controls select,
+    #controls input[type="text"] {
+      padding: 5px;
+      font-size: 12px;
+      border-radius: 5px;
+      border: none;
+      background-color: #2c2c2c;
+      color: #fff;
+    }
+
+    #channel-container {
+      width: 80%;
+      margin: auto;
+      padding: 10px;
+    }
+
+    #container {
+      margin-top: 10px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      list-style: none;
+    }
+
+    .channel-card {
+      padding: 8px;
+      text-align: center;
+    }
+
+    .channel-card img {
+      width: 100px;
+      height: 50px;
+      border-radius: 5%;
+      background-color: #28292c;
+    }
+
+    .channel-card img.selected {
+      border: 3px solid red;
+    }
+
+    .channel-card h2 {
+      color: white;
+      font-family: monospace;
+      font-size: 12px;
+      margin: 5px 0 0;
+    }
+
+    .channel-card p {
+      color: lightgrey;
+      font-size: 10px;
+      margin: 2px 0 0;
+    }
+
+    @media only screen and (max-width: 600px) {
+      body {
+        padding-top: 280px;
+      }
+
+      #my-jwplayer {
+        height: 200px;
+      }
+
+      #controls {
+        position: absolute;
+        top: 210px;
+        left: 0;
+        right: 0;
+        justify-content: center;
+      }
+
+      #channel-container {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div id="player-wrapper">
+      <div id="my-jwplayer"></div>
+    </div>
+    <div id="controls">
+      <h3 id="total-channels">0</h3>
+      <select id="group-title-filter"><option value="">All</option></select>
+      <input type="text" id="search-input" placeholder="Enter a keyword" />
+    </div>
+  </header>
+
+  <div id="channel-container">
+    <ul id="container"></ul>
+  </div>
+
+  <script>
+    $(function () {
+      let channels = [];
+
+      // Initialize JW Player
+      const jw = jwplayer("my-jwplayer").setup({
+        file: "https://stream.skynewsarabia.com/hls/sna.m3u8",
+        width: "100%",
+        height: 400,
+        autostart: false,
+      });
+
+      // Load M3U playlist
+      $.ajax({
+        type: "GET",
+        url: "https://raw.githubusercontent.com/280b9f9b/IPTVList/main/Stream/Stream.m3u8",
+        success: function (data) {
+          const lines = data.split("\n");
+
+          for (let i = 0; i < lines.length; i++) {
+            if (lines[i].startsWith("#EXTINF:")) {
+              const name = lines[i].split(",")[1];
+              const logo = (lines[i].match(/tvg-logo="([^"]+)"/) || [])[1] || "";
+              const group = (lines[i].match(/group-title="([^"]+)"/) || [])[1] || "";
+              const url = lines[i + 1]?.startsWith("http") ? lines[i + 1] : "";
+
+              if (name && url) {
+                channels.push({ name, image: logo, groupTitle: group, url });
+              }
+            }
+          }
+
+          renderChannels(channels);
+          populateFilterDropdown(channels);
+          updateTotalChannelsCount(channels);
+        },
+        error: function (xhr, status, error) {
+          console.error("Failed to fetch M3U:", error);
+        }
+      });
+
+      function renderChannels(list) {
+        $("#container").empty();
+        list.forEach(c => {
+          const card = `
+            <li data-url="${c.url}">
+              <div class="channel-card">
+                <img src="${c.image}" alt="${c.name}" onerror="this.src='fallback.png'" />
+                <h2>${c.name}</h2>
+                <p>${c.groupTitle}</p>
+              </div>
+            </li>`;
+          $("#container").append(card);
+        });
+      }
+
+      function populateFilterDropdown(channels) {
+        const uniqueGroups = [...new Set(channels.map(c => c.groupTitle))];
+        const dropdown = $("#group-title-filter");
+        uniqueGroups.forEach(title => {
+          if (title.trim()) {
+            dropdown.append(`<option value="${title}">${title}</option>`);
+          }
+        });
+      }
+
+      function updateTotalChannelsCount(list) {
+        $("#total-channels").text(list.length);
+      }
+
+      function filterChannels(searchText, groupTitle) {
+        const filtered = channels.filter(c => {
+          const nameMatch = c.name.toLowerCase().includes(searchText.toLowerCase());
+          const groupMatch = !groupTitle || c.groupTitle.toLowerCase() === groupTitle.toLowerCase();
+          return nameMatch && groupMatch;
+        });
+        renderChannels(filtered);
+        updateTotalChannelsCount(filtered);
+      }
+
+      // Events
+      $("#container").on("click", "li", function () {
+        $("#container li img.selected").removeClass("selected");
+        $(this).find("img").addClass("selected");
+
+        const url = $(this).data("url");
+        const name = $(this).find("h2").text();
+
+        document.title = name;
+
+        jw.load([{ file: url }]);
+        jw.play();
+      });
+
+      $("#search-input").on("input", function () {
+        const text = $(this).val();
+        const group = $("#group-title-filter").val();
+        filterChannels(text, group);
+      });
+
+      $("#group-title-filter").on("change", function () {
+        const group = $(this).val();
+        const text = $("#search-input").val();
+        filterChannels(text, group);
+      });
+    });
+  </script>
+</body>
+
+</html>
