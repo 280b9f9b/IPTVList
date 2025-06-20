@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#1c1c1c" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <link rel="apple-touch-icon" href="Stream/icon.png" />
+  <link rel="icon" href="Stream/iconmin.png" type="image/png" />
+
+  <title>adtv</title>
+
+  <!-- Plyr CSS -->
+  <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css" />
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #1c1c1c;
+      color: #fff;
+      padding-top: 460px;
+    }
+
+    header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background-color: #1c1c1c;
+      z-index: 1000;
+    }
+
+    #player-wrapper {
+      width: 100%;
+      height: 400px;
+    }
+
+    #my-video {
+      width: 100%;
+      height: 100%;
+      background-color: #000;
+    }
+
+    #controls {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 10px;
+      gap: 10px;
+    }
+
+    #controls h3 {
+      font-size: 14px;
+    }
+
+    #controls select,
+    #controls input[type="text"] {
+      padding: 5px;
+      font-size: 12px;
+      border-radius: 5px;
+      border: none;
+      background-color: #2c2c2c;
+      color: #fff;
+    }
+
+    #channel-container {
+      width: 80%;
+      margin: auto;
+      padding: 10px;
+    }
+
+    #container {
+      margin-top: 10px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      list-style: none;
+    }
+
+    .channel-card {
+      padding: 8px;
+      text-align: center;
+    }
+
+    .channel-card img {
+      width: 100px;
+      height: 50px;
+      border-radius: 5%;
+      background-color: #28292c;
+      transition: border 0.3s;
+    }
+
+    .channel-card img.selected {
+      border: 3px solid red;
+    }
+
+    .channel-card h2 {
+      color: white;
+      font-family: monospace;
+      font-size: 12px;
+      margin-top: 5px;
+    }
+
+    .channel-card p {
+      color: lightgrey;
+      font-size: 10px;
+      margin-top: 2px;
+    }
+
+    @media only screen and (max-width: 600px) {
+      body {
+        padding-top: 280px;
+      }
+
+      #player-wrapper {
+        height: 200px;
+      }
+
+      #controls {
+        position: absolute;
+        top: 210px;
+        left: 0;
+        right: 0;
+        background-color: #1c1c1c;
+        justify-content: center;
+      }
+
+      #channel-container {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Player and Filter Controls -->
+  <header>
+    <div id="player-wrapper">
+      <video id="my-video" controls playsinline></video>
+    </div>
+    <div id="controls">
+      <h3 id="total-channels">0</h3>
+      <select id="group-title-filter">
+        <option value="">All</option>
+      </select>
+      <input type="text" id="search-input" placeholder="Enter a keyword" />
+    </div>
+  </header>
+
+  <!-- Channel List -->
+  <div id="channel-container">
+    <ul id="container"></ul>
+  </div>
+
+  <!-- JS Dependencies -->
+  <script src="https://cdn.plyr.io/3.7.8/plyr.polyfilled.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+  <script>
+    const video = document.getElementById('my-video');
+    const player = new Plyr(video);
+    let hls = null;
+    let channels = [];
+
+    function playStream(url) {
+      if (hls) {
+        hls.destroy();
+        hls = null;
+      }
+
+      if (Hls.isSupported()) {
+        hls = new Hls();
+        hls.loadSource(url);
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED, () => video.play());
+      } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = url;
+        video.addEventListener('loadedmetadata', () => video.play(), { once: true });
+      } else {
+        alert('Your browser does not support HLS streaming.');
+      }
+    }
+
+    $(document).ready(function () {
+      $.ajax({
+        type: 'GET',
+        url: 'https://raw.githubusercontent.com/280b9f9b/IPTVList/main/Stream/Stream.m3u8',
+        success: function (message) {
+          const lines = message.split('\n');
+          for (let i = 0; i < lines.length; i++) {
+            if (lines[i].startsWith('#EXTINF:')) {
+              const name = lines[i].split(',')[1]?.trim();
+              const logo = (lines[i].match(/tvg-logo="([^"]+)"/) || [])[1] || '';
+              const group = (lines[i].match(/group-title="([^"]+)"/) || [])[1] || '';
+              const url = lines[i + 1]?.startsWith('http') ? lines[i + 1].trim() : '';
+              if (name && url) {
+                channels.push({ name, image: logo, groupTitle: group, url });
+              }
+            }
+          }
+
+          renderChannels(channels);
+          populateFilterDropdown(channels);
+          updateTotalChannelsCount(channels);
+        },
+        error: function (xhr, status, error) {
+          console.error("Error fetching M3U:", error);
+        }
+      });
+
+      function renderChannels(list) {
+        $('#container').empty();
+        list.forEach(channel => {
+          const card = `
+            <li data-url="${channel.url}">
+              <div class="channel-card">
+                <img src="${channel.image}" alt="${channel.name}" onerror="this.src='fallback.png'" />
+                <h2>${channel.name}</h2>
+                <p>${channel.groupTitle}</p>
+              </div>
+            </li>`;
+          $('#container').append(card);
+        });
+      }
+
+      function populateFilterDropdown(list) {
+        const groups = [...new Set(list.map(c => c.groupTitle).filter(g => g))];
+        const dropdown = $('#group-title-filter');
+        groups.forEach(title => {
+          dropdown.append(`<option value="${title}">${title}</option>`);
+        });
+      }
+
+      function updateTotalChannelsCount(list) {
+        $('#total-channels').text(list.length);
+      }
+
+      function filterChannels(searchText, groupTitle) {
+        const filtered = channels.filter(c =>
+          c.name.toLowerCase().includes(searchText.toLowerCase()) &&
+          (!groupTitle || c.groupTitle.toLowerCase() === groupTitle.toLowerCase())
+        );
+        renderChannels(filtered);
+        updateTotalChannelsCount(filtered);
+      }
+
+      $('#search-input').on('input', function () {
+        filterChannels($(this).val(), $('#group-title-filter').val());
+      });
+
+      $('#group-title-filter').on('change', function () {
+        filterChannels($('#search-input').val(), $(this).val());
+      });
+
+      $('#container').on('click', 'li', function () {
+        $('#container li img.selected').removeClass('selected');
+        $(this).find('img').addClass('selected');
+        const url = $(this).data('url');
+        const title = $(this).find('h2').text();
+        document.title = title;
+        playStream(url);
+      });
+    });
+  </script>
+</body>
+</html>
